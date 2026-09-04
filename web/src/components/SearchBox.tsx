@@ -56,7 +56,7 @@ export function SearchBox({
       <input
         value={q}
         onChange={(e) => setQ(e.target.value)}
-        placeholder="Search courses or concentrations…"
+        placeholder="Search the constellations…"
         style={{
           width: "100%",
           padding: "10px 14px",

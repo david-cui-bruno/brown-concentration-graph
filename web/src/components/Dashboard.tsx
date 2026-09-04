@@ -82,12 +82,12 @@ export default function Dashboard() {
   return (
     <div style={page}>
       <div style={{ maxWidth: 860, margin: "0 auto" }}>
-        <h1 style={{ fontSize: 22, marginBottom: 4 }}>My dashboard</h1>
+        <h1 style={{ fontSize: 22, marginBottom: 4 }}>My star chart</h1>
         <div style={{ color: "#8a93a3", fontSize: 13 }}>
           {plan.taken.size} taken · {plan.planned.size} planned · {unlocked.length} unlocked next
         </div>
 
-        <h2 style={h2}>Concentration progress</h2>
+        <h2 style={h2}>Constellation progress</h2>
         {rows.length === 0 && (
           <div style={{ color: "#8a93a3" }}>
             No progress yet. <Link href="/" style={{ color: "#8fb4e8" }}>Add courses on the map</Link> to see which concentrations open up.
@@ -117,7 +117,7 @@ export default function Dashboard() {
 
         {unlocked.length > 0 && (
           <>
-            <h2 style={h2}>Unlocked by your courses</h2>
+            <h2 style={h2}>Within reach</h2>
             <div>
               {unlocked.slice(0, 60).map((c) => (
                 <span key={c} style={{ display: "inline-block", margin: "2px 6px 2px 0", padding: "4px 10px", borderRadius: 6, background: "#33301a", color: "#e8cf7a", fontSize: 12 }}>

@@ -29,7 +29,7 @@ export function AuthBar() {
       )}
       {session && path !== "/me" && (
         <Link href="/me" style={{ ...pill, color: "#8fb4e8" }}>
-          My dashboard
+          My star chart
         </Link>
       )}
       {status !== "loading" &&

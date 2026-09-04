@@ -68,7 +68,7 @@ export function FilterPanel({
         style={{ padding: "10px 14px", cursor: "pointer", display: "flex", justifyContent: "space-between", fontWeight: 600 }}
       >
         <span>
-          Filters
+          Telescope
           {filters.depts.size > 0 ? ` · ${[...filters.depts].slice(0, 3).join(", ")}${filters.depts.size > 3 ? "…" : ""}` : ""}
         </span>
         <span>{open ? "▴" : "▾"}</span>
@@ -79,7 +79,7 @@ export function FilterPanel({
             onClick={onClearFocus}
             style={{ width: "100%", padding: "7px 0", borderRadius: 8, border: "1px solid #3d4a63", background: "#1c2434", color: "#9fb4d8", cursor: "pointer" }}
           >
-            ← Back to full map (focus active)
+            ← Back to the full sky
           </button>
         </div>
       )}
@@ -159,7 +159,7 @@ export function FilterPanel({
               checked={filters.hideIsolated}
               onChange={(e) => setFilters({ ...filters, hideIsolated: e.target.checked })}
             />
-            Hide courses with no prerequisite links
+            Hide unconnected stars
           </label>
         </div>
       )}

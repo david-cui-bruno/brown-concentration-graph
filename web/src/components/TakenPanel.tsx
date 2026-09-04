@@ -51,7 +51,7 @@ export function TakenPanel({ graph, plan }: { graph: Graph; plan: PlanState }) {
         style={{ padding: "10px 14px", cursor: "pointer", display: "flex", justifyContent: "space-between", fontWeight: 600 }}
       >
         <span>
-          My courses{taken.size ? ` (${taken.size})` : ""}
+          My star chart{taken.size ? ` (${taken.size})` : ""}
           {unlocked.length ? ` · ${unlocked.length} unlocked` : ""}
         </span>
         <span>{open ? "▾" : "▴"}</span>
@@ -61,7 +61,7 @@ export function TakenPanel({ graph, plan }: { graph: Graph; plan: PlanState }) {
           <input
             value={q}
             onChange={(e) => setQ(e.target.value)}
-            placeholder="Add a course, e.g. CSCI 0150"
+            placeholder="Add a star, e.g. CSCI 0150"
             style={{ width: "100%", padding: "8px 10px", borderRadius: 8, border: "1px solid #2a3347", background: "#0e1420", color: "#d5dbe3", fontSize: 13 }}
           />
           {matches.map((m) => (
@@ -103,7 +103,7 @@ export function TakenPanel({ graph, plan }: { graph: Graph; plan: PlanState }) {
           {unlocked.length > 0 && (
             <>
               <div style={{ fontSize: 11, textTransform: "uppercase", color: "#8a8f98", margin: "10px 0 4px" }}>
-                Unlocked next
+                Within reach
               </div>
               <div>
                 {unlocked.map((c) => (

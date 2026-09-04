@@ -3,7 +3,7 @@ import "./globals.css";
 import { Providers } from "@/components/Providers";
 
 export const metadata: Metadata = {
-  title: "Brown Concentration Graph",
+  title: "Brown Course Constellations",
   description:
     "Explore how Brown University courses and official prerequisites connect to undergraduate concentrations. Unofficial student project.",
 };

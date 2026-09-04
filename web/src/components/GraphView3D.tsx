@@ -185,6 +185,38 @@ export default function GraphView3D() {
     [data, graph, posOf]
   );
 
+  // Starfield backdrop added directly to the three.js scene.
+  useEffect(() => {
+    if (!fgRef.current || !graph) return;
+    const t = setTimeout(async () => {
+      const fg = fgRef.current;
+      if (!fg || fg.__starsAdded) return;
+      const THREE = await import("three");
+      const scene = fg.scene();
+      const makeStars = (count: number, spread: number, size: number, color: number, opacity: number) => {
+        const geo = new THREE.BufferGeometry();
+        const pos = new Float32Array(count * 3);
+        for (let i = 0; i < count * 3; i++) pos[i] = (Math.random() - 0.5) * spread;
+        geo.setAttribute("position", new THREE.BufferAttribute(pos, 3));
+        const mat = new THREE.PointsMaterial({ color, size, transparent: true, opacity, sizeAttenuation: true, depthWrite: false });
+        return new THREE.Points(geo, mat);
+      };
+      scene.add(makeStars(2400, 4200, 2.2, 0xdde4f5, 0.75));
+      scene.add(makeStars(1200, 3200, 1.2, 0x9fb4e8, 0.5));
+      scene.add(makeStars(300, 2400, 3.4, 0xf2e3c0, 0.6));
+      // Soft bloom so nodes glow like stars.
+      try {
+        const { UnrealBloomPass } = await import("three/examples/jsm/postprocessing/UnrealBloomPass.js");
+        const bloom = new UnrealBloomPass(undefined as any, 0.9, 0.6, 0.12);
+        fg.postProcessingComposer().addPass(bloom);
+      } catch (e) {
+        console.warn("bloom unavailable", e);
+      }
+      fg.__starsAdded = true;
+    }, 300);
+    return () => clearTimeout(t);
+  }, [graph]);
+
   // Initial camera: slightly above the intro band, looking at the core.
   useEffect(() => {
     if (!fgRef.current || sceneData.nodes.length === 0) return;
@@ -199,7 +231,7 @@ export default function GraphView3D() {
   if (!graph || !data) {
     return (
       <div style={{ display: "grid", placeItems: "center", height: "100vh", background: "radial-gradient(ellipse at 50% 35%, #232b45 0%, #151a2b 55%, #0d1120 100%)", color: "#98a2b3", fontFamily: "system-ui" }}>
-        Loading course universe…
+        Charting the course constellations…
       </div>
     );
   }
@@ -217,10 +249,10 @@ export default function GraphView3D() {
         nodeOpacity={0.92}
         nodeResolution={12}
         linkColor={(l: any) =>
-          l.etype === "PREREQ_OF" ? "#e08a8a" : l.etype === "FULFILLS" ? "#d9b96a" : "#556080"
+          l.etype === "PREREQ_OF" ? (focus ? "#f0a8a8" : "#8ea2cc") : l.etype === "FULFILLS" ? "#e5c890" : "#68779e"
         }
-        linkOpacity={focus ? 0.5 : 0.14}
-        linkWidth={(l: any) => (l.etype === "PREREQ_OF" ? 1.2 : 0.5)}
+        linkOpacity={focus ? 0.6 : 0.22}
+        linkWidth={(l: any) => (focus && l.etype === "PREREQ_OF" ? 1.1 : 0.35)}
         linkDirectionalParticles={(l: any) => (focus && l.etype === "PREREQ_OF" ? 2 : 0)}
         linkDirectionalParticleWidth={1.6}
         linkDirectionalParticleSpeed={0.006}
@@ -270,8 +302,8 @@ export default function GraphView3D() {
       <AuthBar />
       <div style={{ position: "absolute", bottom: 8, left: 12, fontSize: 11, color: "#5c6673", fontFamily: "system-ui", pointerEvents: "none" }}>
         {layout === "orbit"
-          ? "position = which concentrations a course feeds · height = prerequisite depth · gold ring: concentrations"
-          : "pure force layout: connected courses cluster together (no axis meaning)"} ·
+          ? "orbit view: courses circle the concentrations they feed · height = prerequisite depth"
+          : "galaxy view: connected courses gravitate into constellations"} ·
         {" "}{data.meta.counts.course} courses · data: Brown Bulletin + Courses@Brown · unofficial
       </div>
     </div>
