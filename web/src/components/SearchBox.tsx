@@ -22,10 +22,10 @@ export function SearchBox({
   dark?: boolean;
 }) {
   const [q, setQ] = useState("");
-  const bg = dark ? "rgba(17,22,34,.94)" : "white";
+  const bg = dark ? "rgba(13,14,32,.92)" : "white";
   const fg = dark ? "#d5dbe3" : "#111";
-  const border = dark ? "#2a3347" : "#d0d4da";
-  const hover = dark ? "#1c2434" : "#f2f4f7";
+  const border = dark ? "#2b2d52" : "#d0d4da";
+  const hover = dark ? "#1a1c3a" : "#f2f4f7";
 
   const index = useMemo(() => {
     const items: { id: string; text: string; kind: string }[] = [];

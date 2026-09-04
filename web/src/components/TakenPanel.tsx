@@ -36,9 +36,9 @@ export function TakenPanel({ graph, plan }: { graph: Graph; plan: PlanState }) {
         bottom: 32,
         left: 12,
         width: 320,
-        background: "rgba(17,22,34,.94)",
+        background: "rgba(13,14,32,.92)",
         borderRadius: 12,
-        border: "1px solid #2a3347",
+        border: "1px solid #2b2d52",
         boxShadow: "0 6px 24px rgba(0,0,0,.12)",
         fontFamily: "system-ui",
         fontSize: 13,
@@ -62,7 +62,7 @@ export function TakenPanel({ graph, plan }: { graph: Graph; plan: PlanState }) {
             value={q}
             onChange={(e) => setQ(e.target.value)}
             placeholder="Add a star, e.g. CSCI 0150"
-            style={{ width: "100%", padding: "8px 10px", borderRadius: 8, border: "1px solid #2a3347", background: "#0e1420", color: "#d5dbe3", fontSize: 13 }}
+            style={{ width: "100%", padding: "8px 10px", borderRadius: 8, border: "1px solid #2b2d52", background: "#0c0e22", color: "#d5dbe3", fontSize: 13 }}
           />
           {matches.map((m) => (
             <div
@@ -72,7 +72,7 @@ export function TakenPanel({ graph, plan }: { graph: Graph; plan: PlanState }) {
                 setQ("");
               }}
               style={{ padding: "6px 10px", cursor: "pointer", borderRadius: 6 }}
-              onMouseEnter={(e) => (e.currentTarget.style.background = "#1c2434")}
+              onMouseEnter={(e) => (e.currentTarget.style.background = "#1a1c3a")}
               onMouseLeave={(e) => (e.currentTarget.style.background = "transparent")}
             >
               + {m}

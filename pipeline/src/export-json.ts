@@ -60,12 +60,15 @@ forceAtlas2.assign(simple, {
 });
 
 // 5. Export.
+// Deep-space nebula palette: hues restricted to astro tones (blues, violets,
+// magentas, teals, with rare warm accents like emission nebulae).
+const SPACE_HUES = [222, 245, 262, 280, 300, 320, 340, 195, 180, 165, 28, 45];
 const DEPT_HUES = new Map<string, number>();
 const hue = (dept: string) => {
   if (!DEPT_HUES.has(dept)) {
     let h = 0;
-    for (const ch of dept) h = (h * 31 + ch.charCodeAt(0)) % 360;
-    DEPT_HUES.set(dept, h);
+    for (const ch of dept) h = (h * 31 + ch.charCodeAt(0)) >>> 0;
+    DEPT_HUES.set(dept, SPACE_HUES[h % SPACE_HUES.length] + (h % 14) - 7);
   }
   return DEPT_HUES.get(dept)!;
 };
@@ -100,7 +103,7 @@ const nodes = g.mapNodes((id, a) => {
       ...base,
       dept: a.dept,
       size: 2 + Math.log2(1 + outDeg),
-      color: hslToHex(hue(a.dept), 52, 74),
+      color: hslToHex(hue(a.dept), 68, 66),
       prereqText: prereqText[id]?.text ?? null,
       title: details[id]?.title ?? null,
       description: details[id]?.description ?? null,
@@ -109,7 +112,7 @@ const nodes = g.mapNodes((id, a) => {
     };
   }
   if (a.kind === "concentration") {
-    return { ...base, slug: a.slug, degree: a.degree, size: 9, color: "#f2cd88" };
+    return { ...base, slug: a.slug, degree: a.degree, size: 9, color: "#e8c47a" };
   }
   return { ...base, groupType: a.groupType, n: a.n ?? null, size: 1.5, color: "#9aa0a6" };
 });

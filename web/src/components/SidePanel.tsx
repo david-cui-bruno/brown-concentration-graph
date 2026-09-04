@@ -55,8 +55,8 @@ export function SidePanel({
         flex: 1,
         padding: "8px 0",
         borderRadius: 8,
-        border: `1px solid ${active ? activeColor : "#2a3347"}`,
-        background: active ? activeColor + "26" : "#1c2434",
+        border: `1px solid ${active ? activeColor : "#2b2d52"}`,
+        background: active ? activeColor + "26" : "#1a1c3a",
         color: active ? activeColor : "#9aa4b2",
         cursor: "pointer",
         fontSize: 13,
@@ -76,7 +76,7 @@ export function SidePanel({
         margin: "2px 4px 2px 0",
         padding: "3px 8px",
         borderRadius: 6,
-        background: taken.has(id) ? "#173527" : planned.has(id) ? "#33301a" : "#1c2434",
+        background: taken.has(id) ? "#173527" : planned.has(id) ? "#33301a" : "#1a1c3a",
         color: taken.has(id) ? "#8fd6a8" : planned.has(id) ? "#e8cf7a" : "#c3cad4",
         fontSize: 12,
         cursor: "pointer",
@@ -95,9 +95,9 @@ export function SidePanel({
         width: 350,
         maxHeight: "calc(100vh - 24px)",
         overflowY: "auto",
-        background: "rgba(17,22,34,.96)",
+        background: "rgba(13,14,32,.95)",
         borderRadius: 12,
-        border: "1px solid #2a3347",
+        border: "1px solid #2b2d52",
         boxShadow: "0 6px 24px rgba(0,0,0,.3)",
         padding: 16,
         fontFamily: "system-ui",
@@ -143,7 +143,7 @@ export function SidePanel({
                   {seatsCap! - seatsAvail!}/{seatsCap} filled
                 </span>
               </div>
-              <div style={{ background: "#1c2434", borderRadius: 6, height: 7, marginTop: 4 }}>
+              <div style={{ background: "#1a1c3a", borderRadius: 6, height: 7, marginTop: 4 }}>
                 <div
                   style={{
                     width: `${fillPct}%`,
@@ -197,7 +197,7 @@ export function SidePanel({
                 {progress.withPlanned.satisfied > progress.taken.satisfied &&
                   ` (+${progress.withPlanned.satisfied - progress.taken.satisfied} with planned)`}
               </div>
-              <div style={{ background: "#1c2434", borderRadius: 6, height: 8, marginTop: 6, position: "relative" }}>
+              <div style={{ background: "#1a1c3a", borderRadius: 6, height: 8, marginTop: 6, position: "relative" }}>
                 <div
                   style={{
                     width: `${Math.min(100, (100 * progress.withPlanned.satisfied) / Math.max(1, progress.withPlanned.required))}%`,

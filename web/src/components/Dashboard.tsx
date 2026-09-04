@@ -49,7 +49,7 @@ export default function Dashboard() {
 
   const page: React.CSSProperties = {
     minHeight: "100vh",
-    background: "radial-gradient(ellipse at 50% 20%, #232b45 0%, #151a2b 55%, #0d1120 100%)",
+    background: "radial-gradient(ellipse at 50% 15%, #1b1638 0%, #10122b 45%, #04050d 100%)",
     color: "#d5dbe3",
     fontFamily: "system-ui",
     padding: "40px 24px 80px",
@@ -108,8 +108,8 @@ export default function Dashboard() {
                 </span>
               </div>
               <div style={{ background: "#1c2434", borderRadius: 6, height: 9, marginTop: 5, position: "relative" }}>
-                <div style={{ width: `${Math.min(100, pctPlanned)}%`, background: "#575030", height: 9, borderRadius: 6, position: "absolute" }} />
-                <div style={{ width: `${Math.min(100, pctTaken)}%`, background: "#8fd6a8", height: 9, borderRadius: 6, position: "absolute" }} />
+                <div style={{ width: `${Math.min(100, pctPlanned)}%`, background: "#4d4426", height: 9, borderRadius: 6, position: "absolute" }} />
+                <div style={{ width: `${Math.min(100, pctTaken)}%`, background: "#6fe3c1", height: 9, borderRadius: 6, position: "absolute" }} />
               </div>
             </div>
           );

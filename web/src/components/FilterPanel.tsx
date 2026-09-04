@@ -52,8 +52,8 @@ export function FilterPanel({
     top: 64,
     left: 12,
     width: 320,
-    background: "rgba(17,22,34,.94)",
-    border: "1px solid #2a3347",
+    background: "rgba(13,14,32,.92)",
+    border: "1px solid #2b2d52",
     borderRadius: 12,
     color: "#d5dbe3",
     fontFamily: "system-ui",
@@ -77,7 +77,7 @@ export function FilterPanel({
         <div style={{ padding: "0 14px 10px" }}>
           <button
             onClick={onClearFocus}
-            style={{ width: "100%", padding: "7px 0", borderRadius: 8, border: "1px solid #3d4a63", background: "#1c2434", color: "#9fb4d8", cursor: "pointer" }}
+            style={{ width: "100%", padding: "7px 0", borderRadius: 8, border: "1px solid #3d4a63", background: "#1a1c3a", color: "#9fb4d8", cursor: "pointer" }}
           >
             ← Back to the full sky
           </button>
@@ -90,7 +90,7 @@ export function FilterPanel({
             value={deptQuery}
             onChange={(e) => setDeptQuery(e.target.value)}
             placeholder="Find department…"
-            style={{ width: "100%", padding: "7px 10px", borderRadius: 8, border: "1px solid #2a3347", background: "#0e1420", color: "#d5dbe3", fontSize: 13 }}
+            style={{ width: "100%", padding: "7px 10px", borderRadius: 8, border: "1px solid #2b2d52", background: "#0c0e22", color: "#d5dbe3", fontSize: 13 }}
           />
           <div style={{ marginTop: 6, display: "flex", flexWrap: "wrap", gap: 4 }}>
             {shownDepts.map(([d, c]) => {
@@ -107,7 +107,7 @@ export function FilterPanel({
                     padding: "3px 8px",
                     borderRadius: 6,
                     cursor: "pointer",
-                    background: active ? "#2b5c9e" : "#1c2434",
+                    background: active ? "#2b5c9e" : "#1a1c3a",
                     color: active ? "#fff" : "#9aa4b2",
                   }}
                 >
@@ -142,7 +142,7 @@ export function FilterPanel({
                     padding: "3px 8px",
                     borderRadius: 6,
                     cursor: "pointer",
-                    background: active ? "#2b5c9e" : "#1c2434",
+                    background: active ? "#2b5c9e" : "#1a1c3a",
                     color: active ? "#fff" : "#9aa4b2",
                     fontSize: 12,
                   }}

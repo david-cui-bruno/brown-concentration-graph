@@ -11,8 +11,8 @@ export function AuthBar() {
   const pill: React.CSSProperties = {
     padding: "7px 14px",
     borderRadius: 8,
-    border: "1px solid #2a3347",
-    background: "rgba(17,22,34,.94)",
+    border: "1px solid #2b2d52",
+    background: "rgba(13,14,32,.92)",
     color: "#9aa4b2",
     cursor: "pointer",
     fontSize: 12,

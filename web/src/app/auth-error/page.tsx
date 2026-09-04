@@ -6,7 +6,7 @@ export default function AuthError({ searchParams }: { searchParams: { error?: st
         minHeight: "100vh",
         display: "grid",
         placeItems: "center",
-        background: "#151a2b",
+        background: "#0a0b1c",
         color: "#d5dbe3",
         fontFamily: "system-ui",
       }}

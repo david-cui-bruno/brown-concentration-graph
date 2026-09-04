@@ -135,7 +135,7 @@ export default function GraphView3D() {
           label: n.label,
           kind: n.kind,
           dept: n.dept,
-          color: taken.has(n.id) ? "#8fd6a8" : planned.has(n.id) ? "#e8cf7a" : unlocked.has(n.id) ? "#f4c98a" : n.color,
+          color: taken.has(n.id) ? "#6fe3c1" : planned.has(n.id) ? "#e8c47a" : unlocked.has(n.id) ? "#f0b070" : n.color,
           size: n.kind === "concentration" ? 6 : Math.max(2, n.size),
           fx: p.x,
           fz: p.z,
@@ -167,9 +167,14 @@ export default function GraphView3D() {
             kind === "concentration"
               ? new Set([id, ...concentrationSubtree(graph!, id)])
               : new Set([id, ...prereqClosure(graph!, id, "up"), ...prereqClosure(graph!, id, "down"), ...concentrationsOf(graph!, id)]);
+          // Frame courses (and the selected node) only: distant concentration
+          // nodes would otherwise blow up the bbox in galaxy layout.
+          const frameIds = new Set(
+            [...ids].filter((i) => i === id || !i.startsWith("conc:"))
+          );
           let minX = 1e9, maxX = -1e9, minY = 1e9, maxY = -1e9, minZ = 1e9, maxZ = -1e9;
           for (const n of data.nodes) {
-            if (!ids.has(n.id)) continue;
+            if (!frameIds.has(n.id)) continue;
             const { x, y, z } = posOf(n);
             minX = Math.min(minX, x); maxX = Math.max(maxX, x);
             minY = Math.min(minY, y); maxY = Math.max(maxY, y);
@@ -201,13 +206,14 @@ export default function GraphView3D() {
         const mat = new THREE.PointsMaterial({ color, size, transparent: true, opacity, sizeAttenuation: true, depthWrite: false });
         return new THREE.Points(geo, mat);
       };
-      scene.add(makeStars(2400, 4200, 2.2, 0xdde4f5, 0.75));
-      scene.add(makeStars(1200, 3200, 1.2, 0x9fb4e8, 0.5));
-      scene.add(makeStars(300, 2400, 3.4, 0xf2e3c0, 0.6));
+      scene.add(makeStars(2600, 4200, 2.0, 0xcdd6f0, 0.6));
+      scene.add(makeStars(1600, 3200, 1.1, 0x7d8fd0, 0.45));
+      scene.add(makeStars(240, 2400, 3.2, 0xe8d9b0, 0.5));
+      scene.add(makeStars(120, 2000, 2.6, 0xc490d8, 0.35));
       // Soft bloom so nodes glow like stars.
       try {
         const { UnrealBloomPass } = await import("three/examples/jsm/postprocessing/UnrealBloomPass.js");
-        const bloom = new UnrealBloomPass(undefined as any, 0.9, 0.6, 0.12);
+        const bloom = new UnrealBloomPass(undefined as any, 1.15, 0.7, 0.1);
         fg.postProcessingComposer().addPass(bloom);
       } catch (e) {
         console.warn("bloom unavailable", e);
@@ -230,14 +236,14 @@ export default function GraphView3D() {
 
   if (!graph || !data) {
     return (
-      <div style={{ display: "grid", placeItems: "center", height: "100vh", background: "radial-gradient(ellipse at 50% 35%, #232b45 0%, #151a2b 55%, #0d1120 100%)", color: "#98a2b3", fontFamily: "system-ui" }}>
+      <div style={{ display: "grid", placeItems: "center", height: "100vh", background: "radial-gradient(ellipse at 62% 28%, #1b1638 0%, #10122b 40%, #080a18 75%, #04050d 100%)", color: "#98a2b3", fontFamily: "system-ui" }}>
         Charting the course constellations…
       </div>
     );
   }
 
   return (
-    <div style={{ position: "relative", height: "100vh", overflow: "hidden", background: "radial-gradient(ellipse at 50% 35%, #232b45 0%, #151a2b 55%, #0d1120 100%)" }}>
+    <div style={{ position: "relative", height: "100vh", overflow: "hidden", background: "radial-gradient(ellipse at 62% 28%, #1b1638 0%, #10122b 40%, #080a18 75%, #04050d 100%)" }}>
       <ForceGraph3D
         fgRef={fgRef}
         graphData={sceneData}
@@ -249,7 +255,7 @@ export default function GraphView3D() {
         nodeOpacity={0.92}
         nodeResolution={12}
         linkColor={(l: any) =>
-          l.etype === "PREREQ_OF" ? (focus ? "#f0a8a8" : "#8ea2cc") : l.etype === "FULFILLS" ? "#e5c890" : "#68779e"
+          l.etype === "PREREQ_OF" ? (focus ? "#d98cb8" : "#5d6cb0") : l.etype === "FULFILLS" ? "#c4a35e" : "#3f4a7a"
         }
         linkOpacity={focus ? 0.6 : 0.22}
         linkWidth={(l: any) => (focus && l.etype === "PREREQ_OF" ? 1.1 : 0.35)}
@@ -284,8 +290,8 @@ export default function GraphView3D() {
             style={{
               padding: "7px 14px",
               borderRadius: 8,
-              border: "1px solid #2a3347",
-              background: layout === l ? "#2b5c9e" : "rgba(17,22,34,.94)",
+              border: "1px solid #2b2d52",
+              background: layout === l ? "#2b5c9e" : "rgba(13,14,32,.92)",
               color: layout === l ? "#fff" : "#9aa4b2",
               cursor: "pointer",
             }}
