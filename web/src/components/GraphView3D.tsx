@@ -129,7 +129,7 @@ export default function GraphView3D() {
         label: n.label,
         kind: n.kind,
         dept: n.dept,
-        color: taken.has(n.id) ? "#1a9850" : unlocked.has(n.id) ? "#f5a623" : n.color,
+        color: taken.has(n.id) ? "#8fd6a8" : unlocked.has(n.id) ? "#f4c98a" : n.color,
         size: n.kind === "concentration" ? 6 : Math.max(2, n.size),
         fx: n.x * scale,
         fz: n.y * scale,
@@ -191,18 +191,18 @@ export default function GraphView3D() {
 
   if (!graph || !data) {
     return (
-      <div style={{ display: "grid", placeItems: "center", height: "100vh", background: "#0b0f1a", color: "#98a2b3", fontFamily: "system-ui" }}>
+      <div style={{ display: "grid", placeItems: "center", height: "100vh", background: "radial-gradient(ellipse at 50% 35%, #232b45 0%, #151a2b 55%, #0d1120 100%)", color: "#98a2b3", fontFamily: "system-ui" }}>
         Loading course universe…
       </div>
     );
   }
 
   return (
-    <div style={{ position: "relative", height: "100vh", overflow: "hidden", background: "#0b0f1a" }}>
+    <div style={{ position: "relative", height: "100vh", overflow: "hidden", background: "radial-gradient(ellipse at 50% 35%, #232b45 0%, #151a2b 55%, #0d1120 100%)" }}>
       <ForceGraph3D
         fgRef={fgRef}
         graphData={sceneData}
-        backgroundColor="#0b0f1a"
+        backgroundColor="rgba(0,0,0,0)"
         nodeId="id"
         nodeLabel={(n: any) => `<div style="font-family:system-ui;font-size:12px">${n.label}</div>`}
         nodeColor={(n: any) => n.color}
@@ -210,9 +210,9 @@ export default function GraphView3D() {
         nodeOpacity={0.92}
         nodeResolution={12}
         linkColor={(l: any) =>
-          l.etype === "PREREQ_OF" ? "#c0392b" : l.etype === "FULFILLS" ? "#b8860b" : "#3d4759"
+          l.etype === "PREREQ_OF" ? "#e08a8a" : l.etype === "FULFILLS" ? "#d9b96a" : "#556080"
         }
-        linkOpacity={focus ? 0.55 : 0.18}
+        linkOpacity={focus ? 0.5 : 0.14}
         linkWidth={(l: any) => (l.etype === "PREREQ_OF" ? 1.2 : 0.5)}
         linkDirectionalParticles={(l: any) => (focus && l.etype === "PREREQ_OF" ? 2 : 0)}
         linkDirectionalParticleWidth={1.6}
@@ -226,7 +226,7 @@ export default function GraphView3D() {
           const sprite = new SpriteTextCtor(
             n.kind === "concentration" ? n.label.replace(/ \(/, "\n(") : n.label
           );
-          sprite.color = n.kind === "concentration" ? "#ffd966" : "#cfd8e3";
+          sprite.color = n.kind === "concentration" ? "#f2d9a0" : "#dbe2ec";
           sprite.textHeight = n.kind === "concentration" ? 4.4 : 3.0;
           sprite.position.y = n.size + 4;
           sprite.material.depthWrite = false;

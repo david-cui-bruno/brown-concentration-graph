@@ -98,12 +98,12 @@ const nodes = g.mapNodes((id, a) => {
       ...base,
       dept: a.dept,
       size: 2 + Math.log2(1 + outDeg),
-      color: hslToHex(hue(a.dept), 65, 55),
+      color: hslToHex(hue(a.dept), 52, 74),
       prereqText: prereqText[id]?.text ?? null,
     };
   }
   if (a.kind === "concentration") {
-    return { ...base, slug: a.slug, degree: a.degree, size: 9, color: "#e6b400" };
+    return { ...base, slug: a.slug, degree: a.degree, size: 9, color: "#f2cd88" };
   }
   return { ...base, groupType: a.groupType, n: a.n ?? null, size: 1.5, color: "#9aa0a6" };
 });
