@@ -3,16 +3,10 @@
 import { useMemo, useState } from "react";
 import type Graph from "graphology";
 import { unlockedCourses } from "@/lib/unlock";
+import type { PlanState } from "@/lib/usePlan";
 
-export function TakenPanel({
-  graph,
-  taken,
-  setTaken,
-}: {
-  graph: Graph;
-  taken: Set<string>;
-  setTaken: (s: Set<string>) => void;
-}) {
+export function TakenPanel({ graph, plan }: { graph: Graph; plan: PlanState }) {
+  const { taken, setStatus, remove } = plan;
   const [open, setOpen] = useState(false);
   const [q, setQ] = useState("");
 
@@ -74,7 +68,7 @@ export function TakenPanel({
             <div
               key={m}
               onClick={() => {
-                setTaken(new Set([...taken, m]));
+                setStatus(m, "taken");
                 setQ("");
               }}
               style={{ padding: "6px 10px", cursor: "pointer", borderRadius: 6 }}
@@ -89,11 +83,7 @@ export function TakenPanel({
               {[...taken].sort().map((c) => (
                 <span
                   key={c}
-                  onClick={() => {
-                    const next = new Set(taken);
-                    next.delete(c);
-                    setTaken(next);
-                  }}
+                  onClick={() => remove(c)}
                   title="Click to remove"
                   style={{
                     display: "inline-block",

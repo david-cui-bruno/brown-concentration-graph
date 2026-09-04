@@ -12,6 +12,8 @@ import {
   type ExportNode,
 } from "@/lib/graph";
 import { unlockedCourses } from "@/lib/unlock";
+import { usePlan } from "@/lib/usePlan";
+import { AuthBar } from "./AuthBar";
 import { heightFor, courseLevel } from "@/lib/layout3d";
 import { SearchBox } from "./SearchBox";
 import { SidePanel } from "./SidePanel";
@@ -47,7 +49,8 @@ export default function GraphView3D() {
   const [graph, setGraph] = useState<Graph | null>(null);
   const [data, setData] = useState<GraphExport | null>(null);
   const [selected, setSelected] = useState<string | null>(null);
-  const [taken, setTaken] = useState<Set<string>>(new Set());
+  const plan = usePlan();
+  const { taken, planned } = plan;
   const [filters, setFilters] = useState<Filters>(DEFAULT_FILTERS);
   const [layout, setLayout] = useState<"orbit" | "force">("force");
 
@@ -68,14 +71,6 @@ export default function GraphView3D() {
         setGraph(loadGraph(d));
       });
   }, []);
-
-  useEffect(() => {
-    const saved = localStorage.getItem("takenCourses");
-    if (saved) setTaken(new Set(JSON.parse(saved)));
-  }, []);
-  useEffect(() => {
-    localStorage.setItem("takenCourses", JSON.stringify([...taken]));
-  }, [taken]);
 
   const unlocked = useMemo(
     () => (graph && taken.size ? unlockedCourses(graph, taken) : new Set<string>()),
@@ -140,7 +135,7 @@ export default function GraphView3D() {
           label: n.label,
           kind: n.kind,
           dept: n.dept,
-          color: taken.has(n.id) ? "#8fd6a8" : unlocked.has(n.id) ? "#f4c98a" : n.color,
+          color: taken.has(n.id) ? "#8fd6a8" : planned.has(n.id) ? "#e8cf7a" : unlocked.has(n.id) ? "#f4c98a" : n.color,
           size: n.kind === "concentration" ? 6 : Math.max(2, n.size),
           fx: p.x,
           fz: p.z,
@@ -153,7 +148,7 @@ export default function GraphView3D() {
       .filter((e) => (focus ? true : e.type === "PREREQ_OF"))
       .map((e) => ({ source: e.source, target: e.target, etype: e.type }));
     return { nodes, links };
-  }, [data, graph, focus, passesFilters, filters.hideIsolated, taken, unlocked, posOf]);
+  }, [data, graph, focus, passesFilters, filters.hideIsolated, taken, planned, unlocked, posOf]);
 
   const handleSelect = useCallback(
     (id: string | null) => {
@@ -269,9 +264,10 @@ export default function GraphView3D() {
       </div>
       <FilterPanel graph={graph} filters={filters} setFilters={setFilters} focused={!!focus} onClearFocus={() => handleSelect(null)} />
       {selected && graph.hasNode(selected) && (
-        <SidePanel graph={graph} nodeId={selected} taken={taken} onClose={() => handleSelect(null)} onNavigate={handleSelect} />
+        <SidePanel graph={graph} nodeId={selected} plan={plan} onClose={() => handleSelect(null)} onNavigate={handleSelect} />
       )}
-      <TakenPanel graph={graph} taken={taken} setTaken={setTaken} />
+      <TakenPanel graph={graph} plan={plan} />
+      <AuthBar />
       <div style={{ position: "absolute", bottom: 8, left: 12, fontSize: 11, color: "#5c6673", fontFamily: "system-ui", pointerEvents: "none" }}>
         {layout === "orbit"
           ? "position = which concentrations a course feeds · height = prerequisite depth · gold ring: concentrations"

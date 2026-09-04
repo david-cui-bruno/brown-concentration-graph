@@ -21,6 +21,8 @@ for (const f of readdirSync(DATA + "parsed")) {
 const prereqText: Record<string, { text: string | null; source: string }> = JSON.parse(
   readFileSync(DATA + "prereq-text.json", "utf8")
 );
+const details: Record<string, { title?: string | null; description?: string | null; seatsCap?: number | null; seatsAvail?: number | null }> =
+  JSON.parse(readFileSync(DATA + "course-details.json", "utf8"));
 const edges: PrereqEdge[] = [];
 const flagged: Record<string, string> = {};
 let parsedCount = 0;
@@ -100,6 +102,10 @@ const nodes = g.mapNodes((id, a) => {
       size: 2 + Math.log2(1 + outDeg),
       color: hslToHex(hue(a.dept), 52, 74),
       prereqText: prereqText[id]?.text ?? null,
+      title: details[id]?.title ?? null,
+      description: details[id]?.description ?? null,
+      seatsCap: details[id]?.seatsCap ?? null,
+      seatsAvail: details[id]?.seatsAvail ?? null,
     };
   }
   if (a.kind === "concentration") {
