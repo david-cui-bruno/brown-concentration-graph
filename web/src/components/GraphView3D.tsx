@@ -157,7 +157,7 @@ export default function GraphView3D() {
       setSelected(id);
       if (!id && fgRef.current) {
         setTimeout(
-          () => fgRef.current?.cameraPosition(layout === "force" ? { x: 720, y: 520, z: 720 } : { x: 560, y: 340, z: 560 }, { x: 0, y: layout === "force" ? 0 : 90, z: 0 }, 800),
+          () => fgRef.current?.cameraPosition(layout === "force" ? { x: 980, y: 700, z: 980 } : { x: 560, y: 340, z: 560 }, { x: 0, y: layout === "force" ? 0 : 90, z: 0 }, 800),
           350
         );
       }
@@ -193,11 +193,18 @@ export default function GraphView3D() {
   );
 
   // Starfield backdrop added directly to the three.js scene.
+  // The 3D component is dynamically imported, so poll until its ref exists.
   useEffect(() => {
-    if (!fgRef.current || !graph) return;
-    const t = setTimeout(async () => {
+    if (!graph) return;
+    let tries = 0;
+    const t = setInterval(async () => {
       const fg = fgRef.current;
-      if (!fg || fg.__starsAdded) return;
+      if (!fg || typeof fg.scene !== "function") {
+        if (++tries > 40) clearInterval(t);
+        return;
+      }
+      clearInterval(t);
+      if (fg.__starsAdded) return;
       const THREE = await import("three");
       const scene = fg.scene();
       const makeStars = (count: number, spread: number, size: number, color: number, opacity: number) => {
@@ -215,24 +222,30 @@ export default function GraphView3D() {
       // Soft bloom so nodes glow like stars.
       try {
         const { UnrealBloomPass } = await import("three/examples/jsm/postprocessing/UnrealBloomPass.js");
-        const bloom = new UnrealBloomPass(undefined as any, 1.25, 0.55, 0.18);
+        const bloom = new UnrealBloomPass(undefined as any, 0.38, 0.35, 0.32);
         fg.postProcessingComposer().addPass(bloom);
       } catch (e) {
         console.warn("bloom unavailable", e);
       }
       fg.__starsAdded = true;
-    }, 300);
-    return () => clearTimeout(t);
+    }, 250);
+    return () => clearInterval(t);
   }, [graph]);
 
   // Initial camera: slightly above the intro band, looking at the core.
   useEffect(() => {
-    if (!fgRef.current || sceneData.nodes.length === 0) return;
-    const t = setTimeout(() => {
-      const c = layout === "force" ? { x: 720, y: 520, z: 720 } : { x: 560, y: 340, z: 560 };
-      fgRef.current?.cameraPosition(c, { x: 0, y: layout === "force" ? 0 : 90, z: 0 }, 0);
+    if (sceneData.nodes.length === 0) return;
+    let tries = 0;
+    const t = setInterval(() => {
+      if (!fgRef.current || typeof fgRef.current.cameraPosition !== "function") {
+        if (++tries > 40) clearInterval(t);
+        return;
+      }
+      clearInterval(t);
+      const c = layout === "force" ? { x: 980, y: 700, z: 980 } : { x: 560, y: 340, z: 560 };
+      fgRef.current.cameraPosition(c, { x: 0, y: layout === "force" ? 0 : 90, z: 0 }, 0);
     }, 100);
-    return () => clearTimeout(t);
+    return () => clearInterval(t);
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [graph, layout]);
 
