@@ -215,7 +215,7 @@ export default function GraphView3D() {
       // Soft bloom so nodes glow like stars.
       try {
         const { UnrealBloomPass } = await import("three/examples/jsm/postprocessing/UnrealBloomPass.js");
-        const bloom = new UnrealBloomPass(undefined as any, 0.45, 0.5, 0.25);
+        const bloom = new UnrealBloomPass(undefined as any, 0.7, 0.55, 0.18);
         fg.postProcessingComposer().addPass(bloom);
       } catch (e) {
         console.warn("bloom unavailable", e);
