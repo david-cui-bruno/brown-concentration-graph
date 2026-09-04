@@ -49,7 +49,7 @@ export default function GraphView3D() {
   const [selected, setSelected] = useState<string | null>(null);
   const [taken, setTaken] = useState<Set<string>>(new Set());
   const [filters, setFilters] = useState<Filters>(DEFAULT_FILTERS);
-  const [layout, setLayout] = useState<"orbit" | "force">("orbit");
+  const [layout, setLayout] = useState<"orbit" | "force">("force");
 
   const posOf = useCallback(
     (n: ExportNode): { x: number; y: number; z: number } => {
