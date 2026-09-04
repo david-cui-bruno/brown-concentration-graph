@@ -1748,5 +1748,1880 @@
     "text": null,
     "source": "cab",
     "srcdb": "202510"
+  },
+  "COLT 1420F": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "COLT 1420O": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "COLT 1421V": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "COLT 1422L": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "COLT 1422M": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "COLT 1422O": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "COLT 1430B": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "COLT 1430D": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "COLT 1430I": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "COLT 1430L": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "COLT 1431B": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "COLT 1431C": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "COLT 1431F": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "COLT 1431J": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "COLT 1431L": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "COLT 1440P": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "COLT 1440U": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "COLT 1440X": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "COLT 1610B": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "COLT 1610V": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "COLT 1710A": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "COLT 1710C": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "COLT 1710D": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "COLT 1810G": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "COLT 1810N": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "COLT 1810P": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "COLT 1811L": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "COLT 1812A": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202320"
+  },
+  "COLT 1813M": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "COLT 1813N": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "COLT 1813O": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "COLT 1813P": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "COLT 1814S": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "COLT 1814U": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "COLT 1815F": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "COLT 1815N": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "COLT 1815U": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202320"
+  },
+  "COLT 2520F": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "COLT 2720C": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "COLT 2720D": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "COLT 2820A": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "COLT 2820M": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "COLT 2821S": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "COLT 2822A": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "COST 0030": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "COST 0032": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202320"
+  },
+  "COST 0034": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "COST 0035": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202320"
+  },
+  "COST 0036": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "COST 0037": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "COST 0040": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "COST 0100": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "COST 0140": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "COST 0145": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "COST 0200": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "COST 0450": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "COST 0525": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "COST 0526": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "COST 0535": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "COST 0550": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "COST 1020": {
+    "text": "Prerequisites: NEUR 0010 or minimum score of WAIVE in 'Graduate Student PreReq'. A minimum grade of S is required in NEUR 0010 . Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "COST 1420": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "COST 1950": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "CPSY 0010": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "CPSY 0100": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "CPSY 0110": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "CPSY 0200": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "CPSY 0220": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "CPSY 0400": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "CPSY 0450": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "CPSY 0500": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "CPSY 0550": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "CPSY 0610": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "CPSY 0620": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "CPSY 0700": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "CPSY 0702": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "CPSY 0710": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "CPSY 0800": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "CPSY 0900": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "CPSY 0950": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "CPSY 1190": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "CPSY 1193": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "CPSY 1194": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "CPSY 1195": {
+    "text": "Prerequisites: CPSY 0010 , CLPS 0010 , NEUR 0010 , BIOL 0200 , minimum score of 4 in 'AP Biology' or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "CPSY 1196": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "CPSY 1250": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "CPSY 1280B": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "CPSY 1280C": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "CPSY 1291": {
+    "text": "Prerequisites: CPSY 0950 , CLPS 0950 , CPSY 1292 , CSCI 0111 , 0150 , 0160 , 0170 , 0190 , 0200 , 1470 , 2470 , APMA 0160 , EEPS 0250 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "CPSY 1385": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "CPSY 1400": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "CPSY 1420": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "CPSY 1470": {
+    "text": "Prerequisites: CPSY 0010 , CLPS 0010 , CPSY 1291 , CLPS 1291 , CPSY 1400 , CLPS 1400 , CPSY 1491 , CLPS 1491 , CPSY 1492 , CLPS 1492 , NEUR 0010 or minimum score of WAIVE in 'Graduate Student PreReq'. Students with a semester level of 01 or 02 may not enroll. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "CPSY 1480H": {
+    "text": "Prerequisites: CPSY 0010 , CLPS 0010 , CPSY 0200 , CLPS 0200 , CPSY 0400 , CLPS 0400 , CPSY 0450 , CLPS 0450 , NEUR 0010 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "CPSY 1480I": {
+    "text": "Prerequisites: CPSY 0010 , CLPS 0010 , CPSY 0200 , CLPS 0200 , CPSY 0400 , CLPS 0400 , CPSY 0450 , CLPS 0450 or minimum score of WAIVE in 'Graduate Student PreReq'. Students with a semester level of 01 or 02 may not enroll. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "CPSY 1490": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "CPSY 1491": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "CPSY 1492": {
+    "text": "Prerequisites: CPSY 0200 , CLPS 0200 , NEUR 0010 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "CPSY 1495": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "CPSY 1500": {
+    "text": "Prerequisites: CPSY 0010 , CLPS 0010 , CPSY 0020 , CLPS 0020 , CPSY 0500 , CLPS 0500 , CPSY 0510 , CLPS 0510 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "CPSY 1540": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "CPSY 1560": {
+    "text": "Prerequisites: CPSY 0010 , CLPS 0010 , CPSY 0020 , CLPS 0020 , NEUR 0010 or minimum score of WAIVE in 'Graduate Student PreReq'. A minimum grade of S is required in CPSY 0010 , CLPS 0010 , CPSY 0020 , CLPS 0020 and NEUR 0010 . Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "CPSY 1570": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "CPSY 1590": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "CPSY 1591": {
+    "text": "Prerequisites: ( CPSY 0500 or 1540 ) and CPSY 0900 and 0950 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "CPSY 1610": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "CPSY 1620": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "CPSY 1650": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "CPSY 1660": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "CPSY 1680A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "CPSY 1680H": {
+    "text": "Prerequisites: CPSY 0610 , CLPS 0610 , 0611 , CPSY 0620 , CLPS 0620 , CPSY 0700 , CLPS 0700 or minimum score of WAIVE in 'Graduate Student PreReq'. A minimum grade of S is required in CPSY 0610 , CLPS 0610 , CLPS 0611 , CPSY 0620 , CLPS 0620 , CPSY 0700 and CLPS 0700 .",
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "CPSY 1730": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "CPSY 1750": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "CPSY 1760": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "CPSY 1791": {
+    "text": "Prerequisites: ( CPSY 0010 or CLPS 0010 ) and ( CPSY 0700 or CLPS 0700 ) and ( CPSY 0900 or CLPS 0900 ) or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "CPSY 1800": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "CPSY 1850": {
+    "text": "Prerequisites: ( CPSY 0800 , CLPS 0800 , CPSY 1800 , CLPS 1800 , CPSY 1650 or CLPS 1650 ) and ( MATH 0090 , 0060 , 0070 , minimum score of 4 in 'AP Calculus AB' or minimum score of 3 in 'AP Calculus BC') or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "CPSY 1890": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "CPSY 1900": {
+    "text": "Prerequisites: CPSY 0900 , CLPS 0900 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "CPSY 1901": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "CPSY 1950": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "CPSY 1960": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "CPSY 2908": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "CSCI 0080": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "CSCI 0111": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "CSCI 0112": {
+    "text": "Prerequisite: CSCI 0111 .",
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "CSCI 0150": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "CSCI 0160": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "CSCI 0170": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "CSCI 0180": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "CSCI 0190": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "CSCI 0200": {
+    "text": "Prerequisites: CSCI 0112 , 0150 , 0170 or 0190 .",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "CSCI 0220": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "CSCI 0300": {
+    "text": "Prerequisites: CSCI 0190 or 0200 . Enrollment is limited to Undergraduate level students.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "CSCI 0320": {
+    "text": "Prerequisites: CSCI 0190 or 0200 .",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "CSCI 0330": {
+    "text": "Prerequisites: CSCI 0160 , 0180 , 0190 or 0200 . Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "CSCI 0410": {
+    "text": "Prerequisites: ( CSCI 0190 or 0200 ) and ( CSCI 0220 , minimum score of PASS in 'Comp Sci Placement Exam', MATH 1530 , APMA 1650 , 1655 , CSCI 1450 or 0450 ) and ( CSCI 0530 * , MATH 0520 * , 0530 * , 0540 * or APMA 0260 * ). * May be taken concurrently. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "CSCI 0500": {
+    "text": "Prerequisites: ( CSCI 0190 or 0200 ) and ( CSCI 0220 or minimum score of PASS in 'Comp Sci Placement Exam' or ( MATH 0540 and APMA 1650 )). Enrollment is limited to Undergraduate level students. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "CSCI 0530": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "CSCI 0535": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "CSCI 1010": {
+    "text": "Prerequisites: CSCI 0500 , 1570 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "CSCI 1230": {
+    "text": "Prerequisites: CSCI 0190 , 0200 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "CSCI 1270": {
+    "text": "Prerequisites: CSCI 0330 , 0300 , 1310 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "CSCI 1300": {
+    "text": "Prerequisites: ( CSCI 0160 , 0180 , 0190 or 0200 ) and ( CSCI 0320 or 1340 ) or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "CSCI 1380": {
+    "text": "Prerequisites: CSCI 0320 , 0330 , 0300 , 1310 , 1950S , 1330 , 1340 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "CSCI 1410": {
+    "text": "Prerequisites: ( CSCI 0160 , 0180 , 0190 or 0200 ) and ( CSCI 0220 , 1450 , 0450 , APMA 1650 or 1655 ) or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "CSCI 1411": {
+    "text": "Prerequisites: ( CSCI 0190 or 0200 ) and ( CSCI 0220 , MATH 1530 , APMA 1650 , 1655 , CSCI 1450 , 0450 or minimum score of PASS in 'Comp Sci Placement Exam') and ( CSCI 0530 * , MATH 0520 * , 0530 * , 0540 * or APMA 0260 * ) or minimum score of WAIVE in 'Graduate Student PreReq'. * May be taken concurrently. Enrollment is limited to Graduate level students.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "CSCI 1420": {
+    "text": "Prerequisites: ( CSCI 0190 or 0200 ) and ( CSCI 1450 , 0450 , APMA 1650 or 1655 ) and ( CSCI 0530 , MATH 0520 , 0530 , 0540 or APMA 0260 ) and ( CSCI 0410 , 1411 , 1430 , 1460 , 1470 or 2470 ) or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "CSCI 1430": {
+    "text": "Prerequisites: ( CSCI 0190 or 0200 ) and ( MATH 0520 , 0530 , 0540 , CSCI 0530 or APMA 0260 ) and ( CSCI 0410 , 1411 , 1420 , 1950F , 1460 , 1470 or 2470 ) or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "CSCI 1450": {
+    "text": "Prerequisites: MATH 0100 * , 0170 * , 0190 * or minimum score of WAIVE in 'Graduate Student PreReq'. * May be taken concurrently. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "CSCI 1460": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "CSCI 1470": {
+    "text": "Prerequisites: ( CSCI 0190 or 0200 ) and ( CSCI 0410 , 1411 , 1420 , 1950F , 1430 or 1460 ) and ( CSCI 0530 , APMA 0260 , MATH 0520 , 0530 or 0540 ) and ( CSCI 0220 , 1450 , 0450 , MATH 1210 , 1610 , APMA 1650 , 1655 or minimum score of PASS in 'Comp Sci Placement Exam') or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "CSCI 1491": {
+    "text": "Prerequisites: CSCI 1420 , 1950F , DATA 0200 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "CSCI 1520": {
+    "text": "Prerequisites: ( CSCI 0160 , 0180 , 0190 or 0200 ) and ( CSCI 1450 , 0450 , APMA 1650 or 1655 ) and ( CSCI 0530 , MATH 0520 or 0540 ) or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "CSCI 1550": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "CSCI 1570": {
+    "text": "Prerequisites: CSCI 0500 , 1010 , 0510 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "CSCI 1580": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "CSCI 1600": {
+    "text": "Prerequisites: CSCI 0320 , 1340 , 0300 , 0330 , 1310 , 1950S , 1330 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "CSCI 1660": {
+    "text": "Prerequisites: CSCI 0300 , 0330 , 1310 , 1950S , 1330 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "CSCI 1670": {
+    "text": "Prerequisites: CSCI 0300 , 0330 , 1310 , 1950S , 1330 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "CSCI 1680": {
+    "text": "Prerequisites: CSCI 0300 , 0330 , 1310 , 1950S , 1330 or minimum score of WAIVE in 'Graduate Student PreReq'. Enrollment is limited to Undergraduate level students.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "CSCI 1730": {
+    "text": "Prerequisites: CSCI 0190 , 0200 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "CSCI 1800": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "CSCI 1805": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "CSCI 1810": {
+    "text": "Prerequisites: CSCI 0190 , 0200 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "CSCI 1820": {
+    "text": "Prerequisites: CSCI 1810 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "CSCI 1951A": {
+    "text": "Prerequisites: CSCI 0160 , 0180 , 0190 , 0200 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "CSCI 1951I": {
+    "text": "Prerequisites: CSCI 0320 , 1340 , 0300 , 0330 , 1320 , 1310 , 1950S or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202320"
+  },
+  "CSCI 1951Q": {
+    "text": "Prerequisites: CSCI 1260 , 1730 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "CSCI 1951R": {
+    "text": "Prerequisites: ( CSCI 0160 , 0180 , 0190 or 0200 ) and ( CSCI 0220 , 0450 , 1450 or minimum score of PASS in 'Comp Sci Placement Exam') or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "CSCI 1951Z": {
+    "text": "Prerequisites: CSCI 1420 , 1950F , DATA 0200 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202320"
+  },
+  "CSCI 1970": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "CSCI 1973": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "CZCH 0100": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "CZCH 0200": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "CZCH 0400": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "CZCH 1000": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "DATA 0080": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "DATA 0200": {
+    "text": "Prerequisites: CSCI 0111 , 0150 , 0170 , 0190 , CLPS 0950 or 1292 . Enrollment is limited to Undergraduate level students.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "DATA 0250": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202515"
+  },
+  "DATA 1030": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "DATA 1050": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "DATA 2060": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "EAST 0140": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "EAST 0152": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "EAST 0304": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "EAST 0307": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "EAST 0406": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "EAST 1420": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "EAST 1931": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "EAST 1941": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ECON 0110": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ECON 0170": {
+    "text": "Prerequisites: MATH 0060 , 0070 , 0090 , minimum score of 4 in 'AP Calculus AB', minimum score of 3 in 'AP Calculus BC', minimum score of 6 in 'IB SL Mathematics', minimum score of 5 in 'IB HL Math Analysis & Approach', minimum score of 6 in 'IB SL Math Analysis & Approach' or minimum score of 6 in 'IB HL Math Appl. & Interpreta.'. Enrollment is limited to Undergraduate level students. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ECON 0510": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ECON 0710": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ECON 1000": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "ECON 1050": {
+    "text": "Prerequisites: ECON 0110 , minimum score of 4 in 'AP Microeconomics', minimum score of 4 in 'AP Macroeconomics' or minimum score of WAIVE in 'Graduate Student PreReq'. Enrollment is limited to Undergraduate level students.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ECON 1070": {
+    "text": "Prerequisites: ECON 0110 , minimum score of 4 in 'AP Microeconomics', minimum score of 4 in 'AP Macroeconomics', minimum score of 6 in 'IB HL Economics' or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "ECON 1090": {
+    "text": "Prerequisites: MATH 0060 , 0070 , 0100 , 0090 , 0170 , 0180 , 0190 , 0200 , 0350 , ECON 0170 , minimum score of 4 in 'AP Calculus AB', minimum score of 4 in 'AP Calculus AB', minimum score of 3 in 'AP Calculus BC', minimum score of 6 in 'IB SL Mathematics' or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ECON 1110": {
+    "text": "Prerequisites: ( ECON 0110 or (minimum score of 4 in 'AP Microeconomics' and minimum score of 4 in 'AP Macroeconomics') or minimum score of 6 in 'IB HL Economics') and ( MATH 0060 , 0070 , 0090 , 0100 , 0170 , 0190 , 0180 , 0200 , 0350 , ECON 0170 , minimum score of 4 in 'AP Calculus AB', minimum score of 3 in 'AP Calculus BC', minimum score of 6 in 'IB SL Mathematics', minimum score of 5 in 'IB HL Math Analysis & Approach', minimum score of 6 in 'IB SL Math Analysis & Approach' or minimum score of 6 in 'IB HL Math Appl. & Interpreta.') or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ECON 1130": {
+    "text": "Prerequisites: ( ECON 0110 or (minimum score of 4 in 'AP Microeconomics' and minimum score of 4 in 'AP Macroeconomics') or minimum score of 6 in 'IB HL Economics') and ( MATH 0100 , 0170 , 0180 , 0190 , 0200 , 0350 , ECON 0170 , minimum score of 4 in 'AP Calculus BC' or minimum score of 6 in 'IB HL Math Analysis & Approach') or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ECON 1170": {
+    "text": "Prerequisites: ECON 1110 , 1130 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ECON 1200": {
+    "text": "Prerequisites: ECON 1110 , 1130 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ECON 1210": {
+    "text": "Prerequisites: ( ECON 0110 or (minimum score of 4 in 'AP Microeconomics' and minimum score of 4 in 'AP Macroeconomics') or minimum score of 6 in 'IB HL Economics') and ( MATH 0060 , 0070 , 0090 , minimum score of 6 in 'IB SL Mathematics', MATH 0100 , 0170 , 0180 , 0190 , ECON 0170 , MATH 0200 , 0350 , minimum score of 4 in 'AP Calculus AB', minimum score of 3 in 'AP Calculus BC', minimum score of 6 in 'IB HL Math Appl. & Interpreta.' or minimum score of 6 in 'IB HL Math Analysis & Approach') or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ECON 1225": {
+    "text": "Prerequisites: ( ECON 1110 or 1130 ) and ( ECON 1210 , minimum score of 4 in 'AP Calculus AB', minimum score of 3 in 'AP Calculus BC', minimum score of 6 in 'IB HL Economics', minimum score of 5 in 'IB HL Math Analysis & Approach', minimum score of 6 in 'IB SL Math Analysis & Approach' or minimum score of 6 in 'IB HL Math Appl. & Interpreta.') or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ECON 1255": {
+    "text": "Prerequisites: ECON 1210 and ( ECON 0170 , MATH 0100 , 0170 , 0180 , 0200 or 0350 ) and ( APMA 1650 , 1655 , CSCI 1450 , 0450 or ECON 1620 ) or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "ECON 1301": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ECON 1310": {
+    "text": "Prerequisites: ( ECON 1110 or 1130 ) and ( APMA 1650 , 1655 , CSCI 1450 , 0450 , ECON 1620 , MATH 1220 or 1620 ) or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ECON 1315": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ECON 1330": {
+    "text": "Prerequisites: ( ECON 1110 or 1130 ) and ( ECON 1620 and 1629 ) or minimum score of WAIVE in 'Graduate Student PreReq'. A minimum grade of S is required in ECON 1110 , ECON 1130 , ECON 1620 and ECON 1629 . Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "ECON 1340": {
+    "text": "Prerequisites: ECON 1110 , 1130 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ECON 1345": {
+    "text": "Prerequisites: ECON 1620 and ( ECON 1110 or 1130 ) or minimum score of WAIVE in 'Graduate Student PreReq'. A minimum grade of S is required in ECON 1620 , ECON 1110 and ECON 1130 . Enrollment is limited to Undergraduate level students. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "ECON 1350": {
+    "text": "Prerequisites: ECON 1110 , 1130 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "ECON 1355": {
+    "text": "Prerequisites: ( ECON 1110 or 1130 ) and ( ECON 1620 , APMA 1650 , 1655 , CSCI 1450 , 0450 , MATH 1220 or 1620 ) or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ECON 1360": {
+    "text": "Prerequisites: ( ECON 1110 or 1130 ) and ( ECON 1620 , MATH 1220 , 1620 , CSCI 1450 , 0450 , APMA 1655 or 1650 ) or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ECON 1370": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ECON 1375": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ECON 1385": {
+    "text": "Prerequisites: ( ECON 1110 or 1130 ) and ( ECON 1629 or 1630 ) or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ECON 1390": {
+    "text": "Prerequisites: ( ECON 1110 or 1130 ) and ( APMA 1650 , 1655 , CSCI 1450 , 0450 , ECON 1620 , MATH 1220 or 1620 ) or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ECON 1400": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ECON 1410": {
+    "text": "Prerequisites: ( ECON 1110 or 1130 ) and ( APMA 1650 , 1655 , CSCI 1450 , 0450 , ECON 1620 , MATH 1220 or 1620 ) or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ECON 1420": {
+    "text": "Prerequisites: ECON 1110 , 1130 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ECON 1430": {
+    "text": "Prerequisites: ECON 1629 , 1630 or minimum score of WAIVE in 'Graduate Student PreReq'. A minimum grade of S is required in ECON 1629 and ECON 1630 . Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "ECON 1440": {
+    "text": "Prerequisites: ECON 1110 , 1130 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ECON 1450": {
+    "text": "Prerequisites: ECON 1110 , 1130 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "ECON 1465": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ECON 1470": {
+    "text": "Prerequisites: ( ECON 1110 or 1130 ) and ( ECON 1090 or 1870 ) or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ECON 1480": {
+    "text": "Prerequisites: ECON 1110 , 1130 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ECON 1490": {
+    "text": "Prerequisites: ( ECON 1110 or 1130 ) or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ECON 1500": {
+    "text": "Prerequisites: ECON 1210 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "ECON 1510": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ECON 1520": {
+    "text": "Prerequisites: ( ECON 1110 or 1130 ) and ( ECON 1629 or 1630 ) and ( ECON 0170 , MATH 0170 , 0100 , 0090 , 0060 , 0070 , 0180 , 0190 , 0200 , 0350 , minimum score of 4 in 'AP Calculus BC', minimum score of 5 in 'IB HL Math Analysis & Approach', minimum score of 6 in 'IB SL Math Analysis & Approach' or minimum score of 6 in 'IB HL Math Appl. & Interpreta.') or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ECON 1530": {
+    "text": "Prerequisites: ( ECON 1110 or 1130 ) and ( ECON 1620 , APMA 1650 , MATH 1220 , 1620 , APMA 1655 , CSCI 1450 or 0450 ) or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ECON 1540": {
+    "text": "Prerequisites: ECON 1110 , 1130 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ECON 1545": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ECON 1550": {
+    "text": "Prerequisites: ECON 1210 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ECON 1560": {
+    "text": "Prerequisites: ( ECON 1110 or 1130 ) or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ECON 1570": {
+    "text": "Prerequisites: ( ECON 1110 or 1130 ) and ( ECON 1620 , APMA 1655 , 1650 , CSCI 1450 , 0450 , MATH 1220 or 1620 ) or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "ECON 1600": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ECON 1620": {
+    "text": "Prerequisites: ( ECON 0110 , 1110 or 1130 ) and ( MATH 0060 , 0070 , 0090 , 0100 , 0170 , 0190 , 0180 , 0200 , 0350 , ECON 0170 , minimum score of 4 in 'AP Calculus AB', minimum score of 3 in 'AP Calculus BC', minimum score of 5 in 'IB HL Math Analysis & Approach', minimum score of 6 in 'IB HL Math Appl. & Interpreta.' or minimum score of 6 in 'IB SL Math Analysis & Approach') or minimum score of WAIVE in 'Graduate Student PreReq'. Enrollment is limited to Undergraduate level students. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ECON 1629": {
+    "text": "Prerequisites: ( ECON 1110 or 1130 ) and ( ECON 1620 , MATH 1220 , 1620 , APMA 1650 or 1655 ) or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ECON 1630": {
+    "text": "Prerequisites: ( ECON 1110 or 1130 ) and ( APMA 0260 , 1650 , CSCI 1450 , 0450 , MATH 1220 , 1620 , ECON 1620 or APMA 1655 ) and ( MATH 0520 , 0530 or 0540 ) or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ECON 1640": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ECON 1660": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ECON 1670": {
+    "text": "Prerequisites: ECON 1630 and ( MATH 0520 , 0530 or 0540 ) or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ECON 1680": {
+    "text": "Prerequisites: ( ECON 1110 or 1130 ) and ( ECON 1629 or 1630 ) and ( CSCI 0040 , 0112 , 0111 , 0150 , 0170 or 0190 ) or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202320"
+  },
+  "ECON 1710": {
+    "text": "Prerequisites: ( CSCI 1450 , 0450 , APMA 1650 , 1655 , ECON 1620 , MATH 1220 or 1620 ) and ( ECON 1110 or 1130 ) or minimum score of WAIVE in 'Graduate Student PreReq'. Enrollment is limited to Undergraduate level students. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ECON 1720": {
+    "text": "Prerequisites: ECON 1710 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ECON 1730": {
+    "text": "Prerequisites: ECON 1720 or minimum score of WAIVE in 'Graduate Student PreReq'. Enrollment is limited to Undergraduate level students. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "ECON 1740": {
+    "text": "Prerequisites: ECON 1710 and ( MATH 0180 , 0200 , 0350 , 0180 , 0190 , 0100 , 0170 , ECON 0170 , minimum score of 4 in 'AP Calculus BC' or minimum score of 5 in 'IB HL Mathematics') or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ECON 1750": {
+    "text": "Prerequisites: ECON 1710 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ECON 1760": {
+    "text": "Prerequisites: ( ECON 1110 or 1130 ) and ECON 1210 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ECON 1770": {
+    "text": "Prerequisites: ECON 1710 and 1720 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ECON 1780": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ECON 1805": {
+    "text": "Prerequisites: ( ECON 1110 or 1130 ) and ( ECON 1620 , 1630 , APMA 1650 , 1655 , CSCI 1450 or 0450 ) or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ECON 1820": {
+    "text": "Prerequisites: ( ECON 1110 or 1130 ) and ( MATH 0100 , ECON 0170 , MATH 0170 , 0180 , 0190 , 0200 , 0350 , minimum score of 4 in 'AP Calculus BC' or minimum score of 5 in 'IB HL Mathematics') or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ECON 1825": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ECON 1830": {
+    "text": "Prerequisites: ECON 1710 and ( ECON 1629 or 1630 ) or minimum score of WAIVE in 'Graduate Student PreReq'. A minimum grade of S is required in ECON 1710 , ECON 1629 and ECON 1630 . Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "ECON 1860": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ECON 1870": {
+    "text": "Prerequisites: ( ECON 1110 or 1130 ) and ( ECON 1620 , 1630 , APMA 1650 , MATH 1210 or 1610 ) or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ECON 2510": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "EDUC 0300": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "EDUC 0515": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "EDUC 0520": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "EDUC 0530": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "EDUC 0610": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "EDUC 0620": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "EDUC 0750": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "EDUC 0800": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "EDUC 0825": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "EDUC 1190": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "EDUC 1230": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "EDUC 1240": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "EDUC 1250": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "EDUC 1320": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "EDUC 1330": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "EDUC 1430": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "EDUC 1475": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "EDUC 1490": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "EDUC 1620": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "EDUC 1660": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "EDUC 1675": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "EDUC 1900": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "EEPS 0070": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "EEPS 0160M": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "EEPS 0160W": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202320"
+  },
+  "EEPS 0220": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "EEPS 0230": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "EEPS 0240": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "EEPS 0250": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "EEPS 0350": {
+    "text": "Prerequisites: MATH 0100 , 0170 , 0180 , 0190 , 0200 or 0350 . Enrollment is limited to Undergraduate level students. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "EEPS 0360": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "EEPS 0810": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "EEPS 0830": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "EEPS 0850": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "EEPS 1120": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "EEPS 1130": {
+    "text": "Prerequisites: CHEM 0330 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "EEPS 1150": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "EEPS 1240": {
+    "text": "Prerequisites: EEPS 0220 , GEOL 0220 , EEPS 0240 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "EEPS 1250": {
+    "text": "Prerequisites: EEPS 0220 , GEOL 0220 , EEPS 0240 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "EEPS 1310": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "EEPS 1320": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "EEPS 1330": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "EEPS 1340": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "EEPS 1350": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "EEPS 1370": {
+    "text": "Prerequisites: CHEM 0100 , 0330 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "EEPS 1380": {
+    "text": "Prerequisites: CHEM 0100 , EEPS 0220 , GEOL 0220 , EEPS 0230 , GEOL 0230 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "EEPS 1400": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "EEPS 1410": {
+    "text": "Prerequisites: ( EEPS 0230 or GEOL 0230 ) and ( CHEM 0100 or 0330 ) or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "EEPS 1420": {
+    "text": "Prerequisites: EEPS 1410 , GEOL 1410 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "EEPS 1430": {
+    "text": "Prerequisites: EEPS 0250 , GEOL 0250 , EEPS 0350 , GEOL 0350 , PHYS 0720 , APMA 0350 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "EEPS 1450": {
+    "text": "Prerequisites: EEPS 0220 , GEOL 0220 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "EEPS 1510": {
+    "text": "Prerequisites: APMA 0360 or minimum score of WAIVE in 'Graduate Student PreReq'. A minimum grade of S is required in APMA 0360 . Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "EEPS 1520": {
+    "text": "Prerequisites: EEPS 0250 , GEOL 0250 , EEPS 0350 , GEOL 0350 , PHYS 0720 , MATH 0180 , 0200 , 0350 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "EEPS 1560": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "EEPS 1610": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "EEPS 1615": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "EEPS 1620": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "EEPS 1630": {
+    "text": "Prerequisites: ( MATH 0180 , 0200 or 0350 ) and PHYS 0050 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "EEPS 1650": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "EEPS 1690": {
+    "text": "Prerequisites: MATH 0180 , 0200 , 0350 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "EEPS 1710": {
+    "text": "Prerequisites: EEPS 1410 , GEOL 1410 , PHYS 0600 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "EEPS 1720": {
+    "text": "Prerequisites: CSCI 1420 , 1950F , 1470 , 2470 , DATA 1030 , EEPS 1960D , 0850 , GEOL 0850 , EEPS 1450 , GEOL 1450 , EEPS 1510 , GEOL 1510 , EEPS 1520 , GEOL 1520 or minimum score of WAIVE in 'Graduate Student PreReq'. A minimum grade of S is required in CSCI 1420 , CSCI 1950F , CSCI 1470 , CSCI 2470 , DATA 1030 , EEPS 1960D , EEPS 0850 , GEOL 0850 , EEPS 1450 , GEOL 1450 , EEPS 1510 , GEOL 1510 , EEPS 1520 and GEOL 1520 . Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "EEPS 1810": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "EEPS 1820": {
+    "text": "Prerequisites: ( EEPS 0350 , GEOL 0350 , PHYS 0720 or APMA 0340 ) and ( EEPS 1510 , GEOL 1510 , EEPS 1520 or GEOL 1520 ) or minimum score of WAIVE in 'Graduate Student PreReq'. A minimum grade of S is required in EEPS 0350 , GEOL 0350 , PHYS 0720 , APMA 0340 , EEPS 1510 , GEOL 1510 , EEPS 1520 and GEOL 1520 . Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "EEPS 1970": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "EGYT 0300": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "EGYT 0500": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "EGYT 0550": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "EGYT 0600": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "EGYT 1030": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "EGYT 1100": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "EGYT 1310": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "EGYT 1320": {
+    "text": "Prerequisites: EGYT 1310 or minimum score of WAIVE in 'Graduate Student PreReq'. A minimum grade of S is required in EGYT 1310 . Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "EGYT 1400": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "EGYT 1420": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "EGYT 1430": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "EGYT 1465": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "EGYT 1485": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "EGYT 1490": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "EGYT 1510": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "EGYT 2210": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "EGYT 2410": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "EGYT 2610": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "EMOW 1980": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGL 0100A": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "ENGL 0100C": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "ENGL 0100D": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 0100F": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGL 0100G": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 0100J": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 0100M": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 0100N": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENGL 0100P": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGL 0100Q": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "ENGL 0100R": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 0100S": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 0100T": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENGL 0100U": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "ENGL 0100V": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "ENGL 0100W": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 0100Y": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "ENGL 0101A": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "ENGL 0101B": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "ENGL 0150D": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 0150W": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 0150X": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENGL 0150Y": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "ENGL 0300M": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "ENGL 0310A": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGL 0310E": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 0500R": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 0510F": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "ENGL 0700E": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENGL 0700G": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
   }
 }
