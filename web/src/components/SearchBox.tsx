@@ -33,9 +33,15 @@ export function SearchBox({
   const results = useMemo(() => {
     const needle = q.trim().toLowerCase();
     if (needle.length < 2) return [];
+    const score = (i: { id: string; text: string; kind: string }) => {
+      const idL = i.id.toLowerCase();
+      if (i.text === needle || idL === needle) return 0;
+      if (i.text.startsWith(needle) || idL.startsWith(needle)) return 1;
+      return 2;
+    };
     return index
       .filter((i) => i.text.includes(needle) || i.id.toLowerCase().includes(needle))
-      .sort((a, b) => (a.kind === b.kind ? a.id.localeCompare(b.id) : a.kind === "concentration" ? -1 : 1))
+      .sort((a, b) => score(a) - score(b) || a.text.length - b.text.length || a.id.localeCompare(b.id))
       .slice(0, 12);
   }, [q, index]);
 

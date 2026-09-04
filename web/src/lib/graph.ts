@@ -35,7 +35,10 @@ export function loadGraph(data: GraphExport): Graph {
   const g = new Graph({ multi: true, type: "directed" });
   for (const n of data.nodes) g.addNode(n.id, { ...n });
   for (const e of data.edges) {
-    if (g.hasNode(e.source) && g.hasNode(e.target)) g.addEdge(e.source, e.target, { ...e });
+    if (g.hasNode(e.source) && g.hasNode(e.target)) {
+      const { type, ...rest } = e;
+      g.addEdge(e.source, e.target, { ...rest, etype: type });
+    }
   }
   return g;
 }
@@ -49,7 +52,7 @@ export function prereqClosure(g: Graph, code: string, dir: "up" | "down"): Set<s
     const cur = stack.pop()!;
     const edges = dir === "up" ? g.inEdges(cur) : g.outEdges(cur);
     for (const e of edges) {
-      if (g.getEdgeAttribute(e, "type") !== "PREREQ_OF") continue;
+      if (g.getEdgeAttribute(e, "etype") !== "PREREQ_OF") continue;
       const next = dir === "up" ? g.source(e) : g.target(e);
       if (!out.has(next) && next !== code) {
         out.add(next);
@@ -68,7 +71,7 @@ export function concentrationSubtree(g: Graph, concId: string): Set<string> {
   while (stack.length) {
     const cur = stack.pop()!;
     for (const e of g.inEdges(cur)) {
-      const t = g.getEdgeAttribute(e, "type");
+      const t = g.getEdgeAttribute(e, "etype");
       if (t !== "PART_OF" && t !== "FULFILLS") continue;
       const src = g.source(e);
       if (!out.has(src)) {
@@ -89,7 +92,7 @@ export function concentrationsOf(g: Graph, code: string): Set<string> {
   while (stack.length) {
     const cur = stack.pop()!;
     for (const e of g.outEdges(cur)) {
-      const t = g.getEdgeAttribute(e, "type");
+      const t = g.getEdgeAttribute(e, "etype");
       if (t !== "FULFILLS" && t !== "PART_OF") continue;
       const tgt = g.target(e);
       if (seen.has(tgt)) continue;

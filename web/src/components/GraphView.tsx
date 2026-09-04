@@ -129,7 +129,7 @@ export default function GraphView() {
     });
     sigma.setSetting("edgeReducer", (edge, data) => {
       const res: Record<string, unknown> = { ...data };
-      const type = graph.getEdgeAttribute(edge, "type");
+      const type = graph.getEdgeAttribute(edge, "etype");
       const s = graph.source(edge);
       const t = graph.target(edge);
       if (focus) {

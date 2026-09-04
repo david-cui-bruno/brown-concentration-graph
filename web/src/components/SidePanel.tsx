@@ -23,7 +23,7 @@ export function SidePanel({
   const directPrereqs = isCourse
     ? graph
         .inEdges(nodeId)
-        .filter((e) => graph.getEdgeAttribute(e, "type") === "PREREQ_OF")
+        .filter((e) => graph.getEdgeAttribute(e, "etype") === "PREREQ_OF")
         .map((e) => graph.source(e))
     : [];
   const unlocks = isCourse ? [...prereqClosure(graph, nodeId, "down")].slice(0, 30) : [];

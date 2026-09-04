@@ -8998,5 +8998,1300 @@
     "text": null,
     "source": "none",
     "srcdb": null
+  },
+  "POLS 1435": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "POLS 1440": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "POLS 1500": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "POLS 1600": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "POLS 1820G": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "POLS 1820W": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "POLS 1821O": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "POLS 1821V": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "POLS 1822I": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "POLS 1822S": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "POLS 1823Z": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "POLS 1824D": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "POLS 1826A": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202320"
+  },
+  "POLS 2320": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "POLS 2330": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "PRSN 0100": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "PRSN 0105": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "PRSN 0200": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "PRSN 0300": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "PRSN 0400": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "PRSN 0500": {
+    "text": "Prerequisite: PRSN 0400 . Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "PRSN 0600": {
+    "text": "Prerequisite: PRSN 0500 . Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202320"
+  },
+  "PRSN 0720": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "PRSN 1100": {
+    "text": "Prerequisites: PRSN 0400 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "PRSN 1200": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "PRSN 2980": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "RELS 0014": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "RELS 0015": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "RELS 0021": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "RELS 0036": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "RELS 0037": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "RELS 0040": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "RELS 0045": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "RELS 0056": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202320"
+  },
+  "RELS 0065": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "RELS 0088": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202320"
+  },
+  "RELS 0090B": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "RELS 0090M": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "RELS 0095A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "RELS 0096": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "RELS 0100": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "RELS 0110": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "RELS 0120": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "RELS 0145": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "RELS 0260": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "RELS 0290D": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "RELS 0290H": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "RELS 0320": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "RELS 0405": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "RELS 0410": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "RELS 0420": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "RELS 0526": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "RELS 0570": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "RELS 0580": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "RELS 1315": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "RELS 1325C": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "RELS 1330A": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202320"
+  },
+  "RELS 1370B": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "RELS 1425": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "RELS 1441": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "RELS 1442": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "RELS 1500": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "RELS 1510": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "RELS 1530A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "RELS 1530B": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "RELS 1530D": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "RELS 1530H": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "RUSS 0100": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "RUSS 0110": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "RUSS 0200": {
+    "text": "Prerequisites: RUSS 0100 or 0250 . A minimum grade of S is required in RUSS 0100 and RUSS 0250 . Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "RUSS 0300": {
+    "text": "Prerequisites: RUSS 0110 , 0200 or 0250 . Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "RUSS 0400": {
+    "text": "Prerequisite: RUSS 0300 . A minimum grade of S is required in RUSS 0300 . Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "RUSS 0500": {
+    "text": "Prerequisites: RUSS 0350 or 0400 . Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "RUSS 0600": {
+    "text": "Prerequisite: RUSS 0500 . A minimum grade of S is required in RUSS 0500 . Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "RUSS 1110": {
+    "text": "Prerequisites: RUSS 0600 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "RUSS 1120": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "RUSS 1200": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "RUSS 1220": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "RUSS 1250": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "RUSS 1290": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "RUSS 1300": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "RUSS 1330": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202320"
+  },
+  "RUSS 1340": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "RUSS 1440": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "RUSS 1450": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "RUSS 1500": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "RUSS 1550": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "RUSS 1600": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "RUSS 1660": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "RUSS 1800": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202320"
+  },
+  "RUSS 1810": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "RUSS 1820": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "RUSS 1840": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "RUSS 1848": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "RUSS 1860": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "RUSS 1870": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "RUSS 1967": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "SANS 0200": {
+    "text": "Prerequisite: SANS 0100 .",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "SANS 0400": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "SANS 1030": {
+    "text": "Prerequisites: SANS 0300 or minimum score of WAIVE in 'Graduate Student PreReq'. A minimum grade of S is required in SANS 0300 . Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "SANS 1100": {
+    "text": "Prerequisites: SANS 0400 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202320"
+  },
+  "SAST 0034": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "SAST 0037": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "SAST 0140": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "SAST 0525": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "SAST 0526": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "SAST 0700": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "SAST 0725": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "SAST 0750": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "SAST 1970": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "SLAV 1250": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "SLAV 1300": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "SOC 0010": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "SOC 0230": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "SOC 0250": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "SOC 0300": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "SOC 0310": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "SOC 1010": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "SOC 1020": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "SOC 1070": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "SOC 1100": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "SOC 1116": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "SOC 1117": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "SOC 1118": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "SOC 1120": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "SOC 1128": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "SOC 1260": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "SOC 1270": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "SOC 1311": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "SOC 1315": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "SOC 1330": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "SOC 1340": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "SOC 1490": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "SOC 1871C": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "SOC 1871W": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "SOC 1871X": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "SOC 1872N": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202320"
+  },
+  "SOC 1873G": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "SOC 1950": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "SOC 2010": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "SOC 2020": {
+    "text": "Prerequisite: SOC 2010 .",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "SOC 2070": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "SOC 2210": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "SOC 2230": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "SOC 2240": {
+    "text": "Prerequisite: SOC 2010 . Enrollment is limited to Graduate level students. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202320"
+  },
+  "SOC 2250": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "SOC 2260T": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "SOC 2610": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "SOC 2612": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202320"
+  },
+  "SOC 2960G": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "SOC 2960Y": {
+    "text": "Prerequisite: SOC 2020 . Enrollment is limited to Graduate level students. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "SOC 2961A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "STAT 1501": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "STAT 1510": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "STAT 1511": {
+    "text": "Prerequisites: STAT 1510 , PHP 1510 , APMA 1655 or minimum score of WAIVE in 'Graduate Student PreReq'. Enrollment is limited to Undergraduate level students.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "STAT 1560": {
+    "text": "Prerequisites: APMA 1650 , 1655 , STAT 1510 , PHP 1510 , STAT 2510 , PHP 2510 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "STAT 2510": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "STAT 2514": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "STAT 2515": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "STAT 2516": {
+    "text": "Prerequisites: STAT 2511 , PHP 2511 , STAT 2514 or PHP 2514 . Enrollment is limited to Graduate level students.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "STAT 2517": {
+    "text": "Prerequisites: STAT 2511 , PHP 2511 , STAT 2514 or PHP 2514 . Enrollment is limited to Graduate level students.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "STAT 2520": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "STAT 2530": {
+    "text": "Prerequisites: APMA 1650 , STAT 2510 , PHP 2510 , STAT 2511 or PHP 2511 . Enrollment is limited to Graduate level students.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "STAT 2560": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "STAT 2602": {
+    "text": "Prerequisites: ( STAT 2510 or PHP 2510 ) and ( STAT 2511 or PHP 2511 ). Enrollment is limited to Graduate level students.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "STAT 2610": {
+    "text": "Prerequisites: MATH 1210 or 1610 or ( STAT 2511 , PHP 2511 , STAT 2580 , PHP 2580 , STAT 2514 or PHP 2514 ). Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "STAT 2650": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "STS 1700T": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "TAPS 0220": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "TAPS 0230": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "TAPS 0250": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "TAPS 0260": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "TAPS 0310": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "TAPS 0320": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "TAPS 0330": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "TAPS 0360": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "TAPS 0700": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "TAPS 0800I": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "TAPS 0930C": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "TAPS 1000": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "TAPS 1100": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "TAPS 1230": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "TAPS 1240": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "TAPS 1250": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "TAPS 1251C": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "TAPS 1280E": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "TAPS 1280F": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "TAPS 1280Y": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "TAPS 1281A": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "TAPS 1281E": {
+    "text": "Prerequisites: TAPS 0230 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "TAPS 1281G": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "TAPS 1281M": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "TAPS 1281O": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "TAPS 1281Q": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "TAPS 1281Z": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "TAPS 1300": {
+    "text": "Prerequisites: TAPS 1280F or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "TAPS 1320": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "TAPS 1330": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "TAPS 1340": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "TAPS 1341": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "TAPS 1342": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "TAPS 1343": {
+    "text": "Prerequisites: TAPS 1342 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "TAPS 1344": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "TAPS 1348": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "TAPS 1390": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "TAPS 1425": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "TAPS 1500P": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "TAPS 1600": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "TAPS 1670": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "TKSH 0100": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "TKSH 0110": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "TKSH 0200": {
+    "text": "Prerequisite: TKSH 0100 . A minimum grade of S is required in TKSH 0100 . Enrollment is limited to Undergraduate level students. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "TKSH 0300": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "TKSH 0400": {
+    "text": "Prerequisites: TKSH 0100 , 0200 and 0300 . A minimum grade of S is required in TKSH 0100 , TKSH 0200 and TKSH 0300 . Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "TKSH 0500": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "TKSH 0600": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "TKSH 0720A": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "TKSH 0720B": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "UNIV 1001": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "URBN 0074": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "URBN 0210": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "URBN 0214": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "URBN 0215": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "URBN 0230": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "URBN 0820A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "URBN 1000": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "URBN 1100": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "URBN 1140": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "URBN 1200": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "URBN 1250": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "URBN 1251": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "URBN 1260": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202320"
+  },
+  "URBN 1270": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "URBN 1290": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "URBN 1870A": {
+    "text": "Prerequisites: POLS 0220 , PLCY 0022 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202320"
+  },
+  "URBN 1870D": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "URBN 1870G": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "URBN 1870J": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "URBN 1870K": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "URBN 1870M": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "URBN 1870N": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "URBN 1870Q": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "URBN 1870T": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "URBN 1870X": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "URBN 1870Z": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "URBN 1871A": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "URBN 1871B": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "URBN 1871E": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "URBN 1871F": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "URBN 1871G": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "URBN 1872": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "URBN 1932": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "URBN 1943": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "VISA 0100": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "VISA 0120": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "VISA 0130": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "VISA 0140": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "VISA 0150": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "VISA 0160": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
   }
 }

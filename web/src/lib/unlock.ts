@@ -12,7 +12,7 @@ export function unlockedCourses(g: Graph, taken: Set<string>): Set<string> {
     const groups = new Map<number, boolean>(); // group -> satisfied
     let hasPrereqs = false;
     for (const e of g.inEdges(id)) {
-      if (g.getEdgeAttribute(e, "type") !== "PREREQ_OF") continue;
+      if (g.getEdgeAttribute(e, "etype") !== "PREREQ_OF") continue;
       hasPrereqs = true;
       const grp = (g.getEdgeAttribute(e, "group") as number) ?? 0;
       const satisfied = groups.get(grp) ?? false;
@@ -39,7 +39,7 @@ export function concentrationProgress(
     const courses: string[] = [];
     const subgroups: string[] = [];
     for (const e of g.inEdges(rgId)) {
-      const t = g.getEdgeAttribute(e, "type");
+      const t = g.getEdgeAttribute(e, "etype");
       const src = g.source(e);
       if (t === "FULFILLS") courses.push(src);
       else if (t === "PART_OF") subgroups.push(src);
@@ -79,7 +79,7 @@ export function concentrationProgress(
   };
 
   for (const e of g.inEdges(concId)) {
-    if (g.getEdgeAttribute(e, "type") !== "PART_OF") continue;
+    if (g.getEdgeAttribute(e, "etype") !== "PART_OF") continue;
     const r = satisfiedIn(g.source(e));
     satisfied += r.got;
     required += r.need;

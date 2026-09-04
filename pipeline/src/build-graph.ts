@@ -18,12 +18,19 @@ export function assembleGraph(
     }
   };
 
+  const usedConcIds = new Map<string, number>();
   for (const conc of concentrations) {
-    const concId = `conc:${conc.slug}:${conc.degree.replace(/\s+/g, "-")}`;
-    if (g.hasNode(concId)) continue; // duplicate degree label on one page
+    let concId = `conc:${conc.slug}:${conc.degree.replace(/\s+/g, "-")}`;
+    const seen = usedConcIds.get(concId) ?? 0;
+    usedConcIds.set(concId, seen + 1);
+    let label = `${conc.name} (${conc.degree})`;
+    if (seen > 0) {
+      concId = `${concId}:${seen + 1}`;
+      label = `${conc.name} (${conc.degree} ${seen + 1})`;
+    }
     g.addNode(concId, {
       kind: "concentration",
-      label: `${conc.name} (${conc.degree})`,
+      label,
       slug: conc.slug,
       degree: conc.degree,
     });
@@ -36,7 +43,7 @@ export function assembleGraph(
         return;
       }
       if (node.kind === "series") {
-        const seriesId = `rg:${conc.slug}:${conc.degree}:${rgCounter++}`;
+        const seriesId = `rg:${concId.slice(5)}:${rgCounter++}`;
         g.addNode(seriesId, {
           kind: "reqgroup",
           label: node.codes.join(" & "),
@@ -50,7 +57,7 @@ export function assembleGraph(
         return;
       }
       // group
-      const rgId = `rg:${conc.slug}:${conc.degree}:${rgCounter++}`;
+      const rgId = `rg:${concId.slice(5)}:${rgCounter++}`;
       g.addNode(rgId, {
         kind: "reqgroup",
         label: node.label,

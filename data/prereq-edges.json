@@ -1,0 +1,9776 @@
+[
+  {
+    "from": "MATH 0100",
+    "to": "APMA 0160",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0350",
+    "to": "APMA 0160",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0260",
+    "to": "APMA 0160",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0355",
+    "to": "APMA 0160",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0170",
+    "to": "APMA 0160",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "APMA 0160",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0190",
+    "to": "APMA 0160",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "APMA 0160",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "APMA 0160",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0100",
+    "to": "APMA 0200",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0170",
+    "to": "APMA 0200",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "APMA 0200",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0190",
+    "to": "APMA 0200",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "APMA 0200",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "APMA 0200",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0260",
+    "to": "APMA 0200",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0350",
+    "to": "APMA 0200",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0355",
+    "to": "APMA 0200",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0100",
+    "to": "APMA 0260",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0170",
+    "to": "APMA 0260",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0190",
+    "to": "APMA 0260",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0100",
+    "to": "APMA 0350",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0170",
+    "to": "APMA 0350",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "APMA 0350",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0190",
+    "to": "APMA 0350",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "APMA 0350",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "APMA 0350",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0260",
+    "to": "APMA 0350",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0260",
+    "to": "APMA 0355",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "APMA 0355",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "APMA 0355",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "APMA 0355",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0520",
+    "to": "APMA 0355",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0530",
+    "to": "APMA 0355",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0540",
+    "to": "APMA 0355",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "APMA 0360",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "APMA 0360",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "APMA 0360",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0260",
+    "to": "APMA 0360",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0350",
+    "to": "APMA 0360",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0355",
+    "to": "APMA 0360",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1110",
+    "to": "APMA 0360",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0260",
+    "to": "APMA 0365",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "APMA 0365",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "APMA 0365",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "APMA 0365",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0520",
+    "to": "APMA 0365",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0540",
+    "to": "APMA 0365",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0355",
+    "to": "APMA 0365",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0350",
+    "to": "APMA 0365",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1110",
+    "to": "APMA 0365",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0260",
+    "to": "APMA 1070",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "APMA 1070",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "APMA 1070",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "APMA 1070",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0520",
+    "to": "APMA 1070",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0540",
+    "to": "APMA 1070",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0355",
+    "to": "APMA 1070",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0350",
+    "to": "APMA 1070",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1110",
+    "to": "APMA 1070",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0260",
+    "to": "APMA 1080",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "APMA 1080",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "APMA 1080",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "APMA 1080",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0520",
+    "to": "APMA 1080",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0540",
+    "to": "APMA 1080",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1655",
+    "to": "APMA 1080",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1650",
+    "to": "APMA 1080",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1210",
+    "to": "APMA 1080",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1450",
+    "to": "APMA 1080",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0160",
+    "to": "APMA 1080",
+    "group": 3,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0200",
+    "to": "APMA 1080",
+    "group": 3,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1160",
+    "to": "APMA 1080",
+    "group": 3,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1170",
+    "to": "APMA 1080",
+    "group": 3,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1180",
+    "to": "APMA 1080",
+    "group": 3,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1210",
+    "to": "APMA 1080",
+    "group": 3,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1690",
+    "to": "APMA 1080",
+    "group": 3,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1720",
+    "to": "APMA 1080",
+    "group": 3,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1740",
+    "to": "APMA 1080",
+    "group": 3,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1860",
+    "to": "APMA 1080",
+    "group": 3,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0111",
+    "to": "APMA 1080",
+    "group": 3,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0150",
+    "to": "APMA 1080",
+    "group": 3,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0170",
+    "to": "APMA 1080",
+    "group": 3,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0190",
+    "to": "APMA 1080",
+    "group": 3,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0200",
+    "to": "APMA 1080",
+    "group": 3,
+    "kind": "hard"
+  },
+  {
+    "from": "CPSY 0950",
+    "to": "APMA 1080",
+    "group": 3,
+    "kind": "hard"
+  },
+  {
+    "from": "EEPS 0250",
+    "to": "APMA 1080",
+    "group": 3,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0260",
+    "to": "APMA 1160",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "APMA 1160",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "APMA 1160",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "APMA 1160",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0520",
+    "to": "APMA 1160",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0530",
+    "to": "APMA 1160",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0540",
+    "to": "APMA 1160",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0160",
+    "to": "APMA 1160",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0200",
+    "to": "APMA 1160",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1080",
+    "to": "APMA 1160",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1170",
+    "to": "APMA 1160",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1180",
+    "to": "APMA 1160",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1210",
+    "to": "APMA 1160",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1690",
+    "to": "APMA 1160",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1740",
+    "to": "APMA 1160",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1860",
+    "to": "APMA 1160",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1720",
+    "to": "APMA 1160",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0111",
+    "to": "APMA 1160",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0150",
+    "to": "APMA 1160",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0170",
+    "to": "APMA 1160",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0190",
+    "to": "APMA 1160",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0200",
+    "to": "APMA 1160",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "EEPS 0250",
+    "to": "APMA 1160",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "GEOL 0250",
+    "to": "APMA 1160",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "CPSY 0950",
+    "to": "APMA 1160",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0950",
+    "to": "APMA 1160",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0260",
+    "to": "APMA 1170",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "APMA 1170",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "APMA 1170",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "APMA 1170",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0520",
+    "to": "APMA 1170",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0530",
+    "to": "APMA 1170",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0540",
+    "to": "APMA 1170",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0260",
+    "to": "APMA 1180",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "APMA 1180",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "APMA 1180",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "APMA 1180",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0520",
+    "to": "APMA 1180",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0540",
+    "to": "APMA 1180",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0355",
+    "to": "APMA 1180",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0350",
+    "to": "APMA 1180",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1110",
+    "to": "APMA 1180",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0365",
+    "to": "APMA 1180",
+    "group": 3,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0360",
+    "to": "APMA 1180",
+    "group": 3,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1120",
+    "to": "APMA 1180",
+    "group": 3,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0260",
+    "to": "APMA 1200",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "APMA 1200",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "APMA 1200",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "APMA 1200",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0520",
+    "to": "APMA 1200",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0540",
+    "to": "APMA 1200",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1655",
+    "to": "APMA 1200",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1650",
+    "to": "APMA 1200",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1210",
+    "to": "APMA 1200",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1450",
+    "to": "APMA 1200",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0260",
+    "to": "APMA 1210",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "APMA 1210",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "APMA 1210",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "APMA 1210",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0520",
+    "to": "APMA 1210",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0530",
+    "to": "APMA 1210",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0540",
+    "to": "APMA 1210",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0160",
+    "to": "APMA 1210",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0200",
+    "to": "APMA 1210",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1160",
+    "to": "APMA 1210",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1080",
+    "to": "APMA 1210",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1170",
+    "to": "APMA 1210",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1180",
+    "to": "APMA 1210",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1690",
+    "to": "APMA 1210",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1720",
+    "to": "APMA 1210",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1740",
+    "to": "APMA 1210",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1860",
+    "to": "APMA 1210",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0111",
+    "to": "APMA 1210",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0150",
+    "to": "APMA 1210",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0170",
+    "to": "APMA 1210",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0190",
+    "to": "APMA 1210",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "EEPS 0250",
+    "to": "APMA 1210",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "GEOL 0250",
+    "to": "APMA 1210",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "CPSY 0950",
+    "to": "APMA 1210",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0950",
+    "to": "APMA 1210",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0200",
+    "to": "APMA 1210",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0260",
+    "to": "APMA 1330",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "APMA 1330",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "APMA 1330",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "APMA 1330",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0520",
+    "to": "APMA 1330",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0540",
+    "to": "APMA 1330",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0365",
+    "to": "APMA 1330",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0360",
+    "to": "APMA 1330",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1120",
+    "to": "APMA 1330",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0260",
+    "to": "APMA 1360",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "APMA 1360",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "APMA 1360",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "APMA 1360",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0520",
+    "to": "APMA 1360",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0540",
+    "to": "APMA 1360",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0355",
+    "to": "APMA 1360",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0350",
+    "to": "APMA 1360",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1110",
+    "to": "APMA 1360",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0100",
+    "to": "APMA 1650",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0170",
+    "to": "APMA 1650",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "APMA 1650",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0190",
+    "to": "APMA 1650",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "APMA 1650",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "APMA 1650",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0260",
+    "to": "APMA 1650",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0350",
+    "to": "APMA 1650",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0355",
+    "to": "APMA 1650",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 0170",
+    "to": "APMA 1650",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0260",
+    "to": "APMA 1655",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "APMA 1655",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "APMA 1655",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "APMA 1655",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0520",
+    "to": "APMA 1655",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0530",
+    "to": "APMA 1655",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0540",
+    "to": "APMA 1655",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0260",
+    "to": "APMA 1660",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "APMA 1660",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "APMA 1660",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "APMA 1660",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0520",
+    "to": "APMA 1660",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0540",
+    "to": "APMA 1660",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1655",
+    "to": "APMA 1660",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1650",
+    "to": "APMA 1660",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1210",
+    "to": "APMA 1660",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1450",
+    "to": "APMA 1660",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0260",
+    "to": "APMA 1690",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "APMA 1690",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "APMA 1690",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "APMA 1690",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0520",
+    "to": "APMA 1690",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0540",
+    "to": "APMA 1690",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1655",
+    "to": "APMA 1690",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1650",
+    "to": "APMA 1690",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1210",
+    "to": "APMA 1690",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1450",
+    "to": "APMA 1690",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0450",
+    "to": "APMA 1690",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0260",
+    "to": "APMA 1710",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "APMA 1710",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "APMA 1710",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "APMA 1710",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0520",
+    "to": "APMA 1710",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0540",
+    "to": "APMA 1710",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1655",
+    "to": "APMA 1710",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1650",
+    "to": "APMA 1710",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1210",
+    "to": "APMA 1710",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1450",
+    "to": "APMA 1710",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0260",
+    "to": "APMA 1720",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "APMA 1720",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "APMA 1720",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "APMA 1720",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0520",
+    "to": "APMA 1720",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0540",
+    "to": "APMA 1720",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1655",
+    "to": "APMA 1720",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1650",
+    "to": "APMA 1720",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1210",
+    "to": "APMA 1720",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1450",
+    "to": "APMA 1720",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0260",
+    "to": "APMA 1740",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "APMA 1740",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "APMA 1740",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "APMA 1740",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0520",
+    "to": "APMA 1740",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0540",
+    "to": "APMA 1740",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1655",
+    "to": "APMA 1740",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1650",
+    "to": "APMA 1740",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1210",
+    "to": "APMA 1740",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1450",
+    "to": "APMA 1740",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0260",
+    "to": "APMA 1860",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "APMA 1860",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "APMA 1860",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "APMA 1860",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0520",
+    "to": "APMA 1860",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0540",
+    "to": "APMA 1860",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0355",
+    "to": "APMA 1860",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0350",
+    "to": "APMA 1860",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1110",
+    "to": "APMA 1860",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1655",
+    "to": "APMA 1860",
+    "group": 3,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1650",
+    "to": "APMA 1860",
+    "group": 3,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1210",
+    "to": "APMA 1860",
+    "group": 3,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1450",
+    "to": "APMA 1860",
+    "group": 3,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0360",
+    "to": "APMA 1930P",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0340",
+    "to": "APMA 1930P",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1120",
+    "to": "APMA 1930P",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ARAB 0100",
+    "to": "ARAB 0200",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ARAB 0100",
+    "to": "ARAB 0300",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ARAB 0300",
+    "to": "ARAB 0400",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ARAB 0400",
+    "to": "ARAB 0500",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ARAB 0500",
+    "to": "ARAB 0600",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ARAB 0600",
+    "to": "ARAB 0700",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ARAB 0600",
+    "to": "ARAB 0800",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ASYR 0200",
+    "to": "ASYR 1010",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "AWAS 0200",
+    "to": "ASYR 1010",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ASYR 1000",
+    "to": "ASYR 1010",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "BHBR 0100",
+    "to": "BHBR 0200",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "JUDS 0090A",
+    "to": "BHBR 0200",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CHEM 0350",
+    "to": "BIOL 0280",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "BIOL 0280",
+    "to": "BIOL 0285",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "BIOL 0470",
+    "to": "BIOL 0285",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "BIOL 0200",
+    "to": "BIOL 0500",
+    "group": 0,
+    "kind": "placement"
+  },
+  {
+    "from": "BIOL 0280",
+    "to": "BIOL 0510",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "BIOL 0470",
+    "to": "BIOL 0510",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "BIOL 0530",
+    "to": "BIOL 0510",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "BIOL 0200",
+    "to": "BIOL 0800",
+    "group": 0,
+    "kind": "placement"
+  },
+  {
+    "from": "BIOL 0280",
+    "to": "BIOL 1050",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "BIOL 0470",
+    "to": "BIOL 1050",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "BIOL 0500",
+    "to": "BIOL 1050",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "BIOL 0800",
+    "to": "BIOL 1120",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "BIOL 0800",
+    "to": "BIOL 1160",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "BIOL 0280",
+    "to": "BIOL 1290",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "BIOL 0470",
+    "to": "BIOL 1290",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "BIOL 0500",
+    "to": "BIOL 1290",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "BIOL 0280",
+    "to": "BIOL 1300",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0100",
+    "to": "BIOL 1430",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0170",
+    "to": "BIOL 1430",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0190",
+    "to": "BIOL 1430",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "BIOL 0470",
+    "to": "BIOL 1430",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "BIOL 0480",
+    "to": "BIOL 1430",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "BIOL 0470",
+    "to": "BIOL 1435",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0100",
+    "to": "BIOL 1435",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0170",
+    "to": "BIOL 1435",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0190",
+    "to": "BIOL 1435",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "BIOL 0480",
+    "to": "BIOL 1435",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "BIOL 0420",
+    "to": "BIOL 1440",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "BIOL 1470",
+    "to": "BIOL 1440",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "BIOL 0200",
+    "to": "BIOL 1505",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "BIOL 0530",
+    "to": "BIOL 1520",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "BIOL 0470",
+    "to": "BIOL 1540",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "BIOL 0470",
+    "to": "BIOL 1545",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "BIOL 0280",
+    "to": "BIOL 1560",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "BIOL 0470",
+    "to": "BIOL 1560",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "BIOL 0530",
+    "to": "BIOL 1560",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "BIOL 0280",
+    "to": "BIOL 1580",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0950",
+    "to": "BIOL 1595",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 1292",
+    "to": "BIOL 1595",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0020",
+    "to": "BIOL 1595",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0150",
+    "to": "BIOL 1595",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0170",
+    "to": "BIOL 1595",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0180",
+    "to": "BIOL 1595",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "BIOL 1555",
+    "to": "BIOL 1595",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 2561",
+    "to": "BIOL 1595",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 1560",
+    "to": "BIOL 1595",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 2560",
+    "to": "BIOL 1595",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 2690F",
+    "to": "BIOL 1595",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MPA 2065",
+    "to": "BIOL 1595",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PLCY 2065",
+    "to": "BIOL 1595",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 2912B",
+    "to": "BIOL 1595",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "NEUR 0010",
+    "to": "BIOL 1610",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "NEUR 0010",
+    "to": "BIOL 1650",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "NEUR 1020",
+    "to": "BIOL 1650",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 0320",
+    "to": "BSS 0700",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 0320C",
+    "to": "BSS 0700",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 0320",
+    "to": "BSS 1300",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 0320C",
+    "to": "BSS 1300",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HSP 0310",
+    "to": "BSS 1650",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 0310",
+    "to": "BSS 1650",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 0320",
+    "to": "BSS 1810",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "EPI 0850",
+    "to": "BSS 1950",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 0850",
+    "to": "BSS 1950",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "EPI 2120",
+    "to": "BSS 1950",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 2120",
+    "to": "BSS 1950",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "EPI 2150",
+    "to": "BSS 1950",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 2150",
+    "to": "BSS 1950",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 0320",
+    "to": "BSS 1998",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CHEM 0330",
+    "to": "CHEM 0350",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CHEM 0350",
+    "to": "CHEM 0360",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CHEM 0360",
+    "to": "CHEM 0370",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CHEM 0360",
+    "to": "CHEM 0400",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0040",
+    "to": "CHEM 0400",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0060",
+    "to": "CHEM 0400",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "CHEM 0360",
+    "to": "CHEM 0500",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CHEM 0500",
+    "to": "CHEM 0600",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CHEM 0400",
+    "to": "CHEM 0600",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CHEM 0500",
+    "to": "CHEM 1060",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CHEM 0330",
+    "to": "CHEM 1140",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "CHEM 1140",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "CHEM 1140",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "CHEM 1140",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0030",
+    "to": "CHEM 1140",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0050",
+    "to": "CHEM 1140",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0040",
+    "to": "CHEM 1140",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0040",
+    "to": "CHEM 1140",
+    "group": 3,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0060",
+    "to": "CHEM 1140",
+    "group": 3,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0070",
+    "to": "CHEM 1140",
+    "group": 3,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0470",
+    "to": "CHEM 1140",
+    "group": 3,
+    "kind": "hard"
+  },
+  {
+    "from": "CHEM 1140",
+    "to": "CHEM 1150",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CHEM 1140",
+    "to": "CHEM 1160",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CHEM 0360",
+    "to": "CHEM 1230",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "BIOL 0280",
+    "to": "CHEM 1230",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "BIOL 0280",
+    "to": "CHEM 1240",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CHEM 0360",
+    "to": "CHEM 1240",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "CHEM 0360",
+    "to": "CHEM 1450",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CHEM 0360",
+    "to": "CHEM 1560H",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CHEM 0036",
+    "to": "CHEM 1560H",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "BIOL 0280",
+    "to": "CHEM 1560H",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "BIOL 0028",
+    "to": "CHEM 1560H",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "CHEM 1140",
+    "to": "CHEM 1560K",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CHEM 0360",
+    "to": "CHEM 1560N",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CHEM 0360",
+    "to": "CHEM 1560S",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CHEM 0350",
+    "to": "CHEM 1700",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0030",
+    "to": "CHEM 1700",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0050",
+    "to": "CHEM 1700",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CHIN 0100",
+    "to": "CHIN 0200",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CHIN 0200",
+    "to": "CHIN 0300",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CHIN 0300",
+    "to": "CHIN 0400",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CHIN 0350",
+    "to": "CHIN 0450",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CHIN 0250",
+    "to": "CHIN 0500",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CHIN 0400",
+    "to": "CHIN 0500",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CHIN 0500",
+    "to": "CHIN 0600",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CHIN 0600",
+    "to": "CHIN 0700",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CHIN 0700",
+    "to": "CHIN 0800",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CHIN 0800",
+    "to": "CHIN 0911",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CHIN 0800",
+    "to": "CHIN 0912",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CHIN 0800",
+    "to": "CHIN 0914",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "NEUR 0010",
+    "to": "COST 1020",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CPSY 0010",
+    "to": "CPSY 1195",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0010",
+    "to": "CPSY 1195",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "NEUR 0010",
+    "to": "CPSY 1195",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "BIOL 0200",
+    "to": "CPSY 1195",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CPSY 0950",
+    "to": "CPSY 1291",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0950",
+    "to": "CPSY 1291",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CPSY 1292",
+    "to": "CPSY 1291",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0111",
+    "to": "CPSY 1291",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0150",
+    "to": "CPSY 1291",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0160",
+    "to": "CPSY 1291",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0170",
+    "to": "CPSY 1291",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0190",
+    "to": "CPSY 1291",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0200",
+    "to": "CPSY 1291",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1470",
+    "to": "CPSY 1291",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 2470",
+    "to": "CPSY 1291",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0160",
+    "to": "CPSY 1291",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "EEPS 0250",
+    "to": "CPSY 1291",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CPSY 0010",
+    "to": "CPSY 1470",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0010",
+    "to": "CPSY 1470",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CPSY 1291",
+    "to": "CPSY 1470",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 1291",
+    "to": "CPSY 1470",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CPSY 1400",
+    "to": "CPSY 1470",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 1400",
+    "to": "CPSY 1470",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CPSY 1491",
+    "to": "CPSY 1470",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 1491",
+    "to": "CPSY 1470",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CPSY 1492",
+    "to": "CPSY 1470",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 1492",
+    "to": "CPSY 1470",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "NEUR 0010",
+    "to": "CPSY 1470",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CPSY 0010",
+    "to": "CPSY 1480H",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0010",
+    "to": "CPSY 1480H",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CPSY 0200",
+    "to": "CPSY 1480H",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0200",
+    "to": "CPSY 1480H",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CPSY 0400",
+    "to": "CPSY 1480H",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0400",
+    "to": "CPSY 1480H",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CPSY 0450",
+    "to": "CPSY 1480H",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0450",
+    "to": "CPSY 1480H",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "NEUR 0010",
+    "to": "CPSY 1480H",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CPSY 0010",
+    "to": "CPSY 1480I",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0010",
+    "to": "CPSY 1480I",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CPSY 0200",
+    "to": "CPSY 1480I",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0200",
+    "to": "CPSY 1480I",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CPSY 0400",
+    "to": "CPSY 1480I",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0400",
+    "to": "CPSY 1480I",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CPSY 0450",
+    "to": "CPSY 1480I",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0450",
+    "to": "CPSY 1480I",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CPSY 0200",
+    "to": "CPSY 1492",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0200",
+    "to": "CPSY 1492",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "NEUR 0010",
+    "to": "CPSY 1492",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CPSY 0010",
+    "to": "CPSY 1500",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0010",
+    "to": "CPSY 1500",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CPSY 0020",
+    "to": "CPSY 1500",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0020",
+    "to": "CPSY 1500",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CPSY 0500",
+    "to": "CPSY 1500",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0500",
+    "to": "CPSY 1500",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CPSY 0510",
+    "to": "CPSY 1500",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0510",
+    "to": "CPSY 1500",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CPSY 0010",
+    "to": "CPSY 1560",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0010",
+    "to": "CPSY 1560",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CPSY 0020",
+    "to": "CPSY 1560",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0020",
+    "to": "CPSY 1560",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "NEUR 0010",
+    "to": "CPSY 1560",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CPSY 0500",
+    "to": "CPSY 1591",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CPSY 1540",
+    "to": "CPSY 1591",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CPSY 0900",
+    "to": "CPSY 1591",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "CPSY 0610",
+    "to": "CPSY 1680H",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0610",
+    "to": "CPSY 1680H",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0611",
+    "to": "CPSY 1680H",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CPSY 0620",
+    "to": "CPSY 1680H",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0620",
+    "to": "CPSY 1680H",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CPSY 0700",
+    "to": "CPSY 1680H",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0700",
+    "to": "CPSY 1680H",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CPSY 0010",
+    "to": "CPSY 1791",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0010",
+    "to": "CPSY 1791",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CPSY 0700",
+    "to": "CPSY 1791",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0700",
+    "to": "CPSY 1791",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "CPSY 0900",
+    "to": "CPSY 1791",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0900",
+    "to": "CPSY 1791",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "CPSY 0800",
+    "to": "CPSY 1850",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0800",
+    "to": "CPSY 1850",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CPSY 1800",
+    "to": "CPSY 1850",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 1800",
+    "to": "CPSY 1850",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CPSY 1650",
+    "to": "CPSY 1850",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 1650",
+    "to": "CPSY 1850",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0090",
+    "to": "CPSY 1850",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0060",
+    "to": "CPSY 1850",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0070",
+    "to": "CPSY 1850",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "CPSY 0900",
+    "to": "CPSY 1900",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0900",
+    "to": "CPSY 1900",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0111",
+    "to": "CSCI 0112",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0112",
+    "to": "CSCI 0200",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0150",
+    "to": "CSCI 0200",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0170",
+    "to": "CSCI 0200",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0190",
+    "to": "CSCI 0200",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0190",
+    "to": "CSCI 0300",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0200",
+    "to": "CSCI 0300",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0190",
+    "to": "CSCI 0320",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0200",
+    "to": "CSCI 0320",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0160",
+    "to": "CSCI 0330",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0180",
+    "to": "CSCI 0330",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0190",
+    "to": "CSCI 0330",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0200",
+    "to": "CSCI 0330",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0190",
+    "to": "CSCI 0410",
+    "group": 0,
+    "kind": "placement"
+  },
+  {
+    "from": "CSCI 0200",
+    "to": "CSCI 0410",
+    "group": 0,
+    "kind": "placement"
+  },
+  {
+    "from": "CSCI 0220",
+    "to": "CSCI 0410",
+    "group": 1,
+    "kind": "placement"
+  },
+  {
+    "from": "MATH 1530",
+    "to": "CSCI 0410",
+    "group": 1,
+    "kind": "placement"
+  },
+  {
+    "from": "APMA 1650",
+    "to": "CSCI 0410",
+    "group": 1,
+    "kind": "placement"
+  },
+  {
+    "from": "APMA 1655",
+    "to": "CSCI 0410",
+    "group": 1,
+    "kind": "placement"
+  },
+  {
+    "from": "CSCI 1450",
+    "to": "CSCI 0410",
+    "group": 1,
+    "kind": "placement"
+  },
+  {
+    "from": "CSCI 0450",
+    "to": "CSCI 0410",
+    "group": 1,
+    "kind": "placement"
+  },
+  {
+    "from": "CSCI 0530",
+    "to": "CSCI 0410",
+    "group": 2,
+    "kind": "placement"
+  },
+  {
+    "from": "MATH 0520",
+    "to": "CSCI 0410",
+    "group": 2,
+    "kind": "placement"
+  },
+  {
+    "from": "MATH 0530",
+    "to": "CSCI 0410",
+    "group": 2,
+    "kind": "placement"
+  },
+  {
+    "from": "MATH 0540",
+    "to": "CSCI 0410",
+    "group": 2,
+    "kind": "placement"
+  },
+  {
+    "from": "APMA 0260",
+    "to": "CSCI 0410",
+    "group": 2,
+    "kind": "placement"
+  },
+  {
+    "from": "CSCI 0190",
+    "to": "CSCI 0500",
+    "group": 0,
+    "kind": "placement"
+  },
+  {
+    "from": "CSCI 0200",
+    "to": "CSCI 0500",
+    "group": 0,
+    "kind": "placement"
+  },
+  {
+    "from": "CSCI 0220",
+    "to": "CSCI 0500",
+    "group": 1,
+    "kind": "placement"
+  },
+  {
+    "from": "MATH 0540",
+    "to": "CSCI 0500",
+    "group": 1,
+    "kind": "placement"
+  },
+  {
+    "from": "APMA 1650",
+    "to": "CSCI 0500",
+    "group": 1,
+    "kind": "placement"
+  },
+  {
+    "from": "CSCI 0500",
+    "to": "CSCI 1010",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1570",
+    "to": "CSCI 1010",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0190",
+    "to": "CSCI 1230",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0200",
+    "to": "CSCI 1230",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0330",
+    "to": "CSCI 1270",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0300",
+    "to": "CSCI 1270",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1310",
+    "to": "CSCI 1270",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0160",
+    "to": "CSCI 1300",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0180",
+    "to": "CSCI 1300",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0190",
+    "to": "CSCI 1300",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0200",
+    "to": "CSCI 1300",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0320",
+    "to": "CSCI 1300",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1340",
+    "to": "CSCI 1300",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0320",
+    "to": "CSCI 1380",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0330",
+    "to": "CSCI 1380",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0300",
+    "to": "CSCI 1380",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1310",
+    "to": "CSCI 1380",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1950S",
+    "to": "CSCI 1380",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1330",
+    "to": "CSCI 1380",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1340",
+    "to": "CSCI 1380",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0160",
+    "to": "CSCI 1410",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0180",
+    "to": "CSCI 1410",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0190",
+    "to": "CSCI 1410",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0200",
+    "to": "CSCI 1410",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0220",
+    "to": "CSCI 1410",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1450",
+    "to": "CSCI 1410",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0450",
+    "to": "CSCI 1410",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1650",
+    "to": "CSCI 1410",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1655",
+    "to": "CSCI 1410",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0190",
+    "to": "CSCI 1411",
+    "group": 0,
+    "kind": "placement"
+  },
+  {
+    "from": "CSCI 0200",
+    "to": "CSCI 1411",
+    "group": 0,
+    "kind": "placement"
+  },
+  {
+    "from": "CSCI 0220",
+    "to": "CSCI 1411",
+    "group": 1,
+    "kind": "placement"
+  },
+  {
+    "from": "MATH 1530",
+    "to": "CSCI 1411",
+    "group": 1,
+    "kind": "placement"
+  },
+  {
+    "from": "APMA 1650",
+    "to": "CSCI 1411",
+    "group": 1,
+    "kind": "placement"
+  },
+  {
+    "from": "APMA 1655",
+    "to": "CSCI 1411",
+    "group": 1,
+    "kind": "placement"
+  },
+  {
+    "from": "CSCI 1450",
+    "to": "CSCI 1411",
+    "group": 1,
+    "kind": "placement"
+  },
+  {
+    "from": "CSCI 0450",
+    "to": "CSCI 1411",
+    "group": 1,
+    "kind": "placement"
+  },
+  {
+    "from": "CSCI 0530",
+    "to": "CSCI 1411",
+    "group": 2,
+    "kind": "placement"
+  },
+  {
+    "from": "MATH 0520",
+    "to": "CSCI 1411",
+    "group": 2,
+    "kind": "placement"
+  },
+  {
+    "from": "MATH 0530",
+    "to": "CSCI 1411",
+    "group": 2,
+    "kind": "placement"
+  },
+  {
+    "from": "MATH 0540",
+    "to": "CSCI 1411",
+    "group": 2,
+    "kind": "placement"
+  },
+  {
+    "from": "APMA 0260",
+    "to": "CSCI 1411",
+    "group": 2,
+    "kind": "placement"
+  },
+  {
+    "from": "CSCI 0190",
+    "to": "CSCI 1420",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0200",
+    "to": "CSCI 1420",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1450",
+    "to": "CSCI 1420",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0450",
+    "to": "CSCI 1420",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1650",
+    "to": "CSCI 1420",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1655",
+    "to": "CSCI 1420",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0530",
+    "to": "CSCI 1420",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0520",
+    "to": "CSCI 1420",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0530",
+    "to": "CSCI 1420",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0540",
+    "to": "CSCI 1420",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0260",
+    "to": "CSCI 1420",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0410",
+    "to": "CSCI 1420",
+    "group": 3,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1411",
+    "to": "CSCI 1420",
+    "group": 3,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1430",
+    "to": "CSCI 1420",
+    "group": 3,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1460",
+    "to": "CSCI 1420",
+    "group": 3,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1470",
+    "to": "CSCI 1420",
+    "group": 3,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 2470",
+    "to": "CSCI 1420",
+    "group": 3,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0190",
+    "to": "CSCI 1430",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0200",
+    "to": "CSCI 1430",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0520",
+    "to": "CSCI 1430",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0530",
+    "to": "CSCI 1430",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0540",
+    "to": "CSCI 1430",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0530",
+    "to": "CSCI 1430",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0260",
+    "to": "CSCI 1430",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0410",
+    "to": "CSCI 1430",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1411",
+    "to": "CSCI 1430",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1420",
+    "to": "CSCI 1430",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1950F",
+    "to": "CSCI 1430",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1460",
+    "to": "CSCI 1430",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1470",
+    "to": "CSCI 1430",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 2470",
+    "to": "CSCI 1430",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0100",
+    "to": "CSCI 1450",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0170",
+    "to": "CSCI 1450",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0190",
+    "to": "CSCI 1450",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0190",
+    "to": "CSCI 1470",
+    "group": 0,
+    "kind": "placement"
+  },
+  {
+    "from": "CSCI 0200",
+    "to": "CSCI 1470",
+    "group": 0,
+    "kind": "placement"
+  },
+  {
+    "from": "CSCI 0410",
+    "to": "CSCI 1470",
+    "group": 1,
+    "kind": "placement"
+  },
+  {
+    "from": "CSCI 1411",
+    "to": "CSCI 1470",
+    "group": 1,
+    "kind": "placement"
+  },
+  {
+    "from": "CSCI 1420",
+    "to": "CSCI 1470",
+    "group": 1,
+    "kind": "placement"
+  },
+  {
+    "from": "CSCI 1950F",
+    "to": "CSCI 1470",
+    "group": 1,
+    "kind": "placement"
+  },
+  {
+    "from": "CSCI 1430",
+    "to": "CSCI 1470",
+    "group": 1,
+    "kind": "placement"
+  },
+  {
+    "from": "CSCI 1460",
+    "to": "CSCI 1470",
+    "group": 1,
+    "kind": "placement"
+  },
+  {
+    "from": "CSCI 0530",
+    "to": "CSCI 1470",
+    "group": 2,
+    "kind": "placement"
+  },
+  {
+    "from": "APMA 0260",
+    "to": "CSCI 1470",
+    "group": 2,
+    "kind": "placement"
+  },
+  {
+    "from": "MATH 0520",
+    "to": "CSCI 1470",
+    "group": 2,
+    "kind": "placement"
+  },
+  {
+    "from": "MATH 0530",
+    "to": "CSCI 1470",
+    "group": 2,
+    "kind": "placement"
+  },
+  {
+    "from": "MATH 0540",
+    "to": "CSCI 1470",
+    "group": 2,
+    "kind": "placement"
+  },
+  {
+    "from": "CSCI 0220",
+    "to": "CSCI 1470",
+    "group": 3,
+    "kind": "placement"
+  },
+  {
+    "from": "CSCI 1450",
+    "to": "CSCI 1470",
+    "group": 3,
+    "kind": "placement"
+  },
+  {
+    "from": "CSCI 0450",
+    "to": "CSCI 1470",
+    "group": 3,
+    "kind": "placement"
+  },
+  {
+    "from": "MATH 1210",
+    "to": "CSCI 1470",
+    "group": 3,
+    "kind": "placement"
+  },
+  {
+    "from": "MATH 1610",
+    "to": "CSCI 1470",
+    "group": 3,
+    "kind": "placement"
+  },
+  {
+    "from": "APMA 1650",
+    "to": "CSCI 1470",
+    "group": 3,
+    "kind": "placement"
+  },
+  {
+    "from": "APMA 1655",
+    "to": "CSCI 1470",
+    "group": 3,
+    "kind": "placement"
+  },
+  {
+    "from": "CSCI 1420",
+    "to": "CSCI 1491",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1950F",
+    "to": "CSCI 1491",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "DATA 0200",
+    "to": "CSCI 1491",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0160",
+    "to": "CSCI 1520",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0180",
+    "to": "CSCI 1520",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0190",
+    "to": "CSCI 1520",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0200",
+    "to": "CSCI 1520",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1450",
+    "to": "CSCI 1520",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0450",
+    "to": "CSCI 1520",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1650",
+    "to": "CSCI 1520",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1655",
+    "to": "CSCI 1520",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0530",
+    "to": "CSCI 1520",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0520",
+    "to": "CSCI 1520",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0540",
+    "to": "CSCI 1520",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0500",
+    "to": "CSCI 1570",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1010",
+    "to": "CSCI 1570",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0510",
+    "to": "CSCI 1570",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0320",
+    "to": "CSCI 1600",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1340",
+    "to": "CSCI 1600",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0300",
+    "to": "CSCI 1600",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0330",
+    "to": "CSCI 1600",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1310",
+    "to": "CSCI 1600",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1950S",
+    "to": "CSCI 1600",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1330",
+    "to": "CSCI 1600",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0300",
+    "to": "CSCI 1660",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0330",
+    "to": "CSCI 1660",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1310",
+    "to": "CSCI 1660",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1950S",
+    "to": "CSCI 1660",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1330",
+    "to": "CSCI 1660",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0300",
+    "to": "CSCI 1670",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0330",
+    "to": "CSCI 1670",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1310",
+    "to": "CSCI 1670",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1950S",
+    "to": "CSCI 1670",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1330",
+    "to": "CSCI 1670",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0300",
+    "to": "CSCI 1680",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0330",
+    "to": "CSCI 1680",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1310",
+    "to": "CSCI 1680",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1950S",
+    "to": "CSCI 1680",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1330",
+    "to": "CSCI 1680",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0190",
+    "to": "CSCI 1730",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0200",
+    "to": "CSCI 1730",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0190",
+    "to": "CSCI 1810",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0200",
+    "to": "CSCI 1810",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1810",
+    "to": "CSCI 1820",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0160",
+    "to": "CSCI 1951A",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0180",
+    "to": "CSCI 1951A",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0190",
+    "to": "CSCI 1951A",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0200",
+    "to": "CSCI 1951A",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0320",
+    "to": "CSCI 1951I",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1340",
+    "to": "CSCI 1951I",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0300",
+    "to": "CSCI 1951I",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0330",
+    "to": "CSCI 1951I",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1320",
+    "to": "CSCI 1951I",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1310",
+    "to": "CSCI 1951I",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1950S",
+    "to": "CSCI 1951I",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1260",
+    "to": "CSCI 1951Q",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1730",
+    "to": "CSCI 1951Q",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0160",
+    "to": "CSCI 1951R",
+    "group": 0,
+    "kind": "placement"
+  },
+  {
+    "from": "CSCI 0180",
+    "to": "CSCI 1951R",
+    "group": 0,
+    "kind": "placement"
+  },
+  {
+    "from": "CSCI 0190",
+    "to": "CSCI 1951R",
+    "group": 0,
+    "kind": "placement"
+  },
+  {
+    "from": "CSCI 0200",
+    "to": "CSCI 1951R",
+    "group": 0,
+    "kind": "placement"
+  },
+  {
+    "from": "CSCI 0220",
+    "to": "CSCI 1951R",
+    "group": 1,
+    "kind": "placement"
+  },
+  {
+    "from": "CSCI 0450",
+    "to": "CSCI 1951R",
+    "group": 1,
+    "kind": "placement"
+  },
+  {
+    "from": "CSCI 1450",
+    "to": "CSCI 1951R",
+    "group": 1,
+    "kind": "placement"
+  },
+  {
+    "from": "CSCI 1420",
+    "to": "CSCI 1951Z",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1950F",
+    "to": "CSCI 1951Z",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "DATA 0200",
+    "to": "CSCI 1951Z",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0111",
+    "to": "DATA 0200",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0150",
+    "to": "DATA 0200",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0170",
+    "to": "DATA 0200",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0190",
+    "to": "DATA 0200",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0950",
+    "to": "DATA 0200",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 1292",
+    "to": "DATA 0200",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0060",
+    "to": "ECON 0170",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0070",
+    "to": "ECON 0170",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0090",
+    "to": "ECON 0170",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 0110",
+    "to": "ECON 1050",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 0110",
+    "to": "ECON 1070",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0060",
+    "to": "ECON 1090",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0070",
+    "to": "ECON 1090",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0100",
+    "to": "ECON 1090",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0090",
+    "to": "ECON 1090",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0170",
+    "to": "ECON 1090",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "ECON 1090",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0190",
+    "to": "ECON 1090",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "ECON 1090",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "ECON 1090",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 0170",
+    "to": "ECON 1090",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 0110",
+    "to": "ECON 1110",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0060",
+    "to": "ECON 1110",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0070",
+    "to": "ECON 1110",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0090",
+    "to": "ECON 1110",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0100",
+    "to": "ECON 1110",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0170",
+    "to": "ECON 1110",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0190",
+    "to": "ECON 1110",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "ECON 1110",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "ECON 1110",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "ECON 1110",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 0170",
+    "to": "ECON 1110",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 0110",
+    "to": "ECON 1130",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0100",
+    "to": "ECON 1130",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0170",
+    "to": "ECON 1130",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "ECON 1130",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0190",
+    "to": "ECON 1130",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "ECON 1130",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "ECON 1130",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 0170",
+    "to": "ECON 1130",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1110",
+    "to": "ECON 1170",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1130",
+    "to": "ECON 1170",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1110",
+    "to": "ECON 1200",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1130",
+    "to": "ECON 1200",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 0110",
+    "to": "ECON 1210",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0060",
+    "to": "ECON 1210",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0070",
+    "to": "ECON 1210",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0090",
+    "to": "ECON 1210",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0100",
+    "to": "ECON 1210",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0170",
+    "to": "ECON 1210",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "ECON 1210",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0190",
+    "to": "ECON 1210",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 0170",
+    "to": "ECON 1210",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "ECON 1210",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "ECON 1210",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1110",
+    "to": "ECON 1225",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1130",
+    "to": "ECON 1225",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1210",
+    "to": "ECON 1225",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1210",
+    "to": "ECON 1255",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 0170",
+    "to": "ECON 1255",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0100",
+    "to": "ECON 1255",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0170",
+    "to": "ECON 1255",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "ECON 1255",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "ECON 1255",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "ECON 1255",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1650",
+    "to": "ECON 1255",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1655",
+    "to": "ECON 1255",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1450",
+    "to": "ECON 1255",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0450",
+    "to": "ECON 1255",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1620",
+    "to": "ECON 1255",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1110",
+    "to": "ECON 1310",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1130",
+    "to": "ECON 1310",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1650",
+    "to": "ECON 1310",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1655",
+    "to": "ECON 1310",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1450",
+    "to": "ECON 1310",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0450",
+    "to": "ECON 1310",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1620",
+    "to": "ECON 1310",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1220",
+    "to": "ECON 1310",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1620",
+    "to": "ECON 1310",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1110",
+    "to": "ECON 1330",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1130",
+    "to": "ECON 1330",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1620",
+    "to": "ECON 1330",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1629",
+    "to": "ECON 1330",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1110",
+    "to": "ECON 1340",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1130",
+    "to": "ECON 1340",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1620",
+    "to": "ECON 1345",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1110",
+    "to": "ECON 1345",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1130",
+    "to": "ECON 1345",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1110",
+    "to": "ECON 1350",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1130",
+    "to": "ECON 1350",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1110",
+    "to": "ECON 1355",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1130",
+    "to": "ECON 1355",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1620",
+    "to": "ECON 1355",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1650",
+    "to": "ECON 1355",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1655",
+    "to": "ECON 1355",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1450",
+    "to": "ECON 1355",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0450",
+    "to": "ECON 1355",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1220",
+    "to": "ECON 1355",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1620",
+    "to": "ECON 1355",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1110",
+    "to": "ECON 1360",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1130",
+    "to": "ECON 1360",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1620",
+    "to": "ECON 1360",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1220",
+    "to": "ECON 1360",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1620",
+    "to": "ECON 1360",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1450",
+    "to": "ECON 1360",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0450",
+    "to": "ECON 1360",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1655",
+    "to": "ECON 1360",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1650",
+    "to": "ECON 1360",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1110",
+    "to": "ECON 1385",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1130",
+    "to": "ECON 1385",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1629",
+    "to": "ECON 1385",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1630",
+    "to": "ECON 1385",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1110",
+    "to": "ECON 1390",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1130",
+    "to": "ECON 1390",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1650",
+    "to": "ECON 1390",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1655",
+    "to": "ECON 1390",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1450",
+    "to": "ECON 1390",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0450",
+    "to": "ECON 1390",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1620",
+    "to": "ECON 1390",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1220",
+    "to": "ECON 1390",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1620",
+    "to": "ECON 1390",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1110",
+    "to": "ECON 1410",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1130",
+    "to": "ECON 1410",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1650",
+    "to": "ECON 1410",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1655",
+    "to": "ECON 1410",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1450",
+    "to": "ECON 1410",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0450",
+    "to": "ECON 1410",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1620",
+    "to": "ECON 1410",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1220",
+    "to": "ECON 1410",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1620",
+    "to": "ECON 1410",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1110",
+    "to": "ECON 1420",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1130",
+    "to": "ECON 1420",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1629",
+    "to": "ECON 1430",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1630",
+    "to": "ECON 1430",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1110",
+    "to": "ECON 1440",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1130",
+    "to": "ECON 1440",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1110",
+    "to": "ECON 1450",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1130",
+    "to": "ECON 1450",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1110",
+    "to": "ECON 1470",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1130",
+    "to": "ECON 1470",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1090",
+    "to": "ECON 1470",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1870",
+    "to": "ECON 1470",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1110",
+    "to": "ECON 1480",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1130",
+    "to": "ECON 1480",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1110",
+    "to": "ECON 1490",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1130",
+    "to": "ECON 1490",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1210",
+    "to": "ECON 1500",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1110",
+    "to": "ECON 1520",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1130",
+    "to": "ECON 1520",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1629",
+    "to": "ECON 1520",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1630",
+    "to": "ECON 1520",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 0170",
+    "to": "ECON 1520",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0170",
+    "to": "ECON 1520",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0100",
+    "to": "ECON 1520",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0090",
+    "to": "ECON 1520",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0060",
+    "to": "ECON 1520",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0070",
+    "to": "ECON 1520",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "ECON 1520",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0190",
+    "to": "ECON 1520",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "ECON 1520",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "ECON 1520",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1110",
+    "to": "ECON 1530",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1130",
+    "to": "ECON 1530",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1620",
+    "to": "ECON 1530",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1650",
+    "to": "ECON 1530",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1220",
+    "to": "ECON 1530",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1620",
+    "to": "ECON 1530",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1655",
+    "to": "ECON 1530",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1450",
+    "to": "ECON 1530",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0450",
+    "to": "ECON 1530",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1110",
+    "to": "ECON 1540",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1130",
+    "to": "ECON 1540",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1210",
+    "to": "ECON 1550",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1110",
+    "to": "ECON 1560",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1130",
+    "to": "ECON 1560",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1110",
+    "to": "ECON 1570",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1130",
+    "to": "ECON 1570",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1620",
+    "to": "ECON 1570",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1655",
+    "to": "ECON 1570",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1650",
+    "to": "ECON 1570",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1450",
+    "to": "ECON 1570",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0450",
+    "to": "ECON 1570",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1220",
+    "to": "ECON 1570",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1620",
+    "to": "ECON 1570",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 0110",
+    "to": "ECON 1620",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1110",
+    "to": "ECON 1620",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1130",
+    "to": "ECON 1620",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0060",
+    "to": "ECON 1620",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0070",
+    "to": "ECON 1620",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0090",
+    "to": "ECON 1620",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0100",
+    "to": "ECON 1620",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0170",
+    "to": "ECON 1620",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0190",
+    "to": "ECON 1620",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "ECON 1620",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "ECON 1620",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "ECON 1620",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 0170",
+    "to": "ECON 1620",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1110",
+    "to": "ECON 1629",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1130",
+    "to": "ECON 1629",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1620",
+    "to": "ECON 1629",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1220",
+    "to": "ECON 1629",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1620",
+    "to": "ECON 1629",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1650",
+    "to": "ECON 1629",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1655",
+    "to": "ECON 1629",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1110",
+    "to": "ECON 1630",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1130",
+    "to": "ECON 1630",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0260",
+    "to": "ECON 1630",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1650",
+    "to": "ECON 1630",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1450",
+    "to": "ECON 1630",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0450",
+    "to": "ECON 1630",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1220",
+    "to": "ECON 1630",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1620",
+    "to": "ECON 1630",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1620",
+    "to": "ECON 1630",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1655",
+    "to": "ECON 1630",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0520",
+    "to": "ECON 1630",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0530",
+    "to": "ECON 1630",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0540",
+    "to": "ECON 1630",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1630",
+    "to": "ECON 1670",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0520",
+    "to": "ECON 1670",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0530",
+    "to": "ECON 1670",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0540",
+    "to": "ECON 1670",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1110",
+    "to": "ECON 1680",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1130",
+    "to": "ECON 1680",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1629",
+    "to": "ECON 1680",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1630",
+    "to": "ECON 1680",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0040",
+    "to": "ECON 1680",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0112",
+    "to": "ECON 1680",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0111",
+    "to": "ECON 1680",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0150",
+    "to": "ECON 1680",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0170",
+    "to": "ECON 1680",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0190",
+    "to": "ECON 1680",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1450",
+    "to": "ECON 1710",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0450",
+    "to": "ECON 1710",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1650",
+    "to": "ECON 1710",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1655",
+    "to": "ECON 1710",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1620",
+    "to": "ECON 1710",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1220",
+    "to": "ECON 1710",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1620",
+    "to": "ECON 1710",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1110",
+    "to": "ECON 1710",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1130",
+    "to": "ECON 1710",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1710",
+    "to": "ECON 1720",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1720",
+    "to": "ECON 1730",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1710",
+    "to": "ECON 1740",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "ECON 1740",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "ECON 1740",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "ECON 1740",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0190",
+    "to": "ECON 1740",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0100",
+    "to": "ECON 1740",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0170",
+    "to": "ECON 1740",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 0170",
+    "to": "ECON 1740",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1710",
+    "to": "ECON 1750",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1110",
+    "to": "ECON 1760",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1130",
+    "to": "ECON 1760",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1210",
+    "to": "ECON 1760",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1710",
+    "to": "ECON 1770",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1110",
+    "to": "ECON 1805",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1130",
+    "to": "ECON 1805",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1620",
+    "to": "ECON 1805",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1630",
+    "to": "ECON 1805",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1650",
+    "to": "ECON 1805",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1655",
+    "to": "ECON 1805",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1450",
+    "to": "ECON 1805",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0450",
+    "to": "ECON 1805",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1110",
+    "to": "ECON 1820",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1130",
+    "to": "ECON 1820",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0100",
+    "to": "ECON 1820",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 0170",
+    "to": "ECON 1820",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0170",
+    "to": "ECON 1820",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "ECON 1820",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0190",
+    "to": "ECON 1820",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "ECON 1820",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "ECON 1820",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1710",
+    "to": "ECON 1830",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1629",
+    "to": "ECON 1830",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1630",
+    "to": "ECON 1830",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1110",
+    "to": "ECON 1870",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1130",
+    "to": "ECON 1870",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1620",
+    "to": "ECON 1870",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 1630",
+    "to": "ECON 1870",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1650",
+    "to": "ECON 1870",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1210",
+    "to": "ECON 1870",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1610",
+    "to": "ECON 1870",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0100",
+    "to": "EEPS 0350",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0170",
+    "to": "EEPS 0350",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "EEPS 0350",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0190",
+    "to": "EEPS 0350",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "EEPS 0350",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "EEPS 0350",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CHEM 0330",
+    "to": "EEPS 1130",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "EEPS 0220",
+    "to": "EEPS 1240",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "GEOL 0220",
+    "to": "EEPS 1240",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "EEPS 0240",
+    "to": "EEPS 1240",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "EEPS 0220",
+    "to": "EEPS 1250",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "GEOL 0220",
+    "to": "EEPS 1250",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "EEPS 0240",
+    "to": "EEPS 1250",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CHEM 0100",
+    "to": "EEPS 1370",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CHEM 0330",
+    "to": "EEPS 1370",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CHEM 0100",
+    "to": "EEPS 1380",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "EEPS 0220",
+    "to": "EEPS 1380",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "GEOL 0220",
+    "to": "EEPS 1380",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "EEPS 0230",
+    "to": "EEPS 1380",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "GEOL 0230",
+    "to": "EEPS 1380",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "EEPS 0230",
+    "to": "EEPS 1410",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "GEOL 0230",
+    "to": "EEPS 1410",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CHEM 0100",
+    "to": "EEPS 1410",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "CHEM 0330",
+    "to": "EEPS 1410",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "EEPS 1410",
+    "to": "EEPS 1420",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "GEOL 1410",
+    "to": "EEPS 1420",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "EEPS 0250",
+    "to": "EEPS 1430",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "GEOL 0250",
+    "to": "EEPS 1430",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "EEPS 0350",
+    "to": "EEPS 1430",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "GEOL 0350",
+    "to": "EEPS 1430",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0720",
+    "to": "EEPS 1430",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0350",
+    "to": "EEPS 1430",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "EEPS 0220",
+    "to": "EEPS 1450",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "GEOL 0220",
+    "to": "EEPS 1450",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0360",
+    "to": "EEPS 1510",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "EEPS 0250",
+    "to": "EEPS 1520",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "GEOL 0250",
+    "to": "EEPS 1520",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "EEPS 0350",
+    "to": "EEPS 1520",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "GEOL 0350",
+    "to": "EEPS 1520",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0720",
+    "to": "EEPS 1520",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "EEPS 1520",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "EEPS 1520",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "EEPS 1520",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "EEPS 1630",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "EEPS 1630",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "EEPS 1630",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0050",
+    "to": "EEPS 1630",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "EEPS 1690",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "EEPS 1690",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "EEPS 1690",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "EEPS 1410",
+    "to": "EEPS 1710",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "GEOL 1410",
+    "to": "EEPS 1710",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0600",
+    "to": "EEPS 1710",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1420",
+    "to": "EEPS 1720",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1950F",
+    "to": "EEPS 1720",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 1470",
+    "to": "EEPS 1720",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 2470",
+    "to": "EEPS 1720",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "DATA 1030",
+    "to": "EEPS 1720",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "EEPS 1960D",
+    "to": "EEPS 1720",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "EEPS 0850",
+    "to": "EEPS 1720",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "GEOL 0850",
+    "to": "EEPS 1720",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "EEPS 1450",
+    "to": "EEPS 1720",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "GEOL 1450",
+    "to": "EEPS 1720",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "EEPS 1510",
+    "to": "EEPS 1720",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "GEOL 1510",
+    "to": "EEPS 1720",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "EEPS 1520",
+    "to": "EEPS 1720",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "GEOL 1520",
+    "to": "EEPS 1720",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "EEPS 0350",
+    "to": "EEPS 1820",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "GEOL 0350",
+    "to": "EEPS 1820",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0720",
+    "to": "EEPS 1820",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0340",
+    "to": "EEPS 1820",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "EEPS 1510",
+    "to": "EEPS 1820",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "GEOL 1510",
+    "to": "EEPS 1820",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "EEPS 1520",
+    "to": "EEPS 1820",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "GEOL 1520",
+    "to": "EEPS 1820",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "EGYT 1310",
+    "to": "EGYT 1320",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGL 0930",
+    "to": "ENGL 1140A",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGL 0180",
+    "to": "ENGL 1140A",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGL 0930",
+    "to": "ENGL 1160P",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGL 0180",
+    "to": "ENGL 1160P",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGL 0900",
+    "to": "ENGL 1190S",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGL 0110",
+    "to": "ENGL 1190S",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGL 0130",
+    "to": "ENGL 1190S",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGL 0160",
+    "to": "ENGL 1190S",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGL 0930",
+    "to": "ENGL 1190S",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGL 0180",
+    "to": "ENGL 1190S",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGL 0930",
+    "to": "ENGL 1190U",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGL 0180",
+    "to": "ENGL 1190U",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0100",
+    "to": "ENGN 0030",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0170",
+    "to": "ENGN 0030",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "ENGN 0030",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0190",
+    "to": "ENGN 0030",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "ENGN 0030",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "ENGN 0030",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0030",
+    "to": "ENGN 0040",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0031",
+    "to": "ENGN 0040",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0032",
+    "to": "ENGN 0040",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0030",
+    "to": "ENGN 0040",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0050",
+    "to": "ENGN 0040",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0070",
+    "to": "ENGN 0040",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "ENGN 0040",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "ENGN 0040",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "ENGN 0040",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0040",
+    "to": "ENGN 0310",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0030",
+    "to": "ENGN 0510",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0031",
+    "to": "ENGN 0510",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0032",
+    "to": "ENGN 0510",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0070",
+    "to": "ENGN 0510",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0040",
+    "to": "ENGN 0510",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0160",
+    "to": "ENGN 0510",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0080",
+    "to": "ENGN 0510",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "ENGN 0510",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "ENGN 0510",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "ENGN 0510",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0350",
+    "to": "ENGN 0510",
+    "group": 3,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0355",
+    "to": "ENGN 0510",
+    "group": 3,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "ENGN 0520",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "ENGN 0520",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "ENGN 0520",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0030",
+    "to": "ENGN 0720",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0031",
+    "to": "ENGN 0720",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0040",
+    "to": "ENGN 0720",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0410",
+    "to": "ENGN 0720",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "CHEM 0330",
+    "to": "ENGN 0720",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0100",
+    "to": "ENGN 0790",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0170",
+    "to": "ENGN 0790",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "ENGN 0790",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0190",
+    "to": "ENGN 0790",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "ENGN 0790",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "ENGN 0790",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CHEM 0100",
+    "to": "ENGN 0790",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "CHEM 0330",
+    "to": "ENGN 0790",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0040",
+    "to": "ENGN 0810",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0350",
+    "to": "ENGN 0810",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0330",
+    "to": "ENGN 0810",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "ENGN 0810",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "ENGN 0810",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "ENGN 0810",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0050",
+    "to": "ENGN 0810",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0070",
+    "to": "ENGN 0810",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0090",
+    "to": "ENGN 0900",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0100",
+    "to": "ENGN 0900",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0170",
+    "to": "ENGN 0900",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0190",
+    "to": "ENGN 0900",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0350",
+    "to": "ENGN 1100",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0040",
+    "to": "ENGN 1100",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0720",
+    "to": "ENGN 1115",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0720",
+    "to": "ENGN 1120",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0720",
+    "to": "ENGN 1130",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 1120",
+    "to": "ENGN 1140",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 1130",
+    "to": "ENGN 1140",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 1710",
+    "to": "ENGN 1140",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0490",
+    "to": "ENGN 1150",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0720",
+    "to": "ENGN 1150",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0350",
+    "to": "ENGN 1205",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0330",
+    "to": "ENGN 1210",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0350",
+    "to": "ENGN 1210",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "NEUR 0010",
+    "to": "ENGN 1220",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0510",
+    "to": "ENGN 1220",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "CHEM 0330",
+    "to": "ENGN 1223",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0100",
+    "to": "ENGN 1223",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0170",
+    "to": "ENGN 1223",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0190",
+    "to": "ENGN 1223",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 1205",
+    "to": "ENGN 1224",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 1200",
+    "to": "ENGN 1224",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 1490",
+    "to": "ENGN 1224",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0510",
+    "to": "ENGN 1225",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 1240",
+    "to": "ENGN 1250",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 1930L",
+    "to": "ENGN 1250",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0310",
+    "to": "ENGN 1300",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0040",
+    "to": "ENGN 1370",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0340",
+    "to": "ENGN 1370",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0360",
+    "to": "ENGN 1370",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0410",
+    "to": "ENGN 1410",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0410",
+    "to": "ENGN 1420",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0720",
+    "to": "ENGN 1420",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0410",
+    "to": "ENGN 1440",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0410",
+    "to": "ENGN 1470",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CHEM 0330",
+    "to": "ENGN 1475",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0720",
+    "to": "ENGN 1475",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0410",
+    "to": "ENGN 1480",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0510",
+    "to": "ENGN 1560",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0520",
+    "to": "ENGN 1560",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0520",
+    "to": "ENGN 1570",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0520",
+    "to": "ENGN 1580",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0510",
+    "to": "ENGN 1590",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0470",
+    "to": "ENGN 1590",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 1690",
+    "to": "ENGN 1595",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 1630",
+    "to": "ENGN 1600",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 1230",
+    "to": "ENGN 1620",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0520",
+    "to": "ENGN 1620",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 1630",
+    "to": "ENGN 1640",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 1630",
+    "to": "ENGN 1650",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0510",
+    "to": "ENGN 1690",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0720",
+    "to": "ENGN 1700",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0100",
+    "to": "ENGN 1723",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0190",
+    "to": "ENGN 1723",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0170",
+    "to": "ENGN 1723",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "ENGN 1723",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "ENGN 1723",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "ENGN 1723",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CHEM 0100",
+    "to": "ENGN 1723",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "CHEM 0330",
+    "to": "ENGN 1723",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0310",
+    "to": "ENGN 1740",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CHEM 0330",
+    "to": "ENGN 1745",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0040",
+    "to": "ENGN 1745",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0310",
+    "to": "ENGN 1750",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0330",
+    "to": "ENGN 1750",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0350",
+    "to": "ENGN 1750",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 1370",
+    "to": "ENGN 1760",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0510",
+    "to": "ENGN 1790",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0470",
+    "to": "ENGN 1790",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0040",
+    "to": "ENGN 1840",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CSCI 0040",
+    "to": "ENGN 1840",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0330",
+    "to": "ENGN 1840",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0340",
+    "to": "ENGN 1840",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0810",
+    "to": "ENGN 1860",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0510",
+    "to": "ENGN 1931A",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0470",
+    "to": "ENGN 1931A",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0310",
+    "to": "ENGN 1931D",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CHEM 0330",
+    "to": "ENGN 1931P",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0720",
+    "to": "ENGN 1931P",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0090",
+    "to": "ENGN 1931W",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0900",
+    "to": "ENGN 1931W",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0020",
+    "to": "ENGN 1931W",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 1010",
+    "to": "ENGN 1931W",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0310",
+    "to": "ENGN 1950",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0340",
+    "to": "ENGN 1950",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0040",
+    "to": "ENGN 1950",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 1205",
+    "to": "ENGN 2222",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 1200",
+    "to": "ENGN 2222",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 1490",
+    "to": "ENGN 2222",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 2600",
+    "to": "ENGN 2620",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0510",
+    "to": "ENGN 2625",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0350",
+    "to": "ENGN 2911R",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 1640",
+    "to": "ENGN 2911X",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 2912B",
+    "to": "ENGN 2911X",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "BIOL 0480",
+    "to": "ENVS 1775",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "BIOL 0420",
+    "to": "ENVS 1775",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 0320",
+    "to": "EPI 0850",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 0320C",
+    "to": "EPI 0850",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "EPI 0850",
+    "to": "EPI 1670",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 0850",
+    "to": "EPI 1670",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 0320",
+    "to": "EPI 1720",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "STAT 1501",
+    "to": "EPI 1720",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 1501",
+    "to": "EPI 1720",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "STAT 2507",
+    "to": "EPI 1720",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 2507",
+    "to": "EPI 1720",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "STAT 2510",
+    "to": "EPI 1720",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 2510",
+    "to": "EPI 1720",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "STAT 2507",
+    "to": "EPI 1725",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 2507",
+    "to": "EPI 1725",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "STAT 2510",
+    "to": "EPI 1725",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 2510",
+    "to": "EPI 1725",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 0320",
+    "to": "EPI 1730",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "EPI 0850",
+    "to": "EPI 1730",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 0850",
+    "to": "EPI 1730",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 0320",
+    "to": "EPI 1854",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 0320C",
+    "to": "EPI 1854",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "EPI 0850",
+    "to": "EPI 1854",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 0850",
+    "to": "EPI 1854",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "EPI 2120",
+    "to": "EPI 1854",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 2120",
+    "to": "EPI 1854",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "EPI 2150",
+    "to": "EPI 1854",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 2150",
+    "to": "EPI 1854",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "FREN 0600",
+    "to": "FREN 0950A",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "GRMN 0400",
+    "to": "GRMN 0500F",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HEBR 0100",
+    "to": "HEBR 0200",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HEBR 0200",
+    "to": "HEBR 0300",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HEBR 0300",
+    "to": "HEBR 0400",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HEBR 0400",
+    "to": "HEBR 0500",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HEBR 0500",
+    "to": "HEBR 0600",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HIAA 0100",
+    "to": "HIAA 0130",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HIAA 0100",
+    "to": "HIAA 0140",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HIAA 0130",
+    "to": "HIAA 0140",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "HIAA 0003",
+    "to": "HIAA 0140",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "HIAA 0100",
+    "to": "HIAA 0150",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HIAA 0100",
+    "to": "HIAA 0190",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HIAA 0150",
+    "to": "HIAA 0190",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HIAA 0102",
+    "to": "HIAA 0190",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HISP 0500",
+    "to": "HISP 0600",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HISP 0600",
+    "to": "HISP 0650",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HISP 0500A",
+    "to": "HISP 0650",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HISP 0500B",
+    "to": "HISP 0650",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HISP 0600",
+    "to": "HISP 0710B",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HISP 0060",
+    "to": "HISP 0710B",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HISP 0600",
+    "to": "HISP 0710C",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HISP 0650",
+    "to": "HISP 0710C",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HISP 0600",
+    "to": "HISP 0710E",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HISP 0650",
+    "to": "HISP 0710E",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HISP 0600",
+    "to": "HISP 0730",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HISP 0650",
+    "to": "HISP 0730",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HISP 0600",
+    "to": "HISP 0740",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HISP 0650",
+    "to": "HISP 0740",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HISP 0600",
+    "to": "HISP 0750B",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HISP 0650",
+    "to": "HISP 0750B",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HISP 0600",
+    "to": "HISP 0750G",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HISP 0650",
+    "to": "HISP 0750G",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HISP 0600",
+    "to": "HISP 0750Q",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HISP 0650",
+    "to": "HISP 0750Q",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HISP 0650",
+    "to": "HISP 1240L",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HISP 0650",
+    "to": "HISP 1330Z",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HISP 0730",
+    "to": "HISP 1331J",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HISP 0740",
+    "to": "HISP 1331J",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HISP 0760",
+    "to": "HISP 1331J",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HISP 0650",
+    "to": "HISP 1331J",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HISP 0650",
+    "to": "HISP 1331U",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HISP 0650",
+    "to": "HISP 1371T",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HISP 0600",
+    "to": "HISP 1500L",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HISP 0730",
+    "to": "HISP 1500L",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HISP 0740",
+    "to": "HISP 1500L",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HISP 0760",
+    "to": "HISP 1500L",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HISP 0650",
+    "to": "HISP 1666",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HIST 1993",
+    "to": "HIST 1994",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HNDI 0100",
+    "to": "HNDI 0200",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HNDI 0300",
+    "to": "HNDI 0400",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HNDI 0400",
+    "to": "HNDI 1080",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HSP 0310",
+    "to": "HSP 0650",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 0310",
+    "to": "HSP 0650",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "HSP 0310",
+    "to": "HSP 1500",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 0310",
+    "to": "HSP 1500",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 0320",
+    "to": "HSP 1500",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 0320",
+    "to": "HSP 1821",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 0320C",
+    "to": "HSP 1821",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ECON 0110",
+    "to": "IAPA 1401",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ITAL 0500",
+    "to": "ITAL 0600",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ITAL 0600",
+    "to": "ITAL 1000E",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ITAL 0600",
+    "to": "ITAL 1400F",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ITAL 0500",
+    "to": "ITAL 1620",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ITAL 0600",
+    "to": "ITAL 1620",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "JAPN 0100",
+    "to": "JAPN 0200",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "JAPN 0200",
+    "to": "JAPN 0300",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "JAPN 0300",
+    "to": "JAPN 0400",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "JAPN 0400",
+    "to": "JAPN 0500",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "JAPN 0500",
+    "to": "JAPN 0600",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "JAPN 0600",
+    "to": "JAPN 0700",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "JAPN 0700",
+    "to": "JAPN 0800",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "JAPN 0600",
+    "to": "JAPN 0911",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "JAPN 0700",
+    "to": "JAPN 1010",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "KREA 0200",
+    "to": "KREA 0300",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "KREA 0300",
+    "to": "KREA 0400",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "KREA 0400",
+    "to": "KREA 0500",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "KREA 0600",
+    "to": "KREA 0912",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "LING 0100",
+    "to": "LING 1200",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0300",
+    "to": "LING 1200",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "LING 0100",
+    "to": "LING 1210",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0300",
+    "to": "LING 1210",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0030",
+    "to": "LING 1210",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0800",
+    "to": "LING 1210",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "COGS 0450",
+    "to": "LING 1210",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0030",
+    "to": "LING 1310",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "COGS 0410",
+    "to": "LING 1310",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "LING 0100",
+    "to": "LING 1310",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0300",
+    "to": "LING 1310",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "LING 0100",
+    "to": "LING 1311",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0300",
+    "to": "LING 1311",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0800",
+    "to": "LING 1311",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "COGS 0450",
+    "to": "LING 1311",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "LING 0100",
+    "to": "LING 1412",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0300",
+    "to": "LING 1412",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0800",
+    "to": "LING 1412",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "COGS 0450",
+    "to": "LING 1412",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0030",
+    "to": "LING 1412",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "COGS 0410",
+    "to": "LING 1412",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "LING 0100",
+    "to": "LING 1440",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0300",
+    "to": "LING 1440",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "LING 0100",
+    "to": "LING 1500",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0300",
+    "to": "LING 1500",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0030",
+    "to": "LING 1500",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "COGS 0410",
+    "to": "LING 1500",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0800",
+    "to": "LING 1500",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "COGS 0450",
+    "to": "LING 1500",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0340",
+    "to": "LING 1500",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ANTH 0800",
+    "to": "LING 1500",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "LING 0100",
+    "to": "LING 1741",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0300",
+    "to": "LING 1741",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "LING 0600",
+    "to": "LING 1741",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0030",
+    "to": "LING 1771",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "COGS 0410",
+    "to": "LING 1771",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "LING 0100",
+    "to": "LING 1771",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0300",
+    "to": "LING 1771",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "LING 1200",
+    "to": "LING 1870",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 1310",
+    "to": "LING 1870",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "LING 1210",
+    "to": "LING 1870",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 1311",
+    "to": "LING 1870",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "LING 1311",
+    "to": "LING 1870",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 1331",
+    "to": "LING 1870",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0050",
+    "to": "MATH 0060",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0520",
+    "to": "MATH 1010",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0530",
+    "to": "MATH 1010",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0540",
+    "to": "MATH 1010",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0520",
+    "to": "MATH 1060",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0530",
+    "to": "MATH 1060",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0540",
+    "to": "MATH 1060",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0520",
+    "to": "MATH 1110",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0530",
+    "to": "MATH 1110",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0540",
+    "to": "MATH 1110",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0520",
+    "to": "MATH 1120",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0530",
+    "to": "MATH 1120",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0540",
+    "to": "MATH 1120",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "MATH 1210",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "MATH 1210",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "MATH 1210",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1210",
+    "to": "MATH 1220",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1610",
+    "to": "MATH 1220",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "MATH 1460",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "MATH 1460",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "MATH 1460",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0520",
+    "to": "MATH 1530",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0530",
+    "to": "MATH 1530",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0540",
+    "to": "MATH 1530",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1530",
+    "to": "MATH 1540",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1530",
+    "to": "MATH 1560",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "MATH 1610",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "MATH 1610",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "MATH 1610",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1610",
+    "to": "MATH 1620",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0520",
+    "to": "MATH 1630",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0530",
+    "to": "MATH 1630",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0540",
+    "to": "MATH 1630",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1630",
+    "to": "MATH 1640",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1130",
+    "to": "MATH 1640",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1530",
+    "to": "MATH 1710",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1010",
+    "to": "MATH 1710",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1630",
+    "to": "MATH 1710",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1130",
+    "to": "MATH 1710",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MCM 0100",
+    "to": "MCM 1504R",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MCM 0110",
+    "to": "MCM 1504R",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MCM 0150",
+    "to": "MCM 1504R",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MCM 0220",
+    "to": "MCM 1504R",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MCM 0230",
+    "to": "MCM 1504R",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MCM 0240",
+    "to": "MCM 1504R",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MCM 0250",
+    "to": "MCM 1504R",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MCM 0260",
+    "to": "MCM 1504R",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MCM 1110",
+    "to": "MCM 1504R",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MCM 0100",
+    "to": "MCM 1505Z",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MCM 0110",
+    "to": "MCM 1505Z",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MCM 0150",
+    "to": "MCM 1505Z",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MCM 0220",
+    "to": "MCM 1505Z",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MCM 0230",
+    "to": "MCM 1505Z",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MCM 0240",
+    "to": "MCM 1505Z",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MCM 0250",
+    "to": "MCM 1505Z",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MCM 0260",
+    "to": "MCM 1505Z",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MCM 1110",
+    "to": "MCM 1505Z",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MUSC 0550",
+    "to": "MUSC 0560",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MUSC 0550",
+    "to": "MUSC 0570",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MUSC 0550",
+    "to": "MUSC 1677",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ETHN 1200K",
+    "to": "NAIS 1900",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ETHN 1890H",
+    "to": "NAIS 1900",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "NEUR 0010",
+    "to": "NEUR 1020",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "NEUR 0010",
+    "to": "NEUR 1030",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "NEUR 1020",
+    "to": "NEUR 1040",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "NEUR 0010",
+    "to": "NEUR 1440",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "NEUR 0010",
+    "to": "NEUR 1510",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "NEUR 0010",
+    "to": "NEUR 1530",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "NEUR 1020",
+    "to": "NEUR 1540",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "NEUR 0010",
+    "to": "NEUR 1560",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "NEUR 1020",
+    "to": "NEUR 1570",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "NEUR 0010",
+    "to": "NEUR 1600",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "NEUR 0010",
+    "to": "NEUR 1630",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "NEUR 1020",
+    "to": "NEUR 1630",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "NEUR 1030",
+    "to": "NEUR 1630",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "NEUR 1020",
+    "to": "NEUR 1640",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "NEUR 0010",
+    "to": "NEUR 1650",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "NEUR 1020",
+    "to": "NEUR 1650",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "NEUR 0010",
+    "to": "NEUR 1660",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0400",
+    "to": "NEUR 1660",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "CLPS 0040",
+    "to": "NEUR 1660",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "PSYC 0470",
+    "to": "NEUR 1660",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "NEUR 1020",
+    "to": "NEUR 1740",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "NEUR 1030",
+    "to": "NEUR 2110",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0410",
+    "to": "NEUR 2110",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0650",
+    "to": "NEUR 2110",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1650",
+    "to": "NEUR 2110",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 1220",
+    "to": "NEUR 2110",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHIL 0640",
+    "to": "PHIL 1635",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHIL 1630",
+    "to": "PHIL 1635",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHIL 1675",
+    "to": "PHIL 1635",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 0320",
+    "to": "PHP 1830",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 0320C",
+    "to": "PHP 1830",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 0850",
+    "to": "PHP 1856",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 2120",
+    "to": "PHP 1856",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 2140",
+    "to": "PHP 1856",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 2150",
+    "to": "PHP 1856",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 0310",
+    "to": "PHP 1910",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 0320",
+    "to": "PHP 1910",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 0320C",
+    "to": "PHP 1910",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 0310",
+    "to": "PHP 1915",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 0320",
+    "to": "PHP 1915",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 0850",
+    "to": "PHP 1915",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 1501",
+    "to": "PHP 1915",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 0850",
+    "to": "PHP 1960",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 2120",
+    "to": "PHP 1960",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 2140",
+    "to": "PHP 1960",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 2150",
+    "to": "PHP 1960",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 0850",
+    "to": "PHP 1964",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 2120",
+    "to": "PHP 1964",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 2150",
+    "to": "PHP 1964",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0050",
+    "to": "PHYS 0060",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0070",
+    "to": "PHYS 0060",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0050",
+    "to": "PHYS 0160",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0070",
+    "to": "PHYS 0160",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "PHYS 0470",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "PHYS 0470",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "PHYS 0470",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0040",
+    "to": "PHYS 0470",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0060",
+    "to": "PHYS 0470",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0160",
+    "to": "PHYS 0470",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0080",
+    "to": "PHYS 0470",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0070",
+    "to": "PHYS 0500",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0050",
+    "to": "PHYS 0500",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0060",
+    "to": "PHYS 0500",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0160",
+    "to": "PHYS 0500",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0080",
+    "to": "PHYS 0500",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "PHYS 0500",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "PHYS 0500",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "PHYS 0500",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0070",
+    "to": "PHYS 0560",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0050",
+    "to": "PHYS 0560",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0160",
+    "to": "PHYS 0560",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0080",
+    "to": "PHYS 0560",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0060",
+    "to": "PHYS 0560",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0470",
+    "to": "PHYS 0560",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0060",
+    "to": "PHYS 0720",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0160",
+    "to": "PHYS 0720",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0080",
+    "to": "PHYS 0720",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "PHYS 0720",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "PHYS 0720",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "PHYS 0720",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0040",
+    "to": "PHYS 0790",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0340",
+    "to": "PHYS 0790",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0500",
+    "to": "PHYS 1100",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0520",
+    "to": "PHYS 1100",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0530",
+    "to": "PHYS 1100",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0540",
+    "to": "PHYS 1100",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0270",
+    "to": "PHYS 1250",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0190",
+    "to": "PHYS 1250",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0100",
+    "to": "PHYS 1250",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0170",
+    "to": "PHYS 1250",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "PHYS 1250",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "PHYS 1250",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "PHYS 1250",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0470",
+    "to": "PHYS 1250",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0270",
+    "to": "PHYS 1270",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0190",
+    "to": "PHYS 1270",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0100",
+    "to": "PHYS 1270",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0170",
+    "to": "PHYS 1270",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "PHYS 1270",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "PHYS 1270",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "PHYS 1270",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0160",
+    "to": "PHYS 1280",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0080",
+    "to": "PHYS 1280",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0190",
+    "to": "PHYS 1280",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0100",
+    "to": "PHYS 1280",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0170",
+    "to": "PHYS 1280",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "PHYS 1280",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "PHYS 1280",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "PHYS 1280",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0500",
+    "to": "PHYS 1410",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0560",
+    "to": "PHYS 1410",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0520",
+    "to": "PHYS 1410",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0530",
+    "to": "PHYS 1410",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0540",
+    "to": "PHYS 1410",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0720",
+    "to": "PHYS 1410",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 1410",
+    "to": "PHYS 1420",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0470",
+    "to": "PHYS 1510",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "PHYS 1510",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "PHYS 1510",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "PHYS 1510",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 1410",
+    "to": "PHYS 1530",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "PHYS 1530",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "PHYS 1530",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "PHYS 1530",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0470",
+    "to": "PHYS 1560",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0500",
+    "to": "PHYS 1560",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0560",
+    "to": "PHYS 1560",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0520",
+    "to": "PHYS 1560",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0530",
+    "to": "PHYS 1560",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0540",
+    "to": "PHYS 1560",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0720",
+    "to": "PHYS 1560",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0070",
+    "to": "PHYS 1600",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0050",
+    "to": "PHYS 1600",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0160",
+    "to": "PHYS 1600",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0080",
+    "to": "PHYS 1600",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0060",
+    "to": "PHYS 1600",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0470",
+    "to": "PHYS 1600",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "ENGN 0510",
+    "to": "PHYS 1600",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "PHYS 1600",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "PHYS 1600",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "PHYS 1600",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "PHYS 1610",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "PHYS 1610",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "PHYS 1610",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 0050",
+    "to": "PHYS 1640",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0200",
+    "to": "PHYS 1640",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0180",
+    "to": "PHYS 1640",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 0350",
+    "to": "PHYS 1640",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 0650",
+    "to": "PHYS 1640",
+    "group": 2,
+    "kind": "hard"
+  },
+  {
+    "from": "PHYS 1410",
+    "to": "PHYS 1970F",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PLSH 0100",
+    "to": "PLSH 0400",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PLSH 0150",
+    "to": "PLSH 0400",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PLSH 0200",
+    "to": "PLSH 0400",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "PRSN 0400",
+    "to": "PRSN 0500",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PRSN 0500",
+    "to": "PRSN 0600",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PRSN 0400",
+    "to": "PRSN 1100",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "RUSS 0100",
+    "to": "RUSS 0200",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "RUSS 0250",
+    "to": "RUSS 0200",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "RUSS 0110",
+    "to": "RUSS 0300",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "RUSS 0200",
+    "to": "RUSS 0300",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "RUSS 0250",
+    "to": "RUSS 0300",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "RUSS 0300",
+    "to": "RUSS 0400",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "RUSS 0350",
+    "to": "RUSS 0500",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "RUSS 0400",
+    "to": "RUSS 0500",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "RUSS 0500",
+    "to": "RUSS 0600",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "RUSS 0600",
+    "to": "RUSS 1110",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "SANS 0100",
+    "to": "SANS 0200",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "SANS 0300",
+    "to": "SANS 1030",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "SANS 0400",
+    "to": "SANS 1100",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "SOC 2010",
+    "to": "SOC 2020",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "SOC 2010",
+    "to": "SOC 2240",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "SOC 2020",
+    "to": "SOC 2960Y",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "STAT 1510",
+    "to": "STAT 1511",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 1510",
+    "to": "STAT 1511",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1655",
+    "to": "STAT 1511",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1650",
+    "to": "STAT 1560",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1655",
+    "to": "STAT 1560",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "STAT 1510",
+    "to": "STAT 1560",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 1510",
+    "to": "STAT 1560",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "STAT 2510",
+    "to": "STAT 1560",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 2510",
+    "to": "STAT 1560",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "STAT 2511",
+    "to": "STAT 2516",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 2511",
+    "to": "STAT 2516",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "STAT 2514",
+    "to": "STAT 2516",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 2514",
+    "to": "STAT 2516",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "STAT 2511",
+    "to": "STAT 2517",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 2511",
+    "to": "STAT 2517",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "STAT 2514",
+    "to": "STAT 2517",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 2514",
+    "to": "STAT 2517",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "APMA 1650",
+    "to": "STAT 2530",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "STAT 2510",
+    "to": "STAT 2530",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 2510",
+    "to": "STAT 2530",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "STAT 2511",
+    "to": "STAT 2530",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 2511",
+    "to": "STAT 2530",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "STAT 2510",
+    "to": "STAT 2602",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 2510",
+    "to": "STAT 2602",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "STAT 2511",
+    "to": "STAT 2602",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 2511",
+    "to": "STAT 2602",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1210",
+    "to": "STAT 2610",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "MATH 1610",
+    "to": "STAT 2610",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "STAT 2511",
+    "to": "STAT 2610",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 2511",
+    "to": "STAT 2610",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "STAT 2580",
+    "to": "STAT 2610",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 2580",
+    "to": "STAT 2610",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "STAT 2514",
+    "to": "STAT 2610",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PHP 2514",
+    "to": "STAT 2610",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "TAPS 0230",
+    "to": "TAPS 1281E",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "TAPS 1280F",
+    "to": "TAPS 1300",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "TAPS 1342",
+    "to": "TAPS 1343",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "TKSH 0100",
+    "to": "TKSH 0200",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "TKSH 0100",
+    "to": "TKSH 0400",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "TKSH 0200",
+    "to": "TKSH 0400",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "TKSH 0300",
+    "to": "TKSH 0400",
+    "group": 1,
+    "kind": "hard"
+  },
+  {
+    "from": "POLS 0220",
+    "to": "URBN 1870A",
+    "group": 0,
+    "kind": "hard"
+  },
+  {
+    "from": "PLCY 0022",
+    "to": "URBN 1870A",
+    "group": 0,
+    "kind": "hard"
+  }
+]
