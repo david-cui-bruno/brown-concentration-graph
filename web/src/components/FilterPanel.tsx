@@ -14,7 +14,7 @@ export const DEFAULT_FILTERS: Filters = {
   depts: new Set(),
   minLevel: 0,
   maxLevel: 2999,
-  hideIsolated: true,
+  hideIsolated: false,
 };
 
 export function FilterPanel({

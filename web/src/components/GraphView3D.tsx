@@ -208,14 +208,14 @@ export default function GraphView3D() {
         const mat = new THREE.PointsMaterial({ color, size, transparent: true, opacity, sizeAttenuation: true, depthWrite: false });
         return new THREE.Points(geo, mat);
       };
-      scene.add(makeStars(2600, 4200, 2.0, 0xcdd6f0, 0.6));
-      scene.add(makeStars(1600, 3200, 1.1, 0x7d8fd0, 0.45));
-      scene.add(makeStars(240, 2400, 3.2, 0xe8d9b0, 0.5));
-      scene.add(makeStars(120, 2000, 2.6, 0xc490d8, 0.35));
+      scene.add(makeStars(3200, 4200, 2.2, 0xdde4f5, 0.8));
+      scene.add(makeStars(2000, 3200, 1.3, 0x93a5e0, 0.6));
+      scene.add(makeStars(300, 2400, 3.4, 0xf0e2bc, 0.65));
+      scene.add(makeStars(160, 2000, 2.8, 0xc490d8, 0.5));
       // Soft bloom so nodes glow like stars.
       try {
         const { UnrealBloomPass } = await import("three/examples/jsm/postprocessing/UnrealBloomPass.js");
-        const bloom = new UnrealBloomPass(undefined as any, 0.7, 0.55, 0.18);
+        const bloom = new UnrealBloomPass(undefined as any, 1.02, 0.55, 0.18);
         fg.postProcessingComposer().addPass(bloom);
       } catch (e) {
         console.warn("bloom unavailable", e);
