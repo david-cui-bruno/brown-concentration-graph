@@ -14,6 +14,8 @@ export interface ExportNode {
   groupType?: string;
   n?: number | null;
   prereqText?: string | null;
+  orbit?: { x: number; y: number; z: number };
+  force?: { x: number; y: number; z: number };
 }
 
 export interface ExportEdge {

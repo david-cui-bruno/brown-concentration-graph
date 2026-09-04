@@ -12,7 +12,7 @@ import {
   type ExportNode,
 } from "@/lib/graph";
 import { unlockedCourses } from "@/lib/unlock";
-import { heightFor, planarScale, courseLevel, BAND_LABELS } from "@/lib/layout3d";
+import { heightFor, courseLevel } from "@/lib/layout3d";
 import { SearchBox } from "./SearchBox";
 import { SidePanel } from "./SidePanel";
 import { TakenPanel } from "./TakenPanel";
@@ -49,6 +49,16 @@ export default function GraphView3D() {
   const [selected, setSelected] = useState<string | null>(null);
   const [taken, setTaken] = useState<Set<string>>(new Set());
   const [filters, setFilters] = useState<Filters>(DEFAULT_FILTERS);
+  const [layout, setLayout] = useState<"orbit" | "force">("orbit");
+
+  const posOf = useCallback(
+    (n: ExportNode): { x: number; y: number; z: number } => {
+      if (layout === "orbit" && n.orbit) return n.orbit;
+      if (layout === "force" && n.force) return n.force;
+      return { x: n.x, y: heightFor(n), z: n.y };
+    },
+    [layout]
+  );
 
   useEffect(() => {
     fetch("/graph.json")
@@ -105,7 +115,6 @@ export default function GraphView3D() {
   // Build the 3D dataset: focus overrides filters.
   const sceneData = useMemo(() => {
     if (!data || !graph) return { nodes: [] as GNode[], links: [] as GLink[] };
-    const scale = planarScale(data.nodes);
     const include = new Set<string>();
     for (const n of data.nodes) {
       if (focus ? focus.has(n.id) : passesFilters(n)) include.add(n.id);
@@ -124,31 +133,34 @@ export default function GraphView3D() {
     }
     const nodes: GNode[] = data.nodes
       .filter((n) => include.has(n.id) && degreeOk(n.id))
-      .map((n) => ({
-        id: n.id,
-        label: n.label,
-        kind: n.kind,
-        dept: n.dept,
-        color: taken.has(n.id) ? "#8fd6a8" : unlocked.has(n.id) ? "#f4c98a" : n.color,
-        size: n.kind === "concentration" ? 6 : Math.max(2, n.size),
-        fx: n.x * scale,
-        fz: n.y * scale,
-        fy: heightFor(n),
-      }));
+      .map((n) => {
+        const p = posOf(n);
+        return {
+          id: n.id,
+          label: n.label,
+          kind: n.kind,
+          dept: n.dept,
+          color: taken.has(n.id) ? "#8fd6a8" : unlocked.has(n.id) ? "#f4c98a" : n.color,
+          size: n.kind === "concentration" ? 6 : Math.max(2, n.size),
+          fx: p.x,
+          fz: p.z,
+          fy: p.y,
+        };
+      });
     const present = new Set(nodes.map((n) => n.id));
     const links: GLink[] = data.edges
       .filter((e) => present.has(e.source) && present.has(e.target))
       .filter((e) => (focus ? true : e.type === "PREREQ_OF"))
       .map((e) => ({ source: e.source, target: e.target, etype: e.type }));
     return { nodes, links };
-  }, [data, graph, focus, passesFilters, filters.hideIsolated, taken, unlocked]);
+  }, [data, graph, focus, passesFilters, filters.hideIsolated, taken, unlocked, posOf]);
 
   const handleSelect = useCallback(
     (id: string | null) => {
       setSelected(id);
       if (!id && fgRef.current) {
         setTimeout(
-          () => fgRef.current?.cameraPosition({ x: 460, y: 300, z: 460 }, { x: 0, y: 100, z: 0 }, 800),
+          () => fgRef.current?.cameraPosition(layout === "force" ? { x: 720, y: 520, z: 720 } : { x: 560, y: 340, z: 560 }, { x: 0, y: layout === "force" ? 0 : 90, z: 0 }, 800),
           350
         );
       }
@@ -160,11 +172,10 @@ export default function GraphView3D() {
             kind === "concentration"
               ? new Set([id, ...concentrationSubtree(graph!, id)])
               : new Set([id, ...prereqClosure(graph!, id, "up"), ...prereqClosure(graph!, id, "down"), ...concentrationsOf(graph!, id)]);
-          const scale = planarScale(data.nodes);
           let minX = 1e9, maxX = -1e9, minY = 1e9, maxY = -1e9, minZ = 1e9, maxZ = -1e9;
           for (const n of data.nodes) {
             if (!ids.has(n.id)) continue;
-            const x = n.x * scale, z = n.y * scale, y = heightFor(n);
+            const { x, y, z } = posOf(n);
             minX = Math.min(minX, x); maxX = Math.max(maxX, x);
             minY = Math.min(minY, y); maxY = Math.max(maxY, y);
             minZ = Math.min(minZ, z); maxZ = Math.max(maxZ, z);
@@ -176,18 +187,19 @@ export default function GraphView3D() {
         }, 350);
       }
     },
-    [data]
+    [data, graph, posOf]
   );
 
   // Initial camera: slightly above the intro band, looking at the core.
   useEffect(() => {
     if (!fgRef.current || sceneData.nodes.length === 0) return;
     const t = setTimeout(() => {
-      fgRef.current?.cameraPosition({ x: 460, y: 300, z: 460 }, { x: 0, y: 100, z: 0 }, 0);
+      const c = layout === "force" ? { x: 720, y: 520, z: 720 } : { x: 560, y: 340, z: 560 };
+      fgRef.current?.cameraPosition(c, { x: 0, y: layout === "force" ? 0 : 90, z: 0 }, 0);
     }, 100);
     return () => clearTimeout(t);
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [graph]);
+  }, [graph, layout]);
 
   if (!graph || !data) {
     return (
@@ -237,13 +249,33 @@ export default function GraphView3D() {
         warmupTicks={0}
       />
       <SearchBox graph={graph} onSelect={handleSelect} dark />
+      <div style={{ position: "absolute", top: 12, right: selected ? 372 : 12, display: "flex", gap: 6, zIndex: 20, fontFamily: "system-ui", fontSize: 12 }}>
+        {(["orbit", "force"] as const).map((l) => (
+          <button
+            key={l}
+            onClick={() => setLayout(l)}
+            style={{
+              padding: "7px 14px",
+              borderRadius: 8,
+              border: "1px solid #2a3347",
+              background: layout === l ? "#2b5c9e" : "rgba(17,22,34,.94)",
+              color: layout === l ? "#fff" : "#9aa4b2",
+              cursor: "pointer",
+            }}
+          >
+            {l === "orbit" ? "Orbit" : "Galaxy"}
+          </button>
+        ))}
+      </div>
       <FilterPanel graph={graph} filters={filters} setFilters={setFilters} focused={!!focus} onClearFocus={() => handleSelect(null)} />
       {selected && graph.hasNode(selected) && (
         <SidePanel graph={graph} nodeId={selected} taken={taken} onClose={() => handleSelect(null)} onNavigate={handleSelect} />
       )}
       <TakenPanel graph={graph} taken={taken} setTaken={setTaken} />
       <div style={{ position: "absolute", bottom: 8, left: 12, fontSize: 11, color: "#5c6673", fontFamily: "system-ui", pointerEvents: "none" }}>
-        height = course level ({BAND_LABELS.map((b) => b.label).join(" → ")} → gold: concentrations) ·
+        {layout === "orbit"
+          ? "position = which concentrations a course feeds · height = prerequisite depth · gold ring: concentrations"
+          : "pure force layout: connected courses cluster together (no axis meaning)"} ·
         {" "}{data.meta.counts.course} courses · data: Brown Bulletin + Courses@Brown · unofficial
       </div>
     </div>
