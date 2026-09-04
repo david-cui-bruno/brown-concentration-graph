@@ -3623,5 +3623,5380 @@
     "text": null,
     "source": "none",
     "srcdb": null
+  },
+  "ENGL 0700R": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGL 0700U": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "ENGL 0710B": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "ENGL 0710L": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 0710Q": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENGL 0710R": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 0710V": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGL 0710W": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "ENGL 0710X": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "ENGL 0710Y": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 0711B": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 1050S": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 1140A": {
+    "text": "Prerequisites: ENGL 0930 , 0180 or minimum score of WAIVE in 'Graduate Student PreReq'. Enrollment is limited to Undergraduate level students. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "ENGL 1160P": {
+    "text": "Prerequisites: ENGL 0930 , 0180 or minimum score of WAIVE in 'Graduate Student PreReq'. Enrollment is limited to Undergraduate level students. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "ENGL 1190S": {
+    "text": "Prerequisites: ENGL 0900 , 0110 , 0130 , 0160 , 0930 , 0180 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENGL 1190U": {
+    "text": "Prerequisites: ENGL 0930 , 0180 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "ENGL 1310A": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "ENGL 1310H": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "ENGL 1310J": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 1310O": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 1311P": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "ENGL 1360H": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 1360K": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 1360P": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 1360S": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 1360Z": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 1361K": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 1361Q": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 1511A": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "ENGL 1511C": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 1511P": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGL 1511Y": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 1561D": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 1710I": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGL 1710J": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "ENGL 1710K": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "ENGL 1710M": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGL 1710P": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "ENGL 1711D": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "ENGL 1711H": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 1711J": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 1711K": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 1711L": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "ENGL 1711N": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "ENGL 1711O": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENGL 1711S": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGL 1760J": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 1760U": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "ENGL 1760Y": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "ENGL 1761B": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 1761D": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGL 1761E": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 1761F": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 1761G": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 1761L": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 1761Q": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 1761V": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 1762D": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "ENGL 1762M": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 1900D": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 1900J": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202320"
+  },
+  "ENGL 1900K": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 1900P": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "ENGL 1900Y": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 1900Z": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "ENGL 1901H": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "ENGL 1901J": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 1901L": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "ENGL 1901Q": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 1950A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 1950G": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENGL 1950H": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 2360O": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 2360P": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 2360S": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 2360Z": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 2561V": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "ENGL 2761C": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 2900N": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 2900X": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGL 2901D": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 2901K": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGL 2901P": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENGN 0020": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "ENGN 0030": {
+    "text": "Prerequisites: MATH 0100 * , 0170 * , 0180 * , 0190 * , 0200 * , 0350 * , minimum score of 4 in 'AP Calculus BC' or minimum score of 5 in 'AP Calculus BC'. * May be taken concurrently. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGN 0032": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "ENGN 0040": {
+    "text": "Prerequisites: ( ENGN 0030 , 0031 , 0032 , PHYS 0030 , 0050 or 0070 ) and ( MATH 0180 * , 0350 * or 0200 * ). * May be taken concurrently.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENGN 0090": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGN 0130": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGN 0310": {
+    "text": "Prerequisite: ENGN 0040 . Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGN 0350": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "ENGN 0410": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGN 0500": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGN 0510": {
+    "text": "Prerequisites: ( ENGN 0030 , 0031 , 0032 or PHYS 0070 ) and ( ENGN 0040 , PHYS 0160 or 0080 ) and ( MATH 0180 , 0200 or 0350 ) and ( APMA 0350 * or 0355 * ). * May be taken concurrently. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGN 0520": {
+    "text": "Prerequisites: MATH 0180 * , 0350 * or 0200 * . * May be taken concurrently.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENGN 0610": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGN 0620": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENGN 0720": {
+    "text": "Prerequisites: ( ENGN 0030 , 0031 or 0040 ) and ( ENGN 0410 or CHEM 0330 ).",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENGN 0790": {
+    "text": "Prerequisites: ( MATH 0100 , 0170 , 0180 , 0190 , 0200 , 0350 or minimum score of 4 in 'AP Calculus AB') and ( CHEM 0100 , 0330 or minimum score of 4 in 'AP Chemistry').",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGN 0810": {
+    "text": "Prerequisites: ENGN 0040 , APMA 0350 * , 0330 , MATH 0180 , 0350 , 0200 , PHYS 0050 or 0070 . * May be taken concurrently. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGN 0900": {
+    "text": "Prerequisites: ENGN 0090 , MATH 0100 , 0170 or 0190 .",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENGN 0930A": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202320"
+  },
+  "ENGN 0930C": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "ENGN 1000": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGN 1001": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENGN 1010": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGN 1100": {
+    "text": "Prerequisites: APMA 0350 and ENGN 0040 or minimum score of WAIVE in 'Graduate Student PreReq'. A minimum grade of S is required in APMA 0350 and ENGN 0040 .",
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "ENGN 1115": {
+    "text": "Prerequisites: ENGN 0720 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENGN 1120": {
+    "text": "Prerequisites: ENGN 0720 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGN 1130": {
+    "text": "Prerequisites: ENGN 0720 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "ENGN 1140": {
+    "text": "Prerequisites: ( ENGN 1120 * , 1130 * and 1710 * ) or minimum score of WAIVE in 'Graduate Student PreReq'. * May be taken concurrently.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENGN 1150": {
+    "text": "Prerequisites: ENGN 0490 , 0720 and 0810 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENGN 1200": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGN 1205": {
+    "text": "Prerequisites: APMA 0350 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENGN 1210": {
+    "text": "Prerequisites: APMA 0330 , 0350 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENGN 1220": {
+    "text": "Prerequisites: NEUR 0010 and ENGN 0510 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENGN 1221": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENGN 1222": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGN 1223": {
+    "text": "Prerequisites: CHEM 0330 and ( MATH 0100 , 0170 or 0190 ) or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENGN 1224": {
+    "text": "Prerequisites: ENGN 1205 and ( ENGN 1200 or 1490 ) or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGN 1225": {
+    "text": "Prerequisites: ENGN 0510 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGN 1230": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGN 1240": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGN 1250": {
+    "text": "Prerequisites: ENGN 1240 , 1930L or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENGN 1300": {
+    "text": "Prerequisites: ENGN 0310 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENGN 1370": {
+    "text": "Prerequisites: ENGN 0040 and ( APMA 0340 or 0360 ) or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENGN 1410": {
+    "text": "Prerequisites: ENGN 0410 and 0720 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGN 1420": {
+    "text": "Prerequisites: ENGN 0410 , 0720 and 1410 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENGN 1440": {
+    "text": "Prerequisites: ENGN 0410 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENGN 1450": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENGN 1470": {
+    "text": "Prerequisites: ENGN 0410 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "ENGN 1475": {
+    "text": "Prerequisites: CHEM 0330 and ENGN 0720 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGN 1480": {
+    "text": "Prerequisites: ENGN 0410 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202320"
+  },
+  "ENGN 1560": {
+    "text": "Prerequisites: ENGN 0510 , 0520 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGN 1570": {
+    "text": "Prerequisites: ENGN 0520 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGN 1580": {
+    "text": "Prerequisites: ENGN 0520 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENGN 1590": {
+    "text": "Prerequisites: ENGN 0510 , PHYS 0470 or minimum score of WAIVE in 'Graduate Student PreReq'. Students with a semester level of 05, 06, 07, 08, 09, 10, 11, 12, 13, GM or GP may not enroll.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENGN 1595": {
+    "text": "Prerequisites: ENGN 1690 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENGN 1600": {
+    "text": "Prerequisites: ENGN 1630 * or minimum score of WAIVE in 'Graduate Student PreReq'. * May be taken concurrently.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENGN 1610": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGN 1620": {
+    "text": "Prerequisites: ENGN 1230 , 0520 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENGN 1630": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGN 1640": {
+    "text": "Prerequisites: ENGN 1630 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENGN 1650": {
+    "text": "Prerequisites: ENGN 1630 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGN 1690": {
+    "text": "Prerequisites: ENGN 0510 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGN 1700": {
+    "text": "Prerequisites: ENGN 0720 and 0810 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENGN 1723": {
+    "text": "Prerequisites: ( MATH 0100 , 0190 , 0170 , 0180 , 0200 or 0350 ) and ( CHEM 0100 or 0330 ) or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENGN 1735": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "ENGN 1740": {
+    "text": "Prerequisites: ENGN 0310 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENGN 1742": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGN 1745": {
+    "text": "Prerequisites: CHEM 0330 and ENGN 0040 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGN 1750": {
+    "text": "Prerequisites: ENGN 0310 and ( APMA 0330 or 0350 ) or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGN 1760": {
+    "text": "Prerequisites: ENGN 1370 and 0720 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENGN 1790": {
+    "text": "Prerequisites: ENGN 0510 , PHYS 0470 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENGN 1800": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGN 1820": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "ENGN 1840": {
+    "text": "Prerequisites: ( ENGN 0040 or CSCI 0040 ) and ( APMA 0330 or 0340 ) or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202320"
+  },
+  "ENGN 1860": {
+    "text": "Prerequisites: ENGN 0810 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGN 1930S": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGN 1931A": {
+    "text": "Prerequisites: ENGN 0510 , PHYS 0470 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGN 1931D": {
+    "text": "Prerequisites: ENGN 0310 and 1740 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGN 1931F": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGN 1931I": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGN 1931M": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "ENGN 1931P": {
+    "text": "Prerequisites: CHEM 0330 and ENGN 0720 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "ENGN 1931Q": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGN 1931W": {
+    "text": "Prerequisites: ENGN 0090 , 0900 , 0020 , 1010 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGN 1931Y": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGN 1931Z": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENGN 1932M": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGN 1932R": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGN 1950": {
+    "text": "Prerequisites: ENGN 0310 , APMA 0340 and ENGN 0040 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "ENGN 1970": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGN 1971": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENGN 1972": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGN 1973": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENGN 2110": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202600"
+  },
+  "ENGN 2120": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202600"
+  },
+  "ENGN 2130": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGN 2140": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202320"
+  },
+  "ENGN 2150": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGN 2160": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGN 2180": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENGN 2221": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGN 2222": {
+    "text": "Prerequisites: ENGN 1205 and 1210 and ( ENGN 1200 or 1490 ). Enrollment is limited to Graduate level students. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGN 2500": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "ENGN 2501": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "ENGN 2502": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGN 2520": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENGN 2530": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENGN 2560": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENGN 2620": {
+    "text": "Prerequisite: ENGN 2600 . Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202320"
+  },
+  "ENGN 2625": {
+    "text": "Prerequisite: ENGN 0510 .",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGN 2743": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGN 2910G": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENGN 2911R": {
+    "text": "Prerequisite: APMA 0350 .",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGN 2911X": {
+    "text": "Prerequisites: ENGN 1640 or 2912B . Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGN 2912B": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGN 2912K": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGN 2912P": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ENGN 2912U": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENGN 2920F": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202320"
+  },
+  "ENVS 0110": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENVS 0120": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "ENVS 0465": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENVS 0490": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENVS 0705": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "ENVS 0715": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENVS 0717": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENVS 0718": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENVS 1107": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENVS 1207": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENVS 1232": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "ENVS 1247": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENVS 1400": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENVS 1545": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENVS 1547": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENVS 1554": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENVS 1555": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "ENVS 1574": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENVS 1580": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENVS 1601": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENVS 1615": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENVS 1775": {
+    "text": "Prerequisites: BIOL 0480 and 0420 or minimum score of WAIVE in 'Graduate Student PreReq'. A minimum grade of S is required in BIOL 0480 and BIOL 0420 .",
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "ENVS 1805": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "ENVS 1823": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ENVS 1825": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENVS 1875": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202320"
+  },
+  "ENVS 1878": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "ENVS 1909": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "ENVS 1911": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENVS 1925": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ENVS 1926": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "EPI 0850": {
+    "text": "Prerequisites: PHP 0320 or 0320C . Enrollment is limited to Undergraduate level students. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "EPI 1670": {
+    "text": "Prerequisites: EPI 0850 , PHP 0850 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "EPI 1700": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "EPI 1720": {
+    "text": "Prerequisites: PHP 0320 and ( STAT 1501 , PHP 1501 , STAT 2507 , PHP 2507 , STAT 2510 or PHP 2510 ) or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "EPI 1725": {
+    "text": "Prerequisites: STAT 2507 , PHP 2507 , STAT 2510 , PHP 2510 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "EPI 1730": {
+    "text": "Prerequisites: PHP 0320 and ( EPI 0850 or PHP 0850 ) or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "EPI 1854": {
+    "text": "Prerequisites: ( PHP 0320 , 0320C , EPI 0850 or PHP 0850 ) or EPI 2120 * , PHP 2120 * , EPI 2150 * , PHP 2150 * or minimum score of WAIVE in 'Graduate Student PreReq'. * May be taken concurrently.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "EPI 1855": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "EPI 1895": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "EPI 1900": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ETHN 1000": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ETHN 1200D": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "ETHN 1200K": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ETHN 1751F": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "ETHN 1890C": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "FREN 0720A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "FREN 0950A": {
+    "text": "Prerequisite: FREN 0600 . Enrollment is limited to Undergraduate level students.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "FREN 0960A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "FREN 1000B": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "FREN 1020C": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "FREN 1030A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "FREN 1030B": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "FREN 1040B": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "FREN 1040C": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "FREN 1040D": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "FREN 1070L": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202320"
+  },
+  "FREN 1070M": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "FREN 1110F": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "FREN 1120F": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "FREN 1130G": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "FREN 1140A": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "FREN 1150G": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "FREN 1210F": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "FREN 1310N": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "FREN 1310P": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "FREN 1330A": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "FREN 1410I": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "FREN 1410R": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "FREN 1410T": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "FREN 1410X": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "FREN 1710J": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "FREN 1710K": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "FREN 2130E": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "FREN 2130F": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GNSS 0120": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "GREK 1810": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "GREK 1820": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "GRMN 0500F": {
+    "text": "Prerequisite: GRMN 0400 . Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "GRMN 0600C": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 0750B": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 0750D": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 0750F": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1200C": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1200D": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "GRMN 1320A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1320D": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1320E": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1320F": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1320G": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1320I": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1320O": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1320S": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1330A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1340A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1340B": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1340C": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1340D": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1340I": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1340J": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1340K": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1340L": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1340M": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "GRMN 1340Q": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1440A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1440C": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1440D": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1440E": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1440F": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1440H": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1440L": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1440N": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1440O": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1440P": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1440S": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "GRMN 1440X": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1440Y": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1441C": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1450A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1450B": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1450C": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1450F": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1450G": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1450H": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1640C": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1660B": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1660C": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1660F": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1660G": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1660H": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1660I": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1660K": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1660L": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1660P": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1660Q": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1660R": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1660S": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1660T": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1660U": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1660V": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1660W": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1661A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1661E": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1900A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1900B": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1900C": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1900D": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 1900E": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 2320B": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 2320C": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 2320D": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 2320E": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 2330A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 2340A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 2340B": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 2340C": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 2460A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 2460C": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 2460D": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 2660A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 2660C": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 2660G": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 2660H": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 2660I": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 2660O": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 2660P": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 2661A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 2661F": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 2661J": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 2661Q": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "GRMN 2662A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HEBR 0100": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "HEBR 0200": {
+    "text": "Prerequisite: HEBR 0100 .",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "HEBR 0300": {
+    "text": "Prerequisite: HEBR 0200 . Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "HEBR 0400": {
+    "text": "Prerequisite: HEBR 0300 .",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "HEBR 0500": {
+    "text": "Prerequisite: HEBR 0400 . Enrollment is limited to Undergraduate level students. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "HEBR 0600": {
+    "text": "Prerequisite: HEBR 0500 . Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "HIAA 0010": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "HIAA 0013": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIAA 0022": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIAA 0023": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "HIAA 0024": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "HIAA 0032": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "HIAA 0041": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIAA 0042": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIAA 0062": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "HIAA 0063": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "HIAA 0070": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "HIAA 0072": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "HIAA 0074": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIAA 0075": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIAA 0077": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "HIAA 0081": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIAA 0084": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202320"
+  },
+  "HIAA 0087": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "HIAA 0089": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "HIAA 0090": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "HIAA 0100": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "HIAA 0130": {
+    "text": "Prerequisite: HIAA 0100 .",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "HIAA 0140": {
+    "text": "Prerequisites: HIAA 0100 and ( HIAA 0130 or 0003 ).",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "HIAA 0150": {
+    "text": "Prerequisite: HIAA 0100 .",
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "HIAA 0190": {
+    "text": "Prerequisites: HIAA 0100 , 0150 or 0102 .",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "HIAA 0322": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIAA 0340": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIAA 0550": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202320"
+  },
+  "HIAA 0560": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIAA 0630": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "HIAA 0660": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIAA 0710": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIAA 0770": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "HIAA 0820": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "HIAA 0850": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "HIAA 0860": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "HIAA 0861": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIAA 1051": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "HIAA 1171": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "HIAA 1181": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIAA 1190": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "HIAA 1200D": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIAA 1201": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIAA 1202": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "HIAA 1212": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIAA 1213": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202320"
+  },
+  "HIAA 1301": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIAA 1302": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIAA 1303": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIAA 1305": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "HIAA 1307": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "HIAA 1308": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202320"
+  },
+  "HIAA 1550B": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIAA 1560A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIAA 1560C": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIAA 1560D": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIAA 1560F": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIAA 1600C": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIAA 1600I": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIAA 1620": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIAA 1720": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIAA 1771": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIAA 1810": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIAA 1811": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIAA 1820": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "HIAA 1822": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIAA 1850G": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIAA 1850H": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "HIAA 1880": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "HIAA 1888": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "HIAA 1890G": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIAA 1900": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202320"
+  },
+  "HIAA 1910A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIAA 1930": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIAA 1931": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HISP 0550": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "HISP 0600": {
+    "text": "Prerequisites: HISP 0500 , minimum score of 5 in 'AP Spanish Language', minimum score of 670 in 'SATSubj-Spanish', minimum score of 680 in 'SATSubj-Spanish', minimum score of 690 in 'SATSubj-Spanish', minimum score of 700 in 'SATSubj-Spanish', minimum score of 710 in 'SATSubj-Spanish', minimum score of 720 in 'SATSubj-Spanish', minimum score of 730 in 'SATSubj-Spanish' or minimum score of 740 in 'SATSubj-Spanish'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "HISP 0650": {
+    "text": "Prerequisites: HISP 0600 or ( HISP 0500A and 0500B ). Enrollment is limited to Undergraduate level students. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "HISP 0710B": {
+    "text": "Prerequisites: HISP 0600 , 0060 , minimum score of 5 in 'AP Spanish Literature', minimum score of 750 in 'SATSubj-Spanish', minimum score of 760 in 'SATSubj-Spanish', minimum score of 770 in 'SATSubj-Spanish', minimum score of 780 in 'SATSubj-Spanish', minimum score of 790 in 'SATSubj-Spanish' or minimum score of 800 in 'SATSubj-Spanish'.",
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "HISP 0710C": {
+    "text": "Prerequisites: HISP 0600 , 0650 , minimum score of 5 in 'AP Spanish Literature', minimum score of 750 in 'SATSubj-Spanish', minimum score of 760 in 'SATSubj-Spanish', minimum score of 770 in 'SATSubj-Spanish', minimum score of 780 in 'SATSubj-Spanish', minimum score of 790 in 'SATSubj-Spanish' or minimum score of 800 in 'SATSubj-Spanish'. Enrollment is limited to Undergraduate level students. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202320"
+  },
+  "HISP 0710E": {
+    "text": "Prerequisites: HISP 0600 , 0650 , minimum score of 5 in 'AP Spanish Literature', minimum score of 760 in 'SATSubj-Spanish', minimum score of 770 in 'SATSubj-Spanish', minimum score of 780 in 'SATSubj-Spanish', minimum score of 790 in 'SATSubj-Spanish' or minimum score of 800 in 'SATSubj-Spanish'. Enrollment is limited to Undergraduate level students. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "HISP 0730": {
+    "text": "Prerequisites: HISP 0600 , 0650 , minimum score of 5 in 'AP Spanish Literature', minimum score of 750 in 'SATSubj-Spanish', minimum score of 760 in 'SATSubj-Spanish', minimum score of 770 in 'SATSubj-Spanish', minimum score of 780 in 'SATSubj-Spanish', minimum score of 790 in 'SATSubj-Spanish' or minimum score of 800 in 'SATSubj-Spanish'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "HISP 0740": {
+    "text": "Prerequisites: HISP 0600 , 0650 , minimum score of 5 in 'AP Spanish Literature', minimum score of 750 in 'SATSubj-Spanish', minimum score of 760 in 'SATSubj-Spanish', minimum score of 770 in 'SATSubj-Spanish', minimum score of 780 in 'SATSubj-Spanish', minimum score of 790 in 'SATSubj-Spanish' or minimum score of 800 in 'SATSubj-Spanish'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "HISP 0750B": {
+    "text": "Prerequisites: HISP 0600 , 0650 , minimum score of 5 in 'AP Spanish Literature', minimum score of 750 in 'SATSubj-Spanish', minimum score of 760 in 'SATSubj-Spanish', minimum score of 770 in 'SATSubj-Spanish', minimum score of 780 in 'SATSubj-Spanish', minimum score of 790 in 'SATSubj-Spanish' or minimum score of 800 in 'SATSubj-Spanish'. A minimum grade of S is required in HISP 0600 and HISP 0650 . Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "HISP 0750G": {
+    "text": "Prerequisites: HISP 0600 , 0650 , minimum score of 5 in 'AP Spanish Literature', minimum score of 750 in 'SATSubj-Spanish', minimum score of 760 in 'SATSubj-Spanish', minimum score of 770 in 'SATSubj-Spanish', minimum score of 780 in 'SATSubj-Spanish', minimum score of 790 in 'SATSubj-Spanish' or minimum score of 800 in 'SATSubj-Spanish'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "HISP 0750Q": {
+    "text": "Prerequisites: HISP 0600 , 0650 , minimum score of 5 in 'AP Spanish Literature', minimum score of 760 in 'SATSubj-Spanish', minimum score of 770 in 'SATSubj-Spanish', minimum score of 780 in 'SATSubj-Spanish', minimum score of 790 in 'SATSubj-Spanish' or minimum score of 800 in 'SATSubj-Spanish'. A minimum grade of S is required in HISP 0600 and HISP 0650 . Enrollment is limited to Undergraduate level students. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "HISP 1210F": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HISP 1240A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HISP 1240L": {
+    "text": "Prerequisites: HISP 0650 , minimum score of 5 in 'AP Spanish Literature' or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "HISP 1290W": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "HISP 1330Q": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HISP 1330W": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HISP 1330Z": {
+    "text": "Prerequisites: HISP 0650 , minimum score of 5 in 'AP Spanish Literature' or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "HISP 1331E": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HISP 1331J": {
+    "text": "Prerequisites: HISP 0730 , 0740 , 0760 , 0650 , minimum score of 5 in 'AP Spanish Literature' or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202320"
+  },
+  "HISP 1331U": {
+    "text": "Prerequisites: HISP 0650 , minimum score of 5 in 'AP Spanish Literature' or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "HISP 1371T": {
+    "text": "Prerequisites: HISP 0650 , minimum score of 5 in 'AP Spanish Literature' or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "HISP 1500L": {
+    "text": "Prerequisites: HISP 0600 , 0730 , 0740 , 0760 or minimum score of WAIVE in 'Graduate Student PreReq'. A minimum grade of S is required in HISP 0600 , HISP 0730 , HISP 0740 and HISP 0760 . Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "HISP 1666": {
+    "text": "Prerequisites: HISP 0650 , minimum score of 5 in 'AP Spanish Literature' or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "HISP 2160G": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HISP 2520I": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 0150A": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "HIST 0150B": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 0150C": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "HIST 0150D": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "HIST 0150G": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "HIST 0150H": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 0150I": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 0150J": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "HIST 0150K": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "HIST 0202": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "HIST 0203": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "HIST 0212": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 0214": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 0218": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 0233": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "HIST 0234": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "HIST 0243": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 0244": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "HIST 0246": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "HIST 0247": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 0250": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 0252": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "HIST 0253": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "HIST 0253A": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "HIST 0254": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "HIST 0255A": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "HIST 0256": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "HIST 0260": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "HIST 0270A": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "HIST 0270B": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 0276": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 0276B": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 0285A": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "HIST 0286A": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "HIST 0286B": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202320"
+  },
+  "HIST 0510A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 0510B": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "HIST 0520A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 0521A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 0521M": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 0522G": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 0522N": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 0522O": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "HIST 0523A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 0523B": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 0523P": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 0537A": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "HIST 0550A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 0551A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 0552A": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "HIST 0555B": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 0557C": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 0557D": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 0558B": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 0558C": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "HIST 0559A": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "HIST 0559B": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 0559C": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "HIST 0574A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 0576A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 0577A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 0577B": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "HIST 0580M": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "HIST 0580O": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 0582A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 0621A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 0621B": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 0623B": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "HIST 0623C": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "HIST 0654A": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "HIST 0654B": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 0655A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 0657A": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "HIST 0658D": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "HIST 0673A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 0675A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 0685A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1030": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1060": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1070": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "HIST 1080": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "HIST 1081": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "HIST 1101": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "HIST 1110": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1111": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1112": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "HIST 1118": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1120": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "HIST 1121": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "HIST 1122": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1123": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "HIST 1141": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "HIST 1149": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "HIST 1150": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1155": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "HIST 1156": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "HIST 1200A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1200B": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1200C": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "HIST 1201A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1201B": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1202": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "HIST 1205": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "HIST 1210A": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "HIST 1211": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "HIST 1216": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1240A": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "HIST 1241A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1260D": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1262F": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "HIST 1262M": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "HIST 1264M": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "HIST 1266C": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "HIST 1266D": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "HIST 1267": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "HIST 1268A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1268B": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1268C": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1270C": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1272D": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "HIST 1272E": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "HIST 1320": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "HIST 1333": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "HIST 1340": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "HIST 1360": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "HIST 1381": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "HIST 1382": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "HIST 1440": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1455": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1457": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "HIST 1470": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1502": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "HIST 1503": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1505": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "HIST 1507": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "HIST 1511": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1512": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "HIST 1513": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1514": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1515": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "HIST 1530": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1531": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "HIST 1532": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1533": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "HIST 1553": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "HIST 1554": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "HIST 1570": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "HIST 1571": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "HIST 1574": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1620": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "HIST 1640": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1735": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1800": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "HIST 1820A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1820B": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "HIST 1820G": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1825F": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "HIST 1825H": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "HIST 1825J": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "HIST 1825M": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1825S": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1830B": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "HIST 1830M": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "HIST 1835A": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "HIST 1942A": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "HIST 1952A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1956A": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "HIST 1956B": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1956S": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1960G": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1960H": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "HIST 1960J": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "HIST 1960Q": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "HIST 1960R": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1960S": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "HIST 1961B": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1961C": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1961D": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "HIST 1961N": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1962B": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1962C": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1962D": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1962F": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "HIST 1962G": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "HIST 1963L": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1963M": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1963Q": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "HIST 1964A": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "HIST 1964B": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "HIST 1964D": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "HIST 1964E": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1964F": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "HIST 1964G": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1964H": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1964I": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "HIST 1964K": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202320"
+  },
+  "HIST 1964L": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "HIST 1964S": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202320"
+  },
+  "HIST 1965C": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "HIST 1965D": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1965E": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "HIST 1965G": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "HIST 1965H": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1965I": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1965R": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1966Q": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1967C": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "HIST 1967Q": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1967T": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1968A": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "HIST 1968V": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "HIST 1969A": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "HIST 1969B": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1969D": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1970A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1970B": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1970D": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1970F": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "HIST 1970G": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "HIST 1971D": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "HIST 1972A": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "HIST 1972F": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1972G": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "HIST 1972H": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1972I": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1972J": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "HIST 1973Q": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "HIST 1974A": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "HIST 1974B": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1974D": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "HIST 1974G": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1974J": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1974K": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1974M": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202320"
+  },
+  "HIST 1974P": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "HIST 1974S": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1974Y": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1975J": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "HIST 1976A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1976B": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1976C": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202320"
+  },
+  "HIST 1976D": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1976E": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1976G": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1976H": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1976I": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1976J": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1976N": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "HIST 1976R": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "HIST 1977B": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1977I": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "HIST 1977J": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1979D": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HIST 1990": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "HIST 1992": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "HIST 1993": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "HIST 1994": {
+    "text": "Prerequisites: HIST 1993 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "HMAN 1977O": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "HMAN 1977P": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "HMAN 1977S": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "HNDI 0200": {
+    "text": "Prerequisite: HNDI 0100 .",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "HNDI 0400": {
+    "text": "Prerequisite: HNDI 0300 .",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "HNDI 1080": {
+    "text": "Prerequisites: HNDI 0400 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "HSP 0310": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "HSP 0330": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "HSP 0650": {
+    "text": "Prerequisites: HSP 0310 or PHP 0310 . Enrollment is limited to Undergraduate level students.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "HSP 1100": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "HSP 1450": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "HSP 1460": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "HSP 1480": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "HSP 1500": {
+    "text": "Prerequisites: HSP 0310 , PHP 0310 , 0320 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "HSP 1580": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "HSP 1681": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "HSP 1821": {
+    "text": "Prerequisites: PHP 0320 , 0320C or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "IAPA 0300": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "IAPA 0400": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "IAPA 0900": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202320"
+  },
+  "IAPA 1001": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "IAPA 1002": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "IAPA 1003": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "IAPA 1201B": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "IAPA 1203": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "IAPA 1401": {
+    "text": "Prerequisites: ECON 0110 , minimum score of 4 in 'AP Microeconomics', minimum score of 4 in 'AP Macroeconomics', minimum score of 6 in 'IB HL Economics' or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "IAPA 1402": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "IAPA 1404": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "IAPA 1500A": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "IAPA 1502": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "IAPA 1700P": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "IAPA 1700R": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "IAPA 1700S": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "IAPA 1701F": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "IAPA 1701M": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "IAPA 1701N": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "IAPA 1701V": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "IAPA 1701W": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "IAPA 1701X": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "IAPA 1701Y": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "IAPA 1701Z": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "IAPA 1702D": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "IAPA 1702H": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "IAPA 1702I": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "IAPA 1702K": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "IAPA 1800D": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "IAPA 1801D": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "IAPA 1801F": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "IAPA 1802M": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "IAPA 1803": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "IAPA 1804": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "IAPA 1804A": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "IAPA 1804D": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "IAPA 1804M": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "IAPA 1810": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "IAPA 1811": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "IAPA 1816A": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "IAPA 1817A": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "IAPA 1821P": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "ITAL 0600": {
+    "text": "Prerequisite: ITAL 0500 .",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ITAL 0750": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ITAL 0751": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ITAL 0950": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ITAL 0975": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ITAL 0981": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ITAL 1000B": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ITAL 1000D": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ITAL 1000E": {
+    "text": "Prerequisites: ITAL 0600 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "ITAL 1010": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "ITAL 1029": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ITAL 1030A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ITAL 1320": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "ITAL 1340": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ITAL 1350A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ITAL 1400B": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ITAL 1400D": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ITAL 1400F": {
+    "text": "Prerequisites: ITAL 0600 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "ITAL 1400H": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ITAL 1400M": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ITAL 1400P": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ITAL 1420": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ITAL 1550": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ITAL 1580": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ITAL 1590": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ITAL 1610": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ITAL 1620": {
+    "text": "Prerequisites: ITAL 0500 , 0600 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "ITAL 1920": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ITAL 1990": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "ITAL 2100": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "ITAL 2190B": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ITAL 2190G": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ITAL 2220": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ITAL 2550": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "JAPN 0100": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "JAPN 0200": {
+    "text": "Prerequisite: JAPN 0100 .",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "JAPN 0300": {
+    "text": "Prerequisite: JAPN 0200 . Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "JAPN 0400": {
+    "text": "Prerequisite: JAPN 0300 .",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "JAPN 0500": {
+    "text": "Prerequisite: JAPN 0400 . Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "JAPN 0600": {
+    "text": "Prerequisite: JAPN 0500 .",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "JAPN 0700": {
+    "text": "Prerequisite: JAPN 0600 . Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "JAPN 0800": {
+    "text": "Prerequisite: JAPN 0700 .",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "JAPN 0810": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "JAPN 0911": {
+    "text": "Prerequisite: JAPN 0600 . Enrollment is limited to Undergraduate level students. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "JAPN 1010": {
+    "text": "Prerequisites: JAPN 0700 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202320"
+  },
+  "JUDS 0050H": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "JUDS 0050M": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "JUDS 0050P": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "JUDS 0608": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "JUDS 0681": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "JUDS 1630": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "JUDS 1711": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "JUDS 1751": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "JUDS 1810": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "KREA 0100": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "KREA 0200": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "KREA 0300": {
+    "text": "Prerequisite: KREA 0200 . Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "KREA 0400": {
+    "text": "Prerequisite: KREA 0300 .",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "KREA 0500": {
+    "text": "Prerequisite: KREA 0400 . Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "KREA 0600": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "KREA 0912": {
+    "text": "Prerequisite: KREA 0600 . Enrollment is limited to Undergraduate level students.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "LACA 0500": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "LACA 1504G": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "LACA 1504P": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "LACA 1504R": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "LACA 1510I": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "LACA 1630": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "LACA 1900": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "LATN 1110F": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "LATN 1110H": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "LATN 1110L": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "LATN 1120C": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "LATN 1120D": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "LATN 1810": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "LATN 1820": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "LATN 2000A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "LING 0100": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "LING 0511": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "LING 1200": {
+    "text": "Prerequisites: LING 0100 , CLPS 0300 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "LING 1210": {
+    "text": "Prerequisites: LING 0100 , CLPS 0300 , 0030 , 0800 , COGS 0450 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "LING 1270": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "LING 1310": {
+    "text": "Prerequisites: CLPS 0030 , COGS 0410 , LING 0100 , CLPS 0300 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "LING 1311": {
+    "text": "Prerequisites: LING 0100 , CLPS 0300 , 0800 , COGS 0450 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "LING 1410": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "LING 1412": {
+    "text": "Prerequisites: LING 0100 , CLPS 0300 , 0800 , COGS 0450 , CLPS 0030 , COGS 0410 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "LING 1440": {
+    "text": "Prerequisites: LING 0100 , CLPS 0300 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "LING 1500": {
+    "text": "Prerequisites: LING 0100 , CLPS 0300 , 0030 , COGS 0410 , CLPS 0800 , COGS 0450 , CLPS 0340 , ANTH 0800 or minimum score of WAIVE in 'Graduate Student PreReq'. A minimum grade of S is required in LING 0100 , CLPS 0300 , CLPS 0030 , COGS 0410 , CLPS 0800 , COGS 0450 , CLPS 0340 and ANTH 0800 . Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "LING 1741": {
+    "text": "Prerequisites: LING 0100 , CLPS 0300 , LING 0600 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "LING 1771": {
+    "text": "Prerequisites: CLPS 0030 , COGS 0410 , LING 0100 , CLPS 0300 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "LING 1870": {
+    "text": "Prerequisites: LING 1200 , CLPS 1310 , LING 1210 , CLPS 1311 , LING 1311 , CLPS 1331 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "LING 1970": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "LITR 1231K": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "MATH 0050": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "MATH 0060": {
+    "text": "Prerequisite: MATH 0050 . Enrollment is limited to Undergraduate level students.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "MATH 0090": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "MATH 0100": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "MATH 0170": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "MATH 0180": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "MATH 0190": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "MATH 0200": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "MATH 0350": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "MATH 0520": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "MATH 0540": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "MATH 0750": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "MATH 1010": {
+    "text": "Prerequisites: MATH 0520 * , 0530 * , 0540 * or minimum score of WAIVE in 'Graduate Student PreReq'. * May be taken concurrently. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "MATH 1060": {
+    "text": "Prerequisites: MATH 0520 , 0530 , 0540 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "MATH 1110": {
+    "text": "Prerequisites: MATH 0520 , 0530 , 0540 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "MATH 1120": {
+    "text": "Prerequisites: MATH 0520 , 0530 , 0540 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "MATH 1210": {
+    "text": "Prerequisites: MATH 0180 , 0200 , 0350 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "MATH 1220": {
+    "text": "Prerequisites: MATH 1210 , 1610 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "MATH 1460": {
+    "text": "Prerequisites: MATH 0180 , 0200 , 0350 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "MATH 1530": {
+    "text": "Prerequisites: MATH 0520 , 0530 , 0540 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "MATH 1540": {
+    "text": "Prerequisites: MATH 1530 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "MATH 1560": {
+    "text": "Prerequisites: MATH 1530 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "MATH 1610": {
+    "text": "Prerequisites: MATH 0180 , 0200 , 0350 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "MATH 1620": {
+    "text": "Prerequisites: MATH 1610 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202320"
+  },
+  "MATH 1630": {
+    "text": "Prerequisites: MATH 0520 , 0530 , 0540 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "MATH 1640": {
+    "text": "Prerequisites: MATH 1630 , 1130 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "MATH 1710": {
+    "text": "Prerequisites: MATH 1530 and ( MATH 1010 , 1630 or 1130 ) or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "MCM 0150": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "MCM 0220": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "MCM 0230": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "MCM 0240": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "MCM 0250": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "MCM 0260": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "MCM 0700A": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "MCM 0710A": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "MCM 0730A": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "MCM 0750A": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "MCM 1110": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "MCM 1504R": {
+    "text": "Prerequisites: MCM 0100 , 0110 , 0150 , 0220 , 0230 , 0240 , 0250 , 0260 , 1110 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "MCM 1505O": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "MCM 1505Z": {
+    "text": "Prerequisites: MCM 0100 , 0110 , 0150 , 0220 , 0230 , 0240 , 0250 , 0260 , 1110 or minimum score of WAIVE in 'Graduate Student PreReq'. A minimum grade of S is required in MCM 0100 , MCM 0110 , MCM 0150 , MCM 0220 , MCM 0230 , MCM 0240 , MCM 0250 , MCM 0260 and MCM 1110 .",
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "MDVL 0360": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "MDVL 1970": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "MDVL 1990": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "MUSC 0071": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "MUSC 0400A": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "MUSC 0400B": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "MUSC 0550": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "MUSC 0560": {
+    "text": "Prerequisite: MUSC 0550 .",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "MUSC 0570": {
+    "text": "Prerequisite: MUSC 0550 .",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "MUSC 1677": {
+    "text": "Prerequisites: MUSC 0550 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "NAHU 0100": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "NAIS 1900": {
+    "text": "Prerequisites: ETHN 1200K , 1890H or minimum score of WAIVE in 'Graduate Student PreReq'. A minimum grade of S is required in ETHN 1200K and ETHN 1890H .",
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "NEUR 0010": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "NEUR 0680": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "NEUR 1020": {
+    "text": "Prerequisites: NEUR 0010 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "NEUR 1030": {
+    "text": "Prerequisites: NEUR 0010 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "NEUR 1040": {
+    "text": "Prerequisites: NEUR 1020 and 0010 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "NEUR 1440": {
+    "text": "Prerequisites: NEUR 0010 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "NEUR 1510": {
+    "text": "Prerequisites: NEUR 0010 and 1020 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "NEUR 1530": {
+    "text": "Prerequisites: NEUR 0010 and 1020 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "NEUR 1540": {
+    "text": "Prerequisites: NEUR 1020 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "NEUR 1560": {
+    "text": "Prerequisites: NEUR 0010 and 1020 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "NEUR 1570": {
+    "text": "Prerequisites: NEUR 1020 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "NEUR 1600": {
+    "text": "Prerequisites: NEUR 0010 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "NEUR 1630": {
+    "text": "Prerequisites: NEUR 0010 , 1020 , 1030 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "NEUR 1640": {
+    "text": "Prerequisites: NEUR 1020 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "NEUR 1650": {
+    "text": "Prerequisites: NEUR 0010 , 1020 and 1030 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "NEUR 1660": {
+    "text": "Prerequisites: NEUR 0010 and 1030 or CLPS 0400 , 0040 , PSYC 0470 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "NEUR 1670": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "NEUR 1680": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "NEUR 1740": {
+    "text": "Prerequisites: NEUR 1020 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "NEUR 1940B": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "NEUR 1940I": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "NEUR 1970": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "NEUR 2110": {
+    "text": "Prerequisites: NEUR 1030 or ( APMA 0410 , 0650 or 1650 ) or ENGN 1220 . Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "PHIL 0010": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "PHIL 0015": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "PHIL 0060": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "PHIL 0110": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "PHIL 0210": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "PHIL 0401": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "PHIL 0403": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "PHIL 0410": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "PHIL 0510": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "PHIL 0560": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "PHIL 0640": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "PHIL 0990T": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "PHIL 0990X": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "PHIL 1110": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "PHIL 1120": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "PHIL 1210": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "PHIL 1220": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "PHIL 1230": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "PHIL 1240": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "PHIL 1430": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "PHIL 1440": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "PHIL 1470": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "PHIL 1561": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "PHIL 1610": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "PHIL 1630": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "PHIL 1635": {
+    "text": "Prerequisites: PHIL 0640 , 1630 , 1675 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "PHIL 1705": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "PHIL 1735": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "PHIL 1755": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "PHIL 1770": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "PHIL 1775": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "PHIL 1780": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "PHIL 1800": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "PHIL 1825": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202310"
+  },
+  "PHIL 1850": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "PHIL 1990": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "PHP 0060": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "PHP 0080": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "PHP 0320": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "PHP 0720": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "PHP 1040": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202600"
+  },
+  "PHP 1070": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "PHP 1540": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "PHP 1600": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "PHP 1796": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "PHP 1830": {
+    "text": "Prerequisites: PHP 0320 , 0320C or minimum score of WAIVE in 'Graduate Student PreReq'. A minimum grade of S is required in PHP 0320 and PHP 0320C . Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "PHP 1856": {
+    "text": "Prerequisites: PHP 0850 , 2120 , 2140 , 2150 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "PHP 1910": {
+    "text": "Prerequisites: PHP 0310 and ( PHP 0320 or 0320C ) or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "PHP 1915": {
+    "text": "Prerequisites: PHP 0310 , 0320 , 0850 * , 1501 * or minimum score of WAIVE in 'Graduate Student PreReq'. * May be taken concurrently.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "PHP 1920": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "PHP 1960": {
+    "text": "Prerequisites: PHP 0850 , 2120 , 2140 , 2150 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "PHP 1964": {
+    "text": "Prerequisites: PHP 0850 , 2120 , 2150 or minimum score of WAIVE in 'Graduate Student PreReq'. A minimum grade of S is required in PHP 0850 , PHP 2120 and PHP 2150 . Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "PHP 1970": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "PHP 1980": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "PHYS 0030": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "PHYS 0040": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "PHYS 0050": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "PHYS 0060": {
+    "text": "Prerequisites: PHYS 0050 or 0070 .",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "PHYS 0070": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "PHYS 0160": {
+    "text": "Prerequisites: PHYS 0050 or 0070 .",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "PHYS 0270": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "PHYS 0470": {
+    "text": "Prerequisites: ( MATH 0180 , 0200 or 0350 ) and ( PHYS 0040 , 0060 , 0160 or 0080 ). Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "PHYS 0500": {
+    "text": "Prerequisites: (( PHYS 0070 or 0050 ) and ( PHYS 0060 , 0160 or 0080 ) and ( MATH 0180 , 0350 or 0200 )).",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "PHYS 0560": {
+    "text": "Prerequisites: (( PHYS 0070 or 0050 ) and ( PHYS 0160 , 0080 or 0060 ) and PHYS 0470 ).",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "PHYS 0720": {
+    "text": "Prerequisites: ( PHYS 0060 , 0160 or 0080 ) and ( MATH 0180 , 0200 or 0350 ). Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "PHYS 0790": {
+    "text": "Prerequisites: ENGN 0040 or APMA 0340 . Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "PHYS 1100": {
+    "text": "Prerequisites: PHYS 0500 and ( MATH 0520 , 0530 or 0540 ) or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "PHYS 1250": {
+    "text": "Prerequisites: PHYS 0270 and 0470 and ( MATH 0190 , 0100 , 0170 , 0200 , 0180 or 0350 ) or minimum score of WAIVE in 'Graduate Student PreReq'. A minimum grade of S is required in PHYS 0270 , PHYS 0470 , MATH 0190 , MATH 0100 , MATH 0170 , MATH 0200 , MATH 0180 and MATH 0350 . Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "PHYS 1270": {
+    "text": "Prerequisites: PHYS 0270 and 0470 * and ( MATH 0190 , 0100 , 0170 , 0200 , 0180 or 0350 ) or minimum score of WAIVE in 'Graduate Student PreReq'. * May be taken concurrently.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "PHYS 1280": {
+    "text": "Prerequisites: ( PHYS 0160 or 0080 ) and ( MATH 0190 , 0100 , 0170 , 0200 , 0180 or 0350 ) or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "PHYS 1410": {
+    "text": "Prerequisites: ( PHYS 0500 and 0560 ) and ( MATH 0520 , 0530 , 0540 or PHYS 0720 ) or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "PHYS 1420": {
+    "text": "Prerequisites: PHYS 1410 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "PHYS 1510": {
+    "text": "Prerequisites: PHYS 0470 and ( MATH 0180 , 0200 or 0350 ) or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "PHYS 1530": {
+    "text": "Prerequisites: PHYS 1410 * and ( MATH 0180 , 0200 or 0350 ) or minimum score of WAIVE in 'Graduate Student PreReq'. * May be taken concurrently. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "PHYS 1560": {
+    "text": "Prerequisites: ( PHYS 0470 , 0500 and 0560 ) and ( MATH 0520 , 0530 , 0540 or PHYS 0720 ) or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "PHYS 1600": {
+    "text": "Prerequisites: (( PHYS 0070 or 0050 ) and ( PHYS 0160 , 0080 or 0060 ) and ( PHYS 0470 or ENGN 0510 ) and ( MATH 0180 , 0200 or 0350 )) or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "PHYS 1610": {
+    "text": "Prerequisites: MATH 0180 , 0200 , 0350 or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "PHYS 1640": {
+    "text": "Prerequisites: PHYS 0050 and 0060 and ( MATH 0200 , 0180 or 0350 ) and APMA 0650 or minimum score of WAIVE in 'Graduate Student PreReq'. Enrollment is limited to Undergraduate level students. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "PHYS 1970F": {
+    "text": "Prerequisites: PHYS 1410 or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "PHYS 1990": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "PHYS 2620F": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "PLME 0250": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "PLSH 0100": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "PLSH 0200": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "PLSH 0300": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "PLSH 0400": {
+    "text": "Prerequisites: ( PLSH 0100 or 0150 ) and PLSH 0200 and 0300 . Enrollment is limited to Undergraduate level students.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "POBS 0280": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "POBS 0400": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "POBS 0910": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "POBS 1800B": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "POBS 1800C": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "POBS 1800E": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "POBS 1800F": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "POLS 0010": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "POLS 0110": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "POLS 0200": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "POLS 0220": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202320"
+  },
+  "POLS 0400": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "POLS 0500": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "POLS 1015": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "POLS 1020": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "POLS 1050": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "POLS 1090": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "POLS 1150": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "POLS 1210": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "POLS 1225": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "POLS 1240": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "POLS 1280": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "POLS 1290": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "POLS 1310": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "POLS 1380": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
   }
 }
