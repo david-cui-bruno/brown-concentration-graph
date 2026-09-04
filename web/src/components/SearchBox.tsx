@@ -9,17 +9,23 @@ const box: React.CSSProperties = {
   left: 12,
   width: 320,
   fontFamily: "system-ui",
-  zIndex: 10,
+  zIndex: 30,
 };
 
 export function SearchBox({
   graph,
   onSelect,
+  dark = false,
 }: {
   graph: Graph;
   onSelect: (id: string) => void;
+  dark?: boolean;
 }) {
   const [q, setQ] = useState("");
+  const bg = dark ? "rgba(17,22,34,.94)" : "white";
+  const fg = dark ? "#d5dbe3" : "#111";
+  const border = dark ? "#2a3347" : "#d0d4da";
+  const hover = dark ? "#1c2434" : "#f2f4f7";
 
   const index = useMemo(() => {
     const items: { id: string; text: string; kind: string }[] = [];
@@ -55,20 +61,21 @@ export function SearchBox({
           width: "100%",
           padding: "10px 14px",
           borderRadius: 10,
-          border: "1px solid #d0d4da",
+          border: `1px solid ${border}`,
           fontSize: 14,
-          boxShadow: "0 2px 10px rgba(0,0,0,.08)",
+          boxShadow: "0 2px 10px rgba(0,0,0,.2)",
           outline: "none",
-          background: "white",
+          background: bg,
+          color: fg,
         }}
       />
       {results.length > 0 && (
         <div
           style={{
             marginTop: 6,
-            background: "white",
+            background: bg,
             borderRadius: 10,
-            border: "1px solid #e3e6ea",
+            border: `1px solid ${border}`,
             boxShadow: "0 6px 20px rgba(0,0,0,.10)",
             overflow: "hidden",
           }}
@@ -80,11 +87,11 @@ export function SearchBox({
                 onSelect(r.id);
                 setQ("");
               }}
-              style={{ padding: "8px 14px", fontSize: 13, cursor: "pointer", display: "flex", gap: 8 }}
-              onMouseEnter={(e) => (e.currentTarget.style.background = "#f2f4f7")}
-              onMouseLeave={(e) => (e.currentTarget.style.background = "white")}
+              style={{ padding: "8px 14px", fontSize: 13, cursor: "pointer", display: "flex", gap: 8, color: fg }}
+              onMouseEnter={(e) => (e.currentTarget.style.background = hover)}
+              onMouseLeave={(e) => (e.currentTarget.style.background = "transparent")}
             >
-              <span style={{ color: r.kind === "concentration" ? "#b8860b" : "#4867d6", fontSize: 11, minWidth: 82 }}>
+              <span style={{ color: r.kind === "concentration" ? "#e6b400" : "#6d9eff", fontSize: 11, minWidth: 82 }}>
                 {r.kind === "concentration" ? "concentration" : "course"}
               </span>
               {graph.getNodeAttribute(r.id, "label")}

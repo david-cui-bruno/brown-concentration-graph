@@ -42,8 +42,8 @@ export function SidePanel({
         margin: "2px 4px 2px 0",
         padding: "3px 8px",
         borderRadius: 6,
-        background: taken.has(id) ? "#e5f5e9" : "#eef1f5",
-        color: taken.has(id) ? "#1a7a3d" : "#333",
+        background: taken.has(id) ? "#173527" : "#1c2434",
+        color: taken.has(id) ? "#5fd08a" : "#c3cad4",
         fontSize: 12,
         cursor: "pointer",
       }}
@@ -61,19 +61,20 @@ export function SidePanel({
         width: 340,
         maxHeight: "calc(100vh - 24px)",
         overflowY: "auto",
-        background: "white",
+        background: "rgba(17,22,34,.96)",
         borderRadius: 12,
-        border: "1px solid #e3e6ea",
+        border: "1px solid #2a3347",
         boxShadow: "0 6px 24px rgba(0,0,0,.12)",
         padding: 16,
         fontFamily: "system-ui",
         fontSize: 13,
+        color: "#d5dbe3",
         zIndex: 10,
       }}
     >
       <div style={{ display: "flex", justifyContent: "space-between", alignItems: "start" }}>
         <h2 style={{ margin: 0, fontSize: 16 }}>{a.label}</h2>
-        <button onClick={onClose} style={{ border: "none", background: "none", fontSize: 16, cursor: "pointer", color: "#888" }}>
+        <button onClick={onClose} style={{ border: "none", background: "none", fontSize: 16, cursor: "pointer", color: "#8a93a3" }}>
           ✕
         </button>
       </div>
@@ -82,7 +83,7 @@ export function SidePanel({
         <>
           <div style={{ color: "#777", marginTop: 4 }}>{a.dept}</div>
           <h3 style={h3}>Official prerequisite text</h3>
-          <div style={{ color: a.prereqText ? "#333" : "#999", fontStyle: a.prereqText ? "normal" : "italic" }}>
+          <div style={{ color: a.prereqText ? "#c3cad4" : "#6b7482", fontStyle: a.prereqText ? "normal" : "italic" }}>
             {a.prereqText ?? "None listed."}
           </div>
           {directPrereqs.length > 0 && (
@@ -113,7 +114,7 @@ export function SidePanel({
               <div>
                 {progress.satisfied} / {progress.required} requirements satisfiable with your courses
               </div>
-              <div style={{ background: "#eef1f5", borderRadius: 6, height: 8, marginTop: 6 }}>
+              <div style={{ background: "#1c2434", borderRadius: 6, height: 8, marginTop: 6 }}>
                 <div
                   style={{
                     width: `${Math.min(100, (100 * progress.satisfied) / Math.max(1, progress.required))}%`,

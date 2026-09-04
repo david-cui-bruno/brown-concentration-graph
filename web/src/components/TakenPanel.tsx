@@ -42,12 +42,13 @@ export function TakenPanel({
         bottom: 32,
         left: 12,
         width: 320,
-        background: "white",
+        background: "rgba(17,22,34,.94)",
         borderRadius: 12,
-        border: "1px solid #e3e6ea",
+        border: "1px solid #2a3347",
         boxShadow: "0 6px 24px rgba(0,0,0,.12)",
         fontFamily: "system-ui",
         fontSize: 13,
+        color: "#d5dbe3",
         zIndex: 10,
       }}
     >
@@ -67,7 +68,7 @@ export function TakenPanel({
             value={q}
             onChange={(e) => setQ(e.target.value)}
             placeholder="Add a course, e.g. CSCI 0150"
-            style={{ width: "100%", padding: "8px 10px", borderRadius: 8, border: "1px solid #d0d4da", fontSize: 13 }}
+            style={{ width: "100%", padding: "8px 10px", borderRadius: 8, border: "1px solid #2a3347", background: "#0e1420", color: "#d5dbe3", fontSize: 13 }}
           />
           {matches.map((m) => (
             <div
@@ -77,8 +78,8 @@ export function TakenPanel({
                 setQ("");
               }}
               style={{ padding: "6px 10px", cursor: "pointer", borderRadius: 6 }}
-              onMouseEnter={(e) => (e.currentTarget.style.background = "#f2f4f7")}
-              onMouseLeave={(e) => (e.currentTarget.style.background = "white")}
+              onMouseEnter={(e) => (e.currentTarget.style.background = "#1c2434")}
+              onMouseLeave={(e) => (e.currentTarget.style.background = "transparent")}
             >
               + {m}
             </div>
@@ -99,8 +100,8 @@ export function TakenPanel({
                     margin: "2px 4px 2px 0",
                     padding: "3px 8px",
                     borderRadius: 6,
-                    background: "#e5f5e9",
-                    color: "#1a7a3d",
+                    background: "#173527",
+                    color: "#5fd08a",
                     cursor: "pointer",
                   }}
                 >
@@ -123,8 +124,8 @@ export function TakenPanel({
                       margin: "2px 4px 2px 0",
                       padding: "3px 8px",
                       borderRadius: 6,
-                      background: "#fdf3e3",
-                      color: "#a3690b",
+                      background: "#3a2d12",
+                      color: "#e8b45a",
                     }}
                   >
                     {c}

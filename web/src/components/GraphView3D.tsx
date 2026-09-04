@@ -1,0 +1,251 @@
+"use client";
+
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
+import dynamic from "next/dynamic";
+import type Graph from "graphology";
+import {
+  loadGraph,
+  prereqClosure,
+  concentrationsOf,
+  concentrationSubtree,
+  type GraphExport,
+  type ExportNode,
+} from "@/lib/graph";
+import { unlockedCourses } from "@/lib/unlock";
+import { heightFor, planarScale, courseLevel, BAND_LABELS } from "@/lib/layout3d";
+import { SearchBox } from "./SearchBox";
+import { SidePanel } from "./SidePanel";
+import { TakenPanel } from "./TakenPanel";
+import { FilterPanel, type Filters, DEFAULT_FILTERS } from "./FilterPanel";
+
+const ForceGraph3D = dynamic(() => import("./FG3D"), { ssr: false });
+
+let SpriteTextCtor: any = null;
+if (typeof window !== "undefined") {
+  import("three-spritetext").then((m) => (SpriteTextCtor = m.default));
+}
+
+interface GNode {
+  id: string;
+  label: string;
+  kind: string;
+  dept?: string;
+  color: string;
+  size: number;
+  fx: number;
+  fy: number;
+  fz: number;
+}
+interface GLink {
+  source: string;
+  target: string;
+  etype: string;
+}
+
+export default function GraphView3D() {
+  const fgRef = useRef<any>(null);
+  const [graph, setGraph] = useState<Graph | null>(null);
+  const [data, setData] = useState<GraphExport | null>(null);
+  const [selected, setSelected] = useState<string | null>(null);
+  const [taken, setTaken] = useState<Set<string>>(new Set());
+  const [filters, setFilters] = useState<Filters>(DEFAULT_FILTERS);
+
+  useEffect(() => {
+    fetch("/graph.json")
+      .then((r) => r.json())
+      .then((d: GraphExport) => {
+        setData(d);
+        setGraph(loadGraph(d));
+      });
+  }, []);
+
+  useEffect(() => {
+    const saved = localStorage.getItem("takenCourses");
+    if (saved) setTaken(new Set(JSON.parse(saved)));
+  }, []);
+  useEffect(() => {
+    localStorage.setItem("takenCourses", JSON.stringify([...taken]));
+  }, [taken]);
+
+  const unlocked = useMemo(
+    () => (graph && taken.size ? unlockedCourses(graph, taken) : new Set<string>()),
+    [graph, taken]
+  );
+
+  // Focus set: selection collapses the scene to the relevant subgraph.
+  const focus = useMemo(() => {
+    if (!graph || !selected || !graph.hasNode(selected)) return null;
+    const kind = graph.getNodeAttribute(selected, "kind");
+    if (kind === "course") {
+      return new Set([
+        selected,
+        ...prereqClosure(graph, selected, "up"),
+        ...prereqClosure(graph, selected, "down"),
+        ...concentrationsOf(graph, selected),
+      ]);
+    }
+    if (kind === "concentration") {
+      return new Set([selected, ...concentrationSubtree(graph, selected)]);
+    }
+    return null;
+  }, [graph, selected]);
+
+  const passesFilters = useCallback(
+    (n: ExportNode) => {
+      if (n.kind === "concentration") return true;
+      if (n.kind === "reqgroup") return false; // shown only via focus
+      if (filters.depts.size > 0 && !filters.depts.has(n.dept ?? "")) return false;
+      const lvl = courseLevel(n.id);
+      if (lvl < filters.minLevel || lvl > filters.maxLevel) return false;
+      return true;
+    },
+    [filters]
+  );
+
+  // Build the 3D dataset: focus overrides filters.
+  const sceneData = useMemo(() => {
+    if (!data || !graph) return { nodes: [] as GNode[], links: [] as GLink[] };
+    const scale = planarScale(data.nodes);
+    const include = new Set<string>();
+    for (const n of data.nodes) {
+      if (focus ? focus.has(n.id) : passesFilters(n)) include.add(n.id);
+    }
+    // In overview, drop isolated courses if requested.
+    let degreeOk: (id: string) => boolean = () => true;
+    if (!focus && filters.hideIsolated) {
+      const connected = new Set<string>();
+      for (const e of data.edges) {
+        if (e.type === "PREREQ_OF") {
+          connected.add(e.source);
+          connected.add(e.target);
+        }
+      }
+      degreeOk = (id) => connected.has(id) || id.startsWith("conc:");
+    }
+    const nodes: GNode[] = data.nodes
+      .filter((n) => include.has(n.id) && degreeOk(n.id))
+      .map((n) => ({
+        id: n.id,
+        label: n.label,
+        kind: n.kind,
+        dept: n.dept,
+        color: taken.has(n.id) ? "#1a9850" : unlocked.has(n.id) ? "#f5a623" : n.color,
+        size: n.kind === "concentration" ? 6 : Math.max(2, n.size),
+        fx: n.x * scale,
+        fz: n.y * scale,
+        fy: heightFor(n),
+      }));
+    const present = new Set(nodes.map((n) => n.id));
+    const links: GLink[] = data.edges
+      .filter((e) => present.has(e.source) && present.has(e.target))
+      .filter((e) => (focus ? true : e.type === "PREREQ_OF"))
+      .map((e) => ({ source: e.source, target: e.target, etype: e.type }));
+    return { nodes, links };
+  }, [data, graph, focus, passesFilters, filters.hideIsolated, taken, unlocked]);
+
+  const handleSelect = useCallback(
+    (id: string | null) => {
+      setSelected(id);
+      if (!id && fgRef.current) {
+        setTimeout(
+          () => fgRef.current?.cameraPosition({ x: 460, y: 300, z: 460 }, { x: 0, y: 100, z: 0 }, 800),
+          350
+        );
+      }
+      if (id && fgRef.current && data) {
+        // Manual framing: bbox of the focus set (fixed positions are known).
+        setTimeout(() => {
+          const kind = graph?.getNodeAttribute(id, "kind");
+          const ids =
+            kind === "concentration"
+              ? new Set([id, ...concentrationSubtree(graph!, id)])
+              : new Set([id, ...prereqClosure(graph!, id, "up"), ...prereqClosure(graph!, id, "down"), ...concentrationsOf(graph!, id)]);
+          const scale = planarScale(data.nodes);
+          let minX = 1e9, maxX = -1e9, minY = 1e9, maxY = -1e9, minZ = 1e9, maxZ = -1e9;
+          for (const n of data.nodes) {
+            if (!ids.has(n.id)) continue;
+            const x = n.x * scale, z = n.y * scale, y = heightFor(n);
+            minX = Math.min(minX, x); maxX = Math.max(maxX, x);
+            minY = Math.min(minY, y); maxY = Math.max(maxY, y);
+            minZ = Math.min(minZ, z); maxZ = Math.max(maxZ, z);
+          }
+          const cx = (minX + maxX) / 2, cy = (minY + maxY) / 2, cz = (minZ + maxZ) / 2;
+          const span = Math.max(maxX - minX, maxY - minY, maxZ - minZ, 60);
+          const d = span * 1.35;
+          fgRef.current?.cameraPosition({ x: cx + d, y: cy + span * 0.35, z: cz + d }, { x: cx, y: cy, z: cz }, 800);
+        }, 350);
+      }
+    },
+    [data]
+  );
+
+  // Initial camera: slightly above the intro band, looking at the core.
+  useEffect(() => {
+    if (!fgRef.current || sceneData.nodes.length === 0) return;
+    const t = setTimeout(() => {
+      fgRef.current?.cameraPosition({ x: 460, y: 300, z: 460 }, { x: 0, y: 100, z: 0 }, 0);
+    }, 100);
+    return () => clearTimeout(t);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [graph]);
+
+  if (!graph || !data) {
+    return (
+      <div style={{ display: "grid", placeItems: "center", height: "100vh", background: "#0b0f1a", color: "#98a2b3", fontFamily: "system-ui" }}>
+        Loading course universe…
+      </div>
+    );
+  }
+
+  return (
+    <div style={{ position: "relative", height: "100vh", overflow: "hidden", background: "#0b0f1a" }}>
+      <ForceGraph3D
+        fgRef={fgRef}
+        graphData={sceneData}
+        backgroundColor="#0b0f1a"
+        nodeId="id"
+        nodeLabel={(n: any) => `<div style="font-family:system-ui;font-size:12px">${n.label}</div>`}
+        nodeColor={(n: any) => n.color}
+        nodeVal={(n: any) => n.size}
+        nodeOpacity={0.92}
+        nodeResolution={12}
+        linkColor={(l: any) =>
+          l.etype === "PREREQ_OF" ? "#c0392b" : l.etype === "FULFILLS" ? "#b8860b" : "#3d4759"
+        }
+        linkOpacity={focus ? 0.55 : 0.18}
+        linkWidth={(l: any) => (l.etype === "PREREQ_OF" ? 1.2 : 0.5)}
+        linkDirectionalParticles={(l: any) => (focus && l.etype === "PREREQ_OF" ? 2 : 0)}
+        linkDirectionalParticleWidth={1.6}
+        linkDirectionalParticleSpeed={0.006}
+        onNodeClick={(n: any) => handleSelect(n.id === selected ? null : n.id)}
+        onBackgroundClick={() => handleSelect(null)}
+        nodeThreeObjectExtend={true}
+        nodeThreeObject={(n: any) => {
+          const showLabel = n.kind === "concentration" || (focus && focus.has(n.id));
+          if (!showLabel || !SpriteTextCtor) return undefined as any;
+          const sprite = new SpriteTextCtor(
+            n.kind === "concentration" ? n.label.replace(/ \(/, "\n(") : n.label
+          );
+          sprite.color = n.kind === "concentration" ? "#ffd966" : "#cfd8e3";
+          sprite.textHeight = n.kind === "concentration" ? 4.4 : 3.0;
+          sprite.position.y = n.size + 4;
+          sprite.material.depthWrite = false;
+          return sprite;
+        }}
+        enableNodeDrag={false}
+        cooldownTicks={0}
+        warmupTicks={0}
+      />
+      <SearchBox graph={graph} onSelect={handleSelect} dark />
+      <FilterPanel graph={graph} filters={filters} setFilters={setFilters} focused={!!focus} onClearFocus={() => handleSelect(null)} />
+      {selected && graph.hasNode(selected) && (
+        <SidePanel graph={graph} nodeId={selected} taken={taken} onClose={() => handleSelect(null)} onNavigate={handleSelect} />
+      )}
+      <TakenPanel graph={graph} taken={taken} setTaken={setTaken} />
+      <div style={{ position: "absolute", bottom: 8, left: 12, fontSize: 11, color: "#5c6673", fontFamily: "system-ui", pointerEvents: "none" }}>
+        height = course level ({BAND_LABELS.map((b) => b.label).join(" → ")} → gold: concentrations) ·
+        {" "}{data.meta.counts.course} courses · data: Brown Bulletin + Courses@Brown · unofficial
+      </div>
+    </div>
+  );
+}
