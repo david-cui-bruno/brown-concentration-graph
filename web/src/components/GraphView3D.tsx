@@ -49,6 +49,8 @@ export default function GraphView3D() {
   const [graph, setGraph] = useState<Graph | null>(null);
   const [data, setData] = useState<GraphExport | null>(null);
   const [selected, setSelected] = useState<string | null>(null);
+  const [hovered, setHovered] = useState<{ id: string; label: string; kind: string } | null>(null);
+  const mouse = useRef({ x: 0, y: 0 });
   const plan = usePlan();
   const { taken, planned } = plan;
   const [filters, setFilters] = useState<Filters>(DEFAULT_FILTERS);
@@ -136,7 +138,7 @@ export default function GraphView3D() {
           kind: n.kind,
           dept: n.dept,
           color: taken.has(n.id) ? "#6fe3c1" : planned.has(n.id) ? "#e8c47a" : unlocked.has(n.id) ? "#f0b070" : n.color,
-          size: n.kind === "concentration" ? 6 : Math.max(2, n.size),
+          size: n.kind === "concentration" ? 9 : Math.max(3.2, n.size * 1.6),
           fx: p.x,
           fz: p.z,
           fy: p.y,
@@ -236,20 +238,25 @@ export default function GraphView3D() {
 
   if (!graph || !data) {
     return (
-      <div style={{ display: "grid", placeItems: "center", height: "100vh", background: "radial-gradient(ellipse at 62% 28%, #1b1638 0%, #10122b 40%, #080a18 75%, #04050d 100%)", color: "#98a2b3", fontFamily: "system-ui" }}>
+      <div style={{ display: "grid", placeItems: "center", height: "100vh", background: "radial-gradient(ellipse at 62% 26%, #120e2b 0%, #0a0a20 40%, #050510 72%, #010208 100%)", color: "#98a2b3", fontFamily: "system-ui" }}>
         Charting the course constellations…
       </div>
     );
   }
 
   return (
-    <div style={{ position: "relative", height: "100vh", overflow: "hidden", background: "radial-gradient(ellipse at 62% 28%, #1b1638 0%, #10122b 40%, #080a18 75%, #04050d 100%)" }}>
+    <div
+      onMouseMove={(e) => {
+        mouse.current = { x: e.clientX, y: e.clientY };
+      }}
+      style={{ position: "relative", height: "100vh", overflow: "hidden", background: "radial-gradient(ellipse at 62% 26%, #120e2b 0%, #0a0a20 40%, #050510 72%, #010208 100%)" }}>
       <ForceGraph3D
         fgRef={fgRef}
         graphData={sceneData}
         backgroundColor="rgba(0,0,0,0)"
         nodeId="id"
-        nodeLabel={(n: any) => `<div style="font-family:system-ui;font-size:12px">${n.label}</div>`}
+        nodeLabel={() => ""}
+        onNodeHover={(n: any) => setHovered(n ? { id: n.id, label: n.label, kind: n.kind } : null)}
         nodeColor={(n: any) => n.color}
         nodeVal={(n: any) => n.size}
         nodeOpacity={0.92}
@@ -278,9 +285,33 @@ export default function GraphView3D() {
           return sprite;
         }}
         enableNodeDrag={false}
+        onNodeDrag={undefined}
         cooldownTicks={0}
         warmupTicks={0}
       />
+      {hovered && (
+        <div
+          style={{
+            position: "fixed",
+            left: mouse.current.x + 14,
+            top: mouse.current.y - 10,
+            pointerEvents: "none",
+            background: "rgba(8,9,24,.85)",
+            border: "1px solid rgba(124,131,255,.35)",
+            borderRadius: 6,
+            padding: "4px 9px",
+            fontFamily: "system-ui",
+            fontSize: 11.5,
+            letterSpacing: 0.3,
+            color: hovered.kind === "concentration" ? "#ffd479" : "#c9d2ea",
+            zIndex: 40,
+            backdropFilter: "blur(4px)",
+            whiteSpace: "nowrap",
+          }}
+        >
+          {hovered.label}
+        </div>
+      )}
       <SearchBox graph={graph} onSelect={handleSelect} dark />
       <div style={{ position: "absolute", top: 12, right: selected ? 372 : 12, display: "flex", gap: 6, zIndex: 20, fontFamily: "system-ui", fontSize: 12 }}>
         {(["orbit", "force"] as const).map((l) => (

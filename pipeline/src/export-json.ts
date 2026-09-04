@@ -60,18 +60,35 @@ forceAtlas2.assign(simple, {
 });
 
 // 5. Export.
-// Deep-space nebula palette: hues restricted to astro tones (blues, violets,
-// magentas, teals, with rare warm accents like emission nebulae).
-const SPACE_HUES = [222, 245, 262, 280, 300, 320, 340, 195, 180, 165, 28, 45];
-const DEPT_HUES = new Map<string, number>();
-const hue = (dept: string) => {
-  if (!DEPT_HUES.has(dept)) {
-    let h = 0;
-    for (const ch of dept) h = (h * 31 + ch.charCodeAt(0)) >>> 0;
-    DEPT_HUES.set(dept, SPACE_HUES[h % SPACE_HUES.length] + (h % 14) - 7);
-  }
-  return DEPT_HUES.get(dept)!;
-};
+// Hand-curated "deep nebula" palette. Inspired by astrophotography grading:
+// electric indigos, ion teals, hydrogen-alpha rose, doppler violet, star gold.
+const PALETTE = [
+  "#7c83ff", // periwinkle ion
+  "#4f9dff", // quasar blue
+  "#3ee6c0", // aurora teal
+  "#b47aff", // doppler violet
+  "#ff7ab8", // h-alpha rose
+  "#ff9d6f", // ember dust
+  "#ffd479", // star gold
+  "#64d8ff", // cherenkov cyan
+  "#c8b4ff", // lilac haze
+  "#8affa1", // oxygen green
+  "#ff8f8f", // red giant
+  "#e6a3ff", // orchid nebula
+];
+// Round-robin assignment over departments sorted by course count, so the
+// biggest departments always get maximally distinct colors.
+const DEPT_COLOR = new Map<string, string>();
+{
+  const counts = new Map<string, number>();
+  g.forEachNode((_, attrs) => {
+    if (attrs.kind === "course") counts.set(attrs.dept, (counts.get(attrs.dept) ?? 0) + 1);
+  });
+  [...counts.entries()]
+    .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
+    .forEach(([dept], i) => DEPT_COLOR.set(dept, PALETTE[i % PALETTE.length]));
+}
+const deptColor = (dept: string) => DEPT_COLOR.get(dept) ?? PALETTE[0];
 
 /** hsl -> hex, since sigma's WebGL color parser only accepts hex/rgb. */
 function hslToHex(h: number, s: number, l: number): string {
@@ -103,7 +120,7 @@ const nodes = g.mapNodes((id, a) => {
       ...base,
       dept: a.dept,
       size: 2 + Math.log2(1 + outDeg),
-      color: hslToHex(hue(a.dept), 68, 66),
+      color: deptColor(a.dept),
       prereqText: prereqText[id]?.text ?? null,
       title: details[id]?.title ?? null,
       description: details[id]?.description ?? null,
