@@ -1,0 +1,442 @@
+[
+  {
+    "slug": "afri",
+    "name": "Africana Studies",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/afri/"
+  },
+  {
+    "slug": "amst",
+    "name": "American Studies",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/amst/"
+  },
+  {
+    "slug": "anth",
+    "name": "Anthropology",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/anth/"
+  },
+  {
+    "slug": "apma",
+    "name": "Applied Mathematics",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/apma/"
+  },
+  {
+    "slug": "apmb",
+    "name": "Applied Mathematics-Biology",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/apmb/"
+  },
+  {
+    "slug": "apmc",
+    "name": "Applied Mathematics-Computer Science",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/apmc/"
+  },
+  {
+    "slug": "apme",
+    "name": "Applied Mathematics-Economics",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/apme/"
+  },
+  {
+    "slug": "aran",
+    "name": "Archaeology and the Ancient World",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/aran/"
+  },
+  {
+    "slug": "arct",
+    "name": "Architecture",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/arct/"
+  },
+  {
+    "slug": "astr",
+    "name": "Astronomy",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/astr/"
+  },
+  {
+    "slug": "bds",
+    "name": "Behavioral Decision Sciences",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/bds/"
+  },
+  {
+    "slug": "bchm",
+    "name": "Biochemistry & Molecular Biology",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/bchm/"
+  },
+  {
+    "slug": "biol",
+    "name": "Biology",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/biol/"
+  },
+  {
+    "slug": "enbi",
+    "name": "Biomedical Engineering",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/enbi/"
+  },
+  {
+    "slug": "biop",
+    "name": "Biophysics",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/biop/"
+  },
+  {
+    "slug": "cheg",
+    "name": "Chemical Engineering",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/cheg/"
+  },
+  {
+    "slug": "chph",
+    "name": "Chemical Physics",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/chph/"
+  },
+  {
+    "slug": "chem",
+    "name": "Chemistry",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/chem/"
+  },
+  {
+    "slug": "clas",
+    "name": "Classics",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/clas/"
+  },
+  {
+    "slug": "cogn",
+    "name": "Cognitive Neuroscience",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/cogn/"
+  },
+  {
+    "slug": "cogs",
+    "name": "Cognitive Science",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/cogs/"
+  },
+  {
+    "slug": "colt",
+    "name": "Comparative Literature",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/colt/"
+  },
+  {
+    "slug": "csbi",
+    "name": "Computational Biology",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/csbi/"
+  },
+  {
+    "slug": "cccp",
+    "name": "Computational Chemistry and Chemical Physics",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/cccp/"
+  },
+  {
+    "slug": "cneu",
+    "name": "Computational Neuroscience",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/cneu/"
+  },
+  {
+    "slug": "coeg",
+    "name": "Computer Engineering",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/coeg/"
+  },
+  {
+    "slug": "comp",
+    "name": "Computer Science",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/comp/"
+  },
+  {
+    "slug": "csec",
+    "name": "Computer Science-Economics",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/csec/"
+  },
+  {
+    "slug": "ctmp",
+    "name": "Contemplative Studies",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/ctmp/"
+  },
+  {
+    "slug": "nais",
+    "name": "Critical Native American and Indigenous Studies",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/nais/"
+  },
+  {
+    "slug": "dese",
+    "name": "Design Engineering",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/dese/"
+  },
+  {
+    "slug": "emow",
+    "name": "Early Modern World",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/emow/"
+  },
+  {
+    "slug": "eps",
+    "name": "Earth and Planetary Science",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/eps/"
+  },
+  {
+    "slug": "ecb",
+    "name": "Earth, Climate, and Biology",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/ecb/"
+  },
+  {
+    "slug": "east",
+    "name": "East Asian Studies",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/east/"
+  },
+  {
+    "slug": "econ",
+    "name": "Economics",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/econ/"
+  },
+  {
+    "slug": "educ",
+    "name": "Education Studies",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/educ/"
+  },
+  {
+    "slug": "egya",
+    "name": "Egyptology and Assyriology",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/egya/"
+  },
+  {
+    "slug": "eleg",
+    "name": "Electrical Engineering",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/eleg/"
+  },
+  {
+    "slug": "engn",
+    "name": "Engineering",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/engn/"
+  },
+  {
+    "slug": "enph",
+    "name": "Engineering and Physics",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/enph/"
+  },
+  {
+    "slug": "engl",
+    "name": "English",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/engl/"
+  },
+  {
+    "slug": "eveg",
+    "name": "Environmental Engineering",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/eveg/"
+  },
+  {
+    "slug": "envs",
+    "name": "Environmental Sciences and Studies",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/envs/"
+  },
+  {
+    "slug": "eths",
+    "name": "Ethnic Studies",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/eths/"
+  },
+  {
+    "slug": "ffs",
+    "name": "French and Francophone Studies",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/ffs/"
+  },
+  {
+    "slug": "gnss",
+    "name": "Gender and Sexuality Studies",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/gnss/"
+  },
+  {
+    "slug": "gcec",
+    "name": "Geochemistry and Environmental Chemistry",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/gcec/"
+  },
+  {
+    "slug": "gpcp",
+    "name": "Geophysics and Climate Physics",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/gpcp/"
+  },
+  {
+    "slug": "gmst",
+    "name": "German Studies",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/gmst/"
+  },
+  {
+    "slug": "hhbi",
+    "name": "Health & Human Biology",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/hhbi/"
+  },
+  {
+    "slug": "hslc",
+    "name": "Hispanic Literatures and Cultures",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/hslc/"
+  },
+  {
+    "slug": "hist",
+    "name": "History",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/hist/"
+  },
+  {
+    "slug": "hiaa",
+    "name": "History of Art and Architecture",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/hiaa/"
+  },
+  {
+    "slug": "indp",
+    "name": "Independent Concentration",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/indp/"
+  },
+  {
+    "slug": "iapa",
+    "name": "International and Public Affairs",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/iapa/"
+  },
+  {
+    "slug": "ital",
+    "name": "Italian Studies",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/ital/"
+  },
+  {
+    "slug": "juds",
+    "name": "Judaic Studies",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/juds/"
+  },
+  {
+    "slug": "lacs",
+    "name": "Latin American and Caribbean Studies",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/lacs/"
+  },
+  {
+    "slug": "ling",
+    "name": "Linguistics",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/ling/"
+  },
+  {
+    "slug": "lita",
+    "name": "Literary Arts",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/lita/"
+  },
+  {
+    "slug": "maeg",
+    "name": "Materials Engineering",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/maeg/"
+  },
+  {
+    "slug": "math",
+    "name": "Mathematics",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/math/"
+  },
+  {
+    "slug": "macs",
+    "name": "Mathematics-Computer Science",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/macs/"
+  },
+  {
+    "slug": "mtec",
+    "name": "Mathematics-Economics",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/mtec/"
+  },
+  {
+    "slug": "mceg",
+    "name": "Mechanical Engineering",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/mceg/"
+  },
+  {
+    "slug": "mdvc",
+    "name": "Medieval Cultures",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/mdvc/"
+  },
+  {
+    "slug": "mide",
+    "name": "Middle East Studies",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/mide/"
+  },
+  {
+    "slug": "mcmd",
+    "name": "Modern Culture and Media",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/mcmd/"
+  },
+  {
+    "slug": "musc",
+    "name": "Music",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/musc/"
+  },
+  {
+    "slug": "neur",
+    "name": "Neuroscience",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/neur/"
+  },
+  {
+    "slug": "phil",
+    "name": "Philosophy",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/phil/"
+  },
+  {
+    "slug": "phys",
+    "name": "Physics",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/phys/"
+  },
+  {
+    "slug": "phph",
+    "name": "Physics and Philosophy",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/phph/"
+  },
+  {
+    "slug": "pols",
+    "name": "Political Science",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/pols/"
+  },
+  {
+    "slug": "pobr",
+    "name": "Portuguese and Brazilian Studies",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/pobr/"
+  },
+  {
+    "slug": "psyc",
+    "name": "Psychology",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/psyc/"
+  },
+  {
+    "slug": "pubh",
+    "name": "Public Health",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/pubh/"
+  },
+  {
+    "slug": "rels",
+    "name": "Religious Studies",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/rels/"
+  },
+  {
+    "slug": "sts",
+    "name": "Science, Technology, and Society",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/sts/"
+  },
+  {
+    "slug": "slav",
+    "name": "Slavic Studies",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/slav/"
+  },
+  {
+    "slug": "sar",
+    "name": "Social Analysis and Research",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/sar/"
+  },
+  {
+    "slug": "soc",
+    "name": "Sociology",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/soc/"
+  },
+  {
+    "slug": "sast",
+    "name": "South Asian Studies",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/sast/"
+  },
+  {
+    "slug": "stat",
+    "name": "Statistics",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/stat/"
+  },
+  {
+    "slug": "taps",
+    "name": "Theatre Arts and Performance Studies",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/taps/"
+  },
+  {
+    "slug": "urbn",
+    "name": "Urban Studies",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/urbn/"
+  },
+  {
+    "slug": "visa",
+    "name": "Visual Art",
+    "url": "https://bulletin.brown.edu/the-college/concentrations/visa/"
+  }
+]
