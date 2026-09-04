@@ -1,0 +1,377 @@
+{
+  "AFRI 0090": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "AFRI 0600": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "AFRI 1075": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "AFRI 1170": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "AFRI 1920": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "AMST 0192T": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "AMST 1610A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "AMST 1611A": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "AMST 1611S": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "AMST 1904K": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "AMST 1907K": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "ANTH 0100": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ANTH 0300": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ANTH 0310": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "ANTH 0500": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ANTH 0680": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "ANTH 0800": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ANTH 0805": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ANTH 1031": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ANTH 1111": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ANTH 1125": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "ANTH 1126": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "ANTH 1150": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ANTH 1201": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "ANTH 1236": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202510"
+  },
+  "ANTH 1240": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "ANTH 1242": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ANTH 1255": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ANTH 1300": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "ANTH 1301": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "ANTH 1310": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "ANTH 1311": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "ANTH 1320": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "ANTH 1505": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ANTH 1515": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ANTH 1555": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ANTH 1560": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "ANTH 1620": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ANTH 1621": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ANTH 1623": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ANTH 1624": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ANTH 1640": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ANTH 1650": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "ANTH 1692": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ANTH 1720": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202520"
+  },
+  "ANTH 1740": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202410"
+  },
+  "ANTH 1800": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ANTH 1810": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202320"
+  },
+  "ANTH 1820": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202420"
+  },
+  "ANTH 1848": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ANTH 1911": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "ANTH 1940": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "ANTH 1990": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "ANTH 2320": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "APMA 0160": {
+    "text": "Prerequisites: MATH 0100 , APMA 0350 , 0260 , 0355 , MATH 0170 , 0180 , 0190 , 0200 , 0350 , minimum score of 4 in 'AP Calculus BC' or minimum score of 6 in 'IB HL Math Analysis & Approach'. Enrollment is limited to Undergraduate level students. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "APMA 0200": {
+    "text": "Prerequisites: MATH 0100 , 0170 , 0180 , 0190 , 0200 , 0350 , APMA 0260 , 0350 , 0355 , minimum score of 4 in 'AP Calculus BC' or minimum score of 6 in 'IB HL Math Analysis & Approach'. Enrollment is limited to Undergraduate level students. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "APMA 0260": {
+    "text": "Prerequisites: MATH 0100 , 0170 , 0190 , minimum score of 4 in 'AP Calculus BC' or minimum score of 6 in 'IB HL Math Analysis & Approach'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "APMA 0330": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "APMA 0340": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "APMA 0350": {
+    "text": "Prerequisites: MATH 0100 , 0170 , 0180 , 0190 , 0200 , 0350 , APMA 0260 , minimum score of 4 in 'AP Calculus BC' or minimum score of 6 in 'IB HL Math Analysis & Approach'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "APMA 0355": {
+    "text": "Prerequisites: ( APMA 0260 , MATH 0180 , 0200 or 0350 ) and ( APMA 0260 , MATH 0520 , 0530 or 0540 ). Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "APMA 0360": {
+    "text": "Prerequisites: ( MATH 0180 , 0200 , 0350 or APMA 0260 ) and ( APMA 0350 , 0355 or MATH 1110 ). Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "APMA 0365": {
+    "text": "Prerequisites: ( APMA 0260 , MATH 0180 , 0200 or 0350 ) and ( APMA 0260 , MATH 0520 or 0540 ) and ( APMA 0355 or ( APMA 0350 and minimum score of PASS in ' APMA 0355 Bridgework Exam') or MATH 1110 ). Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "APMA 0410": {
+    "text": null,
+    "source": "none",
+    "srcdb": null
+  },
+  "APMA 0650": {
+    "text": null,
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "APMA 1070": {
+    "text": "Prerequisites: ( APMA 0260 , MATH 0180 , 0200 or 0350 ) and ( APMA 0260 , MATH 0520 or 0540 ) and ( APMA 0355 or ( APMA 0350 and minimum score of PASS in ' APMA 0355 Bridgework Exam') or MATH 1110 ) or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "APMA 1080": {
+    "text": "Prerequisites: ( APMA 0260 , MATH 0180 , 0200 or 0350 ) and ( APMA 0260 , MATH 0520 or 0540 ) and ( APMA 1655 or ( APMA 1650 and minimum score of PASS in ' APMA 1655 Bridgework Exam') or MATH 1210 or CSCI 1450 ) and ( APMA 0160 , 0200 , 1160 , 1170 , 1180 , 1210 , 1690 , 1720 , 1740 , 1860 , CSCI 0111 , 0150 , 0170 , 0190 , 0200 , CPSY 0950 or EEPS 0250 ) or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "APMA 1160": {
+    "text": "Prerequisites: ( APMA 0260 , MATH 0180 , 0200 or 0350 ) and ( APMA 0260 , MATH 0520 , 0530 or 0540 ) and ( APMA 0160 , 0200 , 1080 , 1170 , 1180 , 1210 , 1690 , 1740 , 1860 , 1720 , CSCI 0111 , 0150 , 0170 , 0190 , 0200 , EEPS 0250 , GEOL 0250 , CPSY 0950 or CLPS 0950 ) or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "APMA 1170": {
+    "text": "Prerequisites: ( APMA 0260 , MATH 0180 , 0200 or 0350 ) and ( APMA 0260 , MATH 0520 , 0530 or 0540 ) or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "APMA 1180": {
+    "text": "Prerequisites: ( APMA 0260 , MATH 0180 , 0200 or 0350 ) and ( APMA 0260 , MATH 0520 or 0540 ) and ( APMA 0355 or ( APMA 0350 and minimum score of PASS in ' APMA 0355 Bridgework Exam') or MATH 1110 ) and ( APMA 0365 or ( APMA 0360 and minimum score of PASS in ' APMA 0365 Bridgework Exam') or MATH 1120 ) or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "APMA 1200": {
+    "text": "Prerequisites: ( APMA 0260 , MATH 0180 , 0200 or 0350 ) and ( APMA 0260 , MATH 0520 or 0540 ) and ( APMA 1655 or ( APMA 1650 and minimum score of PASS in ' APMA 1655 Bridgework Exam') or MATH 1210 or CSCI 1450 ) or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "APMA 1210": {
+    "text": "Prerequisites: ( APMA 0260 , MATH 0180 , 0200 or 0350 ) and ( APMA 0260 , MATH 0520 , 0530 or 0540 ) and ( APMA 0160 , 0200 , 1160 , 1080 , 1170 , 1180 , 1690 , 1720 , 1740 , 1860 , CSCI 0111 , 0150 , 0170 , 0190 , EEPS 0250 , GEOL 0250 , CPSY 0950 , CLPS 0950 or CSCI 0200 ) or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "APMA 1330": {
+    "text": "Prerequisites: ( APMA 0260 , MATH 0180 , 0200 or 0350 ) and ( APMA 0260 , MATH 0520 or 0540 ) and ( APMA 0365 or ( APMA 0360 and minimum score of PASS in ' APMA 0365 Bridgework Exam') or MATH 1120 ) or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  },
+  "APMA 1360": {
+    "text": "Prerequisites: ( APMA 0260 , MATH 0180 , 0200 or 0350 ) and ( APMA 0260 , MATH 0520 or 0540 ) and ( APMA 0355 or ( APMA 0350 and minimum score of PASS in ' APMA 0355 Bridgework Exam') or MATH 1110 ) or minimum score of WAIVE in 'Graduate Student PreReq'.",
+    "source": "cab",
+    "srcdb": "202620"
+  },
+  "APMA 1650": {
+    "text": "Prerequisites: MATH 0100 , 0170 , 0180 , 0190 , 0200 , 0350 , APMA 0260 , 0350 , 0355 , ECON 0170 , minimum score of 4 in 'AP Calculus BC', minimum score of 6 in 'IB HL Math Analysis & Approach' or minimum score of WAIVE in 'Graduate Student PreReq'. Students in the Remote Study / Study Abroad cohort may not enroll.",
+    "source": "cab",
+    "srcdb": "202610"
+  }
+}

@@ -1,0 +1,574 @@
+{
+  "key": "5319",
+  "mpkey": "1",
+  "stat": "X",
+  "permreq": "N",
+  "rpt": "N",
+  "cart_opts": "{\"grade_mode\":{\"cart_field\":\"p_gmod\",\"enabled\":true,\"options\":[{\"value\":\"N\",\"label\":\"No Credit/Gradable\",\"selected\":\"selected\",\"default\":true}],\"hidden\":true},\"credit_hrs\":{\"cartField\":\"p_hours\",\"enabled\":true,\"options\":[{\"value\":\"0\",\"label\":\"0\",\"default\":true,\"selected\":\"selected\"}]},\"swap_section_with\":{\"enabled\":true,\"options\":[{\"value\":\"\",\"label\":\"Not Applicable\",\"default\":true,\"selected\":\"selected\"}]}}",
+  "linked_crns": "",
+  "schd": "0",
+  "rfam": "2154",
+  "lrfam": "",
+  "isTeaching": "",
+  "changehash": "1B2M2Y8AsgTpgAmY7PhCfg",
+  "code": "STS XLIST",
+  "section": "",
+  "crn": "15958",
+  "title": "Science, Technology, and Society XLIST",
+  "seats": "<strong>Max Enrollment:</strong> <span class=\"seats_max\">0</span> / <strong>Seats Available:</strong> <span class=\"seats_avail\">0</span>",
+  "credits_html": "",
+  "registration_options": "",
+  "instructor_override": "{\"sapr\":false,\"detail\":\"none\",\"tray\":\"show\"}",
+  "description": "",
+  "registration_restrictions": "",
+  "clssnotes": "<p>The following courses have a significant focus on the sociocultural and philosophical dimensions of science, technology and/or medicine. They may count toward the requirements of the Science, Technology, and Society concentration, depending on the student's thematic track and approval of the concentration advisor. Please check with the sponsoring department for times and locations.<br><br>\n\n<b>American Studies</b><br>\n<a href=\"/search/?p=AMST%200192W\" data-action=\"result-detail\" data-group=\"code:AMST 0192W\" >AMST 0192W</a> Faultlines: Race, Art, and the American Landscape<br>\n<a href=\"/search/?p=AMST%201900T\" data-action=\"result-detail\" data-group=\"code:AMST 1900T\" >AMST 1900T</a> Disability: History, Theory and Bodily Difference<br>\n<a href=\"/search/?p=AMST%201907R\" data-action=\"result-detail\" data-group=\"code:AMST 1907R\" >AMST 1907R</a> Films that Teach: Education, Advertising, Propaganda, and Persuasion in Modern America<br>\n<b>Anthropology</b><br>\n<a href=\"/search/?p=ANTH%201242\" data-action=\"result-detail\" data-group=\"code:ANTH 1242\" >ANTH 1242</a> Bioethics and Culture<br>\n<a href=\"/search/?p=ANTH%201760\" data-action=\"result-detail\" data-group=\"code:ANTH 1760\" >ANTH 1760</a> The Body and the World: Disability and Culture in Everyday Life<br>\n<b>Egyptology and Assyriology</b><br>\n<a href=\"/search/?p=ASYR%200510\" data-action=\"result-detail\" data-group=\"code:ASYR 0510\" >ASYR 0510</a> The Zodiac: A <a href=\"/search/?p=ASYR%203000\" data-action=\"result-detail\" data-group=\"code:ASYR 3000\" class=\"notoffered\" title=\"This course is not being offered in the selected term.  Please try another term or search in the University Bulletin for course details.\">3000</a> Year History of Horoscopes, Astronomy, and Imagination<br>\n<b>Biology</b><br>\n<a href=\"/search/?p=BIOL%200290\" data-action=\"result-detail\" data-group=\"code:BIOL 0290\" >BIOL 0290</a> What is Life?<br>\n<b>Computer Science</b><br>\n<a href=\"/search/?p=CSCI%201360\" data-action=\"result-detail\" data-group=\"code:CSCI 1360\" >CSCI 1360</a> Human Factors in Cybersecurity<br>\n<a href=\"/search/?p=CSCI%201870\" data-action=\"result-detail\" data-group=\"code:CSCI 1870\" >CSCI 1870</a> Cybersecurity Ethics<br>\n<a href=\"/search/?p=CSCI%201953A\" data-action=\"result-detail\" data-group=\"code:CSCI 1953A\" >CSCI 1953A</a> Cybersecurity and Privacy in the Age of AI: Protecting At-Risk Populations<br>\n<a href=\"/search/?p=CSCI%202640\" data-action=\"result-detail\" data-group=\"code:CSCI 2640\" >CSCI 2640</a> AI and Cybersecurity Policy<br>\n<a href=\"/search/?p=CSCI%202999A\" data-action=\"result-detail\" data-group=\"code:CSCI 2999A\" >CSCI 2999A</a> Cybersecurity Management Within Business, Government, and Non-Profit Organizations<br>\n<b>Earth, Environmental and Planetary Sciences at Brown University</b><br>\n<a href=\"/search/?p=EEPS%200050\" data-action=\"result-detail\" data-group=\"code:EEPS 0050\" >EEPS 0050</a> Mars, Moon, and the Earth<br>\n<a href=\"/search/?p=EEPS%200160K\" data-action=\"result-detail\" data-group=\"code:EEPS 0160K\" >EEPS 0160K</a> Geology of Star Wars <br>\n<b>English</b><br>\n<a href=\"/search/?p=ENGL%201051B\" data-action=\"result-detail\" data-group=\"code:ENGL 1051B\" >ENGL 1051B</a> Let Me Explain<br>\n<a href=\"/search/?p=ENGL%201180Z\" data-action=\"result-detail\" data-group=\"code:ENGL 1180Z\" >ENGL 1180Z</a> Healthcare Journalism<br>\n<b>Environmental Sciences and Studies</b><br>\n<a href=\"/search/?p=ENVS%200110\" data-action=\"result-detail\" data-group=\"code:ENVS 0110\" >ENVS 0110</a> Humans, Nature, and the Environment: Addressing Environmental Change in the 21st Century<br>\n<a href=\"/search/?p=ENVS%201400\" data-action=\"result-detail\" data-group=\"code:ENVS 1400\" >ENVS 1400</a> Sustainable Design in the Built Environment<br>\n<a href=\"/search/?p=ENVS%201825\" data-action=\"result-detail\" data-group=\"code:ENVS 1825\" >ENVS 1825</a> Commodity Natures: Supply Chains From Extraction to Waste and Alternatives to Endless Growth<br>\n<a href=\"/search/?p=ENVS%201915\" data-action=\"result-detail\" data-group=\"code:ENVS 1915\" >ENVS 1915</a> River Histories: Fishes, Floods and the Transformation of Freshwater Ecosystems<br>\n<b>Gender and Sexuality Studies</b><br>\n<a href=\"/search/?p=GNSS%201410\" data-action=\"result-detail\" data-group=\"code:GNSS 1410\" >GNSS 1410</a> Gender, Race, and Health<br>\n<b>History of Art and Architecture</b><br>\n<a href=\"/search/?p=HIAA%201171\" data-action=\"result-detail\" data-group=\"code:HIAA 1171\" >HIAA 1171</a> Cities, Landscapes, and Design in the Age of Pandemics<br>\n<b>History</b><br>\n<a href=\"/search/?p=HIST%200290\" data-action=\"result-detail\" data-group=\"code:HIST 0290\" >HIST 0290</a> What is Life?<br>\n<a href=\"/search/?p=HIST%200150A\" data-action=\"result-detail\" data-group=\"code:HIST 0150A\" >HIST 0150A</a> History of Capitalism<br>\n<a href=\"/search/?p=HIST%201954S\" data-action=\"result-detail\" data-group=\"code:HIST 1954S\" >HIST 1954S</a> Technology, Data, and the Authoritarian State<br>\n<b>Music</b><br>\n<a href=\"/search/?p=MUSC%201240S\" data-action=\"result-detail\" data-group=\"code:MUSC 1240S\" >MUSC 1240S</a> Feminist Sonic Futures<br>\n<a href=\"/search/?p=MUSC%201246\" data-action=\"result-detail\" data-group=\"code:MUSC 1246\" >MUSC 1246</a> Music and Disability<br>\n<b>Philosophy</b><br>\n<a href=\"/search/?p=PHIL%200401\" data-action=\"result-detail\" data-group=\"code:PHIL 0401\" >PHIL 0401</a> Ethics of Digital Technology<br>\n<b>University Offerings</b><br>\n<a href=\"/search/?p=UNIV%201110\" data-action=\"result-detail\" data-group=\"code:UNIV 1110\" >UNIV 1110</a> The Theory and Teaching of Problem Solving<br>\n\n</p>",
+  "attr_html": "",
+  "resources_critical_review_html": "<a href=\"http://www.thecriticalreview.org/STS/XLIST\" target=\"_blank\">The Critical Review for STS XLIST</a>",
+  "resources_syllabus_html": "",
+  "resources_materials_html": "",
+  "exam_html": "",
+  "meeting_html": "",
+  "instructordetail_html": "",
+  "regdemog_html": "",
+  "regdemog_json": "",
+  "all_sections": "<div class=\"course-sections\" role=\"grid\" aria-readonly=\"true\">\n<div role=\"row\">\n<div role=\"columnheader\" scope=\"col\">Section #</div>\n<div role=\"columnheader\" scope=\"col\">CRN</div>\n<div role=\"columnheader\" scope=\"col\">Meets</div>\n<div role=\"columnheader\" scope=\"col\">Instructor</div>\n</div>\n<a role=\"row\" href=\"#\" class=\"course-section\" data-action=\"result-detail\" data-group=\"code:STS XLIST\" data-srcdb=\"202610\" data-key=\"crn:15958\"><div role=\"rowheader\" class=\"course-section-section\"><span class=\"header-text\">Section #: </span> </div><div role=\"gridcell\" class=\"course-section-crn\"><span class=\"header-text\">CRN: </span> 15958</div><div role=\"gridcell\" class=\"course-section-all-sections-meets\"><span class=\"header-text\">Meets: </span> TBA</div><div role=\"gridcell\" class=\"course-section-instructorresult-html\"><span class=\"header-text\">Instructor: </span> See details</div></a>\n</div><div class=\"course-sections-calendar text-center margin--huge\"><button class=\"btn btn--inverse\" data-action=\"show-sections-calendar\">VIEW CALENDAR</button></div>",
+  "suggestedcourses_html": "",
+  "bookstore_button": "<a class=\"btn\" href=\"https://www.shopbrown.com/#adoption-search-adapter?crn=15958&tc=202610&schid=1\" target=\"_blank\">\n\tPurchase Books\n</a>",
+  "srcdb": "202610",
+  "allInGroup": [
+    {
+      "key": "5319",
+      "code": "STS XLIST",
+      "title": "Science, Technology, and Society XLIST",
+      "crn": "15958",
+      "no": "",
+      "total": "1",
+      "schd": "0",
+      "stat": "X",
+      "hide": "",
+      "isCancelled": "",
+      "meets": "",
+      "mpkey": "1",
+      "meetingTimes": "[]",
+      "instr": "See details",
+      "start_date": "2026-09-09",
+      "end_date": "2026-12-21",
+      "permreq": "N",
+      "rpt": "N",
+      "cart_opts": "{\"grade_mode\":{\"cart_field\":\"p_gmod\",\"enabled\":true,\"options\":[{\"value\":\"N\",\"label\":\"No Credit/Gradable\",\"selected\":\"selected\",\"default\":true}],\"hidden\":true},\"credit_hrs\":{\"cartField\":\"p_hours\",\"enabled\":true,\"options\":[{\"value\":\"0\",\"label\":\"0\",\"default\":true,\"selected\":\"selected\"}]},\"swap_section_with\":{\"enabled\":true,\"options\":[{\"value\":\"\",\"label\":\"Not Applicable\",\"default\":true,\"selected\":\"selected\"}]}}",
+      "linked_crns": "",
+      "rfam": "2154",
+      "lrfam": "",
+      "srcdb": "202610",
+      "changehash": "1B2M2Y8AsgTpgAmY7PhCfg",
+      "instructor_override": "{\"sapr\":false,\"detail\":\"none\",\"tray\":\"show\"}"
+    }
+  ],
+  "termFlags": [
+    {
+      "term": "202610",
+      "flag": "exists"
+    },
+    {
+      "term": "202610",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202610",
+      "flag": "books"
+    },
+    {
+      "term": "202610",
+      "flag": "permreq"
+    },
+    {
+      "term": "202620",
+      "flag": "exists"
+    },
+    {
+      "term": "202620",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202620",
+      "flag": "books"
+    },
+    {
+      "term": "999999",
+      "flag": "exists"
+    },
+    {
+      "term": "202600",
+      "flag": "exists"
+    },
+    {
+      "term": "202600",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202600",
+      "flag": "books"
+    },
+    {
+      "term": "202520",
+      "flag": "exists"
+    },
+    {
+      "term": "202520",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202520",
+      "flag": "books"
+    },
+    {
+      "term": "202520",
+      "flag": "permreq"
+    },
+    {
+      "term": "202510",
+      "flag": "exists"
+    },
+    {
+      "term": "202510",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202510",
+      "flag": "books"
+    },
+    {
+      "term": "202510",
+      "flag": "permreq"
+    },
+    {
+      "term": "202515",
+      "flag": "exists"
+    },
+    {
+      "term": "202515",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202515",
+      "flag": "books"
+    },
+    {
+      "term": "202515",
+      "flag": "permreq"
+    },
+    {
+      "term": "202500",
+      "flag": "exists"
+    },
+    {
+      "term": "202500",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202500",
+      "flag": "books"
+    },
+    {
+      "term": "202500",
+      "flag": "permreq"
+    },
+    {
+      "term": "202420",
+      "flag": "exists"
+    },
+    {
+      "term": "202420",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202420",
+      "flag": "books"
+    },
+    {
+      "term": "202420",
+      "flag": "permreq"
+    },
+    {
+      "term": "202415",
+      "flag": "exists"
+    },
+    {
+      "term": "202415",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202415",
+      "flag": "books"
+    },
+    {
+      "term": "202415",
+      "flag": "permreq"
+    },
+    {
+      "term": "202410",
+      "flag": "exists"
+    },
+    {
+      "term": "202410",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202410",
+      "flag": "books"
+    },
+    {
+      "term": "202400",
+      "flag": "exists"
+    },
+    {
+      "term": "202400",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202400",
+      "flag": "books"
+    },
+    {
+      "term": "202320",
+      "flag": "exists"
+    },
+    {
+      "term": "202320",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202320",
+      "flag": "books"
+    },
+    {
+      "term": "202315",
+      "flag": "exists"
+    },
+    {
+      "term": "202315",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202315",
+      "flag": "books"
+    },
+    {
+      "term": "202310",
+      "flag": "exists"
+    },
+    {
+      "term": "202310",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202310",
+      "flag": "books"
+    },
+    {
+      "term": "202300",
+      "flag": "exists"
+    },
+    {
+      "term": "202300",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202300",
+      "flag": "books"
+    },
+    {
+      "term": "202220",
+      "flag": "exists"
+    },
+    {
+      "term": "202220",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202220",
+      "flag": "books"
+    },
+    {
+      "term": "202215",
+      "flag": "exists"
+    },
+    {
+      "term": "202215",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202215",
+      "flag": "books"
+    },
+    {
+      "term": "202210",
+      "flag": "exists"
+    },
+    {
+      "term": "202210",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202210",
+      "flag": "books"
+    },
+    {
+      "term": "202200",
+      "flag": "exists"
+    },
+    {
+      "term": "202200",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202200",
+      "flag": "books"
+    },
+    {
+      "term": "202120",
+      "flag": "exists"
+    },
+    {
+      "term": "202120",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202120",
+      "flag": "books"
+    },
+    {
+      "term": "202110",
+      "flag": "exists"
+    },
+    {
+      "term": "202110",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202110",
+      "flag": "books"
+    },
+    {
+      "term": "202115",
+      "flag": "exists"
+    },
+    {
+      "term": "202115",
+      "flag": "hiderooms"
+    },
+    {
+      "term": "202115",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202115",
+      "flag": "books"
+    },
+    {
+      "term": "202100",
+      "flag": "exists"
+    },
+    {
+      "term": "202100",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202100",
+      "flag": "books"
+    },
+    {
+      "term": "202020",
+      "flag": "exists"
+    },
+    {
+      "term": "202020",
+      "flag": "no-cart"
+    },
+    {
+      "term": "202020",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202010",
+      "flag": "exists"
+    },
+    {
+      "term": "202010",
+      "flag": "no-cart"
+    },
+    {
+      "term": "202010",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202000",
+      "flag": "exists"
+    },
+    {
+      "term": "202000",
+      "flag": "no-cart"
+    },
+    {
+      "term": "202000",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "201920",
+      "flag": "exists"
+    },
+    {
+      "term": "201920",
+      "flag": "no-cart"
+    },
+    {
+      "term": "201920",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "201915",
+      "flag": "exists"
+    },
+    {
+      "term": "201915",
+      "flag": "no-cart"
+    },
+    {
+      "term": "201915",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "201910",
+      "flag": "exists"
+    },
+    {
+      "term": "201910",
+      "flag": "no-cart"
+    },
+    {
+      "term": "201910",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "201900",
+      "flag": "exists"
+    },
+    {
+      "term": "201900",
+      "flag": "no-cart"
+    },
+    {
+      "term": "201900",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "201820",
+      "flag": "exists"
+    },
+    {
+      "term": "201820",
+      "flag": "no-cart"
+    },
+    {
+      "term": "201820",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "201815",
+      "flag": "exists"
+    },
+    {
+      "term": "201815",
+      "flag": "no-cart"
+    },
+    {
+      "term": "201815",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "201800",
+      "flag": "exists"
+    },
+    {
+      "term": "201800",
+      "flag": "no-cart"
+    },
+    {
+      "term": "201810",
+      "flag": "exists"
+    },
+    {
+      "term": "201810",
+      "flag": "no-cart"
+    },
+    {
+      "term": "201810",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "201720",
+      "flag": "exists"
+    },
+    {
+      "term": "201720",
+      "flag": "no-cart"
+    },
+    {
+      "term": "201715",
+      "flag": "exists"
+    },
+    {
+      "term": "201715",
+      "flag": "no-cart"
+    },
+    {
+      "term": "201710",
+      "flag": "exists"
+    },
+    {
+      "term": "201710",
+      "flag": "no-cart"
+    },
+    {
+      "term": "201620",
+      "flag": "exists"
+    },
+    {
+      "term": "201620",
+      "flag": "no-cart"
+    },
+    {
+      "term": "201700",
+      "flag": "exists"
+    },
+    {
+      "term": "201700",
+      "flag": "no-cart"
+    },
+    {
+      "term": "201615",
+      "flag": "exists"
+    },
+    {
+      "term": "201615",
+      "flag": "no-cart"
+    },
+    {
+      "term": "201610",
+      "flag": "exists"
+    },
+    {
+      "term": "201610",
+      "flag": "no-cart"
+    },
+    {
+      "term": "201600",
+      "flag": "exists"
+    },
+    {
+      "term": "201600",
+      "flag": "no-cart"
+    }
+  ],
+  "dbtime": "1788537388000"
+}

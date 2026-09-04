@@ -1,0 +1,709 @@
+{
+  "key": "1631",
+  "mpkey": "2053",
+  "stat": "A",
+  "permreq": "N",
+  "rpt": "N",
+  "cart_opts": "{\"grade_mode\":{\"cart_field\":\"p_gmod\",\"enabled\":true,\"options\":[{\"value\":\"A\",\"label\":\"Audit\",\"default\":false,\"selected\":\"\"},{\"value\":\"S\",\"label\":\"Satisfactory/No Credit\",\"default\":false,\"selected\":\"\"},{\"value\":\"G\",\"label\":\"Standard ABC/No Credit\",\"default\":true,\"selected\":\"selected\"}]},\"credit_hrs\":{\"cartField\":\"p_hours\",\"enabled\":true,\"options\":[{\"value\":\"1\",\"label\":\"1\",\"default\":true,\"selected\":\"selected\"}]},\"swap_section_with\":{\"enabled\":true,\"options\":[{\"value\":\"\",\"label\":\"Not Applicable\",\"default\":true,\"selected\":\"selected\"}]}}",
+  "linked_crns": "15872,15873,15874,15875",
+  "schd": "S",
+  "rfam": "6528",
+  "lrfam": "2151",
+  "isTeaching": "",
+  "changehash": "p8L/lrTWM+d0t87Q0RRMPQ",
+  "code": "CSCI 0200",
+  "section": "S01",
+  "crn": "13669",
+  "title": "Program Design with Data Structures and Algorithms",
+  "seats": "<strong>Max Enrollment:</strong> <span class=\"seats_max\">50</span> / <strong>Seats Available:</strong> <span class=\"seats_avail\">32</span>",
+  "credits_html": "",
+  "registration_options": "",
+  "instructor_override": "{\"sapr\":false,\"detail\":\"none\",\"tray\":\"show\"}",
+  "description": "Students extend their program-design skills while learning multiple data structures, common graph algorithms, different forms of societal impacts from programs, how to analyze programs for performance, and how to work effectively with multiple styles of programming languages. Examples and course projects draw from several areas of computer science to help students identify their broader interests within the field. There will be a required weekly lab session involving hands-on work with course material.<br/>\nPrerequisite: <a href=\"/search/?p=CSCI%200112\" data-action=\"result-detail\" data-group=\"code:CSCI 0112\" class=\"notoffered\" title=\"This course is not being offered in the selected term.  Please try another term or search in the University Bulletin for course details.\">CSCI 0112</a>, <a href=\"/search/?p=CSCI%200150\" data-action=\"result-detail\" data-group=\"code:CSCI 0150\" >CSCI 0150</a>, <a href=\"/search/?p=CSCI%200170\" data-action=\"result-detail\" data-group=\"code:CSCI 0170\" >0170</a>, or <a href=\"/search/?p=CSCI%200190\" data-action=\"result-detail\" data-group=\"code:CSCI 0190\" >CSCI 0190</a>. In addition, <a href=\"/search/?p=CSCI%200111\" data-action=\"result-detail\" data-group=\"code:CSCI 0111\" >CSCI 0111</a> can be used with both additional work and the instructor's permission. The first two weeks of the course will be taught as at least two parallel tracks based on which prerequisite course a student has taken.<br/>\nCSCI 0200 will be offered every semester (fall and spring).",
+  "registration_restrictions": "<p class=\"prereq\">Prerequisites: <a href=\"/search/?p=CSCI%200112\" data-action=\"result-detail\" data-group=\"code:CSCI 0112\" class=\"notoffered\" title=\"This course is not being offered in the selected term.  Please try another term or search in the University Bulletin for course details.\">CSCI 0112</a>, <a href=\"/search/?p=CSCI%200150\" data-action=\"result-detail\" data-group=\"code:CSCI 0150\" >0150</a>, <a href=\"/search/?p=CSCI%200170\" data-action=\"result-detail\" data-group=\"code:CSCI 0170\" >0170</a> or <a href=\"/search/?p=CSCI%200190\" data-action=\"result-detail\" data-group=\"code:CSCI 0190\" >0190</a>.</p>",
+  "clssnotes": "",
+  "attr_html": "Accessible to Remote Students (REM)",
+  "resources_critical_review_html": "<a href=\"http://www.thecriticalreview.org/CSCI/0200\" target=\"_blank\">The Critical Review for CSCI 0200</a>",
+  "resources_syllabus_html": "",
+  "resources_materials_html": "",
+  "exam_html": "",
+  "meeting_html": "<div class=\"meet\">MWF 2pm-2:50pm</div>",
+  "instructordetail_html": "<div class=\"instructor\"><div class=\"instructor-detail\"><div class=\"instructor-name\"><h4><a href=\"#\" data-action=\"search\" data-search-data-provider=\"search-by-instructor\" data-id=\"2784\">Tim Nelson</a></h4></div><p class=\"truncate\"><a href=\"mailto:timothy_nelson@brown.edu\" target=\"_blank\">timothy_nelson@brown.edu</a></p></div></div>",
+  "regdemog_html": "<p class=\"enroll_demog\">Current enrollment: 18</p><div class=\"demogchart\"></div><div class=\"demogchartlegend\"><ul><li class=\"pieitem item_oth\">5.56% - Other</li><li class=\"pieitem item_so\">66.67% - Sophomore</li><li class=\"pieitem item_jr\">27.78% - Junior</li></ul></div>",
+  "regdemog_json": "{\"Oth\":1,\"So\":12,\"Jr\":5}",
+  "all_sections": "<div class=\"course-sections\" role=\"grid\" aria-readonly=\"true\">\n<div role=\"row\">\n<div role=\"columnheader\" scope=\"col\">Section #</div>\n<div role=\"columnheader\" scope=\"col\">CRN</div>\n<div role=\"columnheader\" scope=\"col\">Meets</div>\n<div role=\"columnheader\" scope=\"col\">Instructor</div>\n</div>\n<a role=\"row\" href=\"#\" class=\"course-section\" data-action=\"result-detail\" data-group=\"code:CSCI 0200\" data-srcdb=\"202610\" data-key=\"crn:13669\"><div role=\"rowheader\" class=\"course-section-section\"><span class=\"header-text\">Section #: </span> S01</div><div role=\"gridcell\" class=\"course-section-crn\"><span class=\"header-text\">CRN: </span> 13669</div><div role=\"gridcell\" class=\"course-section-all-sections-meets\"><span class=\"header-text\">Meets: </span> MWF 2-2:50p</div><div role=\"gridcell\" class=\"course-section-instructorresult-html\"><span class=\"header-text\">Instructor: </span> T. Nelson</div></a>\n<a role=\"row\" href=\"#\" class=\"course-section\" data-action=\"result-detail\" data-group=\"code:CSCI 0200\" data-srcdb=\"202610\" data-key=\"crn:16022\"><div role=\"rowheader\" class=\"course-section-section\"><span class=\"header-text\">Section #: </span> S02</div><div role=\"gridcell\" class=\"course-section-crn\"><span class=\"header-text\">CRN: </span> 16022</div><div role=\"gridcell\" class=\"course-section-all-sections-meets\"><span class=\"header-text\">Meets: </span> ONLINE</div><div role=\"gridcell\" class=\"course-section-instructorresult-html\"><span class=\"header-text\">Instructor: </span> T. Nelson</div></a>\n<a role=\"row\" href=\"#\" class=\"course-section\" data-action=\"result-detail\" data-group=\"code:CSCI 0200\" data-srcdb=\"202610\" data-key=\"crn:15872\"><div role=\"rowheader\" class=\"course-section-section\"><span class=\"header-text\">Section #: </span> C01</div><div role=\"gridcell\" class=\"course-section-crn\"><span class=\"header-text\">CRN: </span> 15872</div><div role=\"gridcell\" class=\"course-section-all-sections-meets\"><span class=\"header-text\">Meets: </span> M 4-5:50p</div><div role=\"gridcell\" class=\"course-section-instructorresult-html\"><span class=\"header-text\">Instructor: </span> T. Nelson</div></a>\n<a role=\"row\" href=\"#\" class=\"course-section\" data-action=\"result-detail\" data-group=\"code:CSCI 0200\" data-srcdb=\"202610\" data-key=\"crn:15873\"><div role=\"rowheader\" class=\"course-section-section\"><span class=\"header-text\">Section #: </span> C02</div><div role=\"gridcell\" class=\"course-section-crn\"><span class=\"header-text\">CRN: </span> 15873</div><div role=\"gridcell\" class=\"course-section-all-sections-meets\"><span class=\"header-text\">Meets: </span> M 6-7:50p</div><div role=\"gridcell\" class=\"course-section-instructorresult-html\"><span class=\"header-text\">Instructor: </span> T. Nelson</div></a>\n<a role=\"row\" href=\"#\" class=\"course-section\" data-action=\"result-detail\" data-group=\"code:CSCI 0200\" data-srcdb=\"202610\" data-key=\"crn:15874\"><div role=\"rowheader\" class=\"course-section-section\"><span class=\"header-text\">Section #: </span> C03</div><div role=\"gridcell\" class=\"course-section-crn\"><span class=\"header-text\">CRN: </span> 15874</div><div role=\"gridcell\" class=\"course-section-all-sections-meets\"><span class=\"header-text\">Meets: </span> T 4-5:50p</div><div role=\"gridcell\" class=\"course-section-instructorresult-html\"><span class=\"header-text\">Instructor: </span> T. Nelson</div></a>\n<a role=\"row\" href=\"#\" class=\"course-section\" data-action=\"result-detail\" data-group=\"code:CSCI 0200\" data-srcdb=\"202610\" data-key=\"crn:15875\"><div role=\"rowheader\" class=\"course-section-section\"><span class=\"header-text\">Section #: </span> C04</div><div role=\"gridcell\" class=\"course-section-crn\"><span class=\"header-text\">CRN: </span> 15875</div><div role=\"gridcell\" class=\"course-section-all-sections-meets\"><span class=\"header-text\">Meets: </span> T 7-8:50p</div><div role=\"gridcell\" class=\"course-section-instructorresult-html\"><span class=\"header-text\">Instructor: </span> T. Nelson</div></a>\n</div><div class=\"course-sections-calendar text-center margin--huge\"><button class=\"btn btn--inverse\" data-action=\"show-sections-calendar\">VIEW CALENDAR</button></div>",
+  "suggestedcourses_html": "<a href=\"#\" data-group=\"code:MATH 0520\" data-srcdb=\"202610\" data-action=\"result-detail\" class=\"suggested-link\"><span class=\"suggested-code\">MATH 0520</span><span class=\"suggested-title\">Linear Algebra</span></a>\n<a href=\"#\" data-group=\"code:ECON 0110\" data-srcdb=\"202610\" data-action=\"result-detail\" class=\"suggested-link\"><span class=\"suggested-code\">ECON 0110</span><span class=\"suggested-title\">Principles of Economics</span></a>\n<a href=\"#\" data-group=\"code:MATH 0100\" data-srcdb=\"202610\" data-action=\"result-detail\" class=\"suggested-link\"><span class=\"suggested-code\">MATH 0100</span><span class=\"suggested-title\">Single Variable Calculus, Part II</span></a>\n<a href=\"#\" data-group=\"code:CSCI 0150\" data-srcdb=\"202610\" data-action=\"result-detail\" class=\"suggested-link\"><span class=\"suggested-code\">CSCI 0150</span><span class=\"suggested-title\">Introduction to Object-Oriented Programming and Computer Science</span></a>",
+  "bookstore_button": "<a class=\"btn\" href=\"https://www.shopbrown.com/#adoption-search-adapter?crn=13669&tc=202610&schid=1\" target=\"_blank\">\n\tPurchase Books\n</a>",
+  "srcdb": "202610",
+  "allInGroup": [
+    {
+      "key": "1631",
+      "code": "CSCI 0200",
+      "title": "Program Design with Data Structures and Algorithms",
+      "crn": "13669",
+      "no": "S01",
+      "total": "6",
+      "schd": "S",
+      "stat": "A",
+      "hide": "",
+      "isCancelled": "",
+      "meets": "MWF 2-2:50p",
+      "mpkey": "2053",
+      "meetingTimes": "[{\"meet_day\":\"0\",\"start_time\":\"1400\",\"end_time\":\"1450\"},{\"meet_day\":\"2\",\"start_time\":\"1400\",\"end_time\":\"1450\"},{\"meet_day\":\"4\",\"start_time\":\"1400\",\"end_time\":\"1450\"}]",
+      "instr": "T. Nelson",
+      "start_date": "2026-09-09",
+      "end_date": "2026-12-21",
+      "permreq": "N",
+      "rpt": "N",
+      "cart_opts": "{\"grade_mode\":{\"cart_field\":\"p_gmod\",\"enabled\":true,\"options\":[{\"value\":\"A\",\"label\":\"Audit\",\"default\":false,\"selected\":\"\"},{\"value\":\"S\",\"label\":\"Satisfactory/No Credit\",\"default\":false,\"selected\":\"\"},{\"value\":\"G\",\"label\":\"Standard ABC/No Credit\",\"default\":true,\"selected\":\"selected\"}]},\"credit_hrs\":{\"cartField\":\"p_hours\",\"enabled\":true,\"options\":[{\"value\":\"1\",\"label\":\"1\",\"default\":true,\"selected\":\"selected\"}]},\"swap_section_with\":{\"enabled\":true,\"options\":[{\"value\":\"\",\"label\":\"Not Applicable\",\"default\":true,\"selected\":\"selected\"}]}}",
+      "linked_crns": "15872,15873,15874,15875",
+      "rfam": "6528",
+      "lrfam": "2151",
+      "srcdb": "202610",
+      "changehash": "p8L/lrTWM+d0t87Q0RRMPQ",
+      "instructor_override": "{\"sapr\":false,\"detail\":\"none\",\"tray\":\"show\"}"
+    },
+    {
+      "key": "1632",
+      "code": "CSCI 0200",
+      "title": "Program Design with Data Structures and Algorithms",
+      "crn": "15872",
+      "no": "C01",
+      "total": "6",
+      "schd": "C",
+      "stat": "A",
+      "hide": "",
+      "isCancelled": "",
+      "meets": "M 4-5:50p",
+      "mpkey": "3833",
+      "meetingTimes": "[{\"meet_day\":\"0\",\"start_time\":\"1600\",\"end_time\":\"1750\"}]",
+      "instr": "T. Nelson",
+      "start_date": "2026-09-09",
+      "end_date": "2026-12-21",
+      "permreq": "N",
+      "rpt": "N",
+      "cart_opts": "{\"grade_mode\":{\"cart_field\":\"p_gmod\",\"enabled\":true,\"options\":[{\"value\":\"G\",\"label\":\"Standard ABC/No Credit\",\"selected\":\"selected\",\"default\":true}],\"hidden\":true},\"credit_hrs\":{\"cartField\":\"p_hours\",\"enabled\":true,\"options\":[{\"value\":\"0\",\"label\":\"0\",\"default\":true,\"selected\":\"selected\"}]},\"swap_section_with\":{\"enabled\":true,\"options\":[{\"value\":\"\",\"label\":\"Not Applicable\",\"default\":true,\"selected\":\"selected\"}]}}",
+      "linked_crns": "13669,16022",
+      "rfam": "2151",
+      "lrfam": "6528",
+      "srcdb": "202610",
+      "changehash": "teGPSXQYtjOWo+8izDm0Zg",
+      "instructor_override": "{\"sapr\":false,\"detail\":\"none\",\"tray\":\"show\"}"
+    },
+    {
+      "key": "1633",
+      "code": "CSCI 0200",
+      "title": "Program Design with Data Structures and Algorithms",
+      "crn": "15873",
+      "no": "C02",
+      "total": "6",
+      "schd": "C",
+      "stat": "A",
+      "hide": "",
+      "isCancelled": "",
+      "meets": "M 6-7:50p",
+      "mpkey": "3468",
+      "meetingTimes": "[{\"meet_day\":\"0\",\"start_time\":\"1800\",\"end_time\":\"1950\"}]",
+      "instr": "T. Nelson",
+      "start_date": "2026-09-09",
+      "end_date": "2026-12-21",
+      "permreq": "N",
+      "rpt": "N",
+      "cart_opts": "{\"grade_mode\":{\"cart_field\":\"p_gmod\",\"enabled\":true,\"options\":[{\"value\":\"G\",\"label\":\"Standard ABC/No Credit\",\"selected\":\"selected\",\"default\":true}],\"hidden\":true},\"credit_hrs\":{\"cartField\":\"p_hours\",\"enabled\":true,\"options\":[{\"value\":\"0\",\"label\":\"0\",\"default\":true,\"selected\":\"selected\"}]},\"swap_section_with\":{\"enabled\":true,\"options\":[{\"value\":\"\",\"label\":\"Not Applicable\",\"default\":true,\"selected\":\"selected\"}]}}",
+      "linked_crns": "13669,16022",
+      "rfam": "2151",
+      "lrfam": "6528",
+      "srcdb": "202610",
+      "changehash": "HlLbWDrjEkjzibNjzeMyFQ",
+      "instructor_override": "{\"sapr\":false,\"detail\":\"none\",\"tray\":\"show\"}"
+    },
+    {
+      "key": "1634",
+      "code": "CSCI 0200",
+      "title": "Program Design with Data Structures and Algorithms",
+      "crn": "15874",
+      "no": "C03",
+      "total": "6",
+      "schd": "C",
+      "stat": "A",
+      "hide": "",
+      "isCancelled": "",
+      "meets": "T 4-5:50p",
+      "mpkey": "2202",
+      "meetingTimes": "[{\"meet_day\":\"1\",\"start_time\":\"1600\",\"end_time\":\"1750\"}]",
+      "instr": "T. Nelson",
+      "start_date": "2026-09-09",
+      "end_date": "2026-12-21",
+      "permreq": "N",
+      "rpt": "N",
+      "cart_opts": "{\"grade_mode\":{\"cart_field\":\"p_gmod\",\"enabled\":true,\"options\":[{\"value\":\"G\",\"label\":\"Standard ABC/No Credit\",\"selected\":\"selected\",\"default\":true}],\"hidden\":true},\"credit_hrs\":{\"cartField\":\"p_hours\",\"enabled\":true,\"options\":[{\"value\":\"0\",\"label\":\"0\",\"default\":true,\"selected\":\"selected\"}]},\"swap_section_with\":{\"enabled\":true,\"options\":[{\"value\":\"\",\"label\":\"Not Applicable\",\"default\":true,\"selected\":\"selected\"}]}}",
+      "linked_crns": "13669,16022",
+      "rfam": "2151",
+      "lrfam": "6528",
+      "srcdb": "202610",
+      "changehash": "RYLI/Ornf/+lBY+mf2InMQ",
+      "instructor_override": "{\"sapr\":false,\"detail\":\"none\",\"tray\":\"show\"}"
+    },
+    {
+      "key": "1635",
+      "code": "CSCI 0200",
+      "title": "Program Design with Data Structures and Algorithms",
+      "crn": "15875",
+      "no": "C04",
+      "total": "6",
+      "schd": "C",
+      "stat": "A",
+      "hide": "",
+      "isCancelled": "",
+      "meets": "T 7-8:50p",
+      "mpkey": "2320",
+      "meetingTimes": "[{\"meet_day\":\"1\",\"start_time\":\"1900\",\"end_time\":\"2050\"}]",
+      "instr": "T. Nelson",
+      "start_date": "2026-09-09",
+      "end_date": "2026-12-21",
+      "permreq": "N",
+      "rpt": "N",
+      "cart_opts": "{\"grade_mode\":{\"cart_field\":\"p_gmod\",\"enabled\":true,\"options\":[{\"value\":\"G\",\"label\":\"Standard ABC/No Credit\",\"selected\":\"selected\",\"default\":true}],\"hidden\":true},\"credit_hrs\":{\"cartField\":\"p_hours\",\"enabled\":true,\"options\":[{\"value\":\"0\",\"label\":\"0\",\"default\":true,\"selected\":\"selected\"}]},\"swap_section_with\":{\"enabled\":true,\"options\":[{\"value\":\"\",\"label\":\"Not Applicable\",\"default\":true,\"selected\":\"selected\"}]}}",
+      "linked_crns": "13669,16022",
+      "rfam": "2151",
+      "lrfam": "6528",
+      "srcdb": "202610",
+      "changehash": "tWtzTKd5Cv45Vqz0HLYEUA",
+      "instructor_override": "{\"sapr\":false,\"detail\":\"none\",\"tray\":\"show\"}"
+    },
+    {
+      "key": "1636",
+      "code": "CSCI 0200",
+      "title": "Program Design with Data Structures and Algorithms",
+      "crn": "16022",
+      "no": "S02",
+      "total": "6",
+      "schd": "S",
+      "stat": "A",
+      "hide": "",
+      "isCancelled": "",
+      "meets": "Course offered online",
+      "mpkey": "1",
+      "meetingTimes": "[]",
+      "instr": "T. Nelson",
+      "start_date": "2026-09-09",
+      "end_date": "2026-12-21",
+      "permreq": "Y",
+      "rpt": "N",
+      "cart_opts": "{\"grade_mode\":{\"cart_field\":\"p_gmod\",\"enabled\":true,\"options\":[{\"value\":\"A\",\"label\":\"Audit\",\"default\":false,\"selected\":\"\"},{\"value\":\"S\",\"label\":\"Satisfactory/No Credit\",\"default\":false,\"selected\":\"\"},{\"value\":\"G\",\"label\":\"Standard ABC/No Credit\",\"default\":true,\"selected\":\"selected\"}]},\"credit_hrs\":{\"cartField\":\"p_hours\",\"enabled\":true,\"options\":[{\"value\":\"1\",\"label\":\"1\",\"default\":true,\"selected\":\"selected\"}]},\"swap_section_with\":{\"enabled\":true,\"options\":[{\"value\":\"\",\"label\":\"Not Applicable\",\"default\":true,\"selected\":\"selected\"}]}}",
+      "linked_crns": "15872,15873,15874,15875",
+      "rfam": "6528",
+      "lrfam": "2151",
+      "srcdb": "202610",
+      "changehash": "ggWrGU8zsLyrA85RRm+eSg",
+      "instructor_override": "{\"sapr\":\"WP\",\"detail\":\"none\",\"tray\":\"show\"}"
+    }
+  ],
+  "termFlags": [
+    {
+      "term": "202610",
+      "flag": "exists"
+    },
+    {
+      "term": "202610",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202610",
+      "flag": "books"
+    },
+    {
+      "term": "202610",
+      "flag": "permreq"
+    },
+    {
+      "term": "202620",
+      "flag": "exists"
+    },
+    {
+      "term": "202620",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202620",
+      "flag": "books"
+    },
+    {
+      "term": "999999",
+      "flag": "exists"
+    },
+    {
+      "term": "202600",
+      "flag": "exists"
+    },
+    {
+      "term": "202600",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202600",
+      "flag": "books"
+    },
+    {
+      "term": "202520",
+      "flag": "exists"
+    },
+    {
+      "term": "202520",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202520",
+      "flag": "books"
+    },
+    {
+      "term": "202520",
+      "flag": "permreq"
+    },
+    {
+      "term": "202510",
+      "flag": "exists"
+    },
+    {
+      "term": "202510",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202510",
+      "flag": "books"
+    },
+    {
+      "term": "202510",
+      "flag": "permreq"
+    },
+    {
+      "term": "202515",
+      "flag": "exists"
+    },
+    {
+      "term": "202515",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202515",
+      "flag": "books"
+    },
+    {
+      "term": "202515",
+      "flag": "permreq"
+    },
+    {
+      "term": "202500",
+      "flag": "exists"
+    },
+    {
+      "term": "202500",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202500",
+      "flag": "books"
+    },
+    {
+      "term": "202500",
+      "flag": "permreq"
+    },
+    {
+      "term": "202420",
+      "flag": "exists"
+    },
+    {
+      "term": "202420",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202420",
+      "flag": "books"
+    },
+    {
+      "term": "202420",
+      "flag": "permreq"
+    },
+    {
+      "term": "202415",
+      "flag": "exists"
+    },
+    {
+      "term": "202415",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202415",
+      "flag": "books"
+    },
+    {
+      "term": "202415",
+      "flag": "permreq"
+    },
+    {
+      "term": "202410",
+      "flag": "exists"
+    },
+    {
+      "term": "202410",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202410",
+      "flag": "books"
+    },
+    {
+      "term": "202400",
+      "flag": "exists"
+    },
+    {
+      "term": "202400",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202400",
+      "flag": "books"
+    },
+    {
+      "term": "202320",
+      "flag": "exists"
+    },
+    {
+      "term": "202320",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202320",
+      "flag": "books"
+    },
+    {
+      "term": "202315",
+      "flag": "exists"
+    },
+    {
+      "term": "202315",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202315",
+      "flag": "books"
+    },
+    {
+      "term": "202310",
+      "flag": "exists"
+    },
+    {
+      "term": "202310",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202310",
+      "flag": "books"
+    },
+    {
+      "term": "202300",
+      "flag": "exists"
+    },
+    {
+      "term": "202300",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202300",
+      "flag": "books"
+    },
+    {
+      "term": "202220",
+      "flag": "exists"
+    },
+    {
+      "term": "202220",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202220",
+      "flag": "books"
+    },
+    {
+      "term": "202215",
+      "flag": "exists"
+    },
+    {
+      "term": "202215",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202215",
+      "flag": "books"
+    },
+    {
+      "term": "202210",
+      "flag": "exists"
+    },
+    {
+      "term": "202210",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202210",
+      "flag": "books"
+    },
+    {
+      "term": "202200",
+      "flag": "exists"
+    },
+    {
+      "term": "202200",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202200",
+      "flag": "books"
+    },
+    {
+      "term": "202120",
+      "flag": "exists"
+    },
+    {
+      "term": "202120",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202120",
+      "flag": "books"
+    },
+    {
+      "term": "202110",
+      "flag": "exists"
+    },
+    {
+      "term": "202110",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202110",
+      "flag": "books"
+    },
+    {
+      "term": "202115",
+      "flag": "exists"
+    },
+    {
+      "term": "202115",
+      "flag": "hiderooms"
+    },
+    {
+      "term": "202115",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202115",
+      "flag": "books"
+    },
+    {
+      "term": "202100",
+      "flag": "exists"
+    },
+    {
+      "term": "202100",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202100",
+      "flag": "books"
+    },
+    {
+      "term": "202020",
+      "flag": "exists"
+    },
+    {
+      "term": "202020",
+      "flag": "no-cart"
+    },
+    {
+      "term": "202020",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202010",
+      "flag": "exists"
+    },
+    {
+      "term": "202010",
+      "flag": "no-cart"
+    },
+    {
+      "term": "202010",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "202000",
+      "flag": "exists"
+    },
+    {
+      "term": "202000",
+      "flag": "no-cart"
+    },
+    {
+      "term": "202000",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "201920",
+      "flag": "exists"
+    },
+    {
+      "term": "201920",
+      "flag": "no-cart"
+    },
+    {
+      "term": "201920",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "201915",
+      "flag": "exists"
+    },
+    {
+      "term": "201915",
+      "flag": "no-cart"
+    },
+    {
+      "term": "201915",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "201910",
+      "flag": "exists"
+    },
+    {
+      "term": "201910",
+      "flag": "no-cart"
+    },
+    {
+      "term": "201910",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "201900",
+      "flag": "exists"
+    },
+    {
+      "term": "201900",
+      "flag": "no-cart"
+    },
+    {
+      "term": "201900",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "201820",
+      "flag": "exists"
+    },
+    {
+      "term": "201820",
+      "flag": "no-cart"
+    },
+    {
+      "term": "201820",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "201815",
+      "flag": "exists"
+    },
+    {
+      "term": "201815",
+      "flag": "no-cart"
+    },
+    {
+      "term": "201815",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "201800",
+      "flag": "exists"
+    },
+    {
+      "term": "201800",
+      "flag": "no-cart"
+    },
+    {
+      "term": "201810",
+      "flag": "exists"
+    },
+    {
+      "term": "201810",
+      "flag": "no-cart"
+    },
+    {
+      "term": "201810",
+      "flag": "sectdemogs"
+    },
+    {
+      "term": "201720",
+      "flag": "exists"
+    },
+    {
+      "term": "201720",
+      "flag": "no-cart"
+    },
+    {
+      "term": "201715",
+      "flag": "exists"
+    },
+    {
+      "term": "201715",
+      "flag": "no-cart"
+    },
+    {
+      "term": "201710",
+      "flag": "exists"
+    },
+    {
+      "term": "201710",
+      "flag": "no-cart"
+    },
+    {
+      "term": "201620",
+      "flag": "exists"
+    },
+    {
+      "term": "201620",
+      "flag": "no-cart"
+    },
+    {
+      "term": "201700",
+      "flag": "exists"
+    },
+    {
+      "term": "201700",
+      "flag": "no-cart"
+    },
+    {
+      "term": "201615",
+      "flag": "exists"
+    },
+    {
+      "term": "201615",
+      "flag": "no-cart"
+    },
+    {
+      "term": "201610",
+      "flag": "exists"
+    },
+    {
+      "term": "201610",
+      "flag": "no-cart"
+    },
+    {
+      "term": "201600",
+      "flag": "exists"
+    },
+    {
+      "term": "201600",
+      "flag": "no-cart"
+    }
+  ],
+  "dbtime": "1788537388000"
+}
