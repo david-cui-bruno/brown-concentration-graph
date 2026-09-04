@@ -1,0 +1,247 @@
+[
+  {
+    "slug": "soc",
+    "name": "Sociology",
+    "degree": "AB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Required core:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "SOC 0010"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1010"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1020"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "SOC 1100"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 0650"
+                },
+                {
+                  "kind": "course",
+                  "code": "ECON 1620"
+                },
+                {
+                  "kind": "course",
+                  "code": "CPSY 0900"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1950"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "a) At least three of the optional courses have to be 1000 level and one of them must be a substantive seminar (1870-1873).",
+      "b) Students can choose to take up to two lower level (0100 level) courses.",
+      "c) Students can petition to take two courses outside of the discipline (this will be allowed only when the proposed course makes sense given the interests of the student, and there is no equivalent sociology course)."
+    ]
+  },
+  {
+    "slug": "soc",
+    "name": "Sociology",
+    "degree": "Organizational Studies Track",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Required Core:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "SOC 0010"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1010"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1020"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "SOC 1100"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 0650"
+                },
+                {
+                  "kind": "course",
+                  "code": "ECON 1620"
+                },
+                {
+                  "kind": "course",
+                  "code": "CPSY 0900"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1950"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Foundations of Organizational Studies (choose two of the following):",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "SOC 0300"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1311"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1315"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Advanced Organizational Studies Course (choose one course). The following are approved EXAMPLES. Please consult Courses@Brown/Concentration Advisor for current offerings.",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "SOC 1070"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1117"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1118"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1120"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1260"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1311"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1315"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1871C"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1872N"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Two (2) additional courses. Each of these courses must be either (a) offered by the Department of Sociology, or (b) drawn from the following list of interdisciplinary \"Organization-Relevant Electives:\"",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "AMST 1610A"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1250"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1470"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1730"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 0110"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1760"
+            },
+            {
+              "kind": "course",
+              "code": "ETHN 1890C"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1930S"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0150A"
+            },
+            {
+              "kind": "course",
+              "code": "PHIL 1610"
+            },
+            {
+              "kind": "course",
+              "code": "POLS 1150"
+            },
+            {
+              "kind": "course",
+              "code": "POLS 1240"
+            },
+            {
+              "kind": "course",
+              "code": "POLS 1820W"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": []
+  }
+]

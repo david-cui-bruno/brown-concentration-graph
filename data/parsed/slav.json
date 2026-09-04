@@ -1,0 +1,222 @@
+[
+  {
+    "slug": "slav",
+    "name": "Slavic Studies",
+    "degree": "AB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Six semesters of one Slavic language or the equivalent, or a combined total of eight semesters of two Slavic languages or the equivalent.",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "series",
+                  "codes": [
+                    "RUSS 0100",
+                    "RUSS 0200"
+                  ]
+                },
+                {
+                  "kind": "course",
+                  "code": "RUSS 0110"
+                }
+              ]
+            },
+            {
+              "kind": "series",
+              "codes": [
+                "RUSS 0300",
+                "RUSS 0400"
+              ]
+            },
+            {
+              "kind": "series",
+              "codes": [
+                "RUSS 0500",
+                "RUSS 0600"
+              ]
+            },
+            {
+              "kind": "series",
+              "codes": [
+                "CZCH 0100",
+                "CZCH 0200"
+              ]
+            },
+            {
+              "kind": "series",
+              "codes": [
+                "CZCH 0400",
+                "RUSS 0300"
+              ]
+            },
+            {
+              "kind": "series",
+              "codes": [
+                "PLSH 0100",
+                "PLSH 0200"
+              ]
+            },
+            {
+              "kind": "series",
+              "codes": [
+                "PLSH 0300",
+                "PLSH 0400"
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "The concentration in Slavic Studies requires students to complete a minimum of seven 1000-level courses devoted to the study of the East European civilizations: literature, history, culture, theater, political science, economics, international relations. Typically, at least four of these courses will be from within the Department of Slavic Studies. Students' choice of courses is subject to the approval of the concentration advisor.",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "Courses in the Department of Slavic Studies:",
+              "type": "ALL",
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CZCH 1000"
+                },
+                {
+                  "kind": "course",
+                  "code": "RUSS 1110"
+                },
+                {
+                  "kind": "course",
+                  "code": "RUSS 1120"
+                },
+                {
+                  "kind": "course",
+                  "code": "RUSS 1200"
+                },
+                {
+                  "kind": "course",
+                  "code": "RUSS 1220"
+                },
+                {
+                  "kind": "course",
+                  "code": "RUSS 1250"
+                },
+                {
+                  "kind": "course",
+                  "code": "RUSS 1290"
+                },
+                {
+                  "kind": "course",
+                  "code": "RUSS 1300"
+                },
+                {
+                  "kind": "course",
+                  "code": "RUSS 1330"
+                },
+                {
+                  "kind": "course",
+                  "code": "RUSS 1340"
+                },
+                {
+                  "kind": "course",
+                  "code": "RUSS 1440"
+                },
+                {
+                  "kind": "course",
+                  "code": "RUSS 1450"
+                },
+                {
+                  "kind": "course",
+                  "code": "RUSS 1500"
+                },
+                {
+                  "kind": "course",
+                  "code": "RUSS 1550"
+                },
+                {
+                  "kind": "course",
+                  "code": "RUSS 1600"
+                },
+                {
+                  "kind": "course",
+                  "code": "RUSS 1660"
+                },
+                {
+                  "kind": "course",
+                  "code": "RUSS 1800"
+                },
+                {
+                  "kind": "course",
+                  "code": "RUSS 1810"
+                },
+                {
+                  "kind": "course",
+                  "code": "RUSS 1820"
+                },
+                {
+                  "kind": "course",
+                  "code": "RUSS 1840"
+                },
+                {
+                  "kind": "course",
+                  "code": "RUSS 1860"
+                },
+                {
+                  "kind": "course",
+                  "code": "RUSS 1848"
+                },
+                {
+                  "kind": "course",
+                  "code": "RUSS 1870"
+                },
+                {
+                  "kind": "course",
+                  "code": "RUSS 1967"
+                },
+                {
+                  "kind": "course",
+                  "code": "SLAV 1250"
+                },
+                {
+                  "kind": "course",
+                  "code": "SLAV 1300"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "Sample courses in other departments:",
+              "type": "ALL",
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "HIST 1268A"
+                },
+                {
+                  "kind": "course",
+                  "code": "HIST 1268B"
+                },
+                {
+                  "kind": "course",
+                  "code": "HIST 1268C"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "In cases where a student's interests and course of study warrant it, and only upon consulting the concentration advisor, the student may apply more than one Slavic language to the concentration (Czech or Polish in addition to Russian), and would then need a combined total of eight semesters of two Slavic languages:"
+    ]
+  }
+]

@@ -1,0 +1,173 @@
+[
+  {
+    "slug": "astr",
+    "name": "Astronomy",
+    "degree": "AB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Prerequisites",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "PHYS 0070"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 0160"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 0270"
+            },
+            {
+              "kind": "group",
+              "label": "Select one of the following Series:",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "series",
+                  "codes": [
+                    "MATH 0170",
+                    "MATH 0180"
+                  ]
+                },
+                {
+                  "kind": "series",
+                  "codes": [
+                    "MATH 0190",
+                    "MATH 0200"
+                  ]
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0350"
+                },
+                {
+                  "kind": "course",
+                  "code": "PHYS 0470"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Program",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "Select one of the following mathematics courses:",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "MATH 0520"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0540"
+                },
+                {
+                  "kind": "course",
+                  "code": "PHYS 0720"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 0330"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 0340"
+                },
+                {
+                  "kind": "group",
+                  "label": "Select two of the following astrophysics courses:",
+                  "type": "CHOOSE_N",
+                  "n": 2,
+                  "children": [
+                    {
+                      "kind": "course",
+                      "code": "PHYS 1100"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "PHYS 1250"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "PHYS 1270"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "PHYS 1280"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "APMA 1670"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "EEPS 0810"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "EEPS 1710"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "EEPS 1810"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ENGN 1860"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "MATH 1060"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "PHYS 0500"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "PHYS 0560"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "PHYS 1410"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "PHYS 1510"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "PHYS 1530"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "PHYS 1560"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Three additional 1000- or 2000-level courses in physics or a related field, suggestions:"
+    ]
+  }
+]

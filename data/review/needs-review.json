@@ -1,0 +1,749 @@
+{
+  "anth": [
+    "Choose one foundational course in sociocultural, linguistic anthropology, or medical anthropology:",
+    "Choose one foundational course in archaeology or biological anthropology:",
+    "Choose one of the following courses in anthropological methodology, to prepare students for further research:",
+    "Five additional courses in anthropology of the student's choosing. At least three of these electives will need to be at the 1000-level to meet the requirements of the concentration.",
+    "Senior Seminar",
+    "Foundation course",
+    "Two courses in at least two of the four major subfields of anthropology:",
+    "Methods Course",
+    "At least one 1000-level course in medical anthropology such as:",
+    "An additional three anthropology courses of the student's choosing. At least two of the electives must be at the 1000-level to meet the general requirements of the concentration.",
+    "At least one non-anthropology course in the natural sciences, public health, or psychology that focuses on human health to give students basic exposure to the science of human physical and/or mental health. This course is in addition to the nine courses required in ANTH.",
+    "Senior Seminar",
+    "Foundation course",
+    "Research methods",
+    "At least two 1000-level courses that focus on specific aspects of sociocultural methods or theories, or in a particular region, such as:",
+    "An additional three anthropology courses of the student's choosing. At least one of the electives must be at the 1000-level to meet the general requirements of the concentration.",
+    "Senior Seminar",
+    "Foundation course",
+    "One additional course in linguistic anthropology from the following:",
+    "Research methods",
+    "Senior Seminar",
+    "An additional three anthropology courses of the student's choosing. At least two of the electives must be at the 1000-level to meet the requirements of the concentration.",
+    "At least one general course focusing on aspects of linguistic structure.",
+    "At least one language course (one semester) in any language other than English",
+    "Foundation course in anthropological archaeology",
+    "Foundation course in socio-cultural anthropology",
+    "Choose one course in anthropological archaeology methodology:",
+    "Choose one course that involves detailed archaeological investigation of a geographic region:",
+    "One 1000-level course in anthropology with significant archaeological, material culture, and/or museum studies component. A second geographic area course from the list above may be used to meet this requirement. Other regularly offered courses that meet this requirement include:",
+    "Three anthropology courses of the student's choosing. At least one of the electives must be at the 1000-level to meet the general requirements of the concentration.",
+    "Senior Seminar",
+    "Foundation course in biological anthropology",
+    "Choose one foundational course in cultural anthropology, medical anthropology, or linguistic anthropology:",
+    "Biological anthropology methodology",
+    "Five anthropology courses of the student's choosing. At least three of the electives must be at the 1000-level to meet the requirements of the concentration.",
+    "At least one non-anthropology course with a biological focus. Any course with a BIOL subject code can be used to fulfill this requirement. Students are especially encouraged to consider a course with a significant content devoted to genetics and/or evolutionary theory. This course is in addition to the nine courses required in ANTH.",
+    "Choose at least one course in statistics. This course is in addition to the nine courses required in ANTH. Possible courses include:",
+    "Senior Seminar"
+  ],
+  "apma": [
+    "Single-variable calculus is not an enforced requirement for our concentration, but it is a required prerequisite for many of our courses. At Brown, single-variable calculus consists of MATH 0090 followed by one of MATH 0100, MATH 0170, or MATH 0190.",
+    "One pre-approved course on computer programming, or an alternative approved by the concentration advisor.",
+    "Three 1000-level or higher APMA courses.",
+    "One 1000-level or higher APMA or MATH course.",
+    "One pre-approved 1000-level STEM course, or an alternative approved by the concentration advisor.",
+    "Single-variable calculus is not an enforced requirement for our concentration, but it is a required prerequisite for many of our courses. At Brown, single-variable calculus consists of MATH 0090 followed by one of MATH 0100, MATH 0170, or MATH 0190.",
+    "One pre-approved course on computer programming, or an alternative approved by the concentration advisor.",
+    "Four 1000-level or higher APMA courses.",
+    "Two 1000-level or higher APMA or MATH courses.",
+    "Four pre-approved 1000-level STEM courses, or alternatives approved by the concentration advisor.",
+    "One pre-approved capstone or senior seminar, or a research-related course approved by the concentration advisor."
+  ],
+  "apmb": [
+    "Prerequisites – the equivalent of two semesters of single-variable calculus",
+    "Single-variable calculus is not an enforced requirement for our concentration, but it is a required prerequisite for many of our courses. At Brown, single-variable calculus consists of MATH 0090 followed by one of MATH 0100, MATH 0170, or MATH 0190.",
+    "One pre-approved course covering Newtonian mechanics, or an alternative approved by the concentration advisor.",
+    "Two BIOL or NEUR courses.",
+    "Two 1000-level or higher BIOL or NEUR courses from the same Biology track.",
+    "One pre-approved course in the mathematical, biological, or computational sciences, or an alternative approved by the concentration advisor.",
+    "One pre-approved capstone or senior seminar, or a research-related course approved by the concentration advisor."
+  ],
+  "apmc": [
+    "A second semester of single-variable calculus is not an enforced requirement for our concentration, but it is a required prerequisite for many of our courses. At Brown, the second semester of calculus is taught in one of MATH 0100, MATH 0170, or MATH 0190.",
+    "APMA 0355",
+    "APMA 0365",
+    "Two approved 1000-level or higher APMA courses.",
+    "One 1000-level or higher APMA or MATH course",
+    "CSCI 0190 and one CSCI course numbered 0200 or higher",
+    "1. Algorithms/Theory",
+    "2. AI/Machine Learning/Data Science",
+    "3. Systems",
+    "4. Probability",
+    "Three approved 1000-level or higher CSCI courses, which must be technical CS courses.",
+    "One capstone in computer science or applied mathematics, taken in the student’s senior year, and approved by the concentration advisor (or on the list of approved CS capstone courses)."
+  ],
+  "apme": [
+    "APMA 0365",
+    "One 1000-level or higher APMA course (except APMA1910, APMA1920, and research/independent study)",
+    "Two 1000-level courses from the \"mathematical-economics\" group:",
+    "One additional 1000-level economics course.",
+    "APMA 0365",
+    "Two 1000-level or higher APMA or MATH courses with at least one in APMA (except APMA1910, APMA1920, MATH1090, MATH1910 and research/independent study). At most one of APMA 1000, APMA 1001, MATH 1000, MATH 1001 and at most one of APMA 1650, APMA 1655, MATH 1210, MATH 1610 can be used for concentration credit",
+    "Three 1000-level courses from the \"mathematical-economics\" group:",
+    "Two additional 1000-level economics courses",
+    "APMA 0365",
+    "APMA 193X, 194X Senior Seminar series, depending on topic",
+    "APMA 0365",
+    "APMA 193X, 194X Senior Seminar series, depending on topic"
+  ],
+  "aran": [
+    "All three tracks share four Core Requirements: two introductory courses providing an overview of archaeology’s two central aspects (field methodologies, and art history); and two introductory courses in the core geographical focus of the Joukowsky Institute (Classical/Mediterranean archaeology and Egyptian/Near Eastern archaeology).",
+    "One introductory course in archaeological methodology and/or scientific approaches, preferably:",
+    "or a course that addresses similar methodological/scientific topics, which must be approved by the Director of Undergraduate Studies. Appropriate courses could include, for example:",
+    "One introductory course in ancient art history, for example:",
+    "One ARCH course in Egyptian or Near Eastern archaeology, art, and/or architecture, for example:",
+    "One ARCH course in Classical or Mediterranean­ archaeology, art, and/or architecture, for example:",
+    "In addition to the Core Requirements above, each of the three tracks requires six additional courses, which allow students to define their own areas of geographic and/or topical specialty.",
+    "One ARCH course, of any level, that focuses on a particular thematic or theoretical topic pertaining to archaeology, for example:",
+    "One ARCH course, of any level, that focuses on a part of the world OTHER than Mediterranean, Egyptian, or Near Eastern, for example:",
+    "Two additional ARCH courses, on any aspect of archaeology and art, at the 1000 level (or above). Students are encouraged to use these upper-level courses to define a particular core specialty or track, such as a focus on archaeological theory, museum studies, archaeological ethics, materials analysis, cultural heritage, or climate change, for example:",
+    "Two non-ARCH courses which EITHER relate to the study of the ancient world OR to the discipline of archaeology. Outside courses are chosen with the approval of the Director of Undergraduate Studies from appropriate 1000 level (or above) offerings in other departments such as, but not limited to: Anthropology, Classics, Egyptology and Assyriology, Environmental Studies, Geological Sciences, History, History of Art and Architecture, Religious Studies. One term of language study, in any relevant (usually ancient) language, may also be counted toward this requirement.",
+    "One course in either Ancient Greek or Latin, at a level beyond the first year of study, for example:",
+    "GREK 0300/0400",
+    "LATN 0300/0400",
+    "Two courses in Mediterranean (prehistoric, Greek, Roman, medieval) archaeology and art, at the 1000 level (or above), for example:",
+    "One ARCH course, of any level, that focuses on a part of the world OTHER than Mediterranean, Egyptian, or Near Eastern OR focuses on a particular thematic topic pertaining to archaeology, for example:",
+    "One non-ARCH course which EITHER relates to the study of the ancient world OR to the discipline of archaeology. Outside courses are chosen with the approval of the Director of Undergraduate Studies from appropriate 1000 level (or above) offerings in other departments such as, but not limited to: Anthropology, Classics, Egyptology and Assyriology, Environmental Studies, Geological Sciences, History, History of Art and Architecture, Religious Studies.",
+    "Two courses in Egyptian and Near Eastern archaeology and art at the 1000 level (or above), for example:",
+    "Two terms of course work in a pertinent ancient language (such as Akkadian, Coptic, Classical Hebrew, Middle Egyptian).",
+    "One ARCH course, of any level, that focuses on a part of the world OTHER than Mediterranean, Egyptian, or Near Eastern OR focuses on a particular thematic topic pertaining to archaeology, for example:",
+    "One non-ARCH course which EITHER relates to the study of the ancient world OR to the discipline of archaeology. Outside courses are chosen with the approval of the Director of Undergraduate Studies from appropriate 1000 level (or above) offerings in other departments such as, but not limited to: Anthropology, Classics, Egyptology and Assyriology, Environmental Studies, Geological Sciences, History, History of Art and Architecture, Religious Studies."
+  ],
+  "arct": [
+    "1 Introduction to Design Studio",
+    "2 Practice Courses",
+    "1 Double-Credit Design Studio",
+    "4 History of Art and Architecture lecture or seminar courses bearing the A designation",
+    "1 Pathway Elective in Sciences",
+    "1 Pathway Elective on Social Sciences / Humanities",
+    "1 Capstone Course"
+  ],
+  "astr": [
+    "Three additional 1000- or 2000-level courses in physics or a related field, suggestions:"
+  ],
+  "bds": [
+    "Basic Probability and Statistics. Choose One From the Following:",
+    "or any advanced course in Computer Science beyond the introductory set of classes",
+    "Students will choose three additional courses in consultation with a concentration advisor that will constitute an integrated specialization in some area of decision science. Any advanced course taught at Brown is eligible."
+  ],
+  "bchm": [
+    "Three courses in mathematics including two courses in MATH 0090/0100 or MATH 0170/0180 with a third class in statistics, math, or computer science.",
+    "The two semester research requirement may be satisfied by any two of the following. Students should discuss alternative arrangements or special situations directly with their concentration advisor to obtain prior approval.",
+    "Students should aim to complete this requirement in their junior year at the latest to maximize their ability to find a lab able to host them. Finding a lab involves reaching out to professors directly to inquire about research possibilities in their lab prior to receiving an override code for registration for BIOL1950/1960 or Chem 0980/0980S/0981.",
+    "A summer research experience with faculty in Biology or Chemistry at Brown equivalent or greater in scope and scale to work the student would pursue in a Biology or Chemistry independent study course to satisfy one semester of the research requirement.",
+    "Students are required to take five courses from the chart below or, with approval from a concentration advisor, from any science or mathematics course relevant to biochemistry, cell and molecular biology. One of these five courses must have a laboratory component. BIOL 0285 is strongly suggested and recommended for this laboratory course elective, ideally to be taken in the Sophomore or Junior year."
+  ],
+  "biol": [
+    "Or a statistics course, to be approved by the concentration advisor.",
+    "Six additional courses chosen from BIOL and/or NEUR offerings for concentrators. The Core may include up to two related sciences, with advisor approval. The Core must also include a Senior Capstone.",
+    "1. One of the following approved courses: BIOL 0946, 1100, 1140, 1150, 1250, 1330, 1515, 1525, 1535, 1555, 1575, 1600, 1820, 1970A.",
+    "2. One semester of independent research/independent study (BIOL 1950 or BIOL 1960).",
+    "Please visit the BUE webpage for more information.",
+    "or a statistics course to be approved by the concentration advisor",
+    "Six additional courses chosen from BIOL and/or NEUR offerings for concentrators. The Core may include up to two related sciences, with advisor approval. The Core must also include research.",
+    "The two semester research requirement may be satisfied by any two of the opportunities listed below. Students may find the following resources useful in planning for research: the annual BUE-PLME Finding, Securing and Succeeding in Research workshop, the BUE Research webpage, and the Sheridan Center’s Undergraduate Research & Experiential Opportunities webpage. Following conversation and agreement with the advisor, students articulate the research plan in the ASK declaration (in the designated text box) which is submitted for review and approval by the advisor.",
+    "Independent study course in a related discipline (i.e. STEM disciplines, ENVS, PHP, etc.) if the project is relevant to the student’s learning goals and interests in the concentration.",
+    "A summer research experience equivalent in scope and scale to work the student would pursue in a Biology independent study course. Examples include UTRAs, LINK awards, approved research programs at other institutions, etc. These experiences do not count as a course in the 10 course core requirement, but they can be used to satisfy the one semester of the research requirement. Advisors will work with students to review these experiences - drawing on a range of potential materials including a written summary of the experience, formal work plans, materials produced (i.e. presentations/papers), and in some cases a letter from the supporting advisor.",
+    "Other equivalent opportunities not listed - with approval from the concentration advisor and Dean Achilli.",
+    "Students are encouraged to pursue research related to their track",
+    "The advanced thematic track consists of three additional biological sciences courses (not including BIOL 1950/1960 research) that form a Track. Tracks include: Immuno/Pathobiology; Ecology, Evolution and Organismal Biology; Physiology and Biotechnology; Neurobiology; Physical Sciences; Cell and Molecular Biology; Biomedical Informatics. At least two track courses, and preferably all three, must be above 1000-level. Track courses should form a cohesive grouping approved by the concentration advisor.",
+    "NEUR listings 1000-level or above",
+    "Must be a coherent set of three courses drawn from the Physical Sciences; courses must be above the introductory level and approved by advisor"
+  ],
+  "enbi": [
+    "5. General Education Requirement: At least four approved courses must be taken in the humanities and social sciences."
+  ],
+  "biop": [
+    "Directed Research in Biology (BIOL 1950/BIOL 1960), Chemistry (CHEM 0970/CHEM 0980), or Physics (PHYS 1980)",
+    "A summer research experience in equivalent scope and scale to an independent study, but this would not count as course credit toward the concentration"
+  ],
+  "cheg": [
+    "2. Upper-Level Chemical Engineering Curriculum",
+    "Advanced Chemistry elective course",
+    "Advanced Engineering or Natural Sciences elective course",
+    "3. Capstone Design Course",
+    "*In addition to program requirements above, students must take four courses in the humanities and social sciences."
+  ],
+  "chph": [
+    "Seven courses, primarily at the 1000 or 2000 level, in chemistry or physics."
+  ],
+  "chem": [
+    "One upper level CHEM elective.",
+    "MATH 0180 or equivalent",
+    "Two Physics courses, typically 0030/0040 or 0050/0060",
+    "Six electives (at least three must be upper level CHEM courses)",
+    "MATH 0180 or equivalent",
+    "Two Physics courses, typically 0030/0040 or 0050/0060",
+    "Two other electives",
+    "MATH 0180 or equivalent",
+    "Two Physics courses, typically 0030/0040 or 0050/0060",
+    "One of the following courses",
+    "Four electives, at least two must be upper level CHEM courses."
+  ],
+  "clas": [
+    "One course in Greek or Latin on the 1000-level or above.",
+    "Five other courses in classics, including classical archaeology, Greek (excluding GREK 0100, 0200, 0110), Latin (excluding LATN 0100, 0200, 0110), Sanskrit, or related areas to be approved by the concentration advisor. At least three of these five courses must be offered through the Department of Classics.",
+    "One further course offered by the Department of Classics and designated “Classics and Beyond,” OR a DIAP course offered by the Department of Classics.",
+    "Four Greek courses on the 1000-level or above, at least one of which is to be:",
+    "Two additional courses in classics, including classical archaeology, Greek (excluding GREK 0100, 0200, 0110), Latin (excluding LATN 0100, 0200, 0110), or related areas to be approved by the concentration advisor. At least one of these two courses must be offered through the Department of Classics.",
+    "One further course offered by the Department of Classics and designated “Classics and Beyond,” OR a DIAP course offered by the Department of Classics.",
+    "Four Latin courses on the 1000-level or above, at least one of which is to be:",
+    "Two additional courses in classics, including classical archaeology, Greek (excluding GREK 0100, 0200, 0110), Latin (excluding LATN 0100, 0200, 0110), or related areas to be approved by the concentration advisor. At least one of these two courses must be offered through the Department of Classics.",
+    "One further course offered by the Department of Classics and designated “Classics and Beyond,” OR a DIAP course offered by the Department of Classics.",
+    "Ancient Language A (Either Latin or Ancient Greek) requires four (4) courses on the 1000-level. Typically Ancient Language A will be the one in which a survey course will be taken.",
+    "Ancient Language B (Either Ancient Greet or Latin, respectively) requires four ancient language courses of which two can be 0300 and 0400 and the other two at 1000-level or above.",
+    "One further course offered by the Department of Classics and designated \"Classics and Beyond,\" OR a DIAP course offered by the Department of Classics.",
+    "At least one Sanskrit course above Sanskrit 0300",
+    "Three of the Sanskrit Classics Courses in Translation",
+    "Four other courses in Classics or related areas (such as Comparative Literature, Religious Studies, South Asian Studies, Early Cultures, etc., including SANS 0100, 0200, 0300) to be approved by the concentration advisor",
+    "One further course offered by the Department of Classics and designated “Classics and Beyond,” OR a DIAP course offered by the Department of Classics.",
+    "Two Sanskrit courses at the 1000-level or above",
+    "Two of the Sanskrit Classics Courses in Translation",
+    "Four other courses in Classics or related areas (such as Comparative Literature, Religious Studies, South Asian Studies, Early Cultures, etc., including SANS 0300 and SANS 0400) to be approved by the concentration advisor",
+    "One further course offered by the Department of Classics and designated “Classics and Beyond,” OR a DIAP course offered by the Department of Classics.",
+    "Four Sanskrit courses at any level",
+    "Four Greek courses on the 1000-level or above, at least one of which is to be:",
+    "Either",
+    "or",
+    "Two additional courses in Classics (including GREK 0300 and GREK 0400) or related areas (such as Comparative Literature, Religious Studies, South Asian Studies, Early Cultures, etc.) to be approved by the concentration advisor.",
+    "One further course offered by the Department of Classics and designated \"Classics and Beyond\" or a DIAP course offered by the department of Classics.",
+    "Four Sanskrit courses at any level",
+    "Four Latin courses on the 1000-level or above, at least one of which is to be",
+    "One of the two Roman Ancient History courses",
+    "Either",
+    "Or",
+    "Two additional courses in Classics (including LATN 0300 and LATN 0400) or related areas (such as Comparative Literature, Religious Studies, South Asian Studies, Early Cultures, etc.) to be approved by the concentration advisor",
+    "One further course offered by the Department of Classics and designated \"Classics and Beyond\" or a DIAP course offered by the department of Classics."
+  ],
+  "cogn": [
+    "Or any introductory CSCI course with a programming component such as:",
+    "Electives are advanced courses that provide a deeper understanding of Cognitive Neuroscience and should be drawn from CPSY or NEUR, with at least three courses at the 1000 level. At least one elective must be from the NEUR department. Courses from other departments with relevance to Cognitive Neuroscience may be included with approval from the concentration advisor.",
+    "Or any introductory CSCI course with a programming component such as:",
+    "Electives are advanced courses that provide a deeper understanding of Cognitive Neuroscience and should be drawn from CPSY or NEUR, with at least three courses at the 1000 level. At least one elective must be from the NEUR department. Courses from other departments with relevance to Cognitive Neuroscience may be included with approval from the concentration advisor.",
+    "Five additional STEM courses of which two (2) must be CPSY courses at the 1000-level from the Electives of Capstone offerings (a lab is strongly recommended). Courses from APMA, BIOL, CSCI, CHEM, CPSY, MATH, NEUR, or PHYS will be considered and must be applicable to a concentration in that department.",
+    "Capstone: Independent Study (CPSY 1970, CPSY 1980) or approved seminar"
+  ],
+  "cogs": [
+    "Or choose from a set of approved courses in PHIL, ANTH, or SOC",
+    "Or any introductory CSCI course with a programming component such as:",
+    "Four Approved Electives related to Cognitive Science, such as:",
+    "Students should take four courses from CPSY, PHIL, NEUR, SOC, ANTH, LING, or CSCI with at least one of these classes coming from CPSY at 1the 1000-level and at least two others at the 1000-level.",
+    "Capstone: Independent Study (CPSY 1970, CPSY 1980) or approved seminar",
+    "Or choose from a set of approved courses in PHIL, ANTH, or SOC",
+    "Or any introductory CSCI course with a programming component such as:",
+    "Four Approved Electives related to Cognitive Science",
+    "Students should take four courses from CPSY, PHIL, NEUR, SOC, ANTH, LING, or CSCI with at least one of these classes coming from CPSY at 1the 1000-level and at least two others at the 1000-level.",
+    "Five Additional STEM Courses, of which at least two (2) must be PCSY courses at the 1000-level (a lab course is strongly recommended). Courses in APMA, BIOL, CSCI, CHEM, CPSY, MATH, NEUR, or PHYS will be considered and must be applicable to a concentration in that departmen",
+    "Capstone: Independent Study (CPSY 1970, CPSY 1980) or approved seminar"
+  ],
+  "colt": [
+    "TWO literature courses taught above the 1000-level in the first chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.)",
+    "TWO literature courses taught above the 1000-level in the second chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.)",
+    "FIVE electives. Courses taught in Comparative Literature and other literature courses at any level (below or above 1000) may satisfy this requirement.",
+    "TWO literature courses taught above the 1000-level in the first chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.)",
+    "TWO literature courses taught above the 1000-level in the second chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.)",
+    "TWO literature courses taught above the 1000-level in the third chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.)",
+    "THREE electives. Courses taught in Comparative Literature and other literature courses at any level (below or above 1000) may satisfy this requirement.",
+    "Literary Translation (COLT 1710)",
+    "At least one course in linguistics (including COLT 2720 Literary Translation and history of the language courses). This may be taken at any level.",
+    "At least one workshop in Literary Arts. This may be taken at any level.",
+    "TWO literature courses taught above the 1000-level in the first chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.)",
+    "TWO literature courses taught above the 1000-level in the second chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.)",
+    "TWO electives. Courses taught in Comparative Literature and other literature courses at any level (below or above 1000) may satisfy this requirement.",
+    "A senior thesis, eligible for Honors, consisting of substantial work in translation with a critical introduction. Completing a thesis is required of all Track 3 students but does not guarantee departmental honors."
+  ],
+  "csbi": [
+    "These prerequisites are widely required for many courses in the concentration. Students must either complete or place out of these prerequisites.",
+    "Choose one of the following groupings of introductory courses:",
+    "Group A",
+    "Group B",
+    "Group C",
+    "Group D",
+    "or other 1000+ level Computational Biology-related course with concentration advisor approval.",
+    "Students enrolled in the computational biology concentration will complete a research project in their senior year under faculty supervision. The themes of such projects evolve with the field and the technology, but should represent a synthesis of the various specialties of the program. The requirements are either:",
+    "1. One semester of reading and research (BIOL 1950/60, CSCI 1970, APMA 1970) with a CCMB Faculty member or approved advisor resulting in an advanced research project.",
+    "2. A 2000-level Computational Biology course that covers an advanced topic within the Computational Biology field and includes an advanced research component.",
+    "These prerequisites are widely required for many courses in the concentration. Students must either complete or place out of these prerequisites.",
+    "AND complete one of the following groupings of introductory courses:",
+    "Group A",
+    "Group B",
+    "Group C",
+    "Group D",
+    "Choose one of 3 tracks: Computer Science, Biological Sciences, or Applied Mathematics and Statistics. See track requirements below.",
+    "Students enrolled in the computational biology concentration will complete a research project in their senior year under faculty supervision. The themes of such projects evolve with the field and the technology, but should represent a synthesis of the various specialties of the program. The requirements are either:",
+    "1. One semester of reading and research (BIOL 1950/60, CSCI 1970, APMA 1970) with a CCMB Faculty member or approved advisor resulting in an advanced research project.",
+    "2. A 2000-level Computational Biology course that covers an advanced topic within the Computational Biology field and includes an advanced research component.",
+    "or other 1000+ level Computer Science course approved by the concentration advisor.",
+    "or another 1000+ level computational course approved by the concentration advisor.",
+    "At least four 1000+ level courses comprising a coherent theme related to Computational Biology. Examples of themes include: Biochemistry, Ecology, Evolution, Genomics, Immunology, or Neurobiology. Other themes can be approved by your concentration advisor.",
+    "or other 1000+ level Computational Biology-related course approved by concentration advisor.",
+    "or other 1000+ level APMA or STAT course approved by concentration advisor.",
+    "or other 1000+ level Computational Biology-related course approved by concentration advisor."
+  ],
+  "cccp": [
+    "Foundational Coursework",
+    "One Foundational Computation Course",
+    "One Experimental or Computational Laboratory Course",
+    "One Quantum Mechanics Course",
+    "One Statistical Mechanics Course",
+    "Three Mathematics Courses",
+    "Six courses, primarily at the 1000 or 2000 level, in chemistry, physics or computer science.",
+    "Two Semesters of Independent Study"
+  ],
+  "cneu": [
+    "Note: APMA 0260 can replace MATH 0100 and MATH 0520/0540",
+    "Two courses that will enhance your understanding of the field of neuroscience. While electives need not be from the neuroscience department, the following list are common courses taught by Neuroscience and other departments that are often used as electives. We encourage students to explore the broader course catalog and consult with their concentration advisor to explore the full range of electives, rather than limiting themselves to this list. These electives must be of 1000-level or above.",
+    "Two courses that will enhance your understanding of the field of computational neuroscience. These electives are not limited to a specific department, and are able to be any of the courses already listed for this concentration (though, you cannot cross-count an elective with a named requirement). The following list are courses that we recommend be used as electives, however, we encourage students to explore the broader course catalog and consult with their concentration advisor to explore the full range of electives, rather than limiting themselves to this list. Students can substitute TWO semesters of independent study (NEUR1970 or equivalent course from another department) for one elective course",
+    "NEUR 1900"
+  ],
+  "coeg": [
+    "OR",
+    "OR",
+    "OR",
+    "One advanced Computer Science course with significant systems programming:",
+    "ENGN 1565",
+    "4. General Education Requirement: At least four approved courses must be taken in humanities and social sciences"
+  ],
+  "comp": [
+    "Calculus prerequisite: students must complete or place out of second semester calculus.",
+    "Series A",
+    "Series B",
+    "Series C",
+    "an additional CS course numbered 200 or above not otherwise used to satisfy a concentration requirement; this course may be CSCI 0200, a Foundations course, or a 1000-level course.",
+    "Series D",
+    "ScB students must take one course from each foundation area.",
+    "a. Algorithms/Theory Foundations",
+    "b. AI/Machine Learning/Data Science Foundations",
+    "c. Systems Foundations, Concentration credit for only one of 300/330",
+    "Five CSCI courses at the 1000 level",
+    "1000-level and 2000-level CSCI courses (no more than three non-technical courses as defined in concentration handbook)",
+    "Linear algebra (MATH 0520, MATH 0540, or APMA 0260). Concentration credit is only allowed for one of these courses.",
+    "Up to three approved 1000-level courses outside of CS (see the concentration handbook for the current list. Note that concentration credit is allowed for only one of APMA 1650, 1655).",
+    "A capstone taken in the senior year (from the list of approved capstone courses in the concentration handbook). The capstone may also be used to satisfy another requirement.",
+    "An additional CS course 200 or above not otherwise used to satisfy a concentration requirement; this course may be CSCI 0200, a Foundations course, or a 1000-level course.",
+    "AB students must take one course from each foundation area",
+    "Foundation Areas",
+    "a. Algorithms/Theory Foundations",
+    "b. AI/Machine Learning/Data Science Foundations",
+    "c. Systems Foundations",
+    "Two CSCI courses at the 1000 level.",
+    "1000-level and 2000-level CSCI courses (at most one can be a non-technical course as defined in concentration handbook).",
+    "Linear algebra (MATH 0520, MATH 0540, or APMA 0260)",
+    "One approved 1000-level course outside of CS (see the concentration handbook for the current list)",
+    "A capstone taken in the senior year (from the list of approved capstone courses in the concentration handbook). The capstone may also be used to satisfy another requirement."
+  ],
+  "csec": [
+    "Two courses, touching two different Foundations areas",
+    "a. Algorithms/Theory Foundations",
+    "b. AI/Machine Learning/Data Science Foundations, No concentration credit for 1410, 1411",
+    "c. Systems Foundations, Concentration credit not for both 300, 330",
+    "Three 1000-level CSCI courses, which must be technical courses as defined in concentration handbook.. One of these can be an additional 100-level Foundations course.",
+    "Three courses from the \"mathematical economics\" group (CSCI 1951K can be counted as one of them, if it has not been used to satisfy the computer science requirements of the concentration and if the student has taken either ECON 1470 or ECON 1870):",
+    "Two additional 1000-level Economics courses excluding 1620, 1960, 1970",
+    "One capstone course in either CS or Economics: a one-semester course, normally taken in the student's last semester undergraduate year, in which the student (or group of students) use a significant portion of their undergraduate education, broadly interpreted, in studying some current topic (preferably at the intersection of computer science and economics) in depth, to produce a culminating artifact such as a paper or software project. A senior thesis, which involved two semesters of work, may count as a capstone.",
+    "a. Algorithms/Theory Foundations",
+    "b. AI/Machine Learning/Data Science Foundations.",
+    "c. Systems Foundations. Concentration credit for only one of 300/330",
+    "Two 1000-level CSCI courses, which must be technical courses, as defined in concentration handbook.",
+    "or any graduate Economics course"
+  ],
+  "ctmp": [
+    "Two introductory science courses addressing the biological, psychological, and neurological functionsing of the human body/mind complex with health implications, and how contemplative practices affect it.",
+    "Others with approval",
+    "Two humanities courses that present important themes that can emerge from bringing a Contemplative Studies perspective to the study of contemplative religious traditions and to the philosophical analysis of the key questions of human existence.",
+    "Others with approval",
+    "Students must complete six addtional courses in either a Science or Humanities track.",
+    "The Capstone Course is intended to be a culmination of the students' concentration in which they will bring to bear what their interests have been in developing their focused work in the program. The Capstone course can be either:",
+    "a. A one semester Indepenent Reading and Research course, either COST 1910 or 1920 OR BIOL 1950 or 1960, depending on the semester; OR",
+    "b. A special project done within an existing Contemplative Studies core or related course at the 1000-level in which the student brings to bear the larger concerns of her concentration on a problem or issue within the course. It is expected that such Capstone research papers will be more substantial than a term paper.",
+    "Others with approval",
+    "The Capstone Course is intended to be a culmination of the students' concentration in which they will bring to bear what their interests have been in developing their focused work in the program. The Capstone course can be either:",
+    "a. A one semester Independent Reading and Research course, either COST 1910 or 1920 OR BIOL 1950 or 1960, depending on the semester; OR",
+    "b. A special project done within an existing Contemplative Studies core or related course at the 1000-level in which the student brings to bear the larger concerns of her concentration on a problem or issue within the course. It is expected that such Capstone research papers will be more substantial than a term paper.",
+    "Contemplative Religious Traditions",
+    "The Pholosophy of Mind",
+    "Others with approval"
+  ],
+  "nais": [
+    "1) Creative Expressions (Arts, Literature and Language)",
+    "2) History, Politics and Policy Issues",
+    "3) Language and Identity",
+    "4) Systems of Knowledge and Belief: Fundamentals of Indigenous Living, Society and Wellness (Environment, Medicine, Biology, Health, Psychology, Public Health, Philosophy, Religion)",
+    "At least two breadth areas must be included in the overall course of study, with a minimum of two courses in a breadth area outside of the focus area of study (if that is connected to only one breadth area); electives provide an opportunity for expansion beyond the focus area.",
+    "No more than two Independent Study Project (ISP or GISP) courses counting towards fulfillment of the concentration.",
+    "Courses that are not NAIS designated (in the list of concentration courses) may count toward the concentration if agreed upon by the NAIS DUS and closely connected to areas of study."
+  ],
+  "dese": [
+    "Or an equivalent course approved by the Concentration Advisor",
+    "Or an equivalent course approved by the Concentration Advisor",
+    "Or an equivalent course approved by the Concentration Advisor"
+  ],
+  "emow": [
+    "Under the supervision of the director of the program, students may choose courses from the following:"
+  ],
+  "eps": [
+    "Three additional upper level EEPS courses or an approved substitute such as a field course",
+    "One additional upper level science or math course with approval from the concentration advisor.",
+    "Three additional upper level EEPS courses or an approved substitute such as a field course",
+    "Four upper level science or math courses with approval from the concentration advisor"
+  ],
+  "ecb": [
+    "One of EEPS 0220, EEPS 0230, EEPS 0240, or EEPS 0250 if not already taken",
+    "Three upper level science or math courses with approval from the concentration advisor"
+  ],
+  "east": [
+    "Chinese",
+    "Japanese",
+    "Korean",
+    "Chinese",
+    "Japanese",
+    "For additional elective choices, visit http://brown.edu/academics/east-asian-studies/courses/more-course-offerings."
+  ],
+  "econ": [
+    "or a higher-level math course.",
+    "At least five additional 1000-level Economics courses.",
+    "or a higher level math course",
+    "Interdisciplinary requirement. Two courses outside of the economics department that relate to better understanding the implementation and/or evaluation of public policies (may be below or above 1000-level).Several departments offer such courses, and availability varies from year to year. Some pre-approved options are",
+    "Students may also request advisor permission for other courses",
+    "A capstone project in the senior year. This can be satisfied in different ways: (a) the capstone is automatically fulfilled if one of the public policy electives completed is designated as a capstone course (see the list of capstone courses on the economics department website); or (b) a capstone project is otherwise arranged and completed for a public policy elective; or (c) an honors thesis is completed, under the guidelines of honors in the economics concentration; or (d) completion of an undergraduate research assistantship (URA). In cases (a), (b) and (d), a capstone form must be submitted to the department."
+  ],
+  "egya": [
+    "Language Courses (two courses)",
+    "One course in cuneiform-based language, normally Introduction to Akkadian, Introduction to Sumerian, or Introduction to Hittite. One additional language course, either Intermediaet Akkadian or another language with the EGYT or ASYR course code.",
+    "History",
+    "Religion and Literature",
+    "Making Knowledge - Ancient and Mondern",
+    "Depth Requirement (Two Courses)",
+    "At least two additional courses at the 1000 level or higher that include ancient Mesopotamia as a major component of the syllabus, usually in ASYR or ARCH. Subject to the approval of the concentration advisor and DUS.",
+    "Breadth Requirement (Two Courses)",
+    "Two additional courses on some aspect of the ancient/premodern world, at least one of which should be with the department’s faculty. Subject to the approval of the concentration advisor and DUS.",
+    "One course in the ancient Egyptian language, ordinarily Middle Egyptian I. However, other phases of the ancient Egyptian language can be substituted for one or both of these, such as Late Egyptian or Coptic. One additional language course, either Middle Egyptian II or another language with the EGYT or ASYR course code.",
+    "History",
+    "Religion and Literature",
+    "Making Knowledge - Ancient and Mondern",
+    "At least two additional courses at the 1000 level or higher that include ancient Egypt as a major component of the syllabus, usually in EGYT or ARCH. Subject to the approval of the concentration advisor and DUS.",
+    "Two additional courses on some aspect of the ancient/premodern world, at least one of which should be with the department’s faculty. Subject to the approval of the concentration advisor and DUS."
+  ],
+  "eleg": [
+    "At least one advanced Electrical Engineering foundations course:",
+    "Up to two other Electrical Engineering courses",
+    "ENGN 1565"
+  ],
+  "engn": [
+    "ENGN 0260"
+  ],
+  "enph": [
+    "A thesis under the supervision of a physics or engineering faculty member:",
+    "* Students are also encouraged to take courses dealing with the philosophical, ethical or political aspects of science and technology."
+  ],
+  "engl": [
+    "Addressing topics about which professors are especially passionate, these introductory courses aim to deepen and refine students’ understanding of how literature matters: aesthetically, ethically, historically and politically. Students not only engage with larger questions about literature’s significance, exploring the particular kinds of insights and thinking it is especially suited for conveying, they also gain a deeper awareness of the critical methods we use to understand and analyze it, engaging with matters of form, genre and media. Finally, these courses help students develop their skills as close, careful readers of literary form and language.",
+    "2. ONE course in Medieval and Renaissance Literatures (Pre-1700):",
+    "These courses, which center on Medieval and Renaissance literary works, cast light on periods that can come across to us as both familiar and strange. They focus our attention on how literatures from these periods depict concepts such as aesthetics, romance, gender, sexuality, race, power and politics in ways that are like and unlike how we tend to think of them today—on how pre-modern or early modern works can both defamiliarize the categories of experience and identity we tend to take for granted and also suggest something of their origins. Several courses under this rubric will also engage with recent literary and filmic adaptations of works from these eras, exploring how many such works continue to function as vibrant and at times ambivalent inspirations for the literary imaginings of later periods.",
+    "These courses explore the many strands of writing in English that have emerged from the eighteenth century through the present, shaping the contemporary world. These literatures reflect on political, economic, and intellectual history, from the idea of the nation and the structures of capital through the rise and dissolution of empire and the emergence of postcolonial states, including the forms of race, gender and sexuality that cut across them. Courses also examine how aesthetic works can shape and critique their moment: they look at genres like the novel and short story, poetry, drama, essays, and new, hybrid forms that have arisen with expanding digital media; they also take up a multitude of literary movements whose influences remain with us today, including Romanticism, realism, naturalism, modernism, and post-modernism.",
+    "In 1903, W. E. B. Du Bois famously proclaimed in \"The Souls of Black Folk\" that “The problem of the twentieth century is the problem of the color-line,—the relation of the darker to the lighter races of men in Asia and Africa, in America and the islands of the sea.” Courses in this category explore the complex ways in which literary texts have addressed American histories of race, ethnicity, and empire. They may do so from the vantage point of ideas about difference and hierarchy that predate the modern conception of race and by engaging with earlier histories of conflict and contact. These courses explore issues of intersectionality as well, highlighting how race operates in relation to other structures of difference such as gender, sexuality and class.",
+    "The late-twentieth century saw a revolution in the field of literary studies in the United States, as critics turned their attention to the contextual and historical nature of our categories of knowledge. This turn to theory was influenced by developments in psychoanalysis, linguistics, philosophy, political theory and sociology and by the emergence of social movements that challenged such structures as patriarchy, homophobia, racism, imperialism, economic inequality, and environmental violence. The avenues of inquiry opened up brought an increased awareness of the implication of literature in the operations of power and ideology; a sense of the potential for literary modes of presentation to challenge and displace such operations; and a new attention to the role of gender, race, empire, class, and sexuality in the formation of the literary work. Courses that satisfy the Literary Theory and Cultural Critique requirement explore some dimension of these issues – either directly, taking as their primary focus a set of theoretical questions or debates, or indirectly, by examining a compelling topical question of social and political significance through works of literature and literary theory.",
+    "6. FIVE electives"
+  ],
+  "eveg": [
+    "2. Advanced Science Courses",
+    "3. Upper-Level Environmental Engineering Curriculum",
+    "Plus four advanced engineering courses from the list below",
+    "Or any other course approved by the Concentration Advisor",
+    "4. Capstone Design",
+    "* In addition to program requirements above, students must take four courses in the humanities and social sciences."
+  ],
+  "envs": [
+    "Courses focused on building qualitative or quantitative research tools",
+    "Courses focusing on earth, atmospheric, engineering or water sciences.",
+    "Courses focused on ecological or conservation biology",
+    "Courses focused on environmental issues through a justice and/or equity lens",
+    "Courses focused on the policy, politics and/or governance of environmental issues",
+    "Courses focused on the role of history, culture, and the arts in the environment",
+    "Electives provide increased environmental expertise and further enhance a student’s ability to customize a course of study. Acceptable electives include any ENVS courses, a class that's MAIN FOCUS is on the environment, and prerequisites for classes students take to fulfill requirements within their declared track.",
+    "The College expects that a capstone will be completed in semesters 7 or 8 - with the intention of providing an opportunity for students to integrate many aspects of their course of study, or area of focus. This requirement can be met with a two-semester thesis (ENVS 1970 & ENVS 1971), one-semester research project (ENVS 1970 or ENVS 1971), or an approved capstone course.",
+    "Two required courses for the ENV degree that build core competency in natural and social sciences related to the environment.",
+    "Courses focused on building qualitative or quantitative research tools.",
+    "Courses focusing on earth, atmospheric, engineering or water sciences.",
+    "Courses focused on ecological or conservation biology.",
+    "Courses focused on environmental issues through a justice and/or equity lens.",
+    "Courses focused on the policy, politics and/or governance of environmental issues.",
+    "Courses focused on the role of history, culture, and the arts in the environment.",
+    "Electives provide increased environmental expertise and further enhance your ability to customize your course of study. Acceptable electives include any ENVS course, a class that's MAIN FOCUS is the environment, and prerequisites for classes you take to fulfill requirements within your declared track.",
+    "The College expects that a capstone will be completed in semesters 7 or 8 - with the intention of providing an opportunity for students to integrate many aspects of their course of study, or area of focus. This requirement can be met with a two-semester thesis (ENVS 1970 & ENVS 1971), one-semester research project (ENVS 1970 or ENVS 1971), or an approved capstone course.",
+    "This track is intended for students interested in climate change science, energy systems, and energy/climate change policy.",
+    "FOUNDATIONS - pick two",
+    "These courses serve as a foundation to understanding energy, climate systems, and data analysis.",
+    "ENERGY, ENVIRONMENTAL TECH, & INFRASTRUCTURE - pick one",
+    "CLIMATE - pick one",
+    "ENERGY & CLIMATE POLICY - pick one",
+    "This track is intended for students interested in ecological and conservation sciences.",
+    "ECOLOGY",
+    "CONSERVATION",
+    "ORGANISMAL DIVERSITY, ECOLOGY & CONSERVATION TOPICS - pick two",
+    "POLITICS & HISTORY OF NATURAL SYSTEMS - pick one",
+    "This track is intended for students interested in exploring environmental issues through a justice/equity lens.",
+    "RACE, CLASS, & GENDER INEQUALITY - pick one",
+    "Any class focused on race, class, or gender - these courses do not have an environmental theme.",
+    "ENVIRONMENTAL JUSTICE & EQUITY - Pick 2",
+    "These courses focus on environmental issues through a justice and/or equity lens.",
+    "FOUNDATIONS IN HEALTH & INEQUALITY - pick one",
+    "These courses offer a foundation or an additional tool to study environmental health and inequality.",
+    "These courses focus specifically on public health and the environment",
+    "This track is intended for students interested in the interplay between environmental governance and economics on the global stage, with an emphasis on the non-Western world.",
+    "GLOBAL GOVERNANCE & DEVELOPMENT - pick one",
+    "Courses focused on global governance or development (some are non environmental).",
+    "ENVIRONMENT, JUSTICE, & NON-WESTERN PERSPECTIVES - pick two",
+    "Any class focused on the Environment and the Global South and/or other non-Western perspectives.",
+    "ECONOMIC PERSPECTIVES - pick one",
+    "These courses are intermediate-level economic tools courses.",
+    "FINANCE & ECONOMIC PERSPECTIVES - pick one",
+    "These courses are either intermediate-level economic tools courses, courses focused on sustainable investing and finance, or the social science of economics systems."
+  ],
+  "gcec": [
+    "Two additional upper-level EEPS courses or substitutes with approval from the concentration advisor.",
+    "Two upper level courses from EEPS such as",
+    "Three additional upper-level science or math courses with approval from the concentration advisor"
+  ],
+  "gpcp": [
+    "Three courses in APMA or MATH, one of which must be APMA 0350 or equivalent",
+    "a field or sea course or any EEPS course listed in the concentration",
+    "Three courses in APMA or MATH, one of which must be APMA 0350 or equivalent",
+    "Three of the following courses, can combine different focii:",
+    "a field or sea course",
+    "or any EEPS course listed in the concentration",
+    "One additional upper-level science or math course with approval from the concentration advisor"
+  ],
+  "hhbi": [
+    "OR",
+    "OR",
+    "Statistics or methods course chosen with advisor's help.",
+    "In addition to the stated background in Chemistry, Math, Biology and Statistics, five (5) Biology plus four (4) coherently-grouped Theme courses, plus a Senior-Year Capstone course or project. (See description of Capstone at link below this table).",
+    "-OR-",
+    "-OR-",
+    "Or a course from the NEUR 1940 series",
+    "Two Biology or Neuroscience courses. At least one must be at the advanced level.",
+    "No more than TWO courses from a given department may be included in the theme portion",
+    "Students will then select from FOUR theme options: 1) Mind, Brain, Behavior, 2) Planetary Health, 3) Global Health, 4) Social Determinants of Health",
+    "1) Advisor approved senior seminar or advanced course related to the theme",
+    "2) One semester of independent research/independent study (BIOL 1950 or BIOL 1960); in the case of a senior honors thesis, either BIOL 1950 or BIOL 1960 can be used as the capstone.",
+    "3) An appropriate internship with a scholarly context can be used if coupled with independent study mentored by a Brown faculty member the following semester."
+  ],
+  "hslc": [
+    "Total Credits = 10"
+  ],
+  "hist": [
+    "Summary",
+    "Two (2) Courses in the \"Premodern\" era (P)",
+    "One (1) Course in Africa OR Middle East OR South Asia OR Southeast Asia",
+    "One (1) Course in East Asia OR Latin America",
+    "One (1) course in Europe OR North America",
+    "One (1) course designated Global",
+    "Students may take a maximum of 5 courses in any single geography",
+    "Field of Focus (FF) - Students must take four courses in the field of focus. These courses may be used to satisfy different requirements (geography and field of focus, etc.).",
+    "Capstone Seminar: All concentrators must complete at least one capstone seminar (HIST 1960s and HIST 1970s series and select HIST 1980s courses), ideally, in the field of focus.",
+    "Honors (optional) 3 additional courses related to writing a thesis (one of which, HIST 1992, can count towards your 10 concentration requirements)"
+  ],
+  "iapa": [
+    "Gateway Course",
+    "Track Foundational",
+    "Track Electives (See tables below)",
+    "Qualitative Research Methods",
+    "Quantitative Research Methods",
+    "Junior Seminar",
+    "Senior Capstone",
+    "Five courses from the following (approval of track elective courses not on the pre-approved list is permitted only in extenuating circumstances):",
+    "Five courses from the following (approval of track elective courses not on the pre-approved list is permitted only in extenuating circumstances):",
+    "Five courses from the following (approval of track elective courses not on the pre-approved list is permitted only in extenuating circumstances):"
+  ],
+  "ital": [
+    "ITALIAN STUDIES COURSES",
+    "COURSES IN OTHER DEPARTMENTS"
+  ],
+  "ling": [
+    "5 additional appropriate electives forming a thematically related set to be determined in consultation with the Concentration Advisor. At least one of these must be drawn from the list of advanced courses listed below, and we strongly recommend that at least one course be an appropriate methods and a topics course. No more than 2 of these courses may be drawn from below 1000 level courses. The electives can be drawn from any of the above courses, or any of the other linguistic/language related courses in the program. Electives may also be drawn from courses in other departments in consultation with the Concentration Advisor; a list of courses which standardly count towards the Linguistics Concentration (provided they form part of the thematically related set) is appended below.",
+    "NOTE: This is NOT an exhaustive list of courses that can be applied towards the Linguistics Concentration requirements.",
+    "Or many other courses",
+    "Or many other courses",
+    "Or many other courses"
+  ],
+  "maeg": [
+    "2. Upper-Level Materials Engineering Curriculum",
+    "3. Capstone Design",
+    "* In addition to program requirements above, students must take four courses in the humanities and social sciences."
+  ],
+  "math": [
+    "Multivariable calculus and linear algebra (choose one of the following sequences):",
+    "Or the equivalent",
+    "Five other 1000- or 2000-level Mathematics courses . The year-long sequence 0750/0760 may be substituted for one of these course credits.",
+    "Multivariate calculus and linear algebra (choose one of the following sequences):",
+    "Or the equivalent",
+    "Four other 1000- or 2000- level Mathematics courses. The year-long sequence 0750/0760 may be substituted for one of these course credits.",
+    "Four additional courses in mathematics, science, economics, or applied mathematics approved by the concentration advisor."
+  ],
+  "macs": [
+    "Three semesters of Calculus to the level of MATH 0180, MATH 0200, or MATH 0350",
+    "Series A",
+    "Series B",
+    "Series C",
+    "Series D",
+    "Foundations Courses: Two courses, touching two different Foundations areas:",
+    "a. Algorithms/Theory Foundations",
+    "b. AI/Machine Learning/Data Science Foundations.",
+    "c. Systems Foundations. Concentration credit for only one of 300/330",
+    "Three 1000-level Mathematics courses",
+    "Three courses in Computer Science at the 1000-level or higher. One of these can be an additional 100-level Foundations course or a CSCI non-technical course, as defined by the concentration handbook.",
+    "Three additional courses different from any of the above chosen from Mathematics, Computer Science, Applied Mathematics, or related areas",
+    "A capstone course in Computer Science or Mathematics"
+  ],
+  "mtec": [
+    "Two additional 1000-level economics courses",
+    "Calculus: MATH 0180 or higher",
+    "One additional course from the Probability, Analysis, and Differential Equations courses listed above"
+  ],
+  "mceg": [
+    "Capstone: At least one course from the following must be taken in the final two semesters:",
+    "Robotic and Control Systems Electives: Up to two courses from:",
+    "Engineering Analysis and Computation Electives: Up to two courses from:",
+    "Energy and Environmental Engineering Electives: Up to two courses from:",
+    "ENGN 1932P"
+  ],
+  "mdvc": [
+    "Two courses in medieval history",
+    "One course at the advanced level (numbered at least 1000) in one approved language",
+    "Seven other courses drawn from appropriate offerings and with approval of the concentration advisor. These courses should support a concentrational area of special interest",
+    "One class in medieval history",
+    "One course at the advanced level (numbered at least 1000) in one approved language",
+    "Seven other courses drawn from appropriate offerings and with the approval of the concentration advisor. These courses should support a concentrational area of special interest.",
+    "Under the supervision of the director of the program, students may choose courses from the following:"
+  ],
+  "mide": [
+    "Foundational Course: All MES concentrators are expected to take the following foundational course. The foundational course requirement cannot be fulfilled via independent study, study abroad, or transfer credits.",
+    "Electives: Students must take at least five elective courses chosen in consultation with the Director of Undergraduate Studies (DUS) from among the courses listed by MES as approved electives on its website (https://watson.brown.edu/cmes/academics/undergraduate-concentration/course-listing/all-courses). Students may apply up to two Middle Eastern language credits (beyond those that fulfill the language requirement: see below) to the MES electives requirement. To allow for exposure of different disciplinary approaches to the Middle East, students must take at least one course in the humanities (offered within the departments of Archaeology and the Ancient World, Classics, Comparative Literature, History of Art and Architecture, Modern Culture and Media, Philosophy, or Religious Studies) and at least one course in the social sciences (offered within the departments of Anthropology, History, International Relations, Political Science, Sociology, or Urban Studies). Some examples of recent courses that would fulfill these requirements include:",
+    "Humanities",
+    "Language Semesters: Middle East Studies concentrators are expected to reach a level of language proficiency consistent with completion of four semesters of Brown language coursework in at least one of the modern Middle Eastern languages, such as Arabic, Persian, Hebrew, or Turkish, or the equivalent through transfer or study abroad credits. Courses at Brown that can be used to fulfill this requirement include:",
+    "• Through advanced reading and writing courses in that language. Recent examples include:",
+    "• Through taking courses in a second Middle Eastern language.",
+    "• Or through courses in a non–Middle Eastern language to be used in a senior capstone project (for example, Spanish for the study of Andalucía or French for the study of North Africa).",
+    "Capstone/Honors Project: MES requires all concentrators to conduct a capstone project within their senior year (i.e., in their last two semesters before graduation). The purpose of the capstone is to synthesize and apply the skills and knowledge that MES concentrators have acquired through the MES curriculum—including disciplinary perspectives, methodological and theoretical approaches, background in the historical and contemporary dynamics of the region, and language competency—to particular interests developed through the concentration. Capstones offer students the opportunity to integrate and build upon their experiences within the concentration, while demonstrating intellectual creativity, research skills, and effective communication, and should serve in some sense as a culmination of or reflection on what one has gained in the concentration. All students are expected to present their capstone research in the final semester before graduation. Presentations of honors theses will be approximately twenty minutes long, and those of non-honors capstone projects will be approximately ten minutes long, both followed by a question-and-answer session. Capstone projects must fulfill the following requirements:",
+    "• Must be taken in the final two semesters before graduation (excluding summer and winter sessions)",
+    "• Must incorporate research in a Middle Eastern language.",
+    "• Must be approved or overseen by a MES or MES-affiliated faculty member.",
+    "• Must be presented in the final semester before graduation.",
+    "a. A Middle East–focused research paper of at least 20 pages for an existing concentration-eligible (MES-coded or X-Listed) course, undertaken with the permission and supervision of the instructor.",
+    "b. An independent study or project (artistic, research, or otherwise), approved by the DUS and supervised by at least one faculty member for at least one semester under the MES 1970 - Independent Study designation.",
+    "c. A two-semester honors thesis, completed under the supervision of a primary reader (who is an MES or MES-affiliated faculty member) and a secondary reader (who can be from other Brown departments and programs), and in coordination with the DUS."
+  ],
+  "mcmd": [
+    "One must be an upper level course from the MCM 1200 series",
+    "Two must be senior seminars from the MCM 1500 or MCM 1700 series",
+    "Two must be at any level in MCM above MCM 0260",
+    "Three additional courses. These courses must be in MCM or in related departments.",
+    "Three additional courses from the MCM 1200 or MCM 1500 series",
+    "One Senior Seminar from the MCM 1700 series or other equivalent in production"
+  ],
+  "musc": [
+    "Two courses in music theory, which may include one 400-level and one 500-level course, or two 500-level courses.",
+    "Two courses in music history and culture, taken in different semesters. One must be a qualifying 1000-level course (or graduate seminar). The other could be any level course, including courses below the 0100 level¹ (first-year seminars, etc.).",
+    "Two additional 1000-level (or graduate-level) courses in music theory, production, and/or history and culture.",
+    "Four additional elective courses according to student interest. May include 1.) up to four half-credit courses in performance (AMP music instruction and/or Ensemble Participation), 2.) one qualifying course outside of the department, 3.) one music course below the 0100 level¹."
+  ],
+  "neur": [
+    "Note: ENGN 0030 may be used instead of PHYS 0030, but ENGN 0040 is NOT equivalent to PHYS 0040.",
+    "1930/40 Topics in Neuroscience",
+    "NOTE: Critical reading courses are small discussion based courses, with around 20 students, with a focus on primary literature around a neuroscience related topic. Other courses not listed here could also fulfil this requirement, please check with your concentration advisor.",
+    "*Two Semesters of NEUR1970 can be used to fulfill one critical reading, lab, or elective requirement",
+    "Four courses that will enhance your understanding of the field of neuroscience. While electives need not be from the neuroscience department, the following list are common courses taught by Neuroscience and other departments that are often used as electives. We encourage students to explore the broader course catalog and consult with their concentration advisor to explore the full range of electives, rather than limiting themselves to this list:",
+    "*Two Semesters of NEUR1970 can be used to fulfill one critical reading, lab, or elective requirement",
+    "All NEUR 1930/1940 Seminar Course",
+    "List 2: Selected common non-neuro courses (no more than 2) - student must be able to justify why it enhances their understanding of Neuro",
+    "Completing the Concentration Research Requirement As with other ScB concentrations, neuroscience concentrators are required (beginning with the class of 2023) to do the equivalent of one semester of independent study, research or design. This is a chance for the student to explore and apply the concepts that they have learned in their concentration courses. The following are ways in which this research requirement can be met. After consulting with your concentration advisor, be sure to include how you will fulfill your research requirement in the appropriate box within ASK: 1. Enrolling in independent study courses (NEUR 1970, CLPS 1970/80 or BIO 1950/60) for work in a lab. Keep in mind to count this towards your concentration two semesters or one semester and a summer are required. 2. Enrolling in independent study (NEUR 1970) to work with a faculty member to explore an integrative topic related to neuroscience. See our section on independent study for more information. 3. Enrolling in a course-based research experience, also known as a CURE course. Current related CURE courses are NEUR 1630, CLPS 1195, CLPS 1591, but there might be new ones coming down the pipeline. 4. Participating in a structured summer research program (eg. an UTRA or an REU) that is equivalent in scope and scale as would be pursued during a semester of independent research. 5. Participating in a research-focused Fall or Spring UTRA. 6. Pursue a design or independent research project related to neuroscience that could be associated with a different course. 7. Anyone writing an honors thesis automatically fulfils the research requirement, in order to document your research requirement, please describe your plan in your Course Plan Worksheet and in ASK, be sure to discuss it with your concentration advisor to make sure it is appropriate. Honors: Honors in Neuroscience requires a thesis and presentation based on a research project , and quality grades in the concentration. Guidelines and information on faculty research as well as details about declaring Honors are available in the Undergraduate Neuroscience Page [https://www.brown.edu/academics/neuroscience/undergraduate-concentration]."
+  ],
+  "phil": [
+    "One course in Ancient Philosophy, e.g.",
+    "One course in Early Modern Philosophy, e.g.",
+    "One course in Epistemology or Metaphysics, e.g.",
+    "One course in Ethics or Political Philosophy, e.g.",
+    "One course in Logic, e.g."
+  ],
+  "phys": [
+    "One additional 1000-level course or a mathematics course beyond the introductory level.",
+    "Take one additional 1000 or 2000 level Physics course or upper level course in related fields of science chosen by the student with the agreement of his or her advisor.",
+    "Four Mathematics courses beyond MATH 0190 or 0090, 0100 including choices from Applied Mathematics",
+    "Two additonal 1000- or 2000-level courses in physics or a related field which are not listed as requirements.",
+    "Four additional 1000 or 2000 level Physics courses",
+    "Two additional 1000 or 2000 level Math courses"
+  ],
+  "phph": [
+    "One course in Special Relativity and Classical Field Theory:",
+    "One more 1000-level Physics course",
+    "A course from the PHIL 0990 Senior Seminar series",
+    "Any graduate seminar in Philosophy"
+  ],
+  "pobr": [
+    "POBS 0630 series",
+    "POBS 1030",
+    "Five (or four, if two POBS 0630 courses were completed) additional courses from Portuguese and Brazilian Studies and/or related departments, such as History, Africana Studies, Political Science, Anthropology, Sociology, Music, and the Watson Institute. These courses are intended to develop students' specific interests within the concentration."
+  ],
+  "psyc": [
+    "Four approved Electives related to Psychology",
+    "Capstone: Independent Study (CPSY 1970, CPSY 1980) or approved seminar",
+    "Four approved Electives related to Psychology",
+    "Capstone: Independent Study (CPSY 1970, CPSY 1980) or approved seminar",
+    "Five Additional STEM courses: of these, at least two (2) must be CPSY courses, all must be related to Psychology, and all must be applicable to a concentration in that department"
+  ],
+  "pubh": [
+    "Note: The requirement for BIOL 0200 can be satisfied with placement notation.",
+    "These courses must be at the 1000-level or higher.",
+    "In addition to courses listed above, you may also consider taking:"
+  ],
+  "slav": [
+    "In cases where a student's interests and course of study warrant it, and only upon consulting the concentration advisor, the student may apply more than one Slavic language to the concentration (Czech or Polish in addition to Russian), and would then need a combined total of eight semesters of two Slavic languages:"
+  ],
+  "sar": [
+    "Three (3) substantive or theory courses (non-methodological courses) in Sociology, two (2) of which must be at the 1000-level or above.",
+    "Research experience (1 course)",
+    "A one-semester research internship (not for credit or for credit as SOC 1970 - Independant Study), or a summer research internship (not for credit).",
+    "Research experience (1 course)",
+    "A one-semester research internship (not for credit or for credit as SOC 1970 - Independant Study), or a summer research internship (not for credit)."
+  ],
+  "soc": [
+    "a) At least three of the optional courses have to be 1000 level and one of them must be a substantive seminar (1870-1873).",
+    "b) Students can choose to take up to two lower level (0100 level) courses.",
+    "c) Students can petition to take two courses outside of the discipline (this will be allowed only when the proposed course makes sense given the interests of the student, and there is no equivalent sociology course)."
+  ],
+  "sast": [
+    "At least three of the five electives must be drawn from the department pre-approved course listings (or be approved by the DUS/Concentration advisor). The courses on this pre-approved list have significant (at least 25%) South Asia content.",
+    "No more than two of the remaining electives can be courses with less empirical South Asia content, but these courses must have theoretical relevance to the study of South Asia (with the approval from the DUS)."
+  ],
+  "stat": [
+    "Single-variable calculus is not an enforced requirement for our concentration, but it is a required prerequisite for many of our courses. At Brown, single-variable calculus consists of MATH 0090 followed by one of MATH 0100, MATH 0170, or MATH 0190.",
+    "Students can choose from the tracks, below, and must complete three courses within a track. Other courses may be used with the approval of the Director of the Statistics Concentration.",
+    "Students may design their own track with the approval of the Director of the Undergraduate Concentration.",
+    "Students must choose two general elective courses. Pre-approved courses are listed below, but courses may also be chosen from those courses listed in the track electives. Other courses may be used with the approval of the Director of the Statistics Concentration.",
+    "Students must complete three courses within a track. Other courses may be used with the approval fo the Director of the Statistics Concentration",
+    "Students must complete three courses within a track. Other courses may be used with the approval fo the Director of the Statistics Concentration",
+    "Students must complete three courses within a track. Other courses may be used with the approval fo the Director of the Statistics Concentration"
+  ],
+  "taps": [
+    "Theatre Studies electives: 4 elective courses, one of which must be theory, history, or literature chosen in consultation with the advisor according to the area of interest (i.e., acting, direction, playwriting, design/technical theatre). Additionally, following consultation with the advisor, one of the electives may be taken outside the TAPS department.",
+    "Two full-credit courses based in performance craft in either Dance, Acting, Directing, Playwriting, Speech, Design, Literary Arts, Visual Arts, Music, or Africana Studies approved by the concentration advisor.",
+    "Two additional courses in the academic study of performance and performance culture(s) from either within TAPS or throughout the University in consultation with the advisor.",
+    "Critical Topics and Global Perspectives - three courses. Students should work with their advisor to ensure their courses offer theoretical and geographic breadth. Courses could include, for example:",
+    "One additional TAPS elective"
+  ],
+  "urbn": [
+    "1. Any course from the Introductory or Core Curriculum options above not used to fulfill another requirement",
+    "3. RISD courses approved by the Urban Studies Program each semester as applicable to the Urban Studies concentration.",
+    "4. Any course taken at another university in the US or abroad and approved by the Urban Studies Program each semester (2 maximum)"
+  ],
+  "visa": [
+    "Category I: Analog 2D (choose one from the following:)",
+    "Category II: Digital & 4D (choose one from the following)",
+    "VISA 0170",
+    "One course on 20th and/or 21st century art, one on non-Western practice, and one HIAA seminar. HIAA courses in Architectural Practice cannot be counted towards the Art History requirement."
+  ]
+}

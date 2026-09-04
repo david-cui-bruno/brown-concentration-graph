@@ -1,0 +1,58 @@
+[
+  {
+    "slug": "visa",
+    "name": "Visual Art",
+    "degree": "Concentration Program Requirements",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Three Foundation courses are required. One from each of three categories.",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "VISA 0100"
+            },
+            {
+              "kind": "course",
+              "code": "VISA 0160"
+            },
+            {
+              "kind": "course",
+              "code": "VISA 0120"
+            },
+            {
+              "kind": "course",
+              "code": "VISA 0140"
+            },
+            {
+              "kind": "course",
+              "code": "VISA 0150"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Category III: Spatial & 3D (choose one from the following):",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "VISA 0130"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Category I: Analog 2D (choose one from the following:)",
+      "Category II: Digital & 4D (choose one from the following)",
+      "VISA 0170",
+      "One course on 20th and/or 21st century art, one on non-Western practice, and one HIAA seminar. HIAA courses in Architectural Practice cannot be counted towards the Art History requirement."
+    ]
+  }
+]

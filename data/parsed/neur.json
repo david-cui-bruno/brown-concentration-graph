@@ -1,0 +1,455 @@
+[
+  {
+    "slug": "neur",
+    "name": "Neuroscience",
+    "degree": "ScB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Background Courses:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "MATH 0090"
+            },
+            {
+              "kind": "course",
+              "code": "MATH 0100"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 0030"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 0040"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0200"
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 0330"
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 0350"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Core Concentration Courses:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "NEUR 0010"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1020"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1030"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "One critical reading course",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "NEUR 1440"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1510"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1530"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1560"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1660"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1970"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1100"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1180"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1190"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1400"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1760"
+            },
+            {
+              "kind": "course",
+              "code": "BSS 1890"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "One statistics course",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "STAT 1501"
+            },
+            {
+              "kind": "course",
+              "code": "STAT 1510"
+            },
+            {
+              "kind": "course",
+              "code": "STAT 2510"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 0650"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 1650"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0900"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1100"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0495"
+            },
+            {
+              "kind": "course",
+              "code": "EDUC 1230"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "One lab methods course",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "NEUR 0680"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1440"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1600"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1630"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1640"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1650"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1660"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1670"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1680"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1970"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1190"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1194"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1490"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1491"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1492"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0800"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1880"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Four electives related to neuroscience",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "NEUR 0680"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1040"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1440"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1510"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1530"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1540"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1560"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1570"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1600"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1630"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1640"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1650"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1660"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1740"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1970"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 2110"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0400"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1196"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1291"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1420"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1480H"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1480I"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1490"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1492"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1540"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1560"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1570"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1591"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1760"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1950"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1100"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1110"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1155"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1260"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1220"
+            },
+            {
+              "kind": "course",
+              "code": "BSS 1890"
+            },
+            {
+              "kind": "course",
+              "code": "COST 1020"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0470"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0800"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1050"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1540"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1810"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0950"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1195"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1500"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 0111"
+            },
+            {
+              "kind": "course",
+              "code": "ENGL 1900Z"
+            },
+            {
+              "kind": "course",
+              "code": "PHIL 1770"
+            },
+            {
+              "kind": "course",
+              "code": "TAPS 1281Z"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Note: ENGN 0030 may be used instead of PHYS 0030, but ENGN 0040 is NOT equivalent to PHYS 0040.",
+      "1930/40 Topics in Neuroscience",
+      "NOTE: Critical reading courses are small discussion based courses, with around 20 students, with a focus on primary literature around a neuroscience related topic. Other courses not listed here could also fulfil this requirement, please check with your concentration advisor.",
+      "*Two Semesters of NEUR1970 can be used to fulfill one critical reading, lab, or elective requirement",
+      "Four courses that will enhance your understanding of the field of neuroscience. While electives need not be from the neuroscience department, the following list are common courses taught by Neuroscience and other departments that are often used as electives. We encourage students to explore the broader course catalog and consult with their concentration advisor to explore the full range of electives, rather than limiting themselves to this list:",
+      "*Two Semesters of NEUR1970 can be used to fulfill one critical reading, lab, or elective requirement",
+      "All NEUR 1930/1940 Seminar Course",
+      "List 2: Selected common non-neuro courses (no more than 2) - student must be able to justify why it enhances their understanding of Neuro",
+      "Completing the Concentration Research Requirement As with other ScB concentrations, neuroscience concentrators are required (beginning with the class of 2023) to do the equivalent of one semester of independent study, research or design. This is a chance for the student to explore and apply the concepts that they have learned in their concentration courses. The following are ways in which this research requirement can be met. After consulting with your concentration advisor, be sure to include how you will fulfill your research requirement in the appropriate box within ASK: 1. Enrolling in independent study courses (NEUR 1970, CLPS 1970/80 or BIO 1950/60) for work in a lab. Keep in mind to count this towards your concentration two semesters or one semester and a summer are required. 2. Enrolling in independent study (NEUR 1970) to work with a faculty member to explore an integrative topic related to neuroscience. See our section on independent study for more information. 3. Enrolling in a course-based research experience, also known as a CURE course. Current related CURE courses are NEUR 1630, CLPS 1195, CLPS 1591, but there might be new ones coming down the pipeline. 4. Participating in a structured summer research program (eg. an UTRA or an REU) that is equivalent in scope and scale as would be pursued during a semester of independent research. 5. Participating in a research-focused Fall or Spring UTRA. 6. Pursue a design or independent research project related to neuroscience that could be associated with a different course. 7. Anyone writing an honors thesis automatically fulfils the research requirement, in order to document your research requirement, please describe your plan in your Course Plan Worksheet and in ASK, be sure to discuss it with your concentration advisor to make sure it is appropriate. Honors: Honors in Neuroscience requires a thesis and presentation based on a research project , and quality grades in the concentration. Guidelines and information on faculty research as well as details about declaring Honors are available in the Undergraduate Neuroscience Page [https://www.brown.edu/academics/neuroscience/undergraduate-concentration]."
+    ]
+  }
+]

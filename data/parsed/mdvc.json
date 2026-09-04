@@ -1,0 +1,434 @@
+[
+  {
+    "slug": "mdvc",
+    "name": "Medieval Cultures",
+    "degree": "AB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": []
+    },
+    "unparsed": [
+      "Two courses in medieval history",
+      "One course at the advanced level (numbered at least 1000) in one approved language",
+      "Seven other courses drawn from appropriate offerings and with approval of the concentration advisor. These courses should support a concentrational area of special interest"
+    ]
+  },
+  {
+    "slug": "mdvc",
+    "name": "Medieval Cultures",
+    "degree": "AB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "course",
+          "code": "ASYR 1600"
+        },
+        {
+          "kind": "course",
+          "code": "CLAS 0600"
+        },
+        {
+          "kind": "course",
+          "code": "CLAS 1120G"
+        },
+        {
+          "kind": "course",
+          "code": "COLT 0510K"
+        },
+        {
+          "kind": "course",
+          "code": "COLT 0710B"
+        },
+        {
+          "kind": "course",
+          "code": "COLT 0711L"
+        },
+        {
+          "kind": "course",
+          "code": "COLT 1310E"
+        },
+        {
+          "kind": "course",
+          "code": "COLT 1430B"
+        },
+        {
+          "kind": "course",
+          "code": "COLT 1813P"
+        },
+        {
+          "kind": "course",
+          "code": "EAST 0406"
+        },
+        {
+          "kind": "course",
+          "code": "ENGL 0300M"
+        },
+        {
+          "kind": "course",
+          "code": "ENGL 1311P"
+        },
+        {
+          "kind": "course",
+          "code": "ENGL 1360H"
+        },
+        {
+          "kind": "course",
+          "code": "ENGL 1361K"
+        },
+        {
+          "kind": "course",
+          "code": "ENGL 1361Q"
+        },
+        {
+          "kind": "course",
+          "code": "FREN 1020C"
+        },
+        {
+          "kind": "course",
+          "code": "HIAA 1051"
+        },
+        {
+          "kind": "course",
+          "code": "HIAA 1213"
+        },
+        {
+          "kind": "course",
+          "code": "HIST 0521A"
+        },
+        {
+          "kind": "course",
+          "code": "HIST 1205"
+        },
+        {
+          "kind": "course",
+          "code": "HIST 1210A"
+        },
+        {
+          "kind": "course",
+          "code": "HIST 1211"
+        },
+        {
+          "kind": "course",
+          "code": "HIST 1440"
+        },
+        {
+          "kind": "course",
+          "code": "HIST 1835A"
+        },
+        {
+          "kind": "course",
+          "code": "HIST 1963Q"
+        },
+        {
+          "kind": "course",
+          "code": "ITAL 1010"
+        },
+        {
+          "kind": "course",
+          "code": "JAPN 0810"
+        },
+        {
+          "kind": "course",
+          "code": "JUDS 0050M"
+        },
+        {
+          "kind": "course",
+          "code": "JUDS 0681"
+        },
+        {
+          "kind": "course",
+          "code": "JUDS 1630"
+        },
+        {
+          "kind": "course",
+          "code": "LATN 1110F"
+        },
+        {
+          "kind": "course",
+          "code": "LATN 1110H"
+        },
+        {
+          "kind": "course",
+          "code": "LATN 1110L"
+        },
+        {
+          "kind": "course",
+          "code": "LATN 1120C"
+        },
+        {
+          "kind": "course",
+          "code": "LATN 1120D"
+        },
+        {
+          "kind": "course",
+          "code": "MDVL 0360"
+        },
+        {
+          "kind": "course",
+          "code": "MDVL 1970"
+        },
+        {
+          "kind": "course",
+          "code": "MDVL 1990"
+        },
+        {
+          "kind": "course",
+          "code": "PRSN 1100"
+        },
+        {
+          "kind": "course",
+          "code": "RELS 0014"
+        },
+        {
+          "kind": "course",
+          "code": "RELS 0015"
+        },
+        {
+          "kind": "course",
+          "code": "RELS 0110"
+        },
+        {
+          "kind": "course",
+          "code": "RELS 0290D"
+        },
+        {
+          "kind": "course",
+          "code": "RELS 0420"
+        },
+        {
+          "kind": "course",
+          "code": "RELS 1325C"
+        },
+        {
+          "kind": "course",
+          "code": "RELS 1330A"
+        },
+        {
+          "kind": "course",
+          "code": "RELS 1425"
+        },
+        {
+          "kind": "course",
+          "code": "RELS 1530A"
+        },
+        {
+          "kind": "course",
+          "code": "RELS 1530D"
+        }
+      ]
+    },
+    "unparsed": []
+  },
+  {
+    "slug": "mdvc",
+    "name": "Medieval Cultures",
+    "degree": "AB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "One course in Roman history:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CLAS 1310"
+            },
+            {
+              "kind": "course",
+              "code": "CLAS 1320"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "One class in medieval history",
+      "One course at the advanced level (numbered at least 1000) in one approved language",
+      "Seven other courses drawn from appropriate offerings and with the approval of the concentration advisor. These courses should support a concentrational area of special interest."
+    ]
+  },
+  {
+    "slug": "mdvc",
+    "name": "Medieval Cultures",
+    "degree": "AB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "course",
+          "code": "ASYR 1600"
+        },
+        {
+          "kind": "course",
+          "code": "CLAS 0600"
+        },
+        {
+          "kind": "course",
+          "code": "CLAS 1120G"
+        },
+        {
+          "kind": "course",
+          "code": "CLAS 1310"
+        },
+        {
+          "kind": "course",
+          "code": "CLAS 1320"
+        },
+        {
+          "kind": "course",
+          "code": "COLT 0510K"
+        },
+        {
+          "kind": "course",
+          "code": "COLT 0711L"
+        },
+        {
+          "kind": "course",
+          "code": "ENGL 1360H"
+        },
+        {
+          "kind": "course",
+          "code": "ENGL 1361K"
+        },
+        {
+          "kind": "course",
+          "code": "HIAA 0032"
+        },
+        {
+          "kind": "course",
+          "code": "HIAA 0322"
+        },
+        {
+          "kind": "course",
+          "code": "HIAA 1307"
+        },
+        {
+          "kind": "course",
+          "code": "HIAA 1308"
+        },
+        {
+          "kind": "course",
+          "code": "HIST 0521A"
+        },
+        {
+          "kind": "course",
+          "code": "HIST 1205"
+        },
+        {
+          "kind": "course",
+          "code": "HIST 1210A"
+        },
+        {
+          "kind": "course",
+          "code": "HIST 1211"
+        },
+        {
+          "kind": "course",
+          "code": "HIST 1835A"
+        },
+        {
+          "kind": "course",
+          "code": "HIST 1963Q"
+        },
+        {
+          "kind": "course",
+          "code": "JUDS 0050M"
+        },
+        {
+          "kind": "course",
+          "code": "JUDS 0608"
+        },
+        {
+          "kind": "course",
+          "code": "JUDS 0681"
+        },
+        {
+          "kind": "course",
+          "code": "JUDS 1630"
+        },
+        {
+          "kind": "course",
+          "code": "LATN 1110F"
+        },
+        {
+          "kind": "course",
+          "code": "LATN 1110H"
+        },
+        {
+          "kind": "course",
+          "code": "LATN 1120C"
+        },
+        {
+          "kind": "course",
+          "code": "LATN 1120D"
+        },
+        {
+          "kind": "course",
+          "code": "MDVL 0360"
+        },
+        {
+          "kind": "course",
+          "code": "MDVL 1970"
+        },
+        {
+          "kind": "course",
+          "code": "MDVL 1990"
+        },
+        {
+          "kind": "course",
+          "code": "RELS 0014"
+        },
+        {
+          "kind": "course",
+          "code": "RELS 0110"
+        },
+        {
+          "kind": "course",
+          "code": "RELS 0290D"
+        },
+        {
+          "kind": "course",
+          "code": "RELS 0405"
+        },
+        {
+          "kind": "course",
+          "code": "RELS 0420"
+        },
+        {
+          "kind": "course",
+          "code": "RELS 1315"
+        },
+        {
+          "kind": "course",
+          "code": "RELS 1325C"
+        },
+        {
+          "kind": "course",
+          "code": "RELS 1330A"
+        },
+        {
+          "kind": "course",
+          "code": "RELS 1530A"
+        },
+        {
+          "kind": "course",
+          "code": "RELS 1530D"
+        }
+      ]
+    },
+    "unparsed": [
+      "Under the supervision of the director of the program, students may choose courses from the following:"
+    ]
+  }
+]

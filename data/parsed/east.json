@@ -1,0 +1,221 @@
+[
+  {
+    "slug": "east",
+    "name": "East Asian Studies",
+    "degree": "unified",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Language Prerequisites (demonstrating proficiency through the third-year or 0600 level in one of the three languages below)",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "series",
+              "codes": [
+                "CHIN 0100",
+                "CHIN 0200"
+              ]
+            },
+            {
+              "kind": "series",
+              "codes": [
+                "CHIN 0300",
+                "CHIN 0400"
+              ]
+            },
+            {
+              "kind": "series",
+              "codes": [
+                "CHIN 0350",
+                "CHIN 0450"
+              ]
+            },
+            {
+              "kind": "series",
+              "codes": [
+                "CHIN 0500",
+                "CHIN 0600"
+              ]
+            },
+            {
+              "kind": "series",
+              "codes": [
+                "JAPN 0100",
+                "JAPN 0200"
+              ]
+            },
+            {
+              "kind": "series",
+              "codes": [
+                "JAPN 0300",
+                "JAPN 0400"
+              ]
+            },
+            {
+              "kind": "series",
+              "codes": [
+                "JAPN 0500",
+                "JAPN 0600"
+              ]
+            },
+            {
+              "kind": "series",
+              "codes": [
+                "KREA 0100",
+                "KREA 0200"
+              ]
+            },
+            {
+              "kind": "series",
+              "codes": [
+                "KREA 0300",
+                "KREA 0400"
+              ]
+            },
+            {
+              "kind": "series",
+              "codes": [
+                "KREA 0500",
+                "KREA 0600"
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Language Electives (language courses that may be counted for concentration credit)",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "series",
+              "codes": [
+                "CHIN 0700",
+                "CHIN 0800"
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "CHIN 0911"
+            },
+            {
+              "kind": "course",
+              "code": "CHIN 0912"
+            },
+            {
+              "kind": "course",
+              "code": "CHIN 1040"
+            },
+            {
+              "kind": "series",
+              "codes": [
+                "JAPN 0700",
+                "JAPN 0800"
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "JAPN 0800"
+            },
+            {
+              "kind": "course",
+              "code": "JAPN 0810"
+            },
+            {
+              "kind": "course",
+              "code": "JAPN 0911"
+            },
+            {
+              "kind": "course",
+              "code": "JAPN 1010"
+            },
+            {
+              "kind": "course",
+              "code": "KREA 0912"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Chinese",
+      "Japanese",
+      "Korean",
+      "Chinese",
+      "Japanese"
+    ]
+  },
+  {
+    "slug": "east",
+    "name": "East Asian Studies",
+    "degree": "unified",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Sample Electives offered by East Asian Studies",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "EAST 0140"
+            },
+            {
+              "kind": "course",
+              "code": "EAST 0152"
+            },
+            {
+              "kind": "course",
+              "code": "EAST 0304"
+            },
+            {
+              "kind": "course",
+              "code": "EAST 0307"
+            },
+            {
+              "kind": "course",
+              "code": "EAST 0406"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "For additional elective choices, visit http://brown.edu/academics/east-asian-studies/courses/more-course-offerings."
+    ]
+  },
+  {
+    "slug": "east",
+    "name": "East Asian Studies",
+    "degree": "unified",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Sample advanced seminars offered by East Asian Studies",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "EAST 1931"
+            },
+            {
+              "kind": "course",
+              "code": "EAST 1941"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": []
+  }
+]

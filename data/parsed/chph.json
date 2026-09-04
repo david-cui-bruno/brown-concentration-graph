@@ -1,0 +1,109 @@
+[
+  {
+    "slug": "chph",
+    "name": "Chemical Physics",
+    "degree": "ScB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "course",
+          "code": "CHEM 0330"
+        },
+        {
+          "kind": "course",
+          "code": "CHEM 0350"
+        },
+        {
+          "kind": "course",
+          "code": "CHEM 0500"
+        },
+        {
+          "kind": "course",
+          "code": "CHEM 1140"
+        },
+        {
+          "kind": "course",
+          "code": "PHYS 0070"
+        },
+        {
+          "kind": "course",
+          "code": "PHYS 0160"
+        },
+        {
+          "kind": "course",
+          "code": "PHYS 0470"
+        },
+        {
+          "kind": "group",
+          "label": "Select one of the following laboratory courses:",
+          "type": "CHOOSE_N",
+          "n": 1,
+          "children": [
+            {
+              "kind": "course",
+              "code": "CHEM 1160"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 0560"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 1560"
+            },
+            {
+              "kind": "group",
+              "label": "Select one course in statistical mechanics:",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CHEM 1150"
+                },
+                {
+                  "kind": "course",
+                  "code": "PHYS 1530"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0190"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0200"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0520"
+                },
+                {
+                  "kind": "group",
+                  "label": "Select two semesters of independent study:",
+                  "type": "CHOOSE_N",
+                  "n": 2,
+                  "children": [
+                    {
+                      "kind": "course",
+                      "code": "PHYS 1990"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "CHEM 0980"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Seven courses, primarily at the 1000 or 2000 level, in chemistry or physics."
+    ]
+  }
+]

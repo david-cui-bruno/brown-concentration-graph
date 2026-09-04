@@ -1,0 +1,143 @@
+[
+  {
+    "slug": "apma",
+    "name": "Applied Mathematics",
+    "degree": "AB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Requirements - 10 courses",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "MATH 0180"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0200"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0350"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "MATH 0520"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0540"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "APMA 0355"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 0365"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Single-variable calculus is not an enforced requirement for our concentration, but it is a required prerequisite for many of our courses. At Brown, single-variable calculus consists of MATH 0090 followed by one of MATH 0100, MATH 0170, or MATH 0190.",
+      "One pre-approved course on computer programming, or an alternative approved by the concentration advisor.",
+      "Three 1000-level or higher APMA courses.",
+      "One 1000-level or higher APMA or MATH course.",
+      "One pre-approved 1000-level STEM course, or an alternative approved by the concentration advisor."
+    ]
+  },
+  {
+    "slug": "apma",
+    "name": "Applied Mathematics",
+    "degree": "ScB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Requirements - 16 courses",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "MATH 0180"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0200"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0350"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "MATH 0520"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0540"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "APMA 0355"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 0365"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Single-variable calculus is not an enforced requirement for our concentration, but it is a required prerequisite for many of our courses. At Brown, single-variable calculus consists of MATH 0090 followed by one of MATH 0100, MATH 0170, or MATH 0190.",
+      "One pre-approved course on computer programming, or an alternative approved by the concentration advisor.",
+      "Four 1000-level or higher APMA courses.",
+      "Two 1000-level or higher APMA or MATH courses.",
+      "Four pre-approved 1000-level STEM courses, or alternatives approved by the concentration advisor.",
+      "One pre-approved capstone or senior seminar, or a research-related course approved by the concentration advisor."
+    ]
+  }
+]

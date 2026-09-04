@@ -1,0 +1,511 @@
+[
+  {
+    "slug": "gpcp",
+    "name": "Geophysics and Climate Physics",
+    "degree": "AB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Five supporting science courses:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CHEM 0330"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "A course involving mechanics such as:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "PHYS 0050"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 0070"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 0040"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Two of these four fundamentals courses:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "EEPS 0220"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 0230"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 0240"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "EEPS 0250"
+                },
+                {
+                  "kind": "course",
+                  "code": "EEPS 0350"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "One of these courses:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "EEPS 1430"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1610"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Climate focus:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "EEPS 1310"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1510"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1520"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Solid Earth and planets focus:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "EEPS 1410"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1450"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1620"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Data science focus:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "EEPS 1340"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1690"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1720"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Climate focus:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "EEPS 1130"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1630"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1820"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Solid Earth and planets focus:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "EEPS 1560"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1650"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1810"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Data science focus:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "EEPS 1330"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Other alternatives:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "EEPS 1970"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "One course in physics or engineering such as:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "PHYS 0060"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 0470"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 0500"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 1600"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 0310"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 0790"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 0510"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 0810"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1370"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Three courses in APMA or MATH, one of which must be APMA 0350 or equivalent",
+      "a field or sea course or any EEPS course listed in the concentration"
+    ]
+  },
+  {
+    "slug": "gpcp",
+    "name": "Geophysics and Climate Physics",
+    "degree": "ScB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Five supporting science courses:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CHEM 0330"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "A course involving mechanics such as:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "PHYS 0050"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 0070"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 0040"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Fourteen Concentration Courses:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "EEPS 0220"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "EEPS 0230"
+                },
+                {
+                  "kind": "course",
+                  "code": "EEPS 0240"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "EEPS 0250"
+                },
+                {
+                  "kind": "course",
+                  "code": "EEPS 0350"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1430"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1610"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Climate focus:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "EEPS 1310"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1510"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1520"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Solid Earth and planets focus:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "EEPS 1410"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1450"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1620"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Data science focus:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "EEPS 1340"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1690"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1720"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Climate focus:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "EEPS 1130"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1630"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1820"
+            },
+            {
+              "kind": "group",
+              "label": "Solid Earth and planets focus:",
+              "type": "ALL",
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "EEPS 1560"
+                },
+                {
+                  "kind": "course",
+                  "code": "EEPS 1650"
+                },
+                {
+                  "kind": "course",
+                  "code": "EEPS 1810"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Data science focus:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "EEPS 1330"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Three courses in physics or engineering such as:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "PHYS 0060"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 0470"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 0500"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 1600"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 0310"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 0790"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 0510"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 0810"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1370"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1970"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Three courses in APMA or MATH, one of which must be APMA 0350 or equivalent",
+      "Three of the following courses, can combine different focii:",
+      "a field or sea course",
+      "or any EEPS course listed in the concentration",
+      "One additional upper-level science or math course with approval from the concentration advisor"
+    ]
+  }
+]

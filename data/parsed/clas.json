@@ -1,0 +1,418 @@
+[
+  {
+    "slug": "clas",
+    "name": "Classics",
+    "degree": "unified",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Select any two of the four ancient history courses:",
+          "type": "CHOOSE_N",
+          "n": 2,
+          "children": [
+            {
+              "kind": "course",
+              "code": "CLAS 1210"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CLAS 1220"
+                },
+                {
+                  "kind": "course",
+                  "code": "HIST 1200B"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "CLAS 1310"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CLAS 1320"
+                },
+                {
+                  "kind": "course",
+                  "code": "HIST 1201B"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "One course in Greek or Latin on the 1000-level or above.",
+      "Five other courses in classics, including classical archaeology, Greek (excluding GREK 0100, 0200, 0110), Latin (excluding LATN 0100, 0200, 0110), Sanskrit, or related areas to be approved by the concentration advisor. At least three of these five courses must be offered through the Department of Classics.",
+      "One further course offered by the Department of Classics and designated “Classics and Beyond,” OR a DIAP course offered by the Department of Classics."
+    ]
+  },
+  {
+    "slug": "clas",
+    "name": "Classics",
+    "degree": "unified",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "__or__",
+          "type": "CHOOSE_N",
+          "n": 1,
+          "children": [
+            {
+              "kind": "course",
+              "code": "GREK 1810"
+            },
+            {
+              "kind": "course",
+              "code": "GREK 1820"
+            }
+          ]
+        },
+        {
+          "kind": "course",
+          "code": "CLAS 1210"
+        },
+        {
+          "kind": "course",
+          "code": "CLAS 1220"
+        }
+      ]
+    },
+    "unparsed": [
+      "Four Greek courses on the 1000-level or above, at least one of which is to be:",
+      "Two additional courses in classics, including classical archaeology, Greek (excluding GREK 0100, 0200, 0110), Latin (excluding LATN 0100, 0200, 0110), or related areas to be approved by the concentration advisor. At least one of these two courses must be offered through the Department of Classics.",
+      "One further course offered by the Department of Classics and designated “Classics and Beyond,” OR a DIAP course offered by the Department of Classics."
+    ]
+  },
+  {
+    "slug": "clas",
+    "name": "Classics",
+    "degree": "unified",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "__or__",
+          "type": "CHOOSE_N",
+          "n": 1,
+          "children": [
+            {
+              "kind": "course",
+              "code": "LATN 1810"
+            },
+            {
+              "kind": "course",
+              "code": "LATN 1820"
+            }
+          ]
+        },
+        {
+          "kind": "course",
+          "code": "CLAS 1310"
+        },
+        {
+          "kind": "group",
+          "label": "__or__",
+          "type": "CHOOSE_N",
+          "n": 1,
+          "children": [
+            {
+              "kind": "course",
+              "code": "CLAS 1320"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1201B"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Four Latin courses on the 1000-level or above, at least one of which is to be:",
+      "Two additional courses in classics, including classical archaeology, Greek (excluding GREK 0100, 0200, 0110), Latin (excluding LATN 0100, 0200, 0110), or related areas to be approved by the concentration advisor. At least one of these two courses must be offered through the Department of Classics.",
+      "One further course offered by the Department of Classics and designated “Classics and Beyond,” OR a DIAP course offered by the Department of Classics."
+    ]
+  },
+  {
+    "slug": "clas",
+    "name": "Classics",
+    "degree": "unified",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "One of the survey courses in Ancient Language A:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "LATN 1810"
+                },
+                {
+                  "kind": "course",
+                  "code": "LATN 1820"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "GREK 1810"
+                },
+                {
+                  "kind": "course",
+                  "code": "GREK 1820"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Any THREE of the FOUR Ancient History courses:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CLAS 1210"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CLAS 1220"
+                },
+                {
+                  "kind": "course",
+                  "code": "HIST 1200B"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "CLAS 1310"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CLAS 1320"
+                },
+                {
+                  "kind": "course",
+                  "code": "HIST 1201B"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Ancient Language A (Either Latin or Ancient Greek) requires four (4) courses on the 1000-level. Typically Ancient Language A will be the one in which a survey course will be taken.",
+      "Ancient Language B (Either Ancient Greet or Latin, respectively) requires four ancient language courses of which two can be 0300 and 0400 and the other two at 1000-level or above.",
+      "One further course offered by the Department of Classics and designated \"Classics and Beyond,\" OR a DIAP course offered by the Department of Classics."
+    ]
+  },
+  {
+    "slug": "clas",
+    "name": "Classics",
+    "degree": "unified",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": []
+    },
+    "unparsed": [
+      "At least one Sanskrit course above Sanskrit 0300",
+      "Three of the Sanskrit Classics Courses in Translation",
+      "Four other courses in Classics or related areas (such as Comparative Literature, Religious Studies, South Asian Studies, Early Cultures, etc., including SANS 0100, 0200, 0300) to be approved by the concentration advisor",
+      "One further course offered by the Department of Classics and designated “Classics and Beyond,” OR a DIAP course offered by the Department of Classics."
+    ]
+  },
+  {
+    "slug": "clas",
+    "name": "Classics",
+    "degree": "unified",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": []
+    },
+    "unparsed": [
+      "Two Sanskrit courses at the 1000-level or above",
+      "Two of the Sanskrit Classics Courses in Translation",
+      "Four other courses in Classics or related areas (such as Comparative Literature, Religious Studies, South Asian Studies, Early Cultures, etc., including SANS 0300 and SANS 0400) to be approved by the concentration advisor",
+      "One further course offered by the Department of Classics and designated “Classics and Beyond,” OR a DIAP course offered by the Department of Classics."
+    ]
+  },
+  {
+    "slug": "clas",
+    "name": "Classics",
+    "degree": "unified",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "__or__",
+          "type": "CHOOSE_N",
+          "n": 1,
+          "children": [
+            {
+              "kind": "course",
+              "code": "GREK 1810"
+            },
+            {
+              "kind": "course",
+              "code": "GREK 1820"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "One of the two Ancient Greek History Courses:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CLAS 1210"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CLAS 1220"
+                },
+                {
+                  "kind": "course",
+                  "code": "HIST 1200B"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Four Sanskrit courses at any level",
+      "Four Greek courses on the 1000-level or above, at least one of which is to be:",
+      "Either",
+      "or",
+      "Two additional courses in Classics (including GREK 0300 and GREK 0400) or related areas (such as Comparative Literature, Religious Studies, South Asian Studies, Early Cultures, etc.) to be approved by the concentration advisor.",
+      "One further course offered by the Department of Classics and designated \"Classics and Beyond\" or a DIAP course offered by the department of Classics."
+    ]
+  },
+  {
+    "slug": "clas",
+    "name": "Classics",
+    "degree": "unified",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "__or__",
+          "type": "CHOOSE_N",
+          "n": 1,
+          "children": [
+            {
+              "kind": "course",
+              "code": "LATN 1810"
+            },
+            {
+              "kind": "course",
+              "code": "LATN 1820"
+            }
+          ]
+        },
+        {
+          "kind": "course",
+          "code": "CLAS 1310"
+        },
+        {
+          "kind": "group",
+          "label": "__or__",
+          "type": "CHOOSE_N",
+          "n": 1,
+          "children": [
+            {
+              "kind": "course",
+              "code": "CLAS 1320"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1201B"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Four Sanskrit courses at any level",
+      "Four Latin courses on the 1000-level or above, at least one of which is to be",
+      "One of the two Roman Ancient History courses",
+      "Either",
+      "Or",
+      "Two additional courses in Classics (including LATN 0300 and LATN 0400) or related areas (such as Comparative Literature, Religious Studies, South Asian Studies, Early Cultures, etc.) to be approved by the concentration advisor",
+      "One further course offered by the Department of Classics and designated \"Classics and Beyond\" or a DIAP course offered by the department of Classics."
+    ]
+  }
+]

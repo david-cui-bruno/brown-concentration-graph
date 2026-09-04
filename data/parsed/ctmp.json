@@ -1,0 +1,448 @@
+[
+  {
+    "slug": "ctmp",
+    "name": "Contemplative Studies",
+    "degree": "Concentration Core (6 courses including the Senior Concentration Seminar)",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "course",
+          "code": "COST 0100"
+        },
+        {
+          "kind": "group",
+          "label": "Select one from the following list:",
+          "type": "CHOOSE_N",
+          "n": 1,
+          "children": [
+            {
+              "kind": "course",
+              "code": "BIOL 0200"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0200"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0500"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 0010"
+            },
+            {
+              "kind": "group",
+              "label": "Select one from following list:",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "COST 0200"
+                },
+                {
+                  "kind": "course",
+                  "code": "COST 1020"
+                },
+                {
+                  "kind": "course",
+                  "code": "ANTH 1240"
+                },
+                {
+                  "kind": "course",
+                  "code": "CLAS 0990"
+                },
+                {
+                  "kind": "course",
+                  "code": "CLAS 1120G"
+                },
+                {
+                  "kind": "group",
+                  "label": "__or__",
+                  "type": "CHOOSE_N",
+                  "n": 1,
+                  "children": [
+                    {
+                      "kind": "course",
+                      "code": "COST 0040"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "RELS 0040"
+                    }
+                  ]
+                },
+                {
+                  "kind": "group",
+                  "label": "__or__",
+                  "type": "CHOOSE_N",
+                  "n": 1,
+                  "children": [
+                    {
+                      "kind": "course",
+                      "code": "COST 0145"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "RELS 0145"
+                    }
+                  ]
+                },
+                {
+                  "kind": "course",
+                  "code": "COST 0450"
+                },
+                {
+                  "kind": "course",
+                  "code": "PHIL 0010"
+                },
+                {
+                  "kind": "course",
+                  "code": "PHIL 0015"
+                },
+                {
+                  "kind": "course",
+                  "code": "PHIL 0510"
+                },
+                {
+                  "kind": "course",
+                  "code": "PHIL 1800"
+                },
+                {
+                  "kind": "course",
+                  "code": "PHIL 1825"
+                },
+                {
+                  "kind": "course",
+                  "code": "RELS 0056"
+                },
+                {
+                  "kind": "course",
+                  "code": "RELS 0065"
+                },
+                {
+                  "kind": "course",
+                  "code": "RELS 1370B"
+                },
+                {
+                  "kind": "course",
+                  "code": "COST 1950"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Two introductory science courses addressing the biological, psychological, and neurological functionsing of the human body/mind complex with health implications, and how contemplative practices affect it.",
+      "Others with approval",
+      "Two humanities courses that present important themes that can emerge from bringing a Contemplative Studies perspective to the study of contemplative religious traditions and to the philosophical analysis of the key questions of human existence.",
+      "Others with approval",
+      "Students must complete six addtional courses in either a Science or Humanities track."
+    ]
+  },
+  {
+    "slug": "ctmp",
+    "name": "Contemplative Studies",
+    "degree": "Science Track",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Five thematic science courses, including a Capstone Course, drawn primarily from BIOL,COST, NEUR, CLPS, and PHP, at least one of which must include laboratory work and two of which must be 1000-level; and one Statistics course for a total of six courses.",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "BIOL 0280"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0470"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0530"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0800"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1880"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0700"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0710"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1193"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1194"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1291"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1400"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1490"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1492"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1570"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1590"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1791"
+            },
+            {
+              "kind": "course",
+              "code": "COST 0200"
+            },
+            {
+              "kind": "course",
+              "code": "COST 1020"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1020"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1030"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1540"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1600"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1940I"
+            },
+            {
+              "kind": "course",
+              "code": "PHP 1600"
+            },
+            {
+              "kind": "course",
+              "code": "PHP 1920"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "One statistics course (others with approval)",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "APMA 0650"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 1650"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0495"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0900"
+            },
+            {
+              "kind": "course",
+              "code": "STAT 1501"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "The Capstone Course is intended to be a culmination of the students' concentration in which they will bring to bear what their interests have been in developing their focused work in the program. The Capstone course can be either:",
+      "a. A one semester Indepenent Reading and Research course, either COST 1910 or 1920 OR BIOL 1950 or 1960, depending on the semester; OR",
+      "b. A special project done within an existing Contemplative Studies core or related course at the 1000-level in which the student brings to bear the larger concerns of her concentration on a problem or issue within the course. It is expected that such Capstone research papers will be more substantial than a term paper.",
+      "Others with approval"
+    ]
+  },
+  {
+    "slug": "ctmp",
+    "name": "Contemplative Studies",
+    "degree": "Humanities Track",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Six courses, including a Capstone Course, from across the two areas below:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CLAS 0210Y"
+            },
+            {
+              "kind": "course",
+              "code": "CLAS 0820"
+            },
+            {
+              "kind": "course",
+              "code": "CLAS 0850"
+            },
+            {
+              "kind": "course",
+              "code": "CLAS 0990"
+            },
+            {
+              "kind": "course",
+              "code": "CLAS 0995"
+            },
+            {
+              "kind": "course",
+              "code": "CLAS 1140"
+            },
+            {
+              "kind": "course",
+              "code": "CLAS 1160"
+            },
+            {
+              "kind": "course",
+              "code": "COST 0145"
+            },
+            {
+              "kind": "course",
+              "code": "COST 0535"
+            },
+            {
+              "kind": "course",
+              "code": "COST 0550"
+            },
+            {
+              "kind": "course",
+              "code": "COST 1420"
+            },
+            {
+              "kind": "course",
+              "code": "EAST 1420"
+            },
+            {
+              "kind": "course",
+              "code": "RELS 0045"
+            },
+            {
+              "kind": "course",
+              "code": "RELS 0100"
+            },
+            {
+              "kind": "course",
+              "code": "RELS 0120"
+            },
+            {
+              "kind": "course",
+              "code": "RELS 1441"
+            },
+            {
+              "kind": "course",
+              "code": "RELS 0570"
+            },
+            {
+              "kind": "course",
+              "code": "RELS 0580"
+            },
+            {
+              "kind": "course",
+              "code": "RELS 1370B"
+            },
+            {
+              "kind": "course",
+              "code": "RELS 1425"
+            },
+            {
+              "kind": "course",
+              "code": "RELS 1442"
+            },
+            {
+              "kind": "course",
+              "code": "PHIL 0110"
+            },
+            {
+              "kind": "course",
+              "code": "PHIL 0510"
+            },
+            {
+              "kind": "course",
+              "code": "PHIL 1230"
+            },
+            {
+              "kind": "course",
+              "code": "PHIL 1240"
+            },
+            {
+              "kind": "course",
+              "code": "PHIL 1430"
+            },
+            {
+              "kind": "course",
+              "code": "PHIL 1705"
+            },
+            {
+              "kind": "course",
+              "code": "PHIL 1735"
+            },
+            {
+              "kind": "course",
+              "code": "PHIL 1755"
+            },
+            {
+              "kind": "course",
+              "code": "PHIL 1800"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "The Capstone Course is intended to be a culmination of the students' concentration in which they will bring to bear what their interests have been in developing their focused work in the program. The Capstone course can be either:",
+      "a. A one semester Independent Reading and Research course, either COST 1910 or 1920 OR BIOL 1950 or 1960, depending on the semester; OR",
+      "b. A special project done within an existing Contemplative Studies core or related course at the 1000-level in which the student brings to bear the larger concerns of her concentration on a problem or issue within the course. It is expected that such Capstone research papers will be more substantial than a term paper.",
+      "Contemplative Religious Traditions",
+      "The Pholosophy of Mind",
+      "Others with approval"
+    ]
+  }
+]

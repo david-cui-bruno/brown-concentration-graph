@@ -1,0 +1,1066 @@
+[
+  {
+    "slug": "colt",
+    "name": "Comparative Literature",
+    "degree": "Requirements",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "course",
+          "code": "COLT 1210"
+        }
+      ]
+    },
+    "unparsed": [
+      "TWO literature courses taught above the 1000-level in the first chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.)",
+      "TWO literature courses taught above the 1000-level in the second chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.)",
+      "FIVE electives. Courses taught in Comparative Literature and other literature courses at any level (below or above 1000) may satisfy this requirement."
+    ]
+  },
+  {
+    "slug": "colt",
+    "name": "Comparative Literature",
+    "degree": "Requirements",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Examples of courses that may fulfill the requirements, above, include but are not limited to the following. Students are encouraged to discuss class choices with their advisor.",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "COLT 0510C"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0510F"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0510K"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0510P"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0610C"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0610D"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0610L"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0610Q"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0611D"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0710C"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0710I"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0710N"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0710Q"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0710X"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0710Z"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0711H"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0711L"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0711O"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0711Q"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0711W"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0810H"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0810I"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0810L"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0810M"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0811I"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0811Z"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0812O"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0812V"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0812W"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1210"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1310G"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1310J"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1310N"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1410S"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1420B"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1420F"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1420O"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1421V"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1422L"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1422M"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1422O"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1430B"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1430D"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1430I"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1430L"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1431B"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1431C"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1431F"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1431J"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1431L"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1440P"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1440U"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1440X"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1610B"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1610V"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1710A"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1710C"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1710D"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1810G"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1810N"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1810P"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1811L"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1812A"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1813M"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1813N"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1813O"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1814S"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1814U"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1815F"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1815N"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1815U"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 2520F"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 2720C"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 2720D"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 2820A"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 2820M"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 2821S"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 2822A"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": []
+  },
+  {
+    "slug": "colt",
+    "name": "Comparative Literature",
+    "degree": "Requirements",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "course",
+          "code": "COLT 1210"
+        }
+      ]
+    },
+    "unparsed": [
+      "TWO literature courses taught above the 1000-level in the first chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.)",
+      "TWO literature courses taught above the 1000-level in the second chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.)",
+      "TWO literature courses taught above the 1000-level in the third chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.)",
+      "THREE electives. Courses taught in Comparative Literature and other literature courses at any level (below or above 1000) may satisfy this requirement."
+    ]
+  },
+  {
+    "slug": "colt",
+    "name": "Comparative Literature",
+    "degree": "Requirements",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Examples of courses that may fulfill the requirements, above, include but are not limited to the following. Students are encouraged to discuss class choices with their advisor.",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "COLT 0510C"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0510F"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0510K"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0510P"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0610C"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0610D"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0610L"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0610Q"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0611D"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0710C"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0710I"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0710N"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0710Q"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0710X"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0710Z"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0711H"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0711L"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0711O"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0711Q"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0711W"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0810H"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0810I"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0810L"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0810M"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0811I"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0811Z"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0812O"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0812V"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0812W"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1210"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1310G"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1310J"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1310N"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1410S"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1420B"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1420F"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1420O"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1421V"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1422L"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1422M"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1422O"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1430B"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1430D"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1430I"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1430L"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1431B"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1431C"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1431F"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1431J"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1431L"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1440P"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1440U"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1440X"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1610B"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1610V"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1710A"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1710C"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1710D"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1810G"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1810N"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1810P"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1811L"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1812A"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1813M"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1813N"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1813O"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1814S"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1814U"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1815F"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1815N"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1815U"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 2520F"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 2720C"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 2720D"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 2820A"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 2820M"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 2821S"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 2822A"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": []
+  },
+  {
+    "slug": "colt",
+    "name": "Comparative Literature",
+    "degree": "Requirements",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "course",
+          "code": "COLT 1210"
+        }
+      ]
+    },
+    "unparsed": [
+      "Literary Translation (COLT 1710)",
+      "At least one course in linguistics (including COLT 2720 Literary Translation and history of the language courses). This may be taken at any level.",
+      "At least one workshop in Literary Arts. This may be taken at any level.",
+      "TWO literature courses taught above the 1000-level in the first chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.)",
+      "TWO literature courses taught above the 1000-level in the second chosen literature. (Courses may be taken in any literature department, and may fall under such courses codes as COLT, ENGL, FREN, HISP, CHIN, RUSS, GRMN, etc.)",
+      "TWO electives. Courses taught in Comparative Literature and other literature courses at any level (below or above 1000) may satisfy this requirement.",
+      "A senior thesis, eligible for Honors, consisting of substantial work in translation with a critical introduction. Completing a thesis is required of all Track 3 students but does not guarantee departmental honors."
+    ]
+  },
+  {
+    "slug": "colt",
+    "name": "Comparative Literature",
+    "degree": "Requirements",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Examples of courses that may fulfill the requirements, above, include but are not limited to the following. Students are encouraged to discuss class choices with their advisor.",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "COLT 0510C"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0510F"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0510K"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0510P"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0610C"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0610D"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0610L"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0610Q"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0611D"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0710C"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0710I"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0710N"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0710Q"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0710X"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0710Z"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0711H"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0711L"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0711O"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0711Q"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0711W"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0810H"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0810I"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0810L"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0810M"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0811I"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0811Z"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0812O"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0812V"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 0812W"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1210"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1310G"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1310J"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1310N"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1410S"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1420B"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1420F"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1420O"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1421V"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1422L"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1422M"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1422O"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1430B"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1430D"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1430I"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1430L"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1431B"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1431C"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1431F"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1431J"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1431L"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1440P"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1440U"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1440X"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1610B"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1610V"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1710A"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1710C"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1710D"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1810G"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1810N"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1810P"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1811L"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1812A"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1813M"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1813N"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1813O"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1814S"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1814U"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1815F"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1815N"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1815U"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 2520F"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 2720C"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 2720D"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 2820A"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 2820M"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 2821S"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 2822A"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": []
+  }
+]

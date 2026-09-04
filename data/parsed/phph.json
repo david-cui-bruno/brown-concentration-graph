@@ -1,0 +1,235 @@
+[
+  {
+    "slug": "phph",
+    "name": "Physics and Philosophy",
+    "degree": "AB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Physics Courses",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "Select one of the following introductory courses in Modern Physics:",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "PHYS 0060"
+                },
+                {
+                  "kind": "course",
+                  "code": "PHYS 0160"
+                },
+                {
+                  "kind": "course",
+                  "code": "PHYS 0470"
+                },
+                {
+                  "kind": "group",
+                  "label": "Select one of the following in Methods of Experimental and Theoretical physics:",
+                  "type": "CHOOSE_N",
+                  "n": 1,
+                  "children": [
+                    {
+                      "kind": "course",
+                      "code": "PHYS 0500"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "PHYS 0560"
+                    },
+                    {
+                      "kind": "group",
+                      "label": "Select one of the following in Quantum Mechanics and its applications",
+                      "type": "CHOOSE_N",
+                      "n": 1,
+                      "children": [
+                        {
+                          "kind": "course",
+                          "code": "PHYS 1410"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "PHYS 1530"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Philosophy Courses",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "Select one of the following gateway courses:",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "PHIL 0210"
+                },
+                {
+                  "kind": "course",
+                  "code": "PHIL 0060"
+                },
+                {
+                  "kind": "course",
+                  "code": "PHIL 0640"
+                },
+                {
+                  "kind": "group",
+                  "label": "Select one of the following courses in Early Modern Philosophy:",
+                  "type": "CHOOSE_N",
+                  "n": 1,
+                  "children": [
+                    {
+                      "kind": "course",
+                      "code": "PHIL 0210"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "PHIL 1210"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "PHIL 1220"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "PHIL 1230"
+                    },
+                    {
+                      "kind": "group",
+                      "label": "Select two of the following courses in Epistemology, Metaphysics and Philosophy of Science:",
+                      "type": "CHOOSE_N",
+                      "n": 2,
+                      "children": [
+                        {
+                          "kind": "course",
+                          "code": "PHIL 1705"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "PHIL 1735"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "PHIL 1755"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "PHIL 1775"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "PHIL 1780"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "History Courses",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "Select one of the following courses in History of Science:",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "HIST 0522N"
+                },
+                {
+                  "kind": "course",
+                  "code": "HIST 1825M"
+                },
+                {
+                  "kind": "course",
+                  "code": "HIST 1976I"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Calculus",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "Select one of the following:",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "MATH 0180"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0200"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0350"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Final Project",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "Select one of the following:",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "PHIL 1990"
+                },
+                {
+                  "kind": "course",
+                  "code": "PHYS 1990"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "One course in Special Relativity and Classical Field Theory:",
+      "One more 1000-level Physics course",
+      "A course from the PHIL 0990 Senior Seminar series",
+      "Any graduate seminar in Philosophy"
+    ]
+  }
+]

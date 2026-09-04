@@ -1,0 +1,43 @@
+[
+  {
+    "slug": "pobr",
+    "name": "Portuguese and Brazilian Studies",
+    "degree": "Requirements",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "__or__",
+          "type": "CHOOSE_N",
+          "n": 1,
+          "children": [
+            {
+              "kind": "course",
+              "code": "POBS 1800B"
+            },
+            {
+              "kind": "course",
+              "code": "POBS 1800C"
+            },
+            {
+              "kind": "course",
+              "code": "POBS 1800E"
+            },
+            {
+              "kind": "course",
+              "code": "POBS 1800F"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "POBS 0630 series",
+      "POBS 1030",
+      "Five (or four, if two POBS 0630 courses were completed) additional courses from Portuguese and Brazilian Studies and/or related departments, such as History, Africana Studies, Political Science, Anthropology, Sociology, Music, and the Watson Institute. These courses are intended to develop students' specific interests within the concentration."
+    ]
+  }
+]

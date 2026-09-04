@@ -1,0 +1,128 @@
+[
+  {
+    "slug": "macs",
+    "name": "Mathematics-Computer Science",
+    "degree": "ScB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Prerequisites",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "MATH 0520"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0540"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0530"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Core Courses",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "MATH 1530"
+            },
+            {
+              "kind": "group",
+              "label": "Select one of the following series:",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "series",
+                  "codes": [
+                    "CSCI 0150",
+                    "CSCI 0200"
+                  ]
+                },
+                {
+                  "kind": "series",
+                  "codes": [
+                    "CSCI 0170",
+                    "CSCI 0200"
+                  ]
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0190"
+                },
+                {
+                  "kind": "series",
+                  "codes": [
+                    "CSCI 0111",
+                    "CSCI 0200"
+                  ]
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0500"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0410"
+                },
+                {
+                  "kind": "group",
+                  "label": "__or__",
+                  "type": "CHOOSE_N",
+                  "n": 1,
+                  "children": [
+                    {
+                      "kind": "course",
+                      "code": "CSCI 0300"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "CSCI 0320"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "CSCI 0330"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Three semesters of Calculus to the level of MATH 0180, MATH 0200, or MATH 0350",
+      "Series A",
+      "Series B",
+      "Series C",
+      "Series D",
+      "Foundations Courses: Two courses, touching two different Foundations areas:",
+      "a. Algorithms/Theory Foundations",
+      "b. AI/Machine Learning/Data Science Foundations.",
+      "c. Systems Foundations. Concentration credit for only one of 300/330",
+      "Three 1000-level Mathematics courses",
+      "Three courses in Computer Science at the 1000-level or higher. One of these can be an additional 100-level Foundations course or a CSCI non-technical course, as defined by the concentration handbook.",
+      "Three additional courses different from any of the above chosen from Mathematics, Computer Science, Applied Mathematics, or related areas",
+      "A capstone course in Computer Science or Mathematics"
+    ]
+  }
+]

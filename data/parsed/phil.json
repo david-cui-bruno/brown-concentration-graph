@@ -1,0 +1,104 @@
+[
+  {
+    "slug": "phil",
+    "name": "Philosophy",
+    "degree": "Standard Concentration",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Five Area Requirements:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "PHIL 0110"
+            },
+            {
+              "kind": "course",
+              "code": "PHIL 1110"
+            },
+            {
+              "kind": "course",
+              "code": "PHIL 1120"
+            },
+            {
+              "kind": "course",
+              "code": "PHIL 0210"
+            },
+            {
+              "kind": "course",
+              "code": "PHIL 1210"
+            },
+            {
+              "kind": "course",
+              "code": "PHIL 1220"
+            },
+            {
+              "kind": "course",
+              "code": "PHIL 1230"
+            },
+            {
+              "kind": "course",
+              "code": "PHIL 1735"
+            },
+            {
+              "kind": "course",
+              "code": "PHIL 1705"
+            },
+            {
+              "kind": "course",
+              "code": "PHIL 1800"
+            },
+            {
+              "kind": "course",
+              "code": "PHIL 1850"
+            },
+            {
+              "kind": "course",
+              "code": "PHIL 0410"
+            },
+            {
+              "kind": "course",
+              "code": "PHIL 0560"
+            },
+            {
+              "kind": "course",
+              "code": "PHIL 1470"
+            },
+            {
+              "kind": "course",
+              "code": "PHIL 1430"
+            },
+            {
+              "kind": "course",
+              "code": "PHIL 1440"
+            },
+            {
+              "kind": "course",
+              "code": "PHIL 0640"
+            },
+            {
+              "kind": "course",
+              "code": "PHIL 1630"
+            },
+            {
+              "kind": "course",
+              "code": "PHIL 1635"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "One course in Ancient Philosophy, e.g.",
+      "One course in Early Modern Philosophy, e.g.",
+      "One course in Epistemology or Metaphysics, e.g.",
+      "One course in Ethics or Political Philosophy, e.g.",
+      "One course in Logic, e.g."
+    ]
+  }
+]

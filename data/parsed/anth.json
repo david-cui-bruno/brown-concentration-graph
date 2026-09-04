@@ -1,0 +1,502 @@
+[
+  {
+    "slug": "anth",
+    "name": "Anthropology",
+    "degree": "General Anthropology Track",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "course",
+          "code": "ANTH 0100"
+        },
+        {
+          "kind": "course",
+          "code": "ANTH 0300"
+        },
+        {
+          "kind": "course",
+          "code": "ANTH 0800"
+        },
+        {
+          "kind": "course",
+          "code": "ANTH 0310"
+        },
+        {
+          "kind": "course",
+          "code": "ANTH 0500"
+        },
+        {
+          "kind": "course",
+          "code": "ANTH 1201"
+        },
+        {
+          "kind": "course",
+          "code": "ANTH 1621"
+        },
+        {
+          "kind": "course",
+          "code": "ANTH 1720"
+        },
+        {
+          "kind": "course",
+          "code": "ARCH 1900"
+        },
+        {
+          "kind": "course",
+          "code": "ANTH 1940"
+        },
+        {
+          "kind": "course",
+          "code": "ANTH 1740"
+        },
+        {
+          "kind": "course",
+          "code": "ANTH 1990"
+        }
+      ]
+    },
+    "unparsed": [
+      "Choose one foundational course in sociocultural, linguistic anthropology, or medical anthropology:",
+      "Choose one foundational course in archaeology or biological anthropology:",
+      "Choose one of the following courses in anthropological methodology, to prepare students for further research:",
+      "Five additional courses in anthropology of the student's choosing. At least three of these electives will need to be at the 1000-level to meet the requirements of the concentration.",
+      "Senior Seminar"
+    ]
+  },
+  {
+    "slug": "anth",
+    "name": "Anthropology",
+    "degree": "Medical Anthropology Track",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "course",
+          "code": "ANTH 0300"
+        },
+        {
+          "kind": "group",
+          "label": "Choose one:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "ANTH 0310"
+            },
+            {
+              "kind": "course",
+              "code": "ANTH 0500"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Choose any one 0000 or 1000-level course in socio-cultural anthropology or linguistic anthropology such as:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "ANTH 0100"
+            },
+            {
+              "kind": "course",
+              "code": "ANTH 0800"
+            },
+            {
+              "kind": "course",
+              "code": "ANTH 1111"
+            },
+            {
+              "kind": "course",
+              "code": "ANTH 1150"
+            },
+            {
+              "kind": "course",
+              "code": "ANTH 1255"
+            },
+            {
+              "kind": "course",
+              "code": "ANTH 1320"
+            },
+            {
+              "kind": "course",
+              "code": "ANTH 1848"
+            },
+            {
+              "kind": "course",
+              "code": "ANTH 1940"
+            },
+            {
+              "kind": "course",
+              "code": "ANTH 1242"
+            },
+            {
+              "kind": "course",
+              "code": "ANTH 1300"
+            },
+            {
+              "kind": "course",
+              "code": "ANTH 1301"
+            },
+            {
+              "kind": "course",
+              "code": "ANTH 1310"
+            },
+            {
+              "kind": "course",
+              "code": "ANTH 1990"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Foundation course",
+      "Two courses in at least two of the four major subfields of anthropology:",
+      "Methods Course",
+      "At least one 1000-level course in medical anthropology such as:",
+      "An additional three anthropology courses of the student's choosing. At least two of the electives must be at the 1000-level to meet the general requirements of the concentration.",
+      "At least one non-anthropology course in the natural sciences, public health, or psychology that focuses on human health to give students basic exposure to the science of human physical and/or mental health. This course is in addition to the nine courses required in ANTH.",
+      "Senior Seminar"
+    ]
+  },
+  {
+    "slug": "anth",
+    "name": "Anthropology",
+    "degree": "Socio-Cultural Anthropology Track",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "course",
+          "code": "ANTH 0100"
+        },
+        {
+          "kind": "group",
+          "label": "One course in archaeology or biological anthropology:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "ANTH 0310"
+            },
+            {
+              "kind": "course",
+              "code": "ANTH 0500"
+            },
+            {
+              "kind": "course",
+              "code": "ANTH 1940"
+            },
+            {
+              "kind": "course",
+              "code": "ANTH 1111"
+            },
+            {
+              "kind": "course",
+              "code": "ANTH 1150"
+            },
+            {
+              "kind": "course",
+              "code": "ANTH 1240"
+            },
+            {
+              "kind": "course",
+              "code": "ANTH 1242"
+            },
+            {
+              "kind": "course",
+              "code": "ANTH 1255"
+            },
+            {
+              "kind": "course",
+              "code": "ANTH 1300"
+            },
+            {
+              "kind": "course",
+              "code": "ANTH 1301"
+            },
+            {
+              "kind": "course",
+              "code": "ANTH 1310"
+            },
+            {
+              "kind": "course",
+              "code": "ANTH 1320"
+            },
+            {
+              "kind": "course",
+              "code": "ANTH 1515"
+            },
+            {
+              "kind": "course",
+              "code": "ANTH 1848"
+            },
+            {
+              "kind": "course",
+              "code": "ANTH 1911"
+            },
+            {
+              "kind": "course",
+              "code": "ANTH 1990"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Foundation course",
+      "Research methods",
+      "At least two 1000-level courses that focus on specific aspects of sociocultural methods or theories, or in a particular region, such as:",
+      "An additional three anthropology courses of the student's choosing. At least one of the electives must be at the 1000-level to meet the general requirements of the concentration.",
+      "Senior Seminar"
+    ]
+  },
+  {
+    "slug": "anth",
+    "name": "Anthropology",
+    "degree": "Linguistic Anthropology Track",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "course",
+          "code": "ANTH 0800"
+        },
+        {
+          "kind": "course",
+          "code": "ANTH 0805"
+        },
+        {
+          "kind": "course",
+          "code": "ANTH 1311"
+        },
+        {
+          "kind": "course",
+          "code": "ANTH 1810"
+        },
+        {
+          "kind": "group",
+          "label": "Two other foundational courses in anthropology:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "Choose one:",
+              "type": "ALL",
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "ANTH 0100"
+                },
+                {
+                  "kind": "course",
+                  "code": "ANTH 0300"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "Choose one:",
+              "type": "ALL",
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "ANTH 0310"
+                },
+                {
+                  "kind": "course",
+                  "code": "ANTH 0500"
+                },
+                {
+                  "kind": "course",
+                  "code": "ANTH 1940"
+                },
+                {
+                  "kind": "course",
+                  "code": "ANTH 1990"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Foundation course",
+      "One additional course in linguistic anthropology from the following:",
+      "Research methods",
+      "Senior Seminar",
+      "An additional three anthropology courses of the student's choosing. At least two of the electives must be at the 1000-level to meet the requirements of the concentration.",
+      "At least one general course focusing on aspects of linguistic structure.",
+      "At least one language course (one semester) in any language other than English"
+    ]
+  },
+  {
+    "slug": "anth",
+    "name": "Anthropology",
+    "degree": "Anthropological Archaeology Track",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "course",
+          "code": "ANTH 0500"
+        },
+        {
+          "kind": "course",
+          "code": "ANTH 0100"
+        },
+        {
+          "kind": "course",
+          "code": "ANTH 1201"
+        },
+        {
+          "kind": "course",
+          "code": "ANTH 1621"
+        },
+        {
+          "kind": "course",
+          "code": "ARCH 1900"
+        },
+        {
+          "kind": "course",
+          "code": "ANTH 1740"
+        },
+        {
+          "kind": "course",
+          "code": "ANTH 1031"
+        },
+        {
+          "kind": "course",
+          "code": "ANTH 1126"
+        },
+        {
+          "kind": "course",
+          "code": "ANTH 1505"
+        },
+        {
+          "kind": "course",
+          "code": "ANTH 1624"
+        },
+        {
+          "kind": "course",
+          "code": "ANTH 1640"
+        },
+        {
+          "kind": "course",
+          "code": "ANTH 1650"
+        },
+        {
+          "kind": "course",
+          "code": "ANTH 1692"
+        },
+        {
+          "kind": "course",
+          "code": "ANTH 1125"
+        },
+        {
+          "kind": "course",
+          "code": "ANTH 1620"
+        },
+        {
+          "kind": "course",
+          "code": "ANTH 1623"
+        },
+        {
+          "kind": "course",
+          "code": "ANTH 1820"
+        },
+        {
+          "kind": "course",
+          "code": "ANTH 1990"
+        }
+      ]
+    },
+    "unparsed": [
+      "Foundation course in anthropological archaeology",
+      "Foundation course in socio-cultural anthropology",
+      "Choose one course in anthropological archaeology methodology:",
+      "Choose one course that involves detailed archaeological investigation of a geographic region:",
+      "One 1000-level course in anthropology with significant archaeological, material culture, and/or museum studies component. A second geographic area course from the list above may be used to meet this requirement. Other regularly offered courses that meet this requirement include:",
+      "Three anthropology courses of the student's choosing. At least one of the electives must be at the 1000-level to meet the general requirements of the concentration.",
+      "Senior Seminar"
+    ]
+  },
+  {
+    "slug": "anth",
+    "name": "Anthropology",
+    "degree": "Biological Anthropology Track",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "course",
+          "code": "ANTH 0310"
+        },
+        {
+          "kind": "course",
+          "code": "ANTH 0100"
+        },
+        {
+          "kind": "course",
+          "code": "ANTH 0300"
+        },
+        {
+          "kind": "course",
+          "code": "ANTH 0800"
+        },
+        {
+          "kind": "course",
+          "code": "ANTH 1720"
+        },
+        {
+          "kind": "course",
+          "code": "APMA 0650"
+        },
+        {
+          "kind": "course",
+          "code": "BIOL 0495"
+        },
+        {
+          "kind": "course",
+          "code": "CPSY 0900"
+        },
+        {
+          "kind": "course",
+          "code": "SOC 1100"
+        },
+        {
+          "kind": "course",
+          "code": "STAT 1501"
+        },
+        {
+          "kind": "course",
+          "code": "ANTH 1990"
+        }
+      ]
+    },
+    "unparsed": [
+      "Foundation course in biological anthropology",
+      "Choose one foundational course in cultural anthropology, medical anthropology, or linguistic anthropology:",
+      "Biological anthropology methodology",
+      "Five anthropology courses of the student's choosing. At least three of the electives must be at the 1000-level to meet the requirements of the concentration.",
+      "At least one non-anthropology course with a biological focus. Any course with a BIOL subject code can be used to fulfill this requirement. Students are especially encouraged to consider a course with a significant content devoted to genetics and/or evolutionary theory. This course is in addition to the nine courses required in ANTH.",
+      "Choose at least one course in statistics. This course is in addition to the nine courses required in ANTH. Possible courses include:",
+      "Senior Seminar"
+    ]
+  }
+]

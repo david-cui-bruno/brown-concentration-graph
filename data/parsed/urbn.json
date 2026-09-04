@@ -1,0 +1,465 @@
+[
+  {
+    "slug": "urbn",
+    "name": "Urban Studies",
+    "degree": "unified",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Introduction (choose one):",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "URBN 0210"
+            },
+            {
+              "kind": "course",
+              "code": "URBN 0230"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Research Methods (choose one):",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "ANTH 1940"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 0650"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 1650"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 1655"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 1660"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0900"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1620"
+            },
+            {
+              "kind": "course",
+              "code": "EDUC 1230"
+            },
+            {
+              "kind": "course",
+              "code": "POLS 1600"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1020"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1100"
+            },
+            {
+              "kind": "course",
+              "code": "URBN 1100"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Core Courses (3 courses required, in at least 3 disciplines, such as American studies, anthropology, economics, education, English, history, history of art and architecture, political science, and sociology, as well as urban planning when staffing allows)",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "ANTH 1201"
+            },
+            {
+              "kind": "course",
+              "code": "ANTH 1236"
+            },
+            {
+              "kind": "course",
+              "code": "ANTH 1255"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1410"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1320"
+            },
+            {
+              "kind": "course",
+              "code": "ENGL 0100N"
+            },
+            {
+              "kind": "course",
+              "code": "ENGL 0700R"
+            },
+            {
+              "kind": "course",
+              "code": "ENGL 1711D"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1107"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1247"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1400"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1580"
+            },
+            {
+              "kind": "course",
+              "code": "HIAA 0074"
+            },
+            {
+              "kind": "course",
+              "code": "HIAA 0081"
+            },
+            {
+              "kind": "course",
+              "code": "HIAA 0100"
+            },
+            {
+              "kind": "course",
+              "code": "HIAA 0710"
+            },
+            {
+              "kind": "course",
+              "code": "HIAA 0770"
+            },
+            {
+              "kind": "course",
+              "code": "HIAA 0850"
+            },
+            {
+              "kind": "course",
+              "code": "HIAA 0860"
+            },
+            {
+              "kind": "course",
+              "code": "HIAA 0861"
+            },
+            {
+              "kind": "course",
+              "code": "HIAA 1171"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1533"
+            },
+            {
+              "kind": "course",
+              "code": "POLS 0220"
+            },
+            {
+              "kind": "course",
+              "code": "POLS 1310"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1340"
+            },
+            {
+              "kind": "course",
+              "code": "URBN 0074"
+            },
+            {
+              "kind": "course",
+              "code": "URBN 0214"
+            },
+            {
+              "kind": "course",
+              "code": "URBN 0215"
+            },
+            {
+              "kind": "course",
+              "code": "URBN 1000"
+            },
+            {
+              "kind": "course",
+              "code": "URBN 1140"
+            },
+            {
+              "kind": "course",
+              "code": "URBN 1200"
+            },
+            {
+              "kind": "course",
+              "code": "URBN 1250"
+            },
+            {
+              "kind": "course",
+              "code": "URBN 1260"
+            },
+            {
+              "kind": "course",
+              "code": "URBN 1270"
+            },
+            {
+              "kind": "course",
+              "code": "URBN 1290"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Seminar courses (choose three)",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "EDUC 1250"
+            },
+            {
+              "kind": "course",
+              "code": "EDUC 1620"
+            },
+            {
+              "kind": "course",
+              "code": "ETHN 1751F"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1875"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1926"
+            },
+            {
+              "kind": "course",
+              "code": "HIAA 1850H"
+            },
+            {
+              "kind": "course",
+              "code": "HIAA 1910A"
+            },
+            {
+              "kind": "course",
+              "code": "IAPA 1701F"
+            },
+            {
+              "kind": "course",
+              "code": "POLS 1821V"
+            },
+            {
+              "kind": "course",
+              "code": "POLS 1822S"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 0310"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1871W"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1871X"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1873G"
+            },
+            {
+              "kind": "course",
+              "code": "URBN 0820A"
+            },
+            {
+              "kind": "course",
+              "code": "URBN 1870A"
+            },
+            {
+              "kind": "course",
+              "code": "URBN 1870D"
+            },
+            {
+              "kind": "course",
+              "code": "URBN 1870G"
+            },
+            {
+              "kind": "course",
+              "code": "URBN 1870J"
+            },
+            {
+              "kind": "course",
+              "code": "URBN 1870K"
+            },
+            {
+              "kind": "course",
+              "code": "URBN 1870M"
+            },
+            {
+              "kind": "course",
+              "code": "URBN 1870N"
+            },
+            {
+              "kind": "course",
+              "code": "URBN 1870Q"
+            },
+            {
+              "kind": "course",
+              "code": "URBN 1870T"
+            },
+            {
+              "kind": "course",
+              "code": "URBN 1870X"
+            },
+            {
+              "kind": "course",
+              "code": "URBN 1870Z"
+            },
+            {
+              "kind": "course",
+              "code": "URBN 1871A"
+            },
+            {
+              "kind": "course",
+              "code": "URBN 1871B"
+            },
+            {
+              "kind": "course",
+              "code": "URBN 1871E"
+            },
+            {
+              "kind": "course",
+              "code": "URBN 1871F"
+            },
+            {
+              "kind": "course",
+              "code": "URBN 1871G"
+            },
+            {
+              "kind": "course",
+              "code": "URBN 1872"
+            },
+            {
+              "kind": "course",
+              "code": "URBN 1932"
+            },
+            {
+              "kind": "course",
+              "code": "URBN 1943"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Complementary Curriculum (Total of 2 courses required):",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "2. OR Any of the following:",
+              "type": "ALL",
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "AFRI 0600"
+                },
+                {
+                  "kind": "course",
+                  "code": "AFRI 1075"
+                },
+                {
+                  "kind": "course",
+                  "code": "AMST 1611A"
+                },
+                {
+                  "kind": "course",
+                  "code": "ARCH 1900"
+                },
+                {
+                  "kind": "course",
+                  "code": "ECON 1370"
+                },
+                {
+                  "kind": "course",
+                  "code": "EDUC 1240"
+                },
+                {
+                  "kind": "course",
+                  "code": "EDUC 1330"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGL 1050S"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGL 1710I"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENVS 0705"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENVS 1555"
+                },
+                {
+                  "kind": "course",
+                  "code": "HIAA 1307"
+                },
+                {
+                  "kind": "course",
+                  "code": "HIST 1961D"
+                },
+                {
+                  "kind": "course",
+                  "code": "POLS 1821V"
+                },
+                {
+                  "kind": "course",
+                  "code": "POLS 1824D"
+                },
+                {
+                  "kind": "course",
+                  "code": "POLS 1826A"
+                },
+                {
+                  "kind": "course",
+                  "code": "RUSS 1440"
+                },
+                {
+                  "kind": "course",
+                  "code": "SOC 1270"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "1. Any course from the Introductory or Core Curriculum options above not used to fulfill another requirement",
+      "3. RISD courses approved by the Urban Studies Program each semester as applicable to the Urban Studies concentration.",
+      "4. Any course taken at another university in the US or abroad and approved by the Urban Studies Program each semester (2 maximum)"
+    ]
+  }
+]

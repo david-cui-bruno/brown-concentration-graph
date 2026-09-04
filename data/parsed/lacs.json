@@ -1,0 +1,104 @@
+[
+  {
+    "slug": "lacs",
+    "name": "Latin American and Caribbean Studies",
+    "degree": "Concentration Requirements",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "course",
+          "code": "LACA 0500"
+        },
+        {
+          "kind": "course",
+          "code": "LACA 1504G"
+        },
+        {
+          "kind": "course",
+          "code": "LACA 1510I"
+        },
+        {
+          "kind": "course",
+          "code": "LACA 1630"
+        },
+        {
+          "kind": "course",
+          "code": "HISP 0730"
+        },
+        {
+          "kind": "course",
+          "code": "HISP 1330Z"
+        },
+        {
+          "kind": "course",
+          "code": "HIST 0234"
+        },
+        {
+          "kind": "course",
+          "code": "HIST 1966Q"
+        },
+        {
+          "kind": "course",
+          "code": "POLS 1210"
+        },
+        {
+          "kind": "course",
+          "code": "POBS 0280"
+        }
+      ]
+    },
+    "unparsed": []
+  },
+  {
+    "slug": "lacs",
+    "name": "Latin American and Caribbean Studies",
+    "degree": "Concentration Requirements",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "course",
+          "code": "LACA 1900"
+        },
+        {
+          "kind": "course",
+          "code": "ETHN 1200D"
+        },
+        {
+          "kind": "course",
+          "code": "LACA 0500"
+        },
+        {
+          "kind": "course",
+          "code": "LACA 1504G"
+        },
+        {
+          "kind": "course",
+          "code": "LACA 1630"
+        },
+        {
+          "kind": "course",
+          "code": "COLT 0710I"
+        },
+        {
+          "kind": "course",
+          "code": "HISP 0730"
+        },
+        {
+          "kind": "course",
+          "code": "HIST 0233"
+        },
+        {
+          "kind": "course",
+          "code": "HIST 1977I"
+        }
+      ]
+    },
+    "unparsed": []
+  }
+]

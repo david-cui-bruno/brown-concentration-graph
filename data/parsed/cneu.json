@@ -1,0 +1,450 @@
+[
+  {
+    "slug": "cneu",
+    "name": "Computational Neuroscience",
+    "degree": "ScB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Calculus",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "MATH 0100"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Differential Equations",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "APMA 0350"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Linear Algebra",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "MATH 0520"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0540"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Statistics",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "APMA 1650"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 1655"
+                },
+                {
+                  "kind": "course",
+                  "code": "CPSY 0900"
+                },
+                {
+                  "kind": "course",
+                  "code": "BIOL 0495"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 1450"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Core Concentration Courses:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "NEUR 0010"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "NEUR 1020"
+                },
+                {
+                  "kind": "course",
+                  "code": "NEUR 1030"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CSCI 0111"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0112"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0150"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0170"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0190"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CSCI 0200"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0190"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 0680"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Two Computational Neuroscience Electives From The Below List:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CPSY 1492"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1440"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1660"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1291"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1810"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1940B"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1630"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1950"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1850"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 2110"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "One Course in Artificial Intelligence:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CSCI 0410"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1410"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1411"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1420"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1430"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1460"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1470"
+            },
+            {
+              "kind": "course",
+              "code": "DATA 2060"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1956S"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Two Upper-Level Neuroscience Electives",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CPSY 1400"
+            },
+            {
+              "kind": "course",
+              "code": "ENGL 1900Z"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1220"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1540"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1650"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1740"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "One Elective in Ethics:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CSCI 1805"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1951I"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1951Z"
+            },
+            {
+              "kind": "course",
+              "code": "DATA 0080"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1000"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1800"
+            },
+            {
+              "kind": "course",
+              "code": "PHIL 0401"
+            },
+            {
+              "kind": "course",
+              "code": "PHIL 0403"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 1910"
+            },
+            {
+              "kind": "course",
+              "code": "STS 1700T"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Two Additional Electives:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "APMA 0160"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 0200"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 0360"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 1070"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 1170"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 1360"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 1660"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 1690"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 1710"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 1740"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 1860"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 1941D"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1435"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1555"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0450"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0800"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 0535"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1010"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1570"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1951A"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1951Q"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 2912P"
+            },
+            {
+              "kind": "course",
+              "code": "MATH 1210"
+            },
+            {
+              "kind": "course",
+              "code": "MATH 1610"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 1610"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Note: APMA 0260 can replace MATH 0100 and MATH 0520/0540",
+      "Two courses that will enhance your understanding of the field of neuroscience. While electives need not be from the neuroscience department, the following list are common courses taught by Neuroscience and other departments that are often used as electives. We encourage students to explore the broader course catalog and consult with their concentration advisor to explore the full range of electives, rather than limiting themselves to this list. These electives must be of 1000-level or above.",
+      "Two courses that will enhance your understanding of the field of computational neuroscience. These electives are not limited to a specific department, and are able to be any of the courses already listed for this concentration (though, you cannot cross-count an elective with a named requirement). The following list are courses that we recommend be used as electives, however, we encourage students to explore the broader course catalog and consult with their concentration advisor to explore the full range of electives, rather than limiting themselves to this list. Students can substitute TWO semesters of independent study (NEUR1970 or equivalent course from another department) for one elective course",
+      "NEUR 1900"
+    ]
+  }
+]

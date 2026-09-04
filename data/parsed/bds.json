@@ -1,0 +1,351 @@
+[
+  {
+    "slug": "bds",
+    "name": "Behavioral Decision Sciences",
+    "degree": "AB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Foundational Courses:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CPSY 0220"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Choose one of the following:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CPSY 0200"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0400"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0450"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0620"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0700"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Choose one from the following:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CPSY 0710"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1280B"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1280C"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1470"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1495"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1560"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1680A"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1680H"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1730"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1750"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1760"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Distribution Requirements:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "Select one Introductory Course from the following:",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CPSY 0950"
+                },
+                {
+                  "kind": "course",
+                  "code": "ECON 0110"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0111"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0150"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0170"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0190"
+                },
+                {
+                  "kind": "group",
+                  "label": "Select Two Advanced Courses From:",
+                  "type": "CHOOSE_N",
+                  "n": 2,
+                  "children": [
+                    {
+                      "kind": "course",
+                      "code": "CSCI 0410"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "CSCI 1420"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1090"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1110"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1130"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1170"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1200"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1805"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1820"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1870"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "PHIL 1610"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "PHIL 1430"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "SOC 1311"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "SOC 1315"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Methods Classes:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CPSY 0900"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 1650"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 1655"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1450"
+            },
+            {
+              "kind": "course",
+              "code": "DATA 0200"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1620"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Advanced Methods. Choose one of the following:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CPSY 1291"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1492"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1630"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1660"
+            },
+            {
+              "kind": "course",
+              "code": "LING 1771"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1120"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1260"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 0111"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 0150"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 0170"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 0190"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 0200"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Choose one of the following Research Methods and Design courses:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CPSY 1791"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1890"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1900"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1901"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1629"
+            },
+            {
+              "kind": "course",
+              "code": "IAPA 1500A"
+            },
+            {
+              "kind": "course",
+              "code": "POLS 1600"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1020"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1260"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Capstone:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CPSY 1960"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Basic Probability and Statistics. Choose One From the Following:",
+      "or any advanced course in Computer Science beyond the introductory set of classes",
+      "Students will choose three additional courses in consultation with a concentration advisor that will constitute an integrated specialization in some area of decision science. Any advanced course taught at Brown is eligible."
+    ]
+  }
+]

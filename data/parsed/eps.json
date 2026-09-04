@@ -1,0 +1,239 @@
+[
+  {
+    "slug": "eps",
+    "name": "Earth and Planetary Science",
+    "degree": "AB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Three basic supporting science courses",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CHEM 0330"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Two courses to build quantitative skills:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "MATH 0090"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "BIOL 0495"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 1650"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 0111"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 0040"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 0350"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 0050"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Two of these four fundamentals courses:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "EEPS 0220"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 0230"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 0240"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 0250"
+            },
+            {
+              "kind": "group",
+              "label": "Select three of the following:",
+              "type": "CHOOSE_N",
+              "n": 3,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "EEPS 1240"
+                },
+                {
+                  "kind": "course",
+                  "code": "EEPS 1410"
+                },
+                {
+                  "kind": "course",
+                  "code": "EEPS 1420"
+                },
+                {
+                  "kind": "course",
+                  "code": "EEPS 1450"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Three additional upper level EEPS courses or an approved substitute such as a field course",
+      "One additional upper level science or math course with approval from the concentration advisor."
+    ]
+  },
+  {
+    "slug": "eps",
+    "name": "Earth and Planetary Science",
+    "degree": "ScB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Basic supporting science courses",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CHEM 0330"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Four courses to build quantitative skills:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "MATH 0090"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "BIOL 0495"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 1650"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 0111"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 0350"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 0040"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 0050"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 0250"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Fourteen Concentration courses",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "EEPS 0220"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 0230"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 0240"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Three of the following:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "EEPS 1240"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1410"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1420"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1450"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1970"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Three additional upper level EEPS courses or an approved substitute such as a field course",
+      "Four upper level science or math courses with approval from the concentration advisor"
+    ]
+  }
+]

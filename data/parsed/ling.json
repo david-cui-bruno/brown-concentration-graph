@@ -1,0 +1,500 @@
+[
+  {
+    "slug": "ling",
+    "name": "Linguistics",
+    "degree": "AB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Gateway Course",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "LING 0100"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Phonetics/Phonology Courses",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "LING 1200"
+            },
+            {
+              "kind": "course",
+              "code": "LING 1210"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Syntax Courses",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "LING 1310"
+            },
+            {
+              "kind": "course",
+              "code": "LING 1311"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Semantics/Pragmatics Courses",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "LING 1410"
+            },
+            {
+              "kind": "course",
+              "code": "LING 1440"
+            },
+            {
+              "kind": "course",
+              "code": "LING 1412"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Linguistic Variation Courses",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "LING 1500"
+            },
+            {
+              "kind": "course",
+              "code": "LING 0511"
+            },
+            {
+              "kind": "course",
+              "code": "LING 1311"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0800"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1650"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1660"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1800"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1850"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1890"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1650"
+            },
+            {
+              "kind": "course",
+              "code": "SLAV 1300"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Advanced and Methods Courses",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "LING 1440"
+            },
+            {
+              "kind": "course",
+              "code": "LING 1771"
+            },
+            {
+              "kind": "course",
+              "code": "LING 1870"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1460"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1890"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "5 additional appropriate electives forming a thematically related set to be determined in consultation with the Concentration Advisor. At least one of these must be drawn from the list of advanced courses listed below, and we strongly recommend that at least one course be an appropriate methods and a topics course. No more than 2 of these courses may be drawn from below 1000 level courses. The electives can be drawn from any of the above courses, or any of the other linguistic/language related courses in the program. Electives may also be drawn from courses in other departments in consultation with the Concentration Advisor; a list of courses which standardly count towards the Linguistics Concentration (provided they form part of the thematically related set) is appended below.",
+      "NOTE: This is NOT an exhaustive list of courses that can be applied towards the Linguistics Concentration requirements."
+    ]
+  },
+  {
+    "slug": "ling",
+    "name": "Linguistics",
+    "degree": "ScB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Gateway course",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "LING 0100"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "At least one course in phonetics / phonology, such as:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "LING 1200"
+            },
+            {
+              "kind": "course",
+              "code": "LING 1210"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "At least one course in syntax, such as:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "LING 1310"
+            },
+            {
+              "kind": "course",
+              "code": "LING 1311"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "At least one course in semantics / pragmatics, such as:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "LING 1410"
+            },
+            {
+              "kind": "course",
+              "code": "LING 1412"
+            },
+            {
+              "kind": "course",
+              "code": "LING 1440"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "At least one course in linguistics variation, such as:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "LING 1311"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0800"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1650"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1660"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1800"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1890"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Three electives specifically in the focus area, such as:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "LING 1741"
+            },
+            {
+              "kind": "course",
+              "code": "LING 1771"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1460"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1800"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1850"
+            },
+            {
+              "kind": "course",
+              "code": "LING 1310"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0800"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1385"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1650"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1660"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1890"
+            },
+            {
+              "kind": "course",
+              "code": "LING 1270"
+            },
+            {
+              "kind": "course",
+              "code": "LING 1311"
+            },
+            {
+              "kind": "course",
+              "code": "LING 1410"
+            },
+            {
+              "kind": "course",
+              "code": "LING 1412"
+            },
+            {
+              "kind": "course",
+              "code": "LING 1440"
+            },
+            {
+              "kind": "course",
+              "code": "PHIL 0990X"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Four non-linguistic focus area electives, such as:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "APMA 1650"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 0220"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1410"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1420"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1951A"
+            },
+            {
+              "kind": "course",
+              "code": "STAT 1560"
+            },
+            {
+              "kind": "course",
+              "code": "MATH 0520"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0950"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 2908"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1460"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 0680"
+            },
+            {
+              "kind": "course",
+              "code": "PHIL 1770"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0200"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0400"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0610"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0900"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1492"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1610"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1620"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1900"
+            },
+            {
+              "kind": "course",
+              "code": "MATH 0750"
+            },
+            {
+              "kind": "course",
+              "code": "PHIL 0990T"
+            },
+            {
+              "kind": "course",
+              "code": "PHIL 1630"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0700"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Three additional electives in Linguistics, preferably outside the main focus area, such as:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "LING 1311"
+            },
+            {
+              "kind": "course",
+              "code": "LING 1440"
+            },
+            {
+              "kind": "course",
+              "code": "LING 1870"
+            },
+            {
+              "kind": "course",
+              "code": "ANTH 1800"
+            },
+            {
+              "kind": "course",
+              "code": "SLAV 1300"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1660"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1850"
+            },
+            {
+              "kind": "course",
+              "code": "LING 1771"
+            },
+            {
+              "kind": "course",
+              "code": "LING 1741"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1800"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "One independent study / capstone requirement",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "LING 1970"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Or many other courses",
+      "Or many other courses",
+      "Or many other courses"
+    ]
+  }
+]

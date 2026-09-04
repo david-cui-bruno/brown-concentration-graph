@@ -1,0 +1,329 @@
+[
+  {
+    "slug": "taps",
+    "name": "Theatre Arts and Performance Studies",
+    "degree": "Theatre Arts Track",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Basic Theatre Arts Track Requirements -- 10 Credits",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "TAPS 0700"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "TAPS 0230"
+                },
+                {
+                  "kind": "course",
+                  "code": "TAPS 0220"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "TAPS 0250"
+            },
+            {
+              "kind": "course",
+              "code": "TAPS 1230"
+            },
+            {
+              "kind": "course",
+              "code": "TAPS 1240"
+            },
+            {
+              "kind": "course",
+              "code": "TAPS 1250"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Theatre Studies electives: 4 elective courses, one of which must be theory, history, or literature chosen in consultation with the advisor according to the area of interest (i.e., acting, direction, playwriting, design/technical theatre). Additionally, following consultation with the advisor, one of the electives may be taken outside the TAPS department."
+    ]
+  },
+  {
+    "slug": "taps",
+    "name": "Theatre Arts and Performance Studies",
+    "degree": "Performance Studies Track",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Basic Performance Studies Track Requirements -- 10 credits",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "TAPS 0700"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Three of the following courses:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "TAPS 1230"
+            },
+            {
+              "kind": "course",
+              "code": "TAPS 1240"
+            },
+            {
+              "kind": "course",
+              "code": "TAPS 1250"
+            },
+            {
+              "kind": "course",
+              "code": "TAPS 1280Y"
+            },
+            {
+              "kind": "group",
+              "label": "Two primarily academic courses from within the Department with Performance Studies content to be selected with your advisor, such as (but not limited to):",
+              "type": "CHOOSE_N",
+              "n": 2,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "TAPS 0800I"
+                },
+                {
+                  "kind": "course",
+                  "code": "TAPS 1280E"
+                },
+                {
+                  "kind": "course",
+                  "code": "TAPS 1281G"
+                },
+                {
+                  "kind": "course",
+                  "code": "TAPS 1281O"
+                },
+                {
+                  "kind": "course",
+                  "code": "TAPS 1281Q"
+                },
+                {
+                  "kind": "course",
+                  "code": "TAPS 1425"
+                },
+                {
+                  "kind": "course",
+                  "code": "TAPS 1500P"
+                },
+                {
+                  "kind": "course",
+                  "code": "TAPS 1600"
+                },
+                {
+                  "kind": "course",
+                  "code": "TAPS 1670"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Two full-credit courses based in performance craft in either Dance, Acting, Directing, Playwriting, Speech, Design, Literary Arts, Visual Arts, Music, or Africana Studies approved by the concentration advisor.",
+      "Two additional courses in the academic study of performance and performance culture(s) from either within TAPS or throughout the University in consultation with the advisor."
+    ]
+  },
+  {
+    "slug": "taps",
+    "name": "Theatre Arts and Performance Studies",
+    "degree": "Dance Track",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Basic Dance Track Requirements -- 10 credits",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "TAPS 0700"
+            },
+            {
+              "kind": "course",
+              "code": "TAPS 1230"
+            },
+            {
+              "kind": "course",
+              "code": "TAPS 1240"
+            },
+            {
+              "kind": "course",
+              "code": "TAPS 1250"
+            },
+            {
+              "kind": "course",
+              "code": "TAPS 1281G"
+            },
+            {
+              "kind": "course",
+              "code": "TAPS 1281Q"
+            },
+            {
+              "kind": "course",
+              "code": "TAPS 1330"
+            },
+            {
+              "kind": "course",
+              "code": "TAPS 1425"
+            },
+            {
+              "kind": "course",
+              "code": "TAPS 1670"
+            },
+            {
+              "kind": "group",
+              "label": "Techniques of the Body - two courses selected in consultation with an advisor, such as the following:",
+              "type": "CHOOSE_N",
+              "n": 2,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "TAPS 0310"
+                },
+                {
+                  "kind": "course",
+                  "code": "TAPS 0330"
+                },
+                {
+                  "kind": "course",
+                  "code": "TAPS 0930C"
+                },
+                {
+                  "kind": "course",
+                  "code": "TAPS 1000"
+                },
+                {
+                  "kind": "course",
+                  "code": "TAPS 1340"
+                },
+                {
+                  "kind": "course",
+                  "code": "TAPS 1341"
+                },
+                {
+                  "kind": "course",
+                  "code": "TAPS 1342"
+                },
+                {
+                  "kind": "course",
+                  "code": "TAPS 1343"
+                },
+                {
+                  "kind": "course",
+                  "code": "TAPS 1344"
+                },
+                {
+                  "kind": "course",
+                  "code": "TAPS 1348"
+                },
+                {
+                  "kind": "course",
+                  "code": "TAPS 1390"
+                },
+                {
+                  "kind": "group",
+                  "label": "Directing/Compositional Strategies - two courses selected in consultation with an advisor from courses such as the following:",
+                  "type": "CHOOSE_N",
+                  "n": 2,
+                  "children": [
+                    {
+                      "kind": "course",
+                      "code": "TAPS 0320"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "TAPS 0360"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "TAPS 1281E"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "TAPS 1320"
+                    },
+                    {
+                      "kind": "group",
+                      "label": "Design or Production - one course selected in consultation with an advisor from the following:",
+                      "type": "CHOOSE_N",
+                      "n": 1,
+                      "children": [
+                        {
+                          "kind": "course",
+                          "code": "TAPS 0250"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "TAPS 0260"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "TAPS 1100"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "TAPS 1251C"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "TAPS 1280F"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "TAPS 1281A"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "TAPS 1281M"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "TAPS 1300"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Critical Topics and Global Perspectives - three courses. Students should work with their advisor to ensure their courses offer theoretical and geographic breadth. Courses could include, for example:",
+      "One additional TAPS elective"
+    ]
+  }
+]

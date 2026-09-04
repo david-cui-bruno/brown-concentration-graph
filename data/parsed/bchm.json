@@ -1,0 +1,507 @@
+[
+  {
+    "slug": "bchm",
+    "name": "Biochemistry & Molecular Biology",
+    "degree": "ScB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Options for statistics courses include:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "APMA 0650"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 1650"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 1655"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0495"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0900"
+            },
+            {
+              "kind": "course",
+              "code": "STAT 1501"
+            },
+            {
+              "kind": "course",
+              "code": "STAT 1510"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Two courses in physics, typically:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "PHYS 0030"
+                },
+                {
+                  "kind": "course",
+                  "code": "PHYS 0050"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 0040"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "PHYS 0040"
+                },
+                {
+                  "kind": "course",
+                  "code": "PHYS 0060"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Four courses in physical and organic chemistry:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CHEM 0330"
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 0350"
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 0370"
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 0360"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "One course in biophysical chemistry:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CHEM 0400"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Three courses in biochemistry:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "BIOL 0280"
+            },
+            {
+              "kind": "group",
+              "label": "Plus two of three upper level biochemistry courses:",
+              "type": "ALL",
+              "children": [
+                {
+                  "kind": "group",
+                  "label": "__or__",
+                  "type": "CHOOSE_N",
+                  "n": 1,
+                  "children": [
+                    {
+                      "kind": "course",
+                      "code": "BIOL 1270"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "CHEM 1230"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "CHEM 1240"
+                    }
+                  ]
+                },
+                {
+                  "kind": "course",
+                  "code": "BIOL 1950"
+                },
+                {
+                  "kind": "course",
+                  "code": "BIOL 1960"
+                },
+                {
+                  "kind": "course",
+                  "code": "CHEM 0980"
+                },
+                {
+                  "kind": "course",
+                  "code": "CHEM 0980S"
+                },
+                {
+                  "kind": "course",
+                  "code": "CHEM 0981"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Applied Mathematics Electives:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "APMA 0330"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 0410"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 0650"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Biology Electives:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "BIOL 0030"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0150D"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0170"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0190R"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0200"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0285"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0380"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0415"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0440"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0470"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0500"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0510"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0530"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0800"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1050"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1090"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1100"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1110"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1120"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1150"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1200"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1210"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1222A"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1260"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1290"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1300"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1310"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1330"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1520"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1540"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1560"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1600"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 2110"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 2350"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Chemistry Electives:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CHEM 0500"
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 1140"
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 1150"
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 1220"
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 1230"
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 1240"
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 1450"
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 1560H"
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 1560N"
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 2410"
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 2420"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Computer Science Electives:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CSCI 0080"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 0111"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 0150"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 0160"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 0170"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 0180"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 0190"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1810"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Engineering Electives:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "ENGN 0410"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Neuroscience Electives:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "NEUR 0010"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1020"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1030"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1040"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1670"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1740"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Physics Electives:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "PHYS 0160"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Public Health Electives:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "STAT 1501"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Three courses in mathematics including two courses in MATH 0090/0100 or MATH 0170/0180 with a third class in statistics, math, or computer science.",
+      "The two semester research requirement may be satisfied by any two of the following. Students should discuss alternative arrangements or special situations directly with their concentration advisor to obtain prior approval.",
+      "Students should aim to complete this requirement in their junior year at the latest to maximize their ability to find a lab able to host them. Finding a lab involves reaching out to professors directly to inquire about research possibilities in their lab prior to receiving an override code for registration for BIOL1950/1960 or Chem 0980/0980S/0981.",
+      "A summer research experience with faculty in Biology or Chemistry at Brown equivalent or greater in scope and scale to work the student would pursue in a Biology or Chemistry independent study course to satisfy one semester of the research requirement.",
+      "Students are required to take five courses from the chart below or, with approval from a concentration advisor, from any science or mathematics course relevant to biochemistry, cell and molecular biology. One of these five courses must have a laboratory component. BIOL 0285 is strongly suggested and recommended for this laboratory course elective, ideally to be taken in the Sophomore or Junior year."
+    ]
+  }
+]

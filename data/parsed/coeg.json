@@ -1,0 +1,514 @@
+[
+  {
+    "slug": "coeg",
+    "name": "Computer Engineering",
+    "degree": "Mathematics Requirements",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "1. Core Courses:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "ENGN 0030"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 0032"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 0040"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 0510"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 0520"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "APMA 1650"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 1655"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 1450"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "MATH 0190"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0100"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "MATH 0200"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0180"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0350"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CHEM 0330"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 0410"
+                },
+                {
+                  "kind": "course",
+                  "code": "NEUR 0010"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CSCI 0220"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 0350"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 0355"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 1170"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 1710"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 1570"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 1460"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "Select one of the following series (other CSCI courses subject to approval):",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CSCI 0150"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0200"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0170"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0200"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0190"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0111"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0112"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0200"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "2. Upper-Level Computer Engineering Curriculum:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "ENGN 1570"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1630"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1640"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "MATH 0520"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0540"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "One advanced Computer Engineering foundations course:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "ENGN 1580"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1600"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1610"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1620"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 2530"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CSCI 0330"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0300"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 0500"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 0320"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1230"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1380"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1670"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1680"
+            },
+            {
+              "kind": "group",
+              "label": "Select three upper-level Computer Engineering electives. At least one must be an ENGN course and at least one must be a CSCI course. Note that some upper-level courses are not offered every year. Other 1000- or 2000-level ENGN and CSCI courses outside of the list below may also be approved by the Concentration Advisor if they have appropriate connections to Computer Engineering.",
+              "type": "CHOOSE_N",
+              "n": 3,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "ENGN 1220"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 1225"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 1450"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 1560"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 1580"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 1590"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 1600"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 1610"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 1620"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 1650"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 1690"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 1931A"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 1931F"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 1931M"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 1931Y"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 2500"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 2501"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 2502"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 2520"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 2530"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 2560"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 2620"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 2911X"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 2912B"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 2912K"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 2912U"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 2920F"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0320"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 1230"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 1270"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 1300"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 1380"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 1411"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 1430"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 1470"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 1570"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 1600"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 1660"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 1670"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 1680"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 1730"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 1951R"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "3. Capstone Design",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "ENGN 1650"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 1000"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 1001"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "OR",
+      "OR",
+      "OR",
+      "One advanced Computer Science course with significant systems programming:",
+      "ENGN 1565",
+      "4. General Education Requirement: At least four approved courses must be taken in humanities and social sciences"
+    ]
+  }
+]

@@ -1,0 +1,163 @@
+[
+  {
+    "slug": "ffs",
+    "name": "French and Francophone Studies",
+    "degree": "Concentration Requirements",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "At least four courses in French and Francophone Studies numbered 950 and above, such as:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "FREN 0950A"
+            },
+            {
+              "kind": "course",
+              "code": "FREN 0960A"
+            },
+            {
+              "kind": "course",
+              "code": "FREN 1070M"
+            },
+            {
+              "kind": "course",
+              "code": "FREN 1110F"
+            },
+            {
+              "kind": "course",
+              "code": "FREN 1120F"
+            },
+            {
+              "kind": "course",
+              "code": "FREN 1130G"
+            },
+            {
+              "kind": "course",
+              "code": "FREN 1210F"
+            },
+            {
+              "kind": "course",
+              "code": "FREN 1310N"
+            },
+            {
+              "kind": "course",
+              "code": "FREN 1310P"
+            },
+            {
+              "kind": "course",
+              "code": "FREN 1410X"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": []
+  },
+  {
+    "slug": "ffs",
+    "name": "French and Francophone Studies",
+    "degree": "Concentration Requirements",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "At least one course covering a pre-Revolutionary period (i.e. a course focusing on medieval, Renaissance, 17th or 18th century France), such as:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "FREN 1000B"
+            },
+            {
+              "kind": "course",
+              "code": "FREN 1040B"
+            },
+            {
+              "kind": "course",
+              "code": "FREN 1040C"
+            },
+            {
+              "kind": "course",
+              "code": "FREN 1040D"
+            },
+            {
+              "kind": "course",
+              "code": "FREN 1410I"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": []
+  },
+  {
+    "slug": "ffs",
+    "name": "French and Francophone Studies",
+    "degree": "Concentration Requirements",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "At least one course focusing primarily on a Francophone literature or a cultural context other than that of France, such as:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "FREN 1410R"
+            },
+            {
+              "kind": "course",
+              "code": "FREN 1410T"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": []
+  },
+  {
+    "slug": "ffs",
+    "name": "French and Francophone Studies",
+    "degree": "Concentration Requirements",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "course",
+          "code": "FREN 1140A"
+        },
+        {
+          "kind": "course",
+          "code": "FREN 1150G"
+        },
+        {
+          "kind": "course",
+          "code": "FREN 1330A"
+        },
+        {
+          "kind": "course",
+          "code": "HIST 1272D"
+        },
+        {
+          "kind": "course",
+          "code": "MUSC 1677"
+        }
+      ]
+    },
+    "unparsed": []
+  }
+]

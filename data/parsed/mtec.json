@@ -1,0 +1,276 @@
+[
+  {
+    "slug": "mtec",
+    "name": "Mathematics-Economics",
+    "degree": "Standard Mathematics-Economics Concentration Honors:",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Economics",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "ECON 1130"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1210"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1630"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Two courses from the \"mathematical-economics\" group:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "ECON 1170"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1225"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1255"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1470"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1490"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1545"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1560"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1640"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1660"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1670"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1680"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1750"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1770"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1805"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1820"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1860"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1870"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "One course from the \"data methods\" group:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "ECON 1301"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1310"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1315"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1330"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1340"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1345"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1355"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1360"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1375"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1385"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1400"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1410"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1430"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1510"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1530"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1629"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1640"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1660"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1670"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1680"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1825"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1830"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Linear Algebra - one of the following:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "MATH 0520"
+            },
+            {
+              "kind": "course",
+              "code": "MATH 0540"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Probability Theory - one of the following:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "MATH 1210"
+            },
+            {
+              "kind": "course",
+              "code": "MATH 1620"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 1650"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Analysis - one of the following:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "MATH 1010"
+            },
+            {
+              "kind": "course",
+              "code": "MATH 1630"
+            },
+            {
+              "kind": "course",
+              "code": "MATH 1640"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Differential Equations - one of the following:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "MATH 1110"
+            },
+            {
+              "kind": "course",
+              "code": "MATH 1120"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Two additional 1000-level economics courses",
+      "Calculus: MATH 0180 or higher",
+      "One additional course from the Probability, Analysis, and Differential Equations courses listed above"
+    ]
+  }
+]

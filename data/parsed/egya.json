@@ -1,0 +1,362 @@
+[
+  {
+    "slug": "egya",
+    "name": "Egyptology and Assyriology",
+    "degree": "Assyriology Track",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "__or__",
+          "type": "CHOOSE_N",
+          "n": 1,
+          "children": [
+            {
+              "kind": "course",
+              "code": "ASYR 1000"
+            },
+            {
+              "kind": "course",
+              "code": "ASYR 1400"
+            },
+            {
+              "kind": "course",
+              "code": "ASYR 1900"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "And one of the Following:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "ASYR 1010"
+            },
+            {
+              "kind": "course",
+              "code": "ASYR 1400"
+            },
+            {
+              "kind": "course",
+              "code": "ASYR 1900"
+            },
+            {
+              "kind": "course",
+              "code": "EGYT 1310"
+            },
+            {
+              "kind": "course",
+              "code": "EGYT 1320"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Foundations (Four Courses): One course in each of the following areas:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "EGYT 0600"
+            },
+            {
+              "kind": "course",
+              "code": "ASYR 0300"
+            },
+            {
+              "kind": "course",
+              "code": "ASYR 0800"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Archaeology:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "ASYR 0800"
+            },
+            {
+              "kind": "course",
+              "code": "ARCH 0372"
+            },
+            {
+              "kind": "course",
+              "code": "ARCH 0760"
+            },
+            {
+              "kind": "course",
+              "code": "ARCH 1475"
+            },
+            {
+              "kind": "course",
+              "code": "ARCH 1635"
+            },
+            {
+              "kind": "course",
+              "code": "ARCH 1879"
+            },
+            {
+              "kind": "course",
+              "code": "EGYT 0300"
+            },
+            {
+              "kind": "course",
+              "code": "ARCH 0255"
+            },
+            {
+              "kind": "course",
+              "code": "ASYR 0310"
+            },
+            {
+              "kind": "course",
+              "code": "ASYR 1100"
+            },
+            {
+              "kind": "course",
+              "code": "ASYR 1110"
+            },
+            {
+              "kind": "course",
+              "code": "ASYR 0320"
+            },
+            {
+              "kind": "course",
+              "code": "ASYR 0500"
+            },
+            {
+              "kind": "course",
+              "code": "ASYR 1160"
+            },
+            {
+              "kind": "course",
+              "code": "ASYR 1500"
+            },
+            {
+              "kind": "course",
+              "code": "ASYR 1600"
+            },
+            {
+              "kind": "course",
+              "code": "ASYR 1700"
+            },
+            {
+              "kind": "course",
+              "code": "ASYR 1725"
+            },
+            {
+              "kind": "course",
+              "code": "ARCH 1538"
+            },
+            {
+              "kind": "course",
+              "code": "ARCH 1830"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Language Courses (two courses)",
+      "One course in cuneiform-based language, normally Introduction to Akkadian, Introduction to Sumerian, or Introduction to Hittite. One additional language course, either Intermediaet Akkadian or another language with the EGYT or ASYR course code.",
+      "History",
+      "Religion and Literature",
+      "Making Knowledge - Ancient and Mondern",
+      "Depth Requirement (Two Courses)",
+      "At least two additional courses at the 1000 level or higher that include ancient Mesopotamia as a major component of the syllabus, usually in ASYR or ARCH. Subject to the approval of the concentration advisor and DUS.",
+      "Breadth Requirement (Two Courses)",
+      "Two additional courses on some aspect of the ancient/premodern world, at least one of which should be with the department’s faculty. Subject to the approval of the concentration advisor and DUS."
+    ]
+  },
+  {
+    "slug": "egya",
+    "name": "Egyptology and Assyriology",
+    "degree": "Egyptology Track",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Language Courses (two courses)",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "EGYT 1310"
+            },
+            {
+              "kind": "group",
+              "label": "And one of the Following:",
+              "type": "ALL",
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "EGYT 1320"
+                },
+                {
+                  "kind": "course",
+                  "code": "EGYT 2210"
+                },
+                {
+                  "kind": "course",
+                  "code": "EGYT 2410"
+                },
+                {
+                  "kind": "course",
+                  "code": "EGYT 2610"
+                },
+                {
+                  "kind": "course",
+                  "code": "ASYR 1000"
+                },
+                {
+                  "kind": "course",
+                  "code": "ASYR 1010"
+                },
+                {
+                  "kind": "course",
+                  "code": "ASYR 1400"
+                },
+                {
+                  "kind": "course",
+                  "code": "ASYR 1900"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Foundations (Four Courses): One course in each of the following areas:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "EGYT 0500"
+            },
+            {
+              "kind": "course",
+              "code": "EGYT 0550"
+            },
+            {
+              "kind": "course",
+              "code": "EGYT 0600"
+            },
+            {
+              "kind": "course",
+              "code": "EGYT 1030"
+            },
+            {
+              "kind": "course",
+              "code": "EGYT 1430"
+            },
+            {
+              "kind": "course",
+              "code": "EGYT 1465"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Archaeology:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "EGYT 1510"
+            },
+            {
+              "kind": "course",
+              "code": "ARCH 0150"
+            },
+            {
+              "kind": "course",
+              "code": "ARCH 0760"
+            },
+            {
+              "kind": "course",
+              "code": "ARCH 1630"
+            },
+            {
+              "kind": "course",
+              "code": "ARCH 1635"
+            },
+            {
+              "kind": "course",
+              "code": "ARCH 1879"
+            },
+            {
+              "kind": "course",
+              "code": "EGYT 0300"
+            },
+            {
+              "kind": "course",
+              "code": "EGYT 1100"
+            },
+            {
+              "kind": "course",
+              "code": "EGYT 1420"
+            },
+            {
+              "kind": "course",
+              "code": "ARCH 0255"
+            },
+            {
+              "kind": "course",
+              "code": "EGYT 1400"
+            },
+            {
+              "kind": "course",
+              "code": "EGYT 1485"
+            },
+            {
+              "kind": "course",
+              "code": "EGYT 1490"
+            },
+            {
+              "kind": "course",
+              "code": "ASYR 0320"
+            },
+            {
+              "kind": "course",
+              "code": "ASYR 0500"
+            },
+            {
+              "kind": "course",
+              "code": "ASYR 1160"
+            },
+            {
+              "kind": "course",
+              "code": "ASYR 1600"
+            },
+            {
+              "kind": "course",
+              "code": "ARCH 1538"
+            },
+            {
+              "kind": "course",
+              "code": "ARCH 1830"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "One course in the ancient Egyptian language, ordinarily Middle Egyptian I. However, other phases of the ancient Egyptian language can be substituted for one or both of these, such as Late Egyptian or Coptic. One additional language course, either Middle Egyptian II or another language with the EGYT or ASYR course code.",
+      "History",
+      "Religion and Literature",
+      "Making Knowledge - Ancient and Mondern",
+      "At least two additional courses at the 1000 level or higher that include ancient Egypt as a major component of the syllabus, usually in EGYT or ARCH. Subject to the approval of the concentration advisor and DUS.",
+      "Two additional courses on some aspect of the ancient/premodern world, at least one of which should be with the department’s faculty. Subject to the approval of the concentration advisor and DUS."
+    ]
+  }
+]

@@ -1,0 +1,346 @@
+[
+  {
+    "slug": "chem",
+    "name": "Chemistry",
+    "degree": "AB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "course",
+          "code": "CHEM 0330"
+        },
+        {
+          "kind": "course",
+          "code": "CHEM 0350"
+        },
+        {
+          "kind": "course",
+          "code": "CHEM 0360"
+        },
+        {
+          "kind": "course",
+          "code": "CHEM 0500"
+        },
+        {
+          "kind": "course",
+          "code": "CHEM 0600"
+        },
+        {
+          "kind": "course",
+          "code": "CHEM 1140"
+        },
+        {
+          "kind": "course",
+          "code": "CHEM 1150"
+        },
+        {
+          "kind": "course",
+          "code": "CHEM 1160"
+        }
+      ]
+    },
+    "unparsed": [
+      "One upper level CHEM elective."
+    ]
+  },
+  {
+    "slug": "chem",
+    "name": "Chemistry",
+    "degree": "ScB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "course",
+          "code": "CHEM 0330"
+        },
+        {
+          "kind": "course",
+          "code": "CHEM 0350"
+        },
+        {
+          "kind": "course",
+          "code": "CHEM 0360"
+        },
+        {
+          "kind": "course",
+          "code": "CHEM 0370"
+        },
+        {
+          "kind": "course",
+          "code": "CHEM 0500"
+        },
+        {
+          "kind": "course",
+          "code": "CHEM 0600"
+        },
+        {
+          "kind": "group",
+          "label": "Two semesters of independent study:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CHEM 0980"
+                },
+                {
+                  "kind": "course",
+                  "code": "CHEM 0981"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 1140"
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 1150"
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 1160"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "MATH 0180 or equivalent",
+      "Two Physics courses, typically 0030/0040 or 0050/0060",
+      "Six electives (at least three must be upper level CHEM courses)"
+    ]
+  },
+  {
+    "slug": "chem",
+    "name": "Chemistry",
+    "degree": "ScB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "course",
+          "code": "CHEM 0330"
+        },
+        {
+          "kind": "course",
+          "code": "CHEM 0350"
+        },
+        {
+          "kind": "course",
+          "code": "CHEM 0360"
+        },
+        {
+          "kind": "group",
+          "label": "__or__",
+          "type": "CHOOSE_N",
+          "n": 1,
+          "children": [
+            {
+              "kind": "course",
+              "code": "CHEM 0400"
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 0500"
+            }
+          ]
+        },
+        {
+          "kind": "course",
+          "code": "CHEM 0600"
+        },
+        {
+          "kind": "group",
+          "label": "Two semesters of independent study:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CHEM 0980"
+                },
+                {
+                  "kind": "course",
+                  "code": "CHEM 0981"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 1140"
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 1230"
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 1240"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0280"
+            },
+            {
+              "kind": "group",
+              "label": "Select three of the following:",
+              "type": "CHOOSE_N",
+              "n": 3,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "BIOL 0470"
+                },
+                {
+                  "kind": "course",
+                  "code": "BIOL 0500"
+                },
+                {
+                  "kind": "course",
+                  "code": "BIOL 0510"
+                },
+                {
+                  "kind": "course",
+                  "code": "BIOL 0530"
+                },
+                {
+                  "kind": "course",
+                  "code": "BIOL 0800"
+                },
+                {
+                  "kind": "course",
+                  "code": "NEUR 1020"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "MATH 0180 or equivalent",
+      "Two Physics courses, typically 0030/0040 or 0050/0060",
+      "Two other electives"
+    ]
+  },
+  {
+    "slug": "chem",
+    "name": "Chemistry",
+    "degree": "ScB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "course",
+          "code": "CHEM 0330"
+        },
+        {
+          "kind": "course",
+          "code": "CHEM 0350"
+        },
+        {
+          "kind": "course",
+          "code": "CHEM 0360"
+        },
+        {
+          "kind": "course",
+          "code": "CHEM 0500"
+        },
+        {
+          "kind": "course",
+          "code": "CHEM 0600"
+        },
+        {
+          "kind": "group",
+          "label": "Two semesters of independent study:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CHEM 0980"
+                },
+                {
+                  "kind": "course",
+                  "code": "CHEM 0981"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 1060"
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 1140"
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 1150"
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 1700"
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 1560S"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1090"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1120"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1140"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1470"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1200"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "MATH 0180 or equivalent",
+      "Two Physics courses, typically 0030/0040 or 0050/0060",
+      "One of the following courses",
+      "Four electives, at least two must be upper level CHEM courses."
+    ]
+  }
+]

@@ -1,0 +1,515 @@
+[
+  {
+    "slug": "csec",
+    "name": "Computer Science-Economics",
+    "degree": "ScB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Prerequisites (3 courses):",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "MATH 0100"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "MATH 0520"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0540"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0530"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "ECON 0110"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Required Courses: 17 courses: 8 Computer Science, 8 Economics, and a Capstone",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CSCI 1450"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 1650"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 1655"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "Select one of the following Series:",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "group",
+                  "label": "Series A",
+                  "type": "SERIES",
+                  "children": [
+                    {
+                      "kind": "series",
+                      "codes": [
+                        "CSCI 0150",
+                        "CSCI 0200"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "kind": "group",
+                  "label": "Series B",
+                  "type": "SERIES",
+                  "children": [
+                    {
+                      "kind": "series",
+                      "codes": [
+                        "CSCI 0170",
+                        "CSCI 0200"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "kind": "group",
+                  "label": "Series C",
+                  "type": "SERIES",
+                  "children": [
+                    {
+                      "kind": "course",
+                      "code": "CSCI 0190"
+                    }
+                  ]
+                },
+                {
+                  "kind": "group",
+                  "label": "Series D",
+                  "type": "SERIES",
+                  "children": [
+                    {
+                      "kind": "series",
+                      "codes": [
+                        "CSCI 0111",
+                        "CSCI 0200"
+                      ]
+                    },
+                    {
+                      "kind": "course",
+                      "code": "CSCI 0500"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "CSCI 0410"
+                    },
+                    {
+                      "kind": "group",
+                      "label": "__or__",
+                      "type": "CHOOSE_N",
+                      "n": 1,
+                      "children": [
+                        {
+                          "kind": "course",
+                          "code": "CSCI 0300"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "CSCI 0320"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "CSCI 0330"
+                        }
+                      ]
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1130"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1210"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1630"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1170"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1225"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1255"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1470"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1490"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1545"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1560"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1640"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1660"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1670"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1680"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1750"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1770"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1805"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1820"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1860"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1870"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Two courses, touching two different Foundations areas",
+      "a. Algorithms/Theory Foundations",
+      "b. AI/Machine Learning/Data Science Foundations, No concentration credit for 1410, 1411",
+      "c. Systems Foundations, Concentration credit not for both 300, 330",
+      "Three 1000-level CSCI courses, which must be technical courses as defined in concentration handbook.. One of these can be an additional 100-level Foundations course.",
+      "Three courses from the \"mathematical economics\" group (CSCI 1951K can be counted as one of them, if it has not been used to satisfy the computer science requirements of the concentration and if the student has taken either ECON 1470 or ECON 1870):",
+      "Two additional 1000-level Economics courses excluding 1620, 1960, 1970",
+      "One capstone course in either CS or Economics: a one-semester course, normally taken in the student's last semester undergraduate year, in which the student (or group of students) use a significant portion of their undergraduate education, broadly interpreted, in studying some current topic (preferably at the intersection of computer science and economics) in depth, to produce a culminating artifact such as a paper or software project. A senior thesis, which involved two semesters of work, may count as a capstone."
+    ]
+  },
+  {
+    "slug": "csec",
+    "name": "Computer Science-Economics",
+    "degree": "AB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Prerequisites (3 courses):",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "MATH 0100"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "MATH 0520"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0540"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0530"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "ECON 0110"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Required Courses: 13 courses: 7 Computer Science and 6 Economics",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CSCI 1450"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 1650"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 1655"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "Select one of the following series:",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "group",
+                  "label": "Series A",
+                  "type": "SERIES",
+                  "children": [
+                    {
+                      "kind": "series",
+                      "codes": [
+                        "CSCI 0150",
+                        "CSCI 0200"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "kind": "group",
+                  "label": "Series B",
+                  "type": "SERIES",
+                  "children": [
+                    {
+                      "kind": "series",
+                      "codes": [
+                        "CSCI 0170",
+                        "CSCI 0200"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "kind": "group",
+                  "label": "Series C",
+                  "type": "SERIES",
+                  "children": [
+                    {
+                      "kind": "course",
+                      "code": "CSCI 0190"
+                    }
+                  ]
+                },
+                {
+                  "kind": "group",
+                  "label": "Series D",
+                  "type": "SERIES",
+                  "children": [
+                    {
+                      "kind": "series",
+                      "codes": [
+                        "CSCI 0111",
+                        "CSCI 0200"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "kind": "group",
+                  "label": "Two courses, touching two different Foundations areas:",
+                  "type": "ALL",
+                  "children": [
+                    {
+                      "kind": "course",
+                      "code": "CSCI 0500"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "CSCI 0410"
+                    },
+                    {
+                      "kind": "group",
+                      "label": "__or__",
+                      "type": "CHOOSE_N",
+                      "n": 1,
+                      "children": [
+                        {
+                          "kind": "course",
+                          "code": "CSCI 0300"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "CSCI 0320"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "CSCI 0330"
+                        }
+                      ]
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1130"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1210"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1630"
+                    }
+                  ]
+                },
+                {
+                  "kind": "group",
+                  "label": "Three courses from the \"mathematical-economics\" group:",
+                  "type": "ALL",
+                  "children": [
+                    {
+                      "kind": "course",
+                      "code": "ECON 1170"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1225"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1255"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1470"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1490"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1545"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1640"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1660"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1670"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1680"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1750"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1770"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1805"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1820"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1860"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1870"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "a. Algorithms/Theory Foundations",
+      "b. AI/Machine Learning/Data Science Foundations.",
+      "c. Systems Foundations. Concentration credit for only one of 300/330",
+      "Two 1000-level CSCI courses, which must be technical courses, as defined in concentration handbook.",
+      "or any graduate Economics course"
+    ]
+  }
+]

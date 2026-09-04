@@ -1,0 +1,383 @@
+[
+  {
+    "slug": "ecb",
+    "name": "Earth, Climate, and Biology",
+    "degree": "AB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Basic supporting science courses",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "BIOL 0200"
+                },
+                {
+                  "kind": "course",
+                  "code": "BIOL 0210"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 0330"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "A course to build quantitative skills:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "MATH 0090"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "BIOL 0495"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 1650"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 0111"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 0040"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 0050"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 0350"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Two of these four fundamentals courses:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "EEPS 0220"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 0230"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 0240"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 0250"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1240"
+            },
+            {
+              "kind": "group",
+              "label": "Select three upper level Biology courses such as:",
+              "type": "CHOOSE_N",
+              "n": 3,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "BIOL 0410"
+                },
+                {
+                  "kind": "course",
+                  "code": "BIOL 0420"
+                },
+                {
+                  "kind": "course",
+                  "code": "BIOL 0430"
+                },
+                {
+                  "kind": "course",
+                  "code": "BIOL 0480"
+                },
+                {
+                  "kind": "course",
+                  "code": "BIOL 1470"
+                },
+                {
+                  "kind": "group",
+                  "label": "Three EEPS courses such as:",
+                  "type": "ALL",
+                  "children": [
+                    {
+                      "kind": "course",
+                      "code": "EEPS 0850"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "EEPS 1120"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "EEPS 1130"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "EEPS 1150"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "EEPS 1310"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "EEPS 1320"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "EEPS 1370"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "EEPS 1615"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "EEPS 1970"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "One of EEPS 0220, EEPS 0230, EEPS 0240, or EEPS 0250 if not already taken"
+    ]
+  },
+  {
+    "slug": "ecb",
+    "name": "Earth, Climate, and Biology",
+    "degree": "ScB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Five supporting science courses:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "BIOL 0200"
+                },
+                {
+                  "kind": "course",
+                  "code": "BIOL 0210"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 0330"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Three courses to build quantitative skills:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "MATH 0090"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "BIOL 0495"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 1650"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 0111"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 0040"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 0350"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 0050"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Fourteen concentration courses:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "EEPS 0220"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 0240"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "EEPS 0230"
+                },
+                {
+                  "kind": "course",
+                  "code": "EEPS 0250"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1240"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Three upper level Biology courses such as:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "BIOL 0410"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0420"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0430"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0480"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1470"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Three upper level EEPS courses such as:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "EEPS 0850"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1120"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1130"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1150"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1310"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1320"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1330"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1370"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1430"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1615"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1970"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Three upper level science or math courses with approval from the concentration advisor"
+    ]
+  }
+]

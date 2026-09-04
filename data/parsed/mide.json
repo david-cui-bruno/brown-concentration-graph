@@ -1,0 +1,438 @@
+[
+  {
+    "slug": "mide",
+    "name": "Middle East Studies",
+    "degree": "unified",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "course",
+          "code": "HIST 1968A"
+        },
+        {
+          "kind": "course",
+          "code": "ARCH 0150"
+        },
+        {
+          "kind": "course",
+          "code": "ARCH 0230"
+        },
+        {
+          "kind": "course",
+          "code": "ARCH 1630"
+        },
+        {
+          "kind": "course",
+          "code": "ASYR 0300"
+        },
+        {
+          "kind": "course",
+          "code": "ASYR 0310"
+        },
+        {
+          "kind": "course",
+          "code": "ASYR 0320"
+        },
+        {
+          "kind": "course",
+          "code": "ASYR 0800"
+        },
+        {
+          "kind": "course",
+          "code": "ASYR 1100"
+        },
+        {
+          "kind": "course",
+          "code": "ASYR 1300"
+        },
+        {
+          "kind": "course",
+          "code": "ASYR 1600"
+        },
+        {
+          "kind": "course",
+          "code": "BHBR 0100"
+        },
+        {
+          "kind": "course",
+          "code": "BHBR 0200"
+        },
+        {
+          "kind": "course",
+          "code": "CLAS 0660"
+        },
+        {
+          "kind": "course",
+          "code": "CLAS 1230"
+        },
+        {
+          "kind": "course",
+          "code": "COLT 0510K"
+        },
+        {
+          "kind": "course",
+          "code": "COLT 0610Q"
+        },
+        {
+          "kind": "course",
+          "code": "COLT 0711L"
+        },
+        {
+          "kind": "course",
+          "code": "COLT 1310E"
+        },
+        {
+          "kind": "course",
+          "code": "EGYT 1030"
+        },
+        {
+          "kind": "course",
+          "code": "EGYT 1310"
+        },
+        {
+          "kind": "course",
+          "code": "EGYT 1320"
+        },
+        {
+          "kind": "course",
+          "code": "EGYT 1430"
+        },
+        {
+          "kind": "course",
+          "code": "FREN 1070L"
+        },
+        {
+          "kind": "course",
+          "code": "FREN 1410R"
+        },
+        {
+          "kind": "course",
+          "code": "FREN 1710J"
+        },
+        {
+          "kind": "course",
+          "code": "FREN 1710K"
+        },
+        {
+          "kind": "course",
+          "code": "HIAA 0042"
+        },
+        {
+          "kind": "course",
+          "code": "JUDS 0050H"
+        },
+        {
+          "kind": "course",
+          "code": "JUDS 0050P"
+        },
+        {
+          "kind": "course",
+          "code": "JUDS 0608"
+        },
+        {
+          "kind": "course",
+          "code": "JUDS 1630"
+        },
+        {
+          "kind": "course",
+          "code": "JUDS 1711"
+        },
+        {
+          "kind": "course",
+          "code": "MCM 1504R"
+        },
+        {
+          "kind": "course",
+          "code": "MCM 1505Z"
+        },
+        {
+          "kind": "course",
+          "code": "PRSN 1200"
+        },
+        {
+          "kind": "course",
+          "code": "PRSN 0720"
+        },
+        {
+          "kind": "course",
+          "code": "RELS 0014"
+        },
+        {
+          "kind": "course",
+          "code": "RELS 0021"
+        },
+        {
+          "kind": "course",
+          "code": "RELS 0088"
+        },
+        {
+          "kind": "course",
+          "code": "RELS 0090M"
+        },
+        {
+          "kind": "course",
+          "code": "RELS 0095A"
+        },
+        {
+          "kind": "course",
+          "code": "RELS 0096"
+        },
+        {
+          "kind": "course",
+          "code": "RELS 0290D"
+        },
+        {
+          "kind": "course",
+          "code": "RELS 0290H"
+        },
+        {
+          "kind": "course",
+          "code": "RELS 0320"
+        },
+        {
+          "kind": "course",
+          "code": "RELS 0410"
+        },
+        {
+          "kind": "course",
+          "code": "RELS 1315"
+        },
+        {
+          "kind": "course",
+          "code": "RELS 1500"
+        },
+        {
+          "kind": "course",
+          "code": "RELS 1530B"
+        },
+        {
+          "kind": "course",
+          "code": "RELS 1530H"
+        },
+        {
+          "kind": "course",
+          "code": "TKSH 0720A"
+        },
+        {
+          "kind": "course",
+          "code": "TKSH 0720B"
+        },
+        {
+          "kind": "group",
+          "label": "Social Sciences:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "ANTH 1150"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0244"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0150D"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0246"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1202"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1457"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1960S"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1964L"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1968V"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1969D"
+            },
+            {
+              "kind": "course",
+              "code": "IAPA 1804A"
+            },
+            {
+              "kind": "course",
+              "code": "POLS 1822I"
+            },
+            {
+              "kind": "course",
+              "code": "ARAB 0100"
+            },
+            {
+              "kind": "course",
+              "code": "ARAB 0200"
+            },
+            {
+              "kind": "course",
+              "code": "ARAB 0300"
+            },
+            {
+              "kind": "course",
+              "code": "ARAB 0400"
+            },
+            {
+              "kind": "course",
+              "code": "ARAB 0500"
+            },
+            {
+              "kind": "course",
+              "code": "ARAB 0600"
+            },
+            {
+              "kind": "course",
+              "code": "ARAB 0700"
+            },
+            {
+              "kind": "course",
+              "code": "ARAB 0800"
+            },
+            {
+              "kind": "course",
+              "code": "ARAB 0850"
+            },
+            {
+              "kind": "course",
+              "code": "ARAB 0950"
+            },
+            {
+              "kind": "course",
+              "code": "HEBR 0100"
+            },
+            {
+              "kind": "course",
+              "code": "HEBR 0200"
+            },
+            {
+              "kind": "course",
+              "code": "HEBR 0300"
+            },
+            {
+              "kind": "course",
+              "code": "HEBR 0400"
+            },
+            {
+              "kind": "course",
+              "code": "HEBR 0500"
+            },
+            {
+              "kind": "course",
+              "code": "HEBR 0600"
+            },
+            {
+              "kind": "course",
+              "code": "PRSN 0100"
+            },
+            {
+              "kind": "course",
+              "code": "PRSN 0105"
+            },
+            {
+              "kind": "course",
+              "code": "PRSN 0200"
+            },
+            {
+              "kind": "course",
+              "code": "PRSN 0300"
+            },
+            {
+              "kind": "course",
+              "code": "PRSN 0400"
+            },
+            {
+              "kind": "course",
+              "code": "PRSN 0500"
+            },
+            {
+              "kind": "course",
+              "code": "PRSN 0600"
+            },
+            {
+              "kind": "course",
+              "code": "PRSN 1100"
+            },
+            {
+              "kind": "course",
+              "code": "PRSN 2980"
+            },
+            {
+              "kind": "course",
+              "code": "TKSH 0100"
+            },
+            {
+              "kind": "course",
+              "code": "TKSH 0110"
+            },
+            {
+              "kind": "course",
+              "code": "TKSH 0200"
+            },
+            {
+              "kind": "course",
+              "code": "TKSH 0300"
+            },
+            {
+              "kind": "course",
+              "code": "TKSH 0400"
+            },
+            {
+              "kind": "course",
+              "code": "TKSH 0500"
+            },
+            {
+              "kind": "course",
+              "code": "TKSH 0600"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1310J"
+            },
+            {
+              "kind": "course",
+              "code": "COLT 1431B"
+            },
+            {
+              "kind": "course",
+              "code": "JUDS 1810"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Foundational Course: All MES concentrators are expected to take the following foundational course. The foundational course requirement cannot be fulfilled via independent study, study abroad, or transfer credits.",
+      "Electives: Students must take at least five elective courses chosen in consultation with the Director of Undergraduate Studies (DUS) from among the courses listed by MES as approved electives on its website (https://watson.brown.edu/cmes/academics/undergraduate-concentration/course-listing/all-courses). Students may apply up to two Middle Eastern language credits (beyond those that fulfill the language requirement: see below) to the MES electives requirement. To allow for exposure of different disciplinary approaches to the Middle East, students must take at least one course in the humanities (offered within the departments of Archaeology and the Ancient World, Classics, Comparative Literature, History of Art and Architecture, Modern Culture and Media, Philosophy, or Religious Studies) and at least one course in the social sciences (offered within the departments of Anthropology, History, International Relations, Political Science, Sociology, or Urban Studies). Some examples of recent courses that would fulfill these requirements include:",
+      "Humanities",
+      "Language Semesters: Middle East Studies concentrators are expected to reach a level of language proficiency consistent with completion of four semesters of Brown language coursework in at least one of the modern Middle Eastern languages, such as Arabic, Persian, Hebrew, or Turkish, or the equivalent through transfer or study abroad credits. Courses at Brown that can be used to fulfill this requirement include:",
+      "• Through advanced reading and writing courses in that language. Recent examples include:",
+      "• Through taking courses in a second Middle Eastern language.",
+      "• Or through courses in a non–Middle Eastern language to be used in a senior capstone project (for example, Spanish for the study of Andalucía or French for the study of North Africa).",
+      "Capstone/Honors Project: MES requires all concentrators to conduct a capstone project within their senior year (i.e., in their last two semesters before graduation). The purpose of the capstone is to synthesize and apply the skills and knowledge that MES concentrators have acquired through the MES curriculum—including disciplinary perspectives, methodological and theoretical approaches, background in the historical and contemporary dynamics of the region, and language competency—to particular interests developed through the concentration. Capstones offer students the opportunity to integrate and build upon their experiences within the concentration, while demonstrating intellectual creativity, research skills, and effective communication, and should serve in some sense as a culmination of or reflection on what one has gained in the concentration. All students are expected to present their capstone research in the final semester before graduation. Presentations of honors theses will be approximately twenty minutes long, and those of non-honors capstone projects will be approximately ten minutes long, both followed by a question-and-answer session. Capstone projects must fulfill the following requirements:",
+      "• Must be taken in the final two semesters before graduation (excluding summer and winter sessions)",
+      "• Must incorporate research in a Middle Eastern language.",
+      "• Must be approved or overseen by a MES or MES-affiliated faculty member.",
+      "• Must be presented in the final semester before graduation.",
+      "a. A Middle East–focused research paper of at least 20 pages for an existing concentration-eligible (MES-coded or X-Listed) course, undertaken with the permission and supervision of the instructor.",
+      "b. An independent study or project (artistic, research, or otherwise), approved by the DUS and supervised by at least one faculty member for at least one semester under the MES 1970 - Independent Study designation.",
+      "c. A two-semester honors thesis, completed under the supervision of a primary reader (who is an MES or MES-affiliated faculty member) and a secondary reader (who can be from other Brown departments and programs), and in coordination with the DUS."
+    ]
+  }
+]

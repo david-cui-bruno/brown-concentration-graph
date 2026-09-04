@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "hslc",
+    "name": "Hispanic Literatures and Cultures",
+    "degree": "Concentration Requirements and Overview of the Curriculum",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Required Course:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "HISP 0650"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Up to six courses from HISP 0550, HISP 0600, or at the 700-level, such as:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "HISP 0550"
+            },
+            {
+              "kind": "course",
+              "code": "HISP 0600"
+            },
+            {
+              "kind": "course",
+              "code": "HISP 0710B"
+            },
+            {
+              "kind": "course",
+              "code": "HISP 0710C"
+            },
+            {
+              "kind": "course",
+              "code": "HISP 0710E"
+            },
+            {
+              "kind": "course",
+              "code": "HISP 0730"
+            },
+            {
+              "kind": "course",
+              "code": "HISP 0740"
+            },
+            {
+              "kind": "course",
+              "code": "HISP 0750B"
+            },
+            {
+              "kind": "course",
+              "code": "HISP 0750G"
+            },
+            {
+              "kind": "course",
+              "code": "HISP 0750Q"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "At least three 1000-level courses, such as:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "HISP 1240A"
+            },
+            {
+              "kind": "course",
+              "code": "HISP 1210F"
+            },
+            {
+              "kind": "course",
+              "code": "HISP 1240L"
+            },
+            {
+              "kind": "course",
+              "code": "HISP 1290W"
+            },
+            {
+              "kind": "course",
+              "code": "HISP 1330Q"
+            },
+            {
+              "kind": "course",
+              "code": "HISP 1330W"
+            },
+            {
+              "kind": "course",
+              "code": "HISP 1330Z"
+            },
+            {
+              "kind": "course",
+              "code": "HISP 1331E"
+            },
+            {
+              "kind": "course",
+              "code": "HISP 1331J"
+            },
+            {
+              "kind": "course",
+              "code": "HISP 1331U"
+            },
+            {
+              "kind": "course",
+              "code": "HISP 1371T"
+            },
+            {
+              "kind": "course",
+              "code": "HISP 1500L"
+            },
+            {
+              "kind": "course",
+              "code": "HISP 1666"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Students can take up to two courses in languages other than Spanish, such as:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "ETHN 1200D"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0234"
+            },
+            {
+              "kind": "course",
+              "code": "NAHU 0100"
+            },
+            {
+              "kind": "course",
+              "code": "POBS 0400"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Total Credits = 10"
+    ]
+  }
+]

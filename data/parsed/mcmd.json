@@ -1,0 +1,145 @@
+[
+  {
+    "slug": "mcmd",
+    "name": "Modern Culture and Media",
+    "degree": "unified",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Core courses",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "MCM 0150"
+            },
+            {
+              "kind": "group",
+              "label": "Select two of the following:",
+              "type": "CHOOSE_N",
+              "n": 2,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "MCM 0220"
+                },
+                {
+                  "kind": "course",
+                  "code": "MCM 0230"
+                },
+                {
+                  "kind": "course",
+                  "code": "MCM 0240"
+                },
+                {
+                  "kind": "course",
+                  "code": "MCM 0250"
+                },
+                {
+                  "kind": "course",
+                  "code": "MCM 0260"
+                },
+                {
+                  "kind": "course",
+                  "code": "MCM 1110"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "One must be an upper level course from the MCM 1200 series",
+      "Two must be senior seminars from the MCM 1500 or MCM 1700 series",
+      "Two must be at any level in MCM above MCM 0260",
+      "Three additional courses. These courses must be in MCM or in related departments."
+    ]
+  },
+  {
+    "slug": "mcmd",
+    "name": "Modern Culture and Media",
+    "degree": "unified",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Two core courses:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "MCM 0150"
+            },
+            {
+              "kind": "group",
+              "label": "Select one MCM Introductory Practice course (MCM0700 series). Introductory practice courses in other disciplines may fulfill this requirement and should be selected in consultation with the concentration advisor. Possible disciplines include Literary Arts, Music, Theatre Arts and Performance Studies, Visual Art.",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "MCM 0700A"
+                },
+                {
+                  "kind": "course",
+                  "code": "MCM 0710A"
+                },
+                {
+                  "kind": "course",
+                  "code": "MCM 0730A"
+                },
+                {
+                  "kind": "course",
+                  "code": "MCM 0750A"
+                },
+                {
+                  "kind": "group",
+                  "label": "One additional course from the following:",
+                  "type": "ALL",
+                  "children": [
+                    {
+                      "kind": "course",
+                      "code": "MCM 0220"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "MCM 0230"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "MCM 0240"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "MCM 0250"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "MCM 0260"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "MCM 1110"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Three additional courses from the MCM 1200 or MCM 1500 series",
+      "One Senior Seminar from the MCM 1700 series or other equivalent in production"
+    ]
+  }
+]

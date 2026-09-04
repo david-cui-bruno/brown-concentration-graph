@@ -1,0 +1,394 @@
+[
+  {
+    "slug": "eleg",
+    "name": "Electrical Engineering",
+    "degree": "Mathematics Requirements",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "1. Core Courses:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "ENGN 0030"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 0032"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 0040"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 0410"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 0510"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 0520"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 0720"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "ENGN 0310"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 0500"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 0810"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0200"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CHEM 0330"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0520"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0540"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 0360"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 0365"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "MATH 0190"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0100"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "MATH 0200"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0180"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0350"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "APMA 0350"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 0355"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "APMA 1650"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 1655"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 1710"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 1450"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CSCI 0150"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0111"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0170"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0190"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 0160"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 1931Z"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "2. Upper-Level Electrical Engineering Curriculum",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "ENGN 1570"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1620"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1630"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "PHYS 0790"
+                },
+                {
+                  "kind": "course",
+                  "code": "PHYS 1410"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "3. Electrical Engineering Specialization - Complete at least three courses from the following groups:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "ENGN 1230"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1580"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1590"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1600"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1610"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1640"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1220"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1560"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1595"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1650"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1690"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1790"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1225"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1931A"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1931F"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1931I"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1931Y"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1931Z"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Up to one interdisciplinary engineering science course:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CPSY 1492"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1370"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1450"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 2110"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 1420"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 1970F"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "4. Capstone Design: At least one course from the following:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "ENGN 1650"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 1000"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 1001"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "At least one advanced Electrical Engineering foundations course:",
+      "Up to two other Electrical Engineering courses",
+      "ENGN 1565"
+    ]
+  }
+]

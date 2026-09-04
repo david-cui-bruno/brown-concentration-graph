@@ -1,0 +1,95 @@
+[
+  {
+    "slug": "biop",
+    "name": "Biophysics",
+    "degree": "ScB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "One of the following series:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "series",
+              "codes": [
+                "PHYS 0030",
+                "PHYS 0040"
+              ]
+            },
+            {
+              "kind": "series",
+              "codes": [
+                "PHYS 0050",
+                "PHYS 0060"
+              ]
+            },
+            {
+              "kind": "series",
+              "codes": [
+                "PHYS 0070",
+                "PHYS 0160"
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 0470"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Chemisty",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CHEM 0330"
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 0350"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Math",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "MATH 0090"
+            },
+            {
+              "kind": "course",
+              "code": "MATH 0100"
+            },
+            {
+              "kind": "course",
+              "code": "MATH 0180"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Biology",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "BIOL 0200"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Directed Research in Biology (BIOL 1950/BIOL 1960), Chemistry (CHEM 0970/CHEM 0980), or Physics (PHYS 1980)",
+      "A summer research experience in equivalent scope and scale to an independent study, but this would not count as course credit toward the concentration"
+    ]
+  }
+]

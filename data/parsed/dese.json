@@ -1,0 +1,416 @@
+[
+  {
+    "slug": "dese",
+    "name": "Design Engineering",
+    "degree": "Program Requirements",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Introduction to Engineering",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "ENGN 0032"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 0030"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Engineering Gateway (courses selected should include those required for the student’s proposed pathway)",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "ENGN 0040"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 0410"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 0790"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 0500"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 1200"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Basic Physical/Life Science",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "BIOL 0200"
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 0330"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 0010"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Computer Science",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CSCI 0111"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 0150"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 0170"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 0190"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 0160"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Mathematics: Calculus and Methods of Applied Mathematics and Statistics",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "MATH 0200"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0180"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "APMA 0350"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 0355"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "A third mathematics course from the following list:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "MATH 0100"
+            },
+            {
+              "kind": "course",
+              "code": "MATH 0190"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "APMA 0360"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 0365"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "APMA 1650"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 1655"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1450"
+            },
+            {
+              "kind": "course",
+              "code": "MATH 0520"
+            },
+            {
+              "kind": "course",
+              "code": "MATH 0540"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Design Engineering Specific Requirements",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "ENGN 0610"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 0620"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "One course that covers Social Science Research Methods:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "ANTH 1940"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1117"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1118"
+            },
+            {
+              "kind": "course",
+              "code": "POLS 0500"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "One course on Decision Making and Design:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CPSY 0220"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0010"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0700"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1730"
+            },
+            {
+              "kind": "course",
+              "code": "EDUC 0800"
+            },
+            {
+              "kind": "course",
+              "code": "PHIL 1610"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "One course on Societal Context for Design:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "AMST 1611S"
+            },
+            {
+              "kind": "course",
+              "code": "ANTH 0100"
+            },
+            {
+              "kind": "course",
+              "code": "ANTH 1236"
+            },
+            {
+              "kind": "course",
+              "code": "ARCH 0755"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 0110"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1390"
+            },
+            {
+              "kind": "course",
+              "code": "HIAA 0140"
+            },
+            {
+              "kind": "course",
+              "code": "HIAA 1171"
+            },
+            {
+              "kind": "course",
+              "code": "PHIL 0401"
+            },
+            {
+              "kind": "course",
+              "code": "PHIL 0403"
+            },
+            {
+              "kind": "course",
+              "code": "PHIL 1430"
+            },
+            {
+              "kind": "course",
+              "code": "TAPS 0220"
+            },
+            {
+              "kind": "course",
+              "code": "URBN 1870D"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "One Capstone, Design or Independent Study",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "ENGN 1000"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1001"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1140"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1150"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1230"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1240"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1250"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1620"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1640"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1650"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1740"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1760"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1931D"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1972"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1973"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Or an equivalent course approved by the Concentration Advisor",
+      "Or an equivalent course approved by the Concentration Advisor",
+      "Or an equivalent course approved by the Concentration Advisor"
+    ]
+  }
+]

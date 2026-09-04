@@ -1,0 +1,267 @@
+[
+  {
+    "slug": "sast",
+    "name": "South Asian Studies",
+    "degree": "Course Requirements",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "__or__",
+          "type": "CHOOSE_N",
+          "n": 1,
+          "children": [
+            {
+              "kind": "course",
+              "code": "SAST 0700"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1620"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Two courses in the Humanities with a majority focus in South Asia, such as:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CLAS 0995"
+            },
+            {
+              "kind": "course",
+              "code": "CLAS 1140"
+            },
+            {
+              "kind": "course",
+              "code": "COST 0030"
+            },
+            {
+              "kind": "course",
+              "code": "COST 0034"
+            },
+            {
+              "kind": "course",
+              "code": "COST 0035"
+            },
+            {
+              "kind": "course",
+              "code": "COST 0036"
+            },
+            {
+              "kind": "course",
+              "code": "COST 0037"
+            },
+            {
+              "kind": "course",
+              "code": "COST 0140"
+            },
+            {
+              "kind": "course",
+              "code": "COST 0145"
+            },
+            {
+              "kind": "course",
+              "code": "COST 0525"
+            },
+            {
+              "kind": "course",
+              "code": "COST 0526"
+            },
+            {
+              "kind": "course",
+              "code": "HIAA 0013"
+            },
+            {
+              "kind": "course",
+              "code": "HIAA 0023"
+            },
+            {
+              "kind": "course",
+              "code": "LITR 1231K"
+            },
+            {
+              "kind": "course",
+              "code": "RELS 0096"
+            },
+            {
+              "kind": "course",
+              "code": "RELS 1510"
+            },
+            {
+              "kind": "course",
+              "code": "RELS 0036"
+            },
+            {
+              "kind": "course",
+              "code": "RELS 0037"
+            },
+            {
+              "kind": "course",
+              "code": "RELS 0526"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Two courses in the Social Sciences with a majority focus on South Asia, such as:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "HIST 1979D"
+            },
+            {
+              "kind": "course",
+              "code": "POLS 1280"
+            },
+            {
+              "kind": "course",
+              "code": "POLS 1821O"
+            },
+            {
+              "kind": "course",
+              "code": "POLS 2320"
+            },
+            {
+              "kind": "course",
+              "code": "POLS 2330"
+            },
+            {
+              "kind": "course",
+              "code": "SAST 0750"
+            },
+            {
+              "kind": "course",
+              "code": "SAST 0725"
+            },
+            {
+              "kind": "course",
+              "code": "SAST 0526"
+            },
+            {
+              "kind": "course",
+              "code": "SAST 0525"
+            },
+            {
+              "kind": "course",
+              "code": "SAST 0140"
+            },
+            {
+              "kind": "course",
+              "code": "SAST 0037"
+            },
+            {
+              "kind": "course",
+              "code": "SAST 0034"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "At least five additional elective courses. Students can take additional courses in the humanities or social sciences with a focus on South Asia, such as:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "ANTH 0100"
+            },
+            {
+              "kind": "course",
+              "code": "ANTH 2320"
+            },
+            {
+              "kind": "course",
+              "code": "COST 0032"
+            },
+            {
+              "kind": "course",
+              "code": "COST 0100"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 0510"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1530"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 2510"
+            },
+            {
+              "kind": "course",
+              "code": "HIAA 0081"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0150D"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1440"
+            },
+            {
+              "kind": "course",
+              "code": "HNDI 0200"
+            },
+            {
+              "kind": "course",
+              "code": "HNDI 0400"
+            },
+            {
+              "kind": "course",
+              "code": "HNDI 1080"
+            },
+            {
+              "kind": "course",
+              "code": "MCM 1505O"
+            },
+            {
+              "kind": "course",
+              "code": "POLS 0200"
+            },
+            {
+              "kind": "course",
+              "code": "POLS 1380"
+            },
+            {
+              "kind": "course",
+              "code": "RELS 0100"
+            },
+            {
+              "kind": "course",
+              "code": "SAST 1970"
+            },
+            {
+              "kind": "course",
+              "code": "SANS 0200"
+            },
+            {
+              "kind": "course",
+              "code": "SANS 0400"
+            },
+            {
+              "kind": "course",
+              "code": "SANS 1030"
+            },
+            {
+              "kind": "course",
+              "code": "SANS 1100"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "At least three of the five electives must be drawn from the department pre-approved course listings (or be approved by the DUS/Concentration advisor). The courses on this pre-approved list have significant (at least 25%) South Asia content.",
+      "No more than two of the remaining electives can be courses with less empirical South Asia content, but these courses must have theoretical relevance to the study of South Asia (with the approval from the DUS)."
+    ]
+  }
+]

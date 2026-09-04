@@ -1,0 +1,173 @@
+[
+  {
+    "slug": "hhbi",
+    "name": "Health & Human Biology",
+    "degree": "Program Requirements",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Four (4) courses including:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "MATH 0090"
+            },
+            {
+              "kind": "series",
+              "codes": [
+                "MATH 0050",
+                "MATH 0060"
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "MATH 0100"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0170"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 0330"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0200"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Genetics, which can be fulfilled in the following ways:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "BIOL 0470"
+            },
+            {
+              "kind": "group",
+              "label": "-OR-",
+              "type": "ALL",
+              "children": [
+                {
+                  "kind": "series",
+                  "codes": [
+                    "BIOL 0480",
+                    "BIOL 0500"
+                  ]
+                },
+                {
+                  "kind": "series",
+                  "codes": [
+                    "BIOL 0480",
+                    "BIOL 0510"
+                  ]
+                },
+                {
+                  "kind": "series",
+                  "codes": [
+                    "BIOL 0480",
+                    "BIOL 0280"
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "Select one course in structure/function/development such as:",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "BIOL 0400"
+                },
+                {
+                  "kind": "course",
+                  "code": "BIOL 0800"
+                },
+                {
+                  "kind": "course",
+                  "code": "BIOL 1310"
+                },
+                {
+                  "kind": "course",
+                  "code": "BIOL 1800"
+                },
+                {
+                  "kind": "course",
+                  "code": "NEUR 0010"
+                },
+                {
+                  "kind": "group",
+                  "label": "One course in organismal/population biology such as:",
+                  "type": "ALL",
+                  "children": [
+                    {
+                      "kind": "course",
+                      "code": "BIOL 0380"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "BIOL 0410"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "BIOL 0420"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "BIOL 0480"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "BIOL 1470"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "BIOL 1555"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ENVS 0490"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "OR",
+      "OR",
+      "Statistics or methods course chosen with advisor's help.",
+      "In addition to the stated background in Chemistry, Math, Biology and Statistics, five (5) Biology plus four (4) coherently-grouped Theme courses, plus a Senior-Year Capstone course or project. (See description of Capstone at link below this table).",
+      "-OR-",
+      "-OR-",
+      "Or a course from the NEUR 1940 series",
+      "Two Biology or Neuroscience courses. At least one must be at the advanced level.",
+      "No more than TWO courses from a given department may be included in the theme portion",
+      "Students will then select from FOUR theme options: 1) Mind, Brain, Behavior, 2) Planetary Health, 3) Global Health, 4) Social Determinants of Health",
+      "1) Advisor approved senior seminar or advanced course related to the theme",
+      "2) One semester of independent research/independent study (BIOL 1950 or BIOL 1960); in the case of a senior honors thesis, either BIOL 1950 or BIOL 1960 can be used as the capstone.",
+      "3) An appropriate internship with a scholarly context can be used if coupled with independent study mentored by a Brown faculty member the following semester."
+    ]
+  }
+]

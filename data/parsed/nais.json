@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "nais",
+    "name": "Critical Native American and Indigenous Studies",
+    "degree": "AB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "course",
+          "code": "ETHN 1200K"
+        },
+        {
+          "kind": "group",
+          "label": "Four elective courses from the following Concentration Breadth Areas:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "NAIS 1900"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "1) Creative Expressions (Arts, Literature and Language)",
+      "2) History, Politics and Policy Issues",
+      "3) Language and Identity",
+      "4) Systems of Knowledge and Belief: Fundamentals of Indigenous Living, Society and Wellness (Environment, Medicine, Biology, Health, Psychology, Public Health, Philosophy, Religion)",
+      "At least two breadth areas must be included in the overall course of study, with a minimum of two courses in a breadth area outside of the focus area of study (if that is connected to only one breadth area); electives provide an opportunity for expansion beyond the focus area.",
+      "No more than two Independent Study Project (ISP or GISP) courses counting towards fulfillment of the concentration.",
+      "Courses that are not NAIS designated (in the list of concentration courses) may count toward the concentration if agreed upon by the NAIS DUS and closely connected to areas of study."
+    ]
+  }
+]

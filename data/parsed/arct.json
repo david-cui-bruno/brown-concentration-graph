@@ -1,0 +1,355 @@
+[
+  {
+    "slug": "arct",
+    "name": "Architecture",
+    "degree": "Summary of Concentration Requirements1",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": []
+    },
+    "unparsed": [
+      "1 Introduction to Design Studio",
+      "2 Practice Courses",
+      "1 Double-Credit Design Studio",
+      "4 History of Art and Architecture lecture or seminar courses bearing the A designation",
+      "1 Pathway Elective in Sciences",
+      "1 Pathway Elective on Social Sciences / Humanities",
+      "1 Capstone Course"
+    ]
+  },
+  {
+    "slug": "arct",
+    "name": "Architecture",
+    "degree": "Summary of Concentration Requirements1",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "course",
+          "code": "HIAA 0100"
+        },
+        {
+          "kind": "course",
+          "code": "HIAA 0130"
+        },
+        {
+          "kind": "course",
+          "code": "HIAA 0140"
+        },
+        {
+          "kind": "group",
+          "label": "__or__",
+          "type": "CHOOSE_N",
+          "n": 1,
+          "children": [
+            {
+              "kind": "course",
+              "code": "HIAA 0150"
+            },
+            {
+              "kind": "course",
+              "code": "HIAA 0190"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Temporal Periods:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "Ancient/Medieval:",
+              "type": "ALL",
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "HIAA 0022"
+                },
+                {
+                  "kind": "course",
+                  "code": "HIAA 0024"
+                },
+                {
+                  "kind": "course",
+                  "code": "HIAA 0032"
+                },
+                {
+                  "kind": "course",
+                  "code": "HIAA 0322"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "Early Modern:",
+              "type": "ALL",
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "HIAA 0660"
+                },
+                {
+                  "kind": "course",
+                  "code": "HIAA 0063"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "Modern/Contemporary:",
+              "type": "ALL",
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "HIAA 0070"
+                },
+                {
+                  "kind": "course",
+                  "code": "HIAA 0072"
+                },
+                {
+                  "kind": "course",
+                  "code": "HIAA 0075"
+                },
+                {
+                  "kind": "course",
+                  "code": "HIAA 0077"
+                },
+                {
+                  "kind": "course",
+                  "code": "HIAA 0084"
+                },
+                {
+                  "kind": "course",
+                  "code": "HIAA 0087"
+                },
+                {
+                  "kind": "course",
+                  "code": "HIAA 0089"
+                },
+                {
+                  "kind": "course",
+                  "code": "HIAA 0090"
+                },
+                {
+                  "kind": "course",
+                  "code": "HIAA 0820"
+                },
+                {
+                  "kind": "course",
+                  "code": "HIAA 0850"
+                },
+                {
+                  "kind": "course",
+                  "code": "HIAA 0860"
+                },
+                {
+                  "kind": "course",
+                  "code": "HIAA 0861"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "Multiple Periods:",
+              "type": "ALL",
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "HIAA 0023"
+                },
+                {
+                  "kind": "course",
+                  "code": "HIAA 0041"
+                },
+                {
+                  "kind": "course",
+                  "code": "HIAA 0081"
+                },
+                {
+                  "kind": "course",
+                  "code": "HIAA 0770"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Geographic Regions:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "Africa:",
+              "type": "ALL",
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "HIAA 0770"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "Americas:",
+              "type": "ALL",
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "HIAA 0070"
+                },
+                {
+                  "kind": "course",
+                  "code": "HIAA 0072"
+                },
+                {
+                  "kind": "course",
+                  "code": "HIAA 0089"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "Asia:",
+              "type": "ALL",
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "HIAA 0022"
+                },
+                {
+                  "kind": "course",
+                  "code": "HIAA 0023"
+                },
+                {
+                  "kind": "course",
+                  "code": "HIAA 0024"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "Europe:",
+              "type": "ALL",
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "HIAA 0032"
+                },
+                {
+                  "kind": "course",
+                  "code": "HIAA 0075"
+                },
+                {
+                  "kind": "course",
+                  "code": "HIAA 0077"
+                },
+                {
+                  "kind": "course",
+                  "code": "HIAA 0660"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "Multiple Regions:",
+              "type": "ALL",
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "HIAA 0041"
+                },
+                {
+                  "kind": "course",
+                  "code": "HIAA 0081"
+                },
+                {
+                  "kind": "course",
+                  "code": "HIAA 0084"
+                },
+                {
+                  "kind": "course",
+                  "code": "HIAA 0087"
+                },
+                {
+                  "kind": "course",
+                  "code": "HIAA 0090"
+                },
+                {
+                  "kind": "course",
+                  "code": "HIAA 0322"
+                },
+                {
+                  "kind": "course",
+                  "code": "HIAA 0820"
+                },
+                {
+                  "kind": "course",
+                  "code": "HIAA 0850"
+                },
+                {
+                  "kind": "course",
+                  "code": "HIAA 0860"
+                },
+                {
+                  "kind": "course",
+                  "code": "HIAA 0861"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Seminar Courses:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "HIAA 1181"
+            },
+            {
+              "kind": "course",
+              "code": "HIAA 1190"
+            },
+            {
+              "kind": "course",
+              "code": "HIAA 1202"
+            },
+            {
+              "kind": "course",
+              "code": "HIAA 1212"
+            },
+            {
+              "kind": "course",
+              "code": "HIAA 1213"
+            },
+            {
+              "kind": "course",
+              "code": "HIAA 1307"
+            },
+            {
+              "kind": "course",
+              "code": "HIAA 1308"
+            },
+            {
+              "kind": "course",
+              "code": "HIAA 1771"
+            },
+            {
+              "kind": "course",
+              "code": "HIAA 1820"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": []
+  }
+]

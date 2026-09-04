@@ -1,0 +1,113 @@
+[
+  {
+    "slug": "apmb",
+    "name": "Applied Mathematics-Biology",
+    "degree": "ScB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Mathematical Requirements – 7 courses",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "MATH 0180"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0200"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0350"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "MATH 0520"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0540"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "APMA 0355"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 0365"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 1655"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 1070"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "APMA 1080"
+                },
+                {
+                  "kind": "course",
+                  "code": "NEUR 2110"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Scientific Requirements – 7 courses",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CHEM 0330"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0200"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Prerequisites – the equivalent of two semesters of single-variable calculus",
+      "Single-variable calculus is not an enforced requirement for our concentration, but it is a required prerequisite for many of our courses. At Brown, single-variable calculus consists of MATH 0090 followed by one of MATH 0100, MATH 0170, or MATH 0190.",
+      "One pre-approved course covering Newtonian mechanics, or an alternative approved by the concentration advisor.",
+      "Two BIOL or NEUR courses.",
+      "Two 1000-level or higher BIOL or NEUR courses from the same Biology track.",
+      "One pre-approved course in the mathematical, biological, or computational sciences, or an alternative approved by the concentration advisor.",
+      "One pre-approved capstone or senior seminar, or a research-related course approved by the concentration advisor."
+    ]
+  }
+]

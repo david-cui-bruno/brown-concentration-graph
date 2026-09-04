@@ -1,0 +1,357 @@
+[
+  {
+    "slug": "comp",
+    "name": "Computer Science",
+    "degree": "ScB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Prerequisites (0-3 courses)",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "MATH 0100"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0170"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0190"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Core-Computer Science:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "Select one of the following introductory course Series:",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "series",
+                  "codes": [
+                    "CSCI 0150",
+                    "CSCI 0200"
+                  ]
+                },
+                {
+                  "kind": "series",
+                  "codes": [
+                    "CSCI 0170",
+                    "CSCI 0200"
+                  ]
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0190"
+                },
+                {
+                  "kind": "series",
+                  "codes": [
+                    "CSCI 0111",
+                    "CSCI 0200"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Introductory Math Foundations",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CSCI 0220"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 1530"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Foundations Areas",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CSCI 0500"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 0410"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CSCI 0300"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0330"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Four Additional Electives. These can include:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CSCI 0320"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CSCI 1970"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 1973"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Calculus prerequisite: students must complete or place out of second semester calculus.",
+      "Series A",
+      "Series B",
+      "Series C",
+      "an additional CS course numbered 200 or above not otherwise used to satisfy a concentration requirement; this course may be CSCI 0200, a Foundations course, or a 1000-level course.",
+      "Series D",
+      "ScB students must take one course from each foundation area.",
+      "a. Algorithms/Theory Foundations",
+      "b. AI/Machine Learning/Data Science Foundations",
+      "c. Systems Foundations, Concentration credit for only one of 300/330",
+      "Five CSCI courses at the 1000 level",
+      "1000-level and 2000-level CSCI courses (no more than three non-technical courses as defined in concentration handbook)",
+      "Linear algebra (MATH 0520, MATH 0540, or APMA 0260). Concentration credit is only allowed for one of these courses.",
+      "Up to three approved 1000-level courses outside of CS (see the concentration handbook for the current list. Note that concentration credit is allowed for only one of APMA 1650, 1655).",
+      "A capstone taken in the senior year (from the list of approved capstone courses in the concentration handbook). The capstone may also be used to satisfy another requirement."
+    ]
+  },
+  {
+    "slug": "comp",
+    "name": "Computer Science",
+    "degree": "AB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Core Computer Science:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "Select one of the following series:",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "group",
+                  "label": "Series A",
+                  "type": "SERIES",
+                  "children": [
+                    {
+                      "kind": "series",
+                      "codes": [
+                        "CSCI 0150",
+                        "CSCI 0200"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "kind": "group",
+                  "label": "Series B",
+                  "type": "SERIES",
+                  "children": [
+                    {
+                      "kind": "series",
+                      "codes": [
+                        "CSCI 0170",
+                        "CSCI 0200"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "kind": "group",
+                  "label": "Series C",
+                  "type": "SERIES",
+                  "children": [
+                    {
+                      "kind": "course",
+                      "code": "CSCI 0190"
+                    }
+                  ]
+                },
+                {
+                  "kind": "group",
+                  "label": "Series D",
+                  "type": "SERIES",
+                  "children": [
+                    {
+                      "kind": "series",
+                      "codes": [
+                        "CSCI 0111",
+                        "CSCI 0200"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Introductory Math Foundations",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CSCI 0220"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 1530"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Foundations Courses",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CSCI 0500"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 0410"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CSCI 0300"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0320"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0330"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Two additional electives. These can include:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CSCI 0320"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CSCI 1970"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 1973"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "An additional CS course 200 or above not otherwise used to satisfy a concentration requirement; this course may be CSCI 0200, a Foundations course, or a 1000-level course.",
+      "AB students must take one course from each foundation area",
+      "Foundation Areas",
+      "a. Algorithms/Theory Foundations",
+      "b. AI/Machine Learning/Data Science Foundations",
+      "c. Systems Foundations",
+      "Two CSCI courses at the 1000 level.",
+      "1000-level and 2000-level CSCI courses (at most one can be a non-technical course as defined in concentration handbook).",
+      "Linear algebra (MATH 0520, MATH 0540, or APMA 0260)",
+      "One approved 1000-level course outside of CS (see the concentration handbook for the current list)",
+      "A capstone taken in the senior year (from the list of approved capstone courses in the concentration handbook). The capstone may also be used to satisfy another requirement."
+    ]
+  }
+]

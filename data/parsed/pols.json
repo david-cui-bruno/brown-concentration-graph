@@ -1,0 +1,53 @@
+[
+  {
+    "slug": "pols",
+    "name": "Political Science",
+    "degree": "Requirements:",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Two introductory courses from the following:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "POLS 0010"
+            },
+            {
+              "kind": "course",
+              "code": "POLS 0110"
+            },
+            {
+              "kind": "course",
+              "code": "POLS 0200"
+            },
+            {
+              "kind": "course",
+              "code": "POLS 0400"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "One methods course from Political Science:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "POLS 0500"
+            },
+            {
+              "kind": "course",
+              "code": "POLS 1600"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": []
+  }
+]

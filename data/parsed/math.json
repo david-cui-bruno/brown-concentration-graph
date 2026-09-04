@@ -1,0 +1,186 @@
+[
+  {
+    "slug": "math",
+    "name": "Mathematics",
+    "degree": "unified",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Prerequisites:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "series",
+              "codes": [
+                "MATH 0180",
+                "MATH 0520"
+              ]
+            },
+            {
+              "kind": "series",
+              "codes": [
+                "MATH 0180",
+                "MATH 0540"
+              ]
+            },
+            {
+              "kind": "series",
+              "codes": [
+                "MATH 0200",
+                "MATH 0520"
+              ]
+            },
+            {
+              "kind": "series",
+              "codes": [
+                "MATH 0350",
+                "MATH 0540"
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Program:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "MATH 1530"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Multivariable calculus and linear algebra (choose one of the following sequences):",
+      "Or the equivalent",
+      "Five other 1000- or 2000-level Mathematics courses . The year-long sequence 0750/0760 may be substituted for one of these course credits."
+    ]
+  },
+  {
+    "slug": "math",
+    "name": "Mathematics",
+    "degree": "ScB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Prerequisites:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "series",
+              "codes": [
+                "MATH 0180",
+                "MATH 0520"
+              ]
+            },
+            {
+              "kind": "series",
+              "codes": [
+                "MATH 0180",
+                "MATH 0540"
+              ]
+            },
+            {
+              "kind": "series",
+              "codes": [
+                "MATH 0200",
+                "MATH 0520"
+              ]
+            },
+            {
+              "kind": "series",
+              "codes": [
+                "MATH 0350",
+                "MATH 0540"
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Program:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "MATH 1630"
+            },
+            {
+              "kind": "course",
+              "code": "MATH 1640"
+            },
+            {
+              "kind": "course",
+              "code": "MATH 1530"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "MATH 1540"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 1560"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Multivariate calculus and linear algebra (choose one of the following sequences):",
+      "Or the equivalent",
+      "Four other 1000- or 2000- level Mathematics courses. The year-long sequence 0750/0760 may be substituted for one of these course credits.",
+      "Four additional courses in mathematics, science, economics, or applied mathematics approved by the concentration advisor."
+    ]
+  },
+  {
+    "slug": "math",
+    "name": "Mathematics",
+    "degree": "ScB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "course",
+          "code": "MATH 1630"
+        },
+        {
+          "kind": "course",
+          "code": "MATH 1640"
+        },
+        {
+          "kind": "course",
+          "code": "MATH 1460"
+        },
+        {
+          "kind": "course",
+          "code": "MATH 1710"
+        },
+        {
+          "kind": "course",
+          "code": "MATH 1540"
+        }
+      ]
+    },
+    "unparsed": []
+  }
+]

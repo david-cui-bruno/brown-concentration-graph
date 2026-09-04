@@ -1,0 +1,383 @@
+[
+  {
+    "slug": "stat",
+    "name": "Statistics",
+    "degree": "unified",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Pre-Requisites",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "STAT 1501"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Mathematical Foundations",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "APMA 0260"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Statistical Inference and Modeling",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "APMA 1655"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 1210"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "APMA 1660"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 1620"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "STAT 1560"
+                },
+                {
+                  "kind": "course",
+                  "code": "STAT 2560"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "STAT 1511"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Numerical Methods (Choose 1)",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "APMA 0160"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 1690"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1950"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "General Electives (Choose 2)",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "APMA 1080"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 1160"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 1210"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 1710"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 1860"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1435"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1420"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1430"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1470"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1491"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1520"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1810"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1820"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1951A"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 2520"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1120"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1340"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 2230"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 2960G"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Capstone Project",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "PHP 1970"
+                },
+                {
+                  "kind": "course",
+                  "code": "PHP 1980"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Single-variable calculus is not an enforced requirement for our concentration, but it is a required prerequisite for many of our courses. At Brown, single-variable calculus consists of MATH 0090 followed by one of MATH 0100, MATH 0170, or MATH 0190.",
+      "Students can choose from the tracks, below, and must complete three courses within a track. Other courses may be used with the approval of the Director of the Statistics Concentration.",
+      "Students may design their own track with the approval of the Director of the Undergraduate Concentration.",
+      "Students must choose two general elective courses. Pre-approved courses are listed below, but courses may also be chosen from those courses listed in the track electives. Other courses may be used with the approval of the Director of the Statistics Concentration."
+    ]
+  },
+  {
+    "slug": "stat",
+    "name": "Statistics",
+    "degree": "Health Data Science Track",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "course",
+          "code": "EPI 0850"
+        },
+        {
+          "kind": "course",
+          "code": "HSP 1480"
+        },
+        {
+          "kind": "course",
+          "code": "EPI 1855"
+        },
+        {
+          "kind": "course",
+          "code": "EPI 1854"
+        },
+        {
+          "kind": "course",
+          "code": "STAT 2514"
+        },
+        {
+          "kind": "course",
+          "code": "STAT 2516"
+        },
+        {
+          "kind": "course",
+          "code": "STAT 2517"
+        },
+        {
+          "kind": "course",
+          "code": "STAT 2650"
+        },
+        {
+          "kind": "course",
+          "code": "STAT 2602"
+        }
+      ]
+    },
+    "unparsed": [
+      "Students must complete three courses within a track. Other courses may be used with the approval fo the Director of the Statistics Concentration"
+    ]
+  },
+  {
+    "slug": "stat",
+    "name": "Statistics",
+    "degree": "Econometrics Track",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "course",
+          "code": "HSP 1480"
+        },
+        {
+          "kind": "course",
+          "code": "ECON 1630"
+        },
+        {
+          "kind": "course",
+          "code": "ECON 1640"
+        },
+        {
+          "kind": "course",
+          "code": "ECON 1360"
+        },
+        {
+          "kind": "course",
+          "code": "ECON 1629"
+        },
+        {
+          "kind": "course",
+          "code": "ECON 1670"
+        },
+        {
+          "kind": "course",
+          "code": "APMA 1200"
+        },
+        {
+          "kind": "course",
+          "code": "APMA 1720"
+        }
+      ]
+    },
+    "unparsed": [
+      "Students must complete three courses within a track. Other courses may be used with the approval fo the Director of the Statistics Concentration"
+    ]
+  },
+  {
+    "slug": "stat",
+    "name": "Statistics",
+    "degree": "Statisical Theory Track",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "course",
+          "code": "APMA 1740"
+        },
+        {
+          "kind": "course",
+          "code": "APMA 1670"
+        },
+        {
+          "kind": "course",
+          "code": "APMA 1680"
+        },
+        {
+          "kind": "course",
+          "code": "APMA 1690"
+        },
+        {
+          "kind": "course",
+          "code": "MATH 1630"
+        },
+        {
+          "kind": "group",
+          "label": "__or__",
+          "type": "CHOOSE_N",
+          "n": 1,
+          "children": [
+            {
+              "kind": "course",
+              "code": "STAT 2515"
+            },
+            {
+              "kind": "course",
+              "code": "STAT 2520"
+            }
+          ]
+        },
+        {
+          "kind": "course",
+          "code": "STAT 2610"
+        },
+        {
+          "kind": "course",
+          "code": "STAT 2530"
+        }
+      ]
+    },
+    "unparsed": [
+      "Students must complete three courses within a track. Other courses may be used with the approval fo the Director of the Statistics Concentration"
+    ]
+  }
+]

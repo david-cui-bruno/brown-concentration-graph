@@ -1,0 +1,345 @@
+[
+  {
+    "slug": "sar",
+    "name": "Social Analysis and Research",
+    "degree": "ScB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Required core:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "MATH 0090"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "SOC 1100"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 0650"
+                },
+                {
+                  "kind": "course",
+                  "code": "ECON 1620"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1020"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 2010"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1010"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1950"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Three (3) of the following advanced analysis courses:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "SOC 1117"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1118"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1120"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1260"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1340"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1872N"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 2020"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 2070"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 2210"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 2230"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 2240"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 2250"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 2260T"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 2610"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 2612"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 2960G"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 2960Y"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 2961A"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Three (3) substantive or theory courses (non-methodological courses) in Sociology, two (2) of which must be at the 1000-level or above.",
+      "Research experience (1 course)",
+      "A one-semester research internship (not for credit or for credit as SOC 1970 - Independant Study), or a summer research internship (not for credit)."
+    ]
+  },
+  {
+    "slug": "sar",
+    "name": "Social Analysis and Research",
+    "degree": "Organizational Studies Track requirements",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Required core:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "MATH 0090"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1010"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1020"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "SOC 1100"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 0650"
+                },
+                {
+                  "kind": "course",
+                  "code": "ECON 1620"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1950"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 2010"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Any combination of two (2) courses from below:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "SOC 0300"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1311"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1315"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "One (1) Advanced Organizational Studies Elective:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "SOC 1070"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1117"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1118"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1120"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1260"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1311"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1315"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1871C"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Three (3) of the following Advanced Analysis Courses:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "SOC 1117"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1118"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1120"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1260"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1340"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1872N"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 2020"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 2070"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 2210"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 2230"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 2240"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 2250"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 2260T"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 2610"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 2612"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 2960G"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 2960Y"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 2961A"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Research experience (1 course)",
+      "A one-semester research internship (not for credit or for credit as SOC 1970 - Independant Study), or a summer research internship (not for credit)."
+    ]
+  }
+]

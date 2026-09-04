@@ -1,0 +1,787 @@
+[
+  {
+    "slug": "csbi",
+    "name": "Computational Biology",
+    "degree": "unified",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Prerequisites (0-3 courses)",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "MATH 0100"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0170"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "APMA 0260"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0180"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0200"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0350"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0200"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "General Core Requirements: Biology",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "BIOL 0470"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "BIOL 0280"
+                },
+                {
+                  "kind": "course",
+                  "code": "BIOL 0500"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "General Core Requirements: Chemistry",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CHEM 0330"
+                },
+                {
+                  "kind": "course",
+                  "code": "CHEM 0350"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "General Core Requirements: Computer Science",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "series",
+              "codes": [
+                "CSCI 0111",
+                "CSCI 0200"
+              ]
+            },
+            {
+              "kind": "series",
+              "codes": [
+                "CSCI 0150",
+                "CSCI 0200"
+              ]
+            },
+            {
+              "kind": "series",
+              "codes": [
+                "CSCI 0170",
+                "CSCI 0200"
+              ]
+            },
+            {
+              "kind": "series",
+              "codes": [
+                "CSCI 0190",
+                "CSCI 0200"
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "General Core Requirements: Probability & Statistics",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "APMA 1655"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 1450"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 1210"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Comp Bio Core Course Requirements",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CSCI 1810"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 1080"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Computational Biology Electives",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "Select two of the following electives. Note: Students should review any pre-requisites for these electives in C@B.",
+              "type": "CHOOSE_N",
+              "n": 2,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "APMA 1070"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 1660"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 1690"
+                },
+                {
+                  "kind": "course",
+                  "code": "BIOL 1222A"
+                },
+                {
+                  "kind": "course",
+                  "code": "BIOL 1430"
+                },
+                {
+                  "kind": "course",
+                  "code": "BIOL 1435"
+                },
+                {
+                  "kind": "course",
+                  "code": "BIOL 1525"
+                },
+                {
+                  "kind": "course",
+                  "code": "BIOL 1555"
+                },
+                {
+                  "kind": "course",
+                  "code": "BIOL 1575"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 1420"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 1470"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 1820"
+                },
+                {
+                  "kind": "course",
+                  "code": "STAT 1510"
+                },
+                {
+                  "kind": "course",
+                  "code": "STAT 1560"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "These prerequisites are widely required for many courses in the concentration. Students must either complete or place out of these prerequisites.",
+      "Choose one of the following groupings of introductory courses:",
+      "Group A",
+      "Group B",
+      "Group C",
+      "Group D",
+      "or other 1000+ level Computational Biology-related course with concentration advisor approval.",
+      "Students enrolled in the computational biology concentration will complete a research project in their senior year under faculty supervision. The themes of such projects evolve with the field and the technology, but should represent a synthesis of the various specialties of the program. The requirements are either:",
+      "1. One semester of reading and research (BIOL 1950/60, CSCI 1970, APMA 1970) with a CCMB Faculty member or approved advisor resulting in an advanced research project.",
+      "2. A 2000-level Computational Biology course that covers an advanced topic within the Computational Biology field and includes an advanced research component."
+    ]
+  },
+  {
+    "slug": "csbi",
+    "name": "Computational Biology",
+    "degree": "unified",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Prerequisites (0-3 courses)",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "MATH 0100"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0170"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "APMA 0260"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0180"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0200"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0350"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0200"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "General Core Course Requirements: Biology",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "BIOL 0470"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "BIOL 0280"
+                },
+                {
+                  "kind": "course",
+                  "code": "BIOL 0500"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "General Core Requirements: Chemistry",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CHEM 0330"
+                },
+                {
+                  "kind": "course",
+                  "code": "CHEM 0350"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "General Core Requirements: Computer Science",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CSCI 0220"
+            },
+            {
+              "kind": "series",
+              "codes": [
+                "CSCI 0111",
+                "CSCI 0200"
+              ]
+            },
+            {
+              "kind": "series",
+              "codes": [
+                "CSCI 0150",
+                "CSCI 0200"
+              ]
+            },
+            {
+              "kind": "series",
+              "codes": [
+                "CSCI 0170",
+                "CSCI 0200"
+              ]
+            },
+            {
+              "kind": "series",
+              "codes": [
+                "CSCI 0190",
+                "CSCI 0200"
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "General Core Requirements: Probability & Statistics",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "APMA 1655"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 1450"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 1210"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "General Core Requirements: Computational Biology",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "APMA 1080"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1810"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "These prerequisites are widely required for many courses in the concentration. Students must either complete or place out of these prerequisites.",
+      "AND complete one of the following groupings of introductory courses:",
+      "Group A",
+      "Group B",
+      "Group C",
+      "Group D",
+      "Choose one of 3 tracks: Computer Science, Biological Sciences, or Applied Mathematics and Statistics. See track requirements below.",
+      "Students enrolled in the computational biology concentration will complete a research project in their senior year under faculty supervision. The themes of such projects evolve with the field and the technology, but should represent a synthesis of the various specialties of the program. The requirements are either:",
+      "1. One semester of reading and research (BIOL 1950/60, CSCI 1970, APMA 1970) with a CCMB Faculty member or approved advisor resulting in an advanced research project.",
+      "2. A 2000-level Computational Biology course that covers an advanced topic within the Computational Biology field and includes an advanced research component."
+    ]
+  },
+  {
+    "slug": "csbi",
+    "name": "Computational Biology",
+    "degree": "Tracks",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Three of the following:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CSCI 0410"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1230"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1270"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1420"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1430"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1460"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1470"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1550"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1570"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1730"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Three of the following:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "APMA 1070"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 1660"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 1690"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1430"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1435"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1525"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1555"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1291"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1492"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1950"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1820"
+            },
+            {
+              "kind": "course",
+              "code": "STAT 1510"
+            },
+            {
+              "kind": "course",
+              "code": "STAT 1560"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "or other 1000+ level Computer Science course approved by the concentration advisor.",
+      "or another 1000+ level computational course approved by the concentration advisor."
+    ]
+  },
+  {
+    "slug": "csbi",
+    "name": "Computational Biology",
+    "degree": "Tracks",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "And two of the following electives:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "APMA 1070"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 1660"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 1690"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1222A"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1430"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1435"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1525"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1291"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1950"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1420"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1470"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1820"
+            },
+            {
+              "kind": "course",
+              "code": "STAT 1510"
+            },
+            {
+              "kind": "course",
+              "code": "STAT 1560"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "At least four 1000+ level courses comprising a coherent theme related to Computational Biology. Examples of themes include: Biochemistry, Ecology, Evolution, Genomics, Immunology, or Neurobiology. Other themes can be approved by your concentration advisor.",
+      "or other 1000+ level Computational Biology-related course approved by concentration advisor."
+    ]
+  },
+  {
+    "slug": "csbi",
+    "name": "Computational Biology",
+    "degree": "Tracks",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "At least three from the following:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "series",
+              "codes": [
+                "APMA 0355",
+                "APMA 0365"
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "APMA 1070"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 1170"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 1660"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 1690"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 1740"
+            },
+            {
+              "kind": "course",
+              "code": "MATH 1220"
+            },
+            {
+              "kind": "course",
+              "code": "STAT 1510"
+            },
+            {
+              "kind": "course",
+              "code": "STAT 1511"
+            },
+            {
+              "kind": "course",
+              "code": "STAT 1560"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "At least three of the following:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "BIOL 1222A"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1430"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1435"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1555"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 0410"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1420"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1470"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1820"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "or other 1000+ level APMA or STAT course approved by concentration advisor.",
+      "or other 1000+ level Computational Biology-related course approved by concentration advisor."
+    ]
+  }
+]

@@ -1,0 +1,231 @@
+[
+  {
+    "slug": "psyc",
+    "name": "Psychology",
+    "degree": "AB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Common Core:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CPSY 0900"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1900"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Five courses from the following:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CPSY 0010"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0100"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0110"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CPSY 0200"
+                },
+                {
+                  "kind": "course",
+                  "code": "CPSY 0220"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CPSY 0400"
+                },
+                {
+                  "kind": "course",
+                  "code": "CPSY 0450"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0500"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CPSY 0610"
+                },
+                {
+                  "kind": "course",
+                  "code": "CPSY 0620"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0700"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0702"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0800"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Four approved Electives related to Psychology",
+      "Capstone: Independent Study (CPSY 1970, CPSY 1980) or approved seminar"
+    ]
+  },
+  {
+    "slug": "psyc",
+    "name": "Psychology",
+    "degree": "ScB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Common Core:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CPSY 0900"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1900"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Five courses from the following:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CPSY 0010"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0100"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0110"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CPSY 0200"
+                },
+                {
+                  "kind": "course",
+                  "code": "CPSY 0220"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CPSY 0400"
+                },
+                {
+                  "kind": "course",
+                  "code": "CPSY 0450"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0500"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CPSY 0610"
+                },
+                {
+                  "kind": "course",
+                  "code": "CPSY 0620"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0700"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0702"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0800"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Four approved Electives related to Psychology",
+      "Capstone: Independent Study (CPSY 1970, CPSY 1980) or approved seminar",
+      "Five Additional STEM courses: of these, at least two (2) must be CPSY courses, all must be related to Psychology, and all must be applicable to a concentration in that department"
+    ]
+  }
+]

@@ -1,0 +1,207 @@
+[
+  {
+    "slug": "apmc",
+    "name": "Applied Mathematics-Computer Science",
+    "degree": "ScB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Mathematical Requirements – 8 courses",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "MATH 0180"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0200"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0350"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "MATH 0520"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0540"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0530"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 1170"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "APMA 1160"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 1170"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 1180"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 1690"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 1740"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Computer Science Requirements – 8 courses",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "Select one of the following introductory course sequences:",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "series",
+                  "codes": [
+                    "CSCI 0150",
+                    "CSCI 0200"
+                  ]
+                },
+                {
+                  "kind": "series",
+                  "codes": [
+                    "CSCI 0170",
+                    "CSCI 0200"
+                  ]
+                },
+                {
+                  "kind": "series",
+                  "codes": [
+                    "CSCI 0111",
+                    "CSCI 0200"
+                  ]
+                },
+                {
+                  "kind": "group",
+                  "label": "Select one foundational course in each of three of the following four clusters:",
+                  "type": "CHOOSE_N",
+                  "n": 1,
+                  "children": [
+                    {
+                      "kind": "course",
+                      "code": "CSCI 0500"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "CSCI 0410"
+                    },
+                    {
+                      "kind": "group",
+                      "label": "__or__",
+                      "type": "CHOOSE_N",
+                      "n": 1,
+                      "children": [
+                        {
+                          "kind": "course",
+                          "code": "CSCI 0300"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "CSCI 0320"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "CSCI 0330"
+                        }
+                      ]
+                    },
+                    {
+                      "kind": "group",
+                      "label": "__or__",
+                      "type": "CHOOSE_N",
+                      "n": 1,
+                      "children": [
+                        {
+                          "kind": "course",
+                          "code": "APMA 1655"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "APMA 1650"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "CSCI 1450"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "MATH 1210"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "MATH 1610"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "A second semester of single-variable calculus is not an enforced requirement for our concentration, but it is a required prerequisite for many of our courses. At Brown, the second semester of calculus is taught in one of MATH 0100, MATH 0170, or MATH 0190.",
+      "APMA 0355",
+      "APMA 0365",
+      "Two approved 1000-level or higher APMA courses.",
+      "One 1000-level or higher APMA or MATH course",
+      "CSCI 0190 and one CSCI course numbered 0200 or higher",
+      "1. Algorithms/Theory",
+      "2. AI/Machine Learning/Data Science",
+      "3. Systems",
+      "4. Probability",
+      "Three approved 1000-level or higher CSCI courses, which must be technical CS courses.",
+      "One capstone in computer science or applied mathematics, taken in the student’s senior year, and approved by the concentration advisor (or on the list of approved CS capstone courses)."
+    ]
+  }
+]

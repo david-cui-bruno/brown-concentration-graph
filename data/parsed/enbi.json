@@ -1,0 +1,340 @@
+[
+  {
+    "slug": "enbi",
+    "name": "Biomedical Engineering",
+    "degree": "ScB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "1. Core Courses",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "ENGN 0030"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 0032"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 0040"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "ENGN 0510"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 0520"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 0720"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 0810"
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 0330"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "MATH 0190"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0100"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 0350"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "MATH 0200"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0180"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0350"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "APMA 0350"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "APMA 1650"
+                },
+                {
+                  "kind": "course",
+                  "code": "BIOL 0495"
+                },
+                {
+                  "kind": "course",
+                  "code": "STAT 1510"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 1655"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "2. Upper Level Biomedical Engineering Curriculum",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "ENGN 1205"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1210"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1230"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1200"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0800"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "3. Additional Biomedical Engineering Electives: Complete at least 3 courses from the following groups; other upper-level courses are subject to Concentration Advisor approval.",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "Select one or two of the following:",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "group",
+                  "label": "__or__",
+                  "type": "CHOOSE_N",
+                  "n": 1,
+                  "children": [
+                    {
+                      "kind": "course",
+                      "code": "CSCI 1810"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "CSCI 1820"
+                    }
+                  ]
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 0500"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 1220"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 1221"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 1222"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 1223"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 1224"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 1225"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 1740"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 2221"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 2222"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 2625"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 2911R"
+                },
+                {
+                  "kind": "course",
+                  "code": "BIOL 1140"
+                },
+                {
+                  "kind": "course",
+                  "code": "BIOL 1150"
+                },
+                {
+                  "kind": "course",
+                  "code": "BIOL 2110"
+                },
+                {
+                  "kind": "group",
+                  "label": "At least one or two more courses from:",
+                  "type": "ALL",
+                  "children": [
+                    {
+                      "kind": "course",
+                      "code": "BIOL 0280"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "BIOL 0470"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "BIOL 0500"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "BIOL 0510"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "BIOL 0530"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "BIOL 1090"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "BIOL 1100"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "BIOL 1555"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "APMA 1070"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "CHEM 0360"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ENGN 2910G"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "NEUR 1020"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "NEUR 1440"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "PHYS 1610"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "BIOL 1810"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "4. Capstone Design",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "ENGN 1240"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1250"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "5. General Education Requirement: At least four approved courses must be taken in the humanities and social sciences."
+    ]
+  }
+]

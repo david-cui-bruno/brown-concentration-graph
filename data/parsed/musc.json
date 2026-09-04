@@ -1,0 +1,47 @@
+[
+  {
+    "slug": "musc",
+    "name": "Music",
+    "degree": "AB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Music Theory",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "MUSC 0400A"
+            },
+            {
+              "kind": "course",
+              "code": "MUSC 0400B"
+            },
+            {
+              "kind": "course",
+              "code": "MUSC 0550"
+            },
+            {
+              "kind": "course",
+              "code": "MUSC 0560"
+            },
+            {
+              "kind": "course",
+              "code": "MUSC 0570"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Two courses in music theory, which may include one 400-level and one 500-level course, or two 500-level courses.",
+      "Two courses in music history and culture, taken in different semesters. One must be a qualifying 1000-level course (or graduate seminar). The other could be any level course, including courses below the 0100 level¹ (first-year seminars, etc.).",
+      "Two additional 1000-level (or graduate-level) courses in music theory, production, and/or history and culture.",
+      "Four additional elective courses according to student interest. May include 1.) up to four half-credit courses in performance (AMP music instruction and/or Ensemble Participation), 2.) one qualifying course outside of the department, 3.) one music course below the 0100 level¹."
+    ]
+  }
+]

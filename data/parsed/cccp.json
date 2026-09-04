@@ -1,0 +1,144 @@
+[
+  {
+    "slug": "cccp",
+    "name": "Computational Chemistry and Chemical Physics",
+    "degree": "ScB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "course",
+          "code": "CHEM 0330"
+        },
+        {
+          "kind": "course",
+          "code": "CHEM 0350"
+        },
+        {
+          "kind": "course",
+          "code": "CHEM 0500"
+        },
+        {
+          "kind": "course",
+          "code": "PHYS 0070"
+        },
+        {
+          "kind": "course",
+          "code": "PHYS 0470"
+        },
+        {
+          "kind": "course",
+          "code": "CSCI 0111"
+        },
+        {
+          "kind": "course",
+          "code": "CSCI 0150"
+        },
+        {
+          "kind": "course",
+          "code": "CSCI 0170"
+        },
+        {
+          "kind": "course",
+          "code": "CSCI 0190"
+        },
+        {
+          "kind": "course",
+          "code": "DATA 0250"
+        },
+        {
+          "kind": "course",
+          "code": "DATA 1030"
+        },
+        {
+          "kind": "course",
+          "code": "DATA 1050"
+        },
+        {
+          "kind": "course",
+          "code": "APMA 0160"
+        },
+        {
+          "kind": "course",
+          "code": "APMA 0200"
+        },
+        {
+          "kind": "course",
+          "code": "CHEM 1560K"
+        },
+        {
+          "kind": "course",
+          "code": "CHEM 1560Q"
+        },
+        {
+          "kind": "course",
+          "code": "PHYS 1600"
+        },
+        {
+          "kind": "course",
+          "code": "PHYS 1640"
+        },
+        {
+          "kind": "course",
+          "code": "CHEM 1160"
+        },
+        {
+          "kind": "course",
+          "code": "PHYS 0560"
+        },
+        {
+          "kind": "course",
+          "code": "PHYS 1560"
+        },
+        {
+          "kind": "course",
+          "code": "PHYS 1410"
+        },
+        {
+          "kind": "course",
+          "code": "CHEM 1140"
+        },
+        {
+          "kind": "course",
+          "code": "CHEM 1150"
+        },
+        {
+          "kind": "course",
+          "code": "PHYS 1530"
+        },
+        {
+          "kind": "course",
+          "code": "MATH 0190"
+        },
+        {
+          "kind": "course",
+          "code": "MATH 0200"
+        },
+        {
+          "kind": "course",
+          "code": "MATH 0520"
+        },
+        {
+          "kind": "course",
+          "code": "PHYS 1990"
+        },
+        {
+          "kind": "course",
+          "code": "CHEM 0980"
+        }
+      ]
+    },
+    "unparsed": [
+      "Foundational Coursework",
+      "One Foundational Computation Course",
+      "One Experimental or Computational Laboratory Course",
+      "One Quantum Mechanics Course",
+      "One Statistical Mechanics Course",
+      "Three Mathematics Courses",
+      "Six courses, primarily at the 1000 or 2000 level, in chemistry, physics or computer science.",
+      "Two Semesters of Independent Study"
+    ]
+  }
+]

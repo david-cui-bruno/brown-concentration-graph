@@ -1,0 +1,313 @@
+[
+  {
+    "slug": "eveg",
+    "name": "Environmental Engineering",
+    "degree": "Mathematics Requirements",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "1. Core Courses:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "ENGN 0030"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 0032"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 0040"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "ENGN 0410"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 1200"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 0790"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CSCI 0111"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0150"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0170"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0190"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 0500"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 0510"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 0520"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 0720"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 0810"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0200"
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 0330"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "MATH 0190"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0100"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "MATH 0200"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0180"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0350"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "APMA 0350"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 0355"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 0360"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 0365"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "APMA 1650"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 1655"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "EEPS 1370"
+                },
+                {
+                  "kind": "course",
+                  "code": "EEPS 0850"
+                },
+                {
+                  "kind": "course",
+                  "code": "EEPS 1310"
+                },
+                {
+                  "kind": "course",
+                  "code": "EEPS 1320"
+                },
+                {
+                  "kind": "course",
+                  "code": "EEPS 1330"
+                },
+                {
+                  "kind": "course",
+                  "code": "EEPS 1430"
+                },
+                {
+                  "kind": "course",
+                  "code": "EEPS 1520"
+                },
+                {
+                  "kind": "course",
+                  "code": "EEPS 1710"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "BIOL 0420"
+                },
+                {
+                  "kind": "course",
+                  "code": "BIOL 0480"
+                },
+                {
+                  "kind": "course",
+                  "code": "BIOL 0500"
+                },
+                {
+                  "kind": "course",
+                  "code": "BIOL 0800"
+                },
+                {
+                  "kind": "course",
+                  "code": "BIOL 1470"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1745"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1205"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1120"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1130"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1742"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1700"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1115"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1860"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1931P"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1723"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 2743"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1150"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "2. Advanced Science Courses",
+      "3. Upper-Level Environmental Engineering Curriculum",
+      "Plus four advanced engineering courses from the list below",
+      "Or any other course approved by the Concentration Advisor",
+      "4. Capstone Design",
+      "* In addition to program requirements above, students must take four courses in the humanities and social sciences."
+    ]
+  }
+]

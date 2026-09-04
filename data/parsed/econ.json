@@ -1,0 +1,532 @@
+[
+  {
+    "slug": "econ",
+    "name": "Economics",
+    "degree": "Standard Economics Concentration",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "course",
+          "code": "ECON 0110"
+        },
+        {
+          "kind": "group",
+          "label": "__or__",
+          "type": "CHOOSE_N",
+          "n": 1,
+          "children": [
+            {
+              "kind": "course",
+              "code": "ECON 0170"
+            },
+            {
+              "kind": "course",
+              "code": "MATH 0100"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "__or__",
+          "type": "CHOOSE_N",
+          "n": 1,
+          "children": [
+            {
+              "kind": "course",
+              "code": "ECON 1110"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1130"
+            }
+          ]
+        },
+        {
+          "kind": "course",
+          "code": "ECON 1210"
+        },
+        {
+          "kind": "group",
+          "label": "__or__",
+          "type": "CHOOSE_N",
+          "n": 1,
+          "children": [
+            {
+              "kind": "course",
+              "code": "ECON 1620"
+            },
+            {
+              "kind": "course",
+              "code": "MATH 1620"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 1650"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 1655"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "__or__",
+          "type": "CHOOSE_N",
+          "n": 1,
+          "children": [
+            {
+              "kind": "course",
+              "code": "ECON 1629"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1630"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "or a higher-level math course.",
+      "At least five additional 1000-level Economics courses."
+    ]
+  },
+  {
+    "slug": "econ",
+    "name": "Economics",
+    "degree": "Business Economics Track",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "course",
+          "code": "ECON 0110"
+        },
+        {
+          "kind": "group",
+          "label": "__or__",
+          "type": "CHOOSE_N",
+          "n": 1,
+          "children": [
+            {
+              "kind": "course",
+              "code": "ECON 0170"
+            },
+            {
+              "kind": "course",
+              "code": "MATH 0100"
+            }
+          ]
+        },
+        {
+          "kind": "course",
+          "code": "ECON 0710"
+        },
+        {
+          "kind": "group",
+          "label": "__or__",
+          "type": "CHOOSE_N",
+          "n": 1,
+          "children": [
+            {
+              "kind": "course",
+              "code": "ECON 1110"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1130"
+            }
+          ]
+        },
+        {
+          "kind": "course",
+          "code": "ECON 1210"
+        },
+        {
+          "kind": "course",
+          "code": "ECON 1420"
+        },
+        {
+          "kind": "group",
+          "label": "__or__",
+          "type": "CHOOSE_N",
+          "n": 1,
+          "children": [
+            {
+              "kind": "course",
+              "code": "ECON 1620"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 1650"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 1655"
+            },
+            {
+              "kind": "course",
+              "code": "MATH 1620"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "__or__",
+          "type": "CHOOSE_N",
+          "n": 1,
+          "children": [
+            {
+              "kind": "course",
+              "code": "ECON 1629"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1630"
+            }
+          ]
+        },
+        {
+          "kind": "course",
+          "code": "ECON 1710"
+        },
+        {
+          "kind": "course",
+          "code": "ECON 1720"
+        },
+        {
+          "kind": "group",
+          "label": "Two Business Economics electives from the following list:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "ECON 1090"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1310"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1400"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1450"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1465"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1470"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1490"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1540"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1550"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1660"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1730"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1740"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1750"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1760"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1770"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1780"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1805"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1820"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1830"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1870"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "or a higher level math course"
+    ]
+  },
+  {
+    "slug": "econ",
+    "name": "Economics",
+    "degree": "Public Policy Track",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "course",
+          "code": "ECON 0110"
+        },
+        {
+          "kind": "group",
+          "label": "__or__",
+          "type": "CHOOSE_N",
+          "n": 1,
+          "children": [
+            {
+              "kind": "course",
+              "code": "ECON 0170"
+            },
+            {
+              "kind": "course",
+              "code": "MATH 0100"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "__or__",
+          "type": "CHOOSE_N",
+          "n": 1,
+          "children": [
+            {
+              "kind": "course",
+              "code": "ECON 1110"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1130"
+            }
+          ]
+        },
+        {
+          "kind": "course",
+          "code": "ECON 1210"
+        },
+        {
+          "kind": "course",
+          "code": "ECON 1620"
+        },
+        {
+          "kind": "group",
+          "label": "__or__",
+          "type": "CHOOSE_N",
+          "n": 1,
+          "children": [
+            {
+              "kind": "course",
+              "code": "ECON 1629"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1630"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Five Public Policy Electives from the list below:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "ECON 1000"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1070"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1225"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1255"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1310"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1330"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1340"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1345"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1350"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1355"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1360"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1370"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1385"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1390"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1410"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1420"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1430"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1440"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1480"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1500"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1520"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1530"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1540"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1550"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1560"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1570"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1600"
+            },
+            {
+              "kind": "course",
+              "code": "AFRI 1920"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0220"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0700"
+            },
+            {
+              "kind": "course",
+              "code": "HSP 0310"
+            },
+            {
+              "kind": "course",
+              "code": "HSP 0330"
+            },
+            {
+              "kind": "course",
+              "code": "EPI 0850"
+            },
+            {
+              "kind": "course",
+              "code": "POLS 0010"
+            },
+            {
+              "kind": "course",
+              "code": "POLS 1050"
+            },
+            {
+              "kind": "course",
+              "code": "POLS 1823Z"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1330"
+            },
+            {
+              "kind": "course",
+              "code": "URBN 0210"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Interdisciplinary requirement. Two courses outside of the economics department that relate to better understanding the implementation and/or evaluation of public policies (may be below or above 1000-level).Several departments offer such courses, and availability varies from year to year. Some pre-approved options are",
+      "Students may also request advisor permission for other courses",
+      "A capstone project in the senior year. This can be satisfied in different ways: (a) the capstone is automatically fulfilled if one of the public policy electives completed is designated as a capstone course (see the list of capstone courses on the economics department website); or (b) a capstone project is otherwise arranged and completed for a public policy elective; or (c) an honors thesis is completed, under the guidelines of honors in the economics concentration; or (d) completion of an undergraduate research assistantship (URA). In cases (a), (b) and (d), a capstone form must be submitted to the department."
+    ]
+  }
+]

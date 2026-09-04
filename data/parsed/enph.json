@@ -1,0 +1,287 @@
+[
+  {
+    "slug": "enph",
+    "name": "Engineering and Physics",
+    "degree": "unified",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Select one of the following two course sequences:",
+          "type": "CHOOSE_N",
+          "n": 1,
+          "children": [
+            {
+              "kind": "series",
+              "codes": [
+                "ENGN 0030",
+                "ENGN 0040"
+              ]
+            },
+            {
+              "kind": "series",
+              "codes": [
+                "PHYS 0050",
+                "PHYS 0060"
+              ]
+            },
+            {
+              "kind": "series",
+              "codes": [
+                "PHYS 0070",
+                "PHYS 0160"
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "MATH 0190"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0100"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "MATH 0200"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0180"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0350"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "Select three additional higher-level math, applied math or mathematical physics (PHYS 0720) courses.",
+              "type": "CHOOSE_N",
+              "n": 3,
+              "children": [
+                {
+                  "kind": "group",
+                  "label": "__or__",
+                  "type": "CHOOSE_N",
+                  "n": 1,
+                  "children": [
+                    {
+                      "kind": "course",
+                      "code": "CSCI 0111"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "APMA 0160"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "CSCI 0150"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "CSCI 0170"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "CSCI 0190"
+                    }
+                  ]
+                },
+                {
+                  "kind": "group",
+                  "label": "__or__",
+                  "type": "CHOOSE_N",
+                  "n": 1,
+                  "children": [
+                    {
+                      "kind": "course",
+                      "code": "ENGN 0510"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "PHYS 0470"
+                    }
+                  ]
+                },
+                {
+                  "kind": "group",
+                  "label": "__or__",
+                  "type": "CHOOSE_N",
+                  "n": 1,
+                  "children": [
+                    {
+                      "kind": "course",
+                      "code": "ENGN 1690"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "PHYS 1510"
+                    }
+                  ]
+                },
+                {
+                  "kind": "group",
+                  "label": "__or__",
+                  "type": "CHOOSE_N",
+                  "n": 1,
+                  "children": [
+                    {
+                      "kind": "course",
+                      "code": "PHYS 0500"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ENGN 1370"
+                    }
+                  ]
+                },
+                {
+                  "kind": "course",
+                  "code": "PHYS 1410"
+                },
+                {
+                  "kind": "course",
+                  "code": "PHYS 1420"
+                },
+                {
+                  "kind": "group",
+                  "label": "__or__",
+                  "type": "CHOOSE_N",
+                  "n": 1,
+                  "children": [
+                    {
+                      "kind": "course",
+                      "code": "PHYS 1530"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ENGN 0720"
+                    }
+                  ]
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 1620"
+                },
+                {
+                  "kind": "group",
+                  "label": "__or__",
+                  "type": "CHOOSE_N",
+                  "n": 1,
+                  "children": [
+                    {
+                      "kind": "course",
+                      "code": "CHEM 0330"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ENGN 0310"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ENGN 0810"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "PHYS 1600"
+                    }
+                  ]
+                },
+                {
+                  "kind": "group",
+                  "label": "__or__",
+                  "type": "CHOOSE_N",
+                  "n": 1,
+                  "children": [
+                    {
+                      "kind": "course",
+                      "code": "ENGN 0410"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ENGN 1560"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "PHYS 0560"
+                    }
+                  ]
+                },
+                {
+                  "kind": "group",
+                  "label": "__or__",
+                  "type": "CHOOSE_N",
+                  "n": 1,
+                  "children": [
+                    {
+                      "kind": "course",
+                      "code": "PHYS 1560"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ENGN 1590"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ENGN 1595"
+                    }
+                  ]
+                },
+                {
+                  "kind": "group",
+                  "label": "__or__",
+                  "type": "CHOOSE_N",
+                  "n": 1,
+                  "children": [
+                    {
+                      "kind": "course",
+                      "code": "PHYS 1990"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ENGN 1970"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ENGN 1971"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ENGN 1972"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ENGN 1973"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "A thesis under the supervision of a physics or engineering faculty member:",
+      "* Students are also encouraged to take courses dealing with the philosophical, ethical or political aspects of science and technology."
+    ]
+  }
+]

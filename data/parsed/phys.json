@@ -1,0 +1,1045 @@
+[
+  {
+    "slug": "phys",
+    "name": "Physics",
+    "degree": "AB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Select one of the following Series:",
+          "type": "CHOOSE_N",
+          "n": 1,
+          "children": [
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "PHYS 0030"
+                },
+                {
+                  "kind": "course",
+                  "code": "PHYS 0050"
+                },
+                {
+                  "kind": "course",
+                  "code": "PHYS 0070"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "PHYS 0040"
+                },
+                {
+                  "kind": "course",
+                  "code": "PHYS 0060"
+                },
+                {
+                  "kind": "course",
+                  "code": "PHYS 0160"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "Take each of the following:",
+              "type": "ALL",
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "PHYS 0470"
+                },
+                {
+                  "kind": "course",
+                  "code": "PHYS 0500"
+                },
+                {
+                  "kind": "course",
+                  "code": "PHYS 0560"
+                },
+                {
+                  "kind": "course",
+                  "code": "PHYS 1410"
+                },
+                {
+                  "kind": "course",
+                  "code": "PHYS 1530"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "One additional 1000-level course or a mathematics course beyond the introductory level."
+    ]
+  },
+  {
+    "slug": "phys",
+    "name": "Physics",
+    "degree": "ScB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Prerequisites:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "Select one of each:",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "group",
+                  "label": "__or__",
+                  "type": "CHOOSE_N",
+                  "n": 1,
+                  "children": [
+                    {
+                      "kind": "course",
+                      "code": "PHYS 0050"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "PHYS 0070"
+                    }
+                  ]
+                },
+                {
+                  "kind": "group",
+                  "label": "__or__",
+                  "type": "CHOOSE_N",
+                  "n": 1,
+                  "children": [
+                    {
+                      "kind": "course",
+                      "code": "PHYS 0060"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "PHYS 0160"
+                    }
+                  ]
+                },
+                {
+                  "kind": "group",
+                  "label": "Select one of the following:",
+                  "type": "CHOOSE_N",
+                  "n": 1,
+                  "children": [
+                    {
+                      "kind": "group",
+                      "label": "__or__",
+                      "type": "CHOOSE_N",
+                      "n": 1,
+                      "children": [
+                        {
+                          "kind": "course",
+                          "code": "MATH 0190"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "MATH 0090"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "MATH 0100"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Program:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "PHYS 0470"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 0500"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 0560"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 1410"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 1420"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 1510"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 1530"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 1560"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 1990"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Take one additional 1000 or 2000 level Physics course or upper level course in related fields of science chosen by the student with the agreement of his or her advisor.",
+      "Four Mathematics courses beyond MATH 0190 or 0090, 0100 including choices from Applied Mathematics"
+    ]
+  },
+  {
+    "slug": "phys",
+    "name": "Physics",
+    "degree": "ScB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Prerequisites:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "Select one of each:",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "group",
+                  "label": "__or__",
+                  "type": "CHOOSE_N",
+                  "n": 1,
+                  "children": [
+                    {
+                      "kind": "course",
+                      "code": "PHYS 0050"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "PHYS 0070"
+                    }
+                  ]
+                },
+                {
+                  "kind": "group",
+                  "label": "__or__",
+                  "type": "CHOOSE_N",
+                  "n": 1,
+                  "children": [
+                    {
+                      "kind": "course",
+                      "code": "PHYS 0060"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "PHYS 0160"
+                    }
+                  ]
+                },
+                {
+                  "kind": "course",
+                  "code": "PHYS 0270"
+                },
+                {
+                  "kind": "group",
+                  "label": "Select one of the following Series:",
+                  "type": "CHOOSE_N",
+                  "n": 1,
+                  "children": [
+                    {
+                      "kind": "series",
+                      "codes": [
+                        "MATH 0170",
+                        "MATH 0180"
+                      ]
+                    },
+                    {
+                      "kind": "series",
+                      "codes": [
+                        "MATH 0190",
+                        "MATH 0200"
+                      ]
+                    },
+                    {
+                      "kind": "course",
+                      "code": "MATH 0350"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "PHYS 0470"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Program:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "MATH 0520"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0540"
+                },
+                {
+                  "kind": "course",
+                  "code": "PHYS 0720"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "Select one of the following Math courses:",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "APMA 0330"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 0340"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 0350"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 0360"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 1110"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 1120"
+                },
+                {
+                  "kind": "course",
+                  "code": "PHYS 0500"
+                },
+                {
+                  "kind": "course",
+                  "code": "PHYS 0560"
+                },
+                {
+                  "kind": "course",
+                  "code": "PHYS 1410"
+                },
+                {
+                  "kind": "course",
+                  "code": "PHYS 1530"
+                },
+                {
+                  "kind": "group",
+                  "label": "Three of the following:",
+                  "type": "ALL",
+                  "children": [
+                    {
+                      "kind": "course",
+                      "code": "PHYS 1100"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "PHYS 1250"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "PHYS 1270"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "PHYS 1280"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "PHYS 1990"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Two additonal 1000- or 2000-level courses in physics or a related field which are not listed as requirements."
+    ]
+  },
+  {
+    "slug": "phys",
+    "name": "Physics",
+    "degree": "ScB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Foundations of Physics",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "PHYS 0070"
+                },
+                {
+                  "kind": "course",
+                  "code": "PHYS 0050"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 0040"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "PHYS 0160"
+                },
+                {
+                  "kind": "course",
+                  "code": "PHYS 0060"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 0470"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 0500"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 1410"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 1530"
+            },
+            {
+              "kind": "group",
+              "label": "Select one of the following Series:",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "group",
+                  "label": "Series A",
+                  "type": "SERIES",
+                  "children": [
+                    {
+                      "kind": "course",
+                      "code": "PHYS 0720"
+                    }
+                  ]
+                },
+                {
+                  "kind": "group",
+                  "label": "Series B",
+                  "type": "SERIES",
+                  "children": [
+                    {
+                      "kind": "group",
+                      "label": "Select one of the following:",
+                      "type": "CHOOSE_N",
+                      "n": 1,
+                      "children": [
+                        {
+                          "kind": "course",
+                          "code": "APMA 0330"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "APMA 0350"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "MATH 1110"
+                        },
+                        {
+                          "kind": "group",
+                          "label": "And select one of the following:",
+                          "type": "CHOOSE_N",
+                          "n": 1,
+                          "children": [
+                            {
+                              "kind": "course",
+                              "code": "MATH 0180"
+                            },
+                            {
+                              "kind": "course",
+                              "code": "MATH 0200"
+                            },
+                            {
+                              "kind": "course",
+                              "code": "MATH 0350"
+                            },
+                            {
+                              "kind": "course",
+                              "code": "MATH 0520"
+                            },
+                            {
+                              "kind": "course",
+                              "code": "MATH 0540"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Basic Biology and Chemistry",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "BIOL 0200"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0500"
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 0330"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Advanced Biophysical Topics and Techniques",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "PHYS 1610"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 1990"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Elective Courses (four chosen from the following list, with at least two 1000-level courses, or additional courses approved by the concentration advisor:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "APMA 0360"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 0410"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 0650"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 1070"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 1080"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0280"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0470"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1050"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1200"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1270"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1870"
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 0350"
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 0360"
+            },
+            {
+              "kind": "course",
+              "code": "MATH 0090"
+            },
+            {
+              "kind": "course",
+              "code": "MATH 0170"
+            },
+            {
+              "kind": "course",
+              "code": "MATH 0190"
+            },
+            {
+              "kind": "course",
+              "code": "MATH 1620"
+            },
+            {
+              "kind": "course",
+              "code": "MATH 1210"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 0560"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 1510"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 1560"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 2620F"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 1990"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": []
+  },
+  {
+    "slug": "phys",
+    "name": "Physics",
+    "degree": "AB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Prerequisites:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "MATH 0090"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0100"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0190"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "PHYS 0050"
+                },
+                {
+                  "kind": "course",
+                  "code": "PHYS 0070"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Mathematics Courses",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "MATH 0180"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0200"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0350"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "MATH 0520"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0540"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "MATH 1110"
+            },
+            {
+              "kind": "group",
+              "label": "Select at least one of the following:",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "MATH 1060"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 1120"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 1210"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Physics Courses",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "PHYS 0060"
+                },
+                {
+                  "kind": "course",
+                  "code": "PHYS 0160"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 0470"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 0500"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 0560"
+            },
+            {
+              "kind": "group",
+              "label": "Select at least two of the following:",
+              "type": "CHOOSE_N",
+              "n": 2,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "PHYS 1410"
+                },
+                {
+                  "kind": "course",
+                  "code": "PHYS 1420"
+                },
+                {
+                  "kind": "course",
+                  "code": "PHYS 1510"
+                },
+                {
+                  "kind": "course",
+                  "code": "PHYS 1530"
+                },
+                {
+                  "kind": "course",
+                  "code": "PHYS 1560"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": []
+  },
+  {
+    "slug": "phys",
+    "name": "Physics",
+    "degree": "ScB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Prerequisites:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "Select one of the following series:",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "group",
+                  "label": "__or__",
+                  "type": "CHOOSE_N",
+                  "n": 1,
+                  "children": [
+                    {
+                      "kind": "course",
+                      "code": "PHYS 0050"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "PHYS 0070"
+                    }
+                  ]
+                },
+                {
+                  "kind": "group",
+                  "label": "__or__",
+                  "type": "CHOOSE_N",
+                  "n": 1,
+                  "children": [
+                    {
+                      "kind": "course",
+                      "code": "PHYS 0060"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "PHYS 0160"
+                    }
+                  ]
+                },
+                {
+                  "kind": "group",
+                  "label": "Select one of the following:",
+                  "type": "CHOOSE_N",
+                  "n": 1,
+                  "children": [
+                    {
+                      "kind": "course",
+                      "code": "MATH 0190"
+                    },
+                    {
+                      "kind": "series",
+                      "codes": [
+                        "MATH 0090",
+                        "MATH 0100"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Required courses:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "PHYS 0470"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 0500"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 0560"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 1410"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 1530"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "series",
+                  "codes": [
+                    "MATH 0180",
+                    "MATH 0200"
+                  ]
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0350"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "MATH 0520"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0540"
+                },
+                {
+                  "kind": "course",
+                  "code": "PHYS 0720"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "MATH 1460"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 1990"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Four additional 1000 or 2000 level Physics courses",
+      "Two additional 1000 or 2000 level Math courses"
+    ]
+  }
+]

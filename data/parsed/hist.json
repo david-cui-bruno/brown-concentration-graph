@@ -1,0 +1,1095 @@
+[
+  {
+    "slug": "hist",
+    "name": "History",
+    "degree": "Concentration Requirements",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": []
+    },
+    "unparsed": [
+      "Summary",
+      "Two (2) Courses in the \"Premodern\" era (P)",
+      "One (1) Course in Africa OR Middle East OR South Asia OR Southeast Asia",
+      "One (1) Course in East Asia OR Latin America",
+      "One (1) course in Europe OR North America",
+      "One (1) course designated Global",
+      "Students may take a maximum of 5 courses in any single geography",
+      "Field of Focus (FF) - Students must take four courses in the field of focus. These courses may be used to satisfy different requirements (geography and field of focus, etc.).",
+      "Capstone Seminar: All concentrators must complete at least one capstone seminar (HIST 1960s and HIST 1970s series and select HIST 1980s courses), ideally, in the field of focus.",
+      "Honors (optional) 3 additional courses related to writing a thesis (one of which, HIST 1992, can count towards your 10 concentration requirements)"
+    ]
+  },
+  {
+    "slug": "hist",
+    "name": "History",
+    "degree": "Concentration Requirements",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "150's: Thematic Courses that Cut Across Time and Place",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "HIST 0150A"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0150B"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0150C"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0150D"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0150G"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0150H"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0150I"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0150J"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0150K"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Gateway Lecture Courses",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "HIST 0202"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0203"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0212"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0214"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0218"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0233"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0234"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0243"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0244"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0246"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0247"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0250"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0252"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0253"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0253A"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0254"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0255A"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0256"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0260"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0270A"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0270B"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0276"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0276B"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0285A"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0286A"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0286B"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "First-Year Seminars",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "HIST 0510A"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0510B"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0520A"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0521A"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0521M"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0522G"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0522O"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0523A"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0523B"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0523P"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0537A"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0550A"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0551A"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0552A"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0555B"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0557C"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0557D"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0558B"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0558C"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0559A"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0559B"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0559C"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0574A"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0576A"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0577A"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0577B"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0580M"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0580O"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0582A"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Sophomore Seminars",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "HIST 0621A"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0621B"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0623B"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0623C"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0654A"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0654B"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0655A"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0657A"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0658D"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0673A"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0675A"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0685A"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "LECTURE COURSES",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "HIST 1030"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1060"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1070"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1080"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1081"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1101"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1110"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1111"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1112"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1118"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1120"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1121"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1122"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1123"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1141"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1149"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1150"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1155"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1156"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1200A"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1200B"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1200C"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1201A"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1201B"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1202"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1205"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1210A"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1211"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1216"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1240A"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1241A"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1260D"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1262F"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1262M"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1264M"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1266C"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1266D"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1267"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1268A"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1268B"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1268C"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1270C"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1272D"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1272E"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1320"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1333"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1340"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1360"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1381"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1382"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1440"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1455"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1457"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1470"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1502"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1503"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1505"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1507"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1511"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1512"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1513"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1514"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1515"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1530"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1531"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1532"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1533"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1553"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1554"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1570"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1571"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1574"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1620"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1640"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1735"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1800"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1820A"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1820B"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1820G"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1825F"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1825H"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1825J"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1825S"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1830B"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1830M"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1835A"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Non-Capstone Seminars",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "HIST 1942A"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1952A"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1956A"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1956B"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1956S"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Capstone Seminars",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "HIST 1960G"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1960H"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1960J"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1960Q"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1960R"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1960S"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1961B"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1961C"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1961D"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1961N"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1962B"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1962C"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1962D"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1962F"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1962G"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1963L"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1963M"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1963Q"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1964A"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1964B"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1964D"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1964E"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1964F"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1964G"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1964H"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1964I"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1964K"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1964L"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1964S"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1965C"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1965D"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1965E"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1965G"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1965H"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1965I"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1965R"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1967C"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1967Q"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1967T"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1968A"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1968V"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1969A"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1969B"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1969D"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1970A"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1970B"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1970D"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1970F"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1970G"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1971D"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1972A"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1972F"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1972G"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1972H"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1972I"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1972J"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1973Q"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1974A"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1974B"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1974G"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1974J"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1974K"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1974M"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1974P"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1974S"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1974Y"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1975J"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1976A"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1976B"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1976C"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1976D"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1976E"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1976G"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1976H"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1976I"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1976J"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1976N"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1976R"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1977B"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1977I"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1977J"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1990"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1992"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1993"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1994"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": []
+  }
+]

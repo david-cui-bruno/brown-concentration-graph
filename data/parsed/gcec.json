@@ -1,0 +1,308 @@
+[
+  {
+    "slug": "gcec",
+    "name": "Geochemistry and Environmental Chemistry",
+    "degree": "AB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Three basic supporting science courses",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CHEM 0330"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Two courses to build quantitative skills:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "BIOL 0495"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 1650"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "MATH 0090"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 0040"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 0111"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 0350"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 0050"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Two of these four fundamentals courses:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "EEPS 0220"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 0230"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 0240"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 0250"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Three additional chemistry courses such as:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CHEM 0350"
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 0360"
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 0500"
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 1060"
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 1140"
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 1150"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0280"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Two courses from the following:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "EEPS 1410"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1420"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1130"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1370"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Two additional upper-level EEPS courses or substitutes with approval from the concentration advisor."
+    ]
+  },
+  {
+    "slug": "gcec",
+    "name": "Geochemistry and Environmental Chemistry",
+    "degree": "ScB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Basic Supporting Science Courses:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CHEM 0330"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Four courses to build quantitative skills:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "MATH 0090"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "BIOL 0495"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 1650"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 0111"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 0040"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 0350"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 0050"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 0250"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Fourteen Concentration Courses",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "EEPS 0220"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 0230"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 0240"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1370"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1410"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Three additional chemistry courses such as:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CHEM 0350"
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 0360"
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 0500"
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 1060"
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 1140"
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 1150"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0280"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1130"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1240"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1380"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1420"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1970"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Two upper level courses from EEPS such as",
+      "Three additional upper-level science or math courses with approval from the concentration advisor"
+    ]
+  }
+]

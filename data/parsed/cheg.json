@@ -1,0 +1,220 @@
+[
+  {
+    "slug": "cheg",
+    "name": "Chemical Engineering",
+    "degree": "Mathematics Requirements",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "1. Core Courses:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "ENGN 0030"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 0032"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 0040"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 0410"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 0510"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "ENGN 0520"
+                },
+                {
+                  "kind": "course",
+                  "code": "ENGN 0500"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 0720"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 0810"
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 0330"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0200"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "MATH 0190"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0100"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "MATH 0200"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0180"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0350"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0520"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "APMA 0350"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 0355"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "APMA 0360"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 0365"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 1650"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 1655"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 1450"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1100"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1120"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1130"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1115"
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 0350"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CHEM 0360"
+                },
+                {
+                  "kind": "course",
+                  "code": "CHEM 0400"
+                },
+                {
+                  "kind": "course",
+                  "code": "CHEM 0500"
+                },
+                {
+                  "kind": "course",
+                  "code": "CHEM 1140"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1140"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "2. Upper-Level Chemical Engineering Curriculum",
+      "Advanced Chemistry elective course",
+      "Advanced Engineering or Natural Sciences elective course",
+      "3. Capstone Design Course",
+      "*In addition to program requirements above, students must take four courses in the humanities and social sciences."
+    ]
+  }
+]

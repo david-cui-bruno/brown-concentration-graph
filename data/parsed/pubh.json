@@ -1,0 +1,393 @@
+[
+  {
+    "slug": "pubh",
+    "name": "Public Health",
+    "degree": "unified",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Foundational Courses",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "PHP 0320"
+            },
+            {
+              "kind": "course",
+              "code": "HSP 0310"
+            },
+            {
+              "kind": "course",
+              "code": "EPI 0850"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "STAT 1501"
+                },
+                {
+                  "kind": "course",
+                  "code": "STAT 1510"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0200"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Choose one of the following courses:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "BIOL 0380"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0470"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0500"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0510"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0530"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0800"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Choose one of the following courses:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "BSS 0400"
+            },
+            {
+              "kind": "course",
+              "code": "BSS 1680I"
+            },
+            {
+              "kind": "course",
+              "code": "BSS 1650"
+            },
+            {
+              "kind": "course",
+              "code": "BSS 1810"
+            },
+            {
+              "kind": "course",
+              "code": "HSP 1460"
+            },
+            {
+              "kind": "course",
+              "code": "HSP 1681"
+            },
+            {
+              "kind": "course",
+              "code": "HSP 1821"
+            },
+            {
+              "kind": "course",
+              "code": "PHP 0080"
+            },
+            {
+              "kind": "course",
+              "code": "PHP 1796"
+            },
+            {
+              "kind": "course",
+              "code": "PHP 1830"
+            },
+            {
+              "kind": "course",
+              "code": "PHP 1920"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Choose one of the following courses:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "BSS 0700"
+            },
+            {
+              "kind": "course",
+              "code": "HSP 1100"
+            },
+            {
+              "kind": "course",
+              "code": "HSP 1580"
+            },
+            {
+              "kind": "course",
+              "code": "PHP 0060"
+            },
+            {
+              "kind": "course",
+              "code": "PHP 0720"
+            },
+            {
+              "kind": "course",
+              "code": "PHP 1070"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Choose one of the following courses:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "BSS 1101"
+            },
+            {
+              "kind": "course",
+              "code": "BSS 1300"
+            },
+            {
+              "kind": "course",
+              "code": "BSS 1551"
+            },
+            {
+              "kind": "course",
+              "code": "BSS 1610"
+            },
+            {
+              "kind": "course",
+              "code": "BSS 1690"
+            },
+            {
+              "kind": "course",
+              "code": "BSS 1695"
+            },
+            {
+              "kind": "course",
+              "code": "BSS 1950"
+            },
+            {
+              "kind": "course",
+              "code": "BSS 1998"
+            },
+            {
+              "kind": "course",
+              "code": "EPI 1670"
+            },
+            {
+              "kind": "course",
+              "code": "EPI 1720"
+            },
+            {
+              "kind": "course",
+              "code": "EPI 1725"
+            },
+            {
+              "kind": "course",
+              "code": "EPI 1730"
+            },
+            {
+              "kind": "course",
+              "code": "EPI 1854"
+            },
+            {
+              "kind": "course",
+              "code": "HSP 0330"
+            },
+            {
+              "kind": "course",
+              "code": "HSP 0650"
+            },
+            {
+              "kind": "course",
+              "code": "HSP 1450"
+            },
+            {
+              "kind": "course",
+              "code": "HSP 1460"
+            },
+            {
+              "kind": "course",
+              "code": "HSP 1500"
+            },
+            {
+              "kind": "course",
+              "code": "HSP 1580"
+            },
+            {
+              "kind": "course",
+              "code": "PHP 0720"
+            },
+            {
+              "kind": "course",
+              "code": "PHP 1856"
+            },
+            {
+              "kind": "course",
+              "code": "PHP 1960"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Electives",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "BSS 1550"
+            },
+            {
+              "kind": "course",
+              "code": "BSS 1880"
+            },
+            {
+              "kind": "course",
+              "code": "BSS 1885"
+            },
+            {
+              "kind": "course",
+              "code": "BSS 1890"
+            },
+            {
+              "kind": "course",
+              "code": "EPI 1700"
+            },
+            {
+              "kind": "course",
+              "code": "EPI 1855"
+            },
+            {
+              "kind": "course",
+              "code": "EPI 1895"
+            },
+            {
+              "kind": "course",
+              "code": "EPI 1900"
+            },
+            {
+              "kind": "course",
+              "code": "HSP 1480"
+            },
+            {
+              "kind": "course",
+              "code": "PHP 1040"
+            },
+            {
+              "kind": "course",
+              "code": "PHP 1540"
+            },
+            {
+              "kind": "course",
+              "code": "PHP 1970"
+            },
+            {
+              "kind": "course",
+              "code": "PHP 1964"
+            },
+            {
+              "kind": "course",
+              "code": "STAT 1511"
+            },
+            {
+              "kind": "course",
+              "code": "STAT 1560"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Capstone Course",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "PHP 1910"
+                },
+                {
+                  "kind": "course",
+                  "code": "PHP 1915"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Note: The requirement for BIOL 0200 can be satisfied with placement notation.",
+      "These courses must be at the 1000-level or higher.",
+      "In addition to courses listed above, you may also consider taking:"
+    ]
+  },
+  {
+    "slug": "pubh",
+    "name": "Public Health",
+    "degree": "Satisfying Experiential Learning Requirements",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "course",
+          "code": "BSS 1300"
+        },
+        {
+          "kind": "course",
+          "code": "BSS 1810"
+        },
+        {
+          "kind": "course",
+          "code": "EPI 1725"
+        },
+        {
+          "kind": "course",
+          "code": "HSP 1500"
+        },
+        {
+          "kind": "course",
+          "code": "HSP 1821"
+        },
+        {
+          "kind": "course",
+          "code": "PHP 1830"
+        }
+      ]
+    },
+    "unparsed": []
+  }
+]

@@ -1,0 +1,853 @@
+[
+  {
+    "slug": "biol",
+    "name": "Biology",
+    "degree": "AB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Prerequisites:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CHEM 0330"
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 0350"
+            },
+            {
+              "kind": "course",
+              "code": "MATH 0090"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "One of the following:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "MATH 0100"
+            },
+            {
+              "kind": "course",
+              "code": "MATH 0170"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Ten Core Courses:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "BIOL 0200"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Area 1 (Cell/Molecular Biology)",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "BIOL 0280"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0470"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0500"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0510"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0530"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1050"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1310"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1515"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1810"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1865"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1020"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Area 2 (Structure/Function)",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "BIOL 0410"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0440"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0800"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1120"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1155"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1310"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1330"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1505"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1800"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1865"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 0010"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Area 3 (Organismal Biology)",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "BIOL 0210"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0380"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0410"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0420"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0430"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0450"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0480"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1480"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1515"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1800"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 0490"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Or a statistics course, to be approved by the concentration advisor.",
+      "Six additional courses chosen from BIOL and/or NEUR offerings for concentrators. The Core may include up to two related sciences, with advisor approval. The Core must also include a Senior Capstone.",
+      "1. One of the following approved courses: BIOL 0946, 1100, 1140, 1150, 1250, 1330, 1515, 1525, 1535, 1555, 1575, 1600, 1820, 1970A.",
+      "2. One semester of independent research/independent study (BIOL 1950 or BIOL 1960).",
+      "Please visit the BUE webpage for more information."
+    ]
+  },
+  {
+    "slug": "biol",
+    "name": "Biology",
+    "degree": "ScB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Prerequisites:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "MATH 0090"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "One of the following:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "MATH 0100"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0170"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Each of the following:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CHEM 0330"
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 0350"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CHEM 0360"
+                },
+                {
+                  "kind": "course",
+                  "code": "BIOL 0280"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 0030"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 0040"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Core Courses:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "BIOL 0200"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Area 1 (Cell/Molecular Biology)",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "BIOL 0280"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0470"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0500"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0510"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0530"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1050"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1310"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1515"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1810"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1865"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1020"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Area 2 (Structure/Function)",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "BIOL 0410"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0440"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0800"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1120"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1155"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1310"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1330"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1505"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1800"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1865"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 0010"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Area 3 (Organismal Biology)",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "BIOL 0210"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0380"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0410"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0420"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0430"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0450"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0480"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1480"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1515"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1800"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 0490"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Choose two:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "BIOL 1950"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1960"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 1970"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "or a statistics course to be approved by the concentration advisor",
+      "Six additional courses chosen from BIOL and/or NEUR offerings for concentrators. The Core may include up to two related sciences, with advisor approval. The Core must also include research.",
+      "The two semester research requirement may be satisfied by any two of the opportunities listed below. Students may find the following resources useful in planning for research: the annual BUE-PLME Finding, Securing and Succeeding in Research workshop, the BUE Research webpage, and the Sheridan Center’s Undergraduate Research & Experiential Opportunities webpage. Following conversation and agreement with the advisor, students articulate the research plan in the ASK declaration (in the designated text box) which is submitted for review and approval by the advisor.",
+      "Independent study course in a related discipline (i.e. STEM disciplines, ENVS, PHP, etc.) if the project is relevant to the student’s learning goals and interests in the concentration.",
+      "A summer research experience equivalent in scope and scale to work the student would pursue in a Biology independent study course. Examples include UTRAs, LINK awards, approved research programs at other institutions, etc. These experiences do not count as a course in the 10 course core requirement, but they can be used to satisfy the one semester of the research requirement. Advisors will work with students to review these experiences - drawing on a range of potential materials including a written summary of the experience, formal work plans, materials produced (i.e. presentations/papers), and in some cases a letter from the supporting advisor.",
+      "Other equivalent opportunities not listed - with approval from the concentration advisor and Dean Achilli.",
+      "Students are encouraged to pursue research related to their track",
+      "The advanced thematic track consists of three additional biological sciences courses (not including BIOL 1950/1960 research) that form a Track. Tracks include: Immuno/Pathobiology; Ecology, Evolution and Organismal Biology; Physiology and Biotechnology; Neurobiology; Physical Sciences; Cell and Molecular Biology; Biomedical Informatics. At least two track courses, and preferably all three, must be above 1000-level. Track courses should form a cohesive grouping approved by the concentration advisor."
+    ]
+  },
+  {
+    "slug": "biol",
+    "name": "Biology",
+    "degree": "Tracks",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Biomedical Informatics - BIOL 1535 is required for this track along with 2 additional courses from the following (Additional advanced courses will be considered w/ advisor approval):",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "BIOL 1555"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1575"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1595"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": []
+  },
+  {
+    "slug": "biol",
+    "name": "Biology",
+    "degree": "Tracks",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Three courses, for example:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "BIOL 1050"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1222A"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1270"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1300"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1310"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1330"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1540"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1545"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1580"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1810"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1820"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1865"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1970A"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": []
+  },
+  {
+    "slug": "biol",
+    "name": "Biology",
+    "degree": "Tracks",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Three courses, for example:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "BIOL 1430"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1435"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1440"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1465"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1470"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1480"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1505"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1515"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1545"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1800"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1775"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": []
+  },
+  {
+    "slug": "biol",
+    "name": "Biology",
+    "degree": "Tracks",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Three courses, for example:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "BIOL 1250"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1290"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1295"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1520"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1525"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1550"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1560"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1600"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": []
+  },
+  {
+    "slug": "biol",
+    "name": "Biology",
+    "degree": "Tracks",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Three courses, for example:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "BIOL 1100"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1110"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1260"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1650"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1610"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "NEUR listings 1000-level or above"
+    ]
+  },
+  {
+    "slug": "biol",
+    "name": "Biology",
+    "degree": "Tracks",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Three courses, for example:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "BIOL 1070"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1090"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1100"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1110"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1120"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1140"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1150"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1160"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1260"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1300"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1505"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1580"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1810"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1820"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1865"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": []
+  },
+  {
+    "slug": "biol",
+    "name": "Biology",
+    "degree": "Tracks",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": []
+    },
+    "unparsed": [
+      "Must be a coherent set of three courses drawn from the Physical Sciences; courses must be above the introductory level and approved by advisor"
+    ]
+  }
+]

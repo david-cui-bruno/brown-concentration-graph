@@ -1,0 +1,413 @@
+[
+  {
+    "slug": "iapa",
+    "name": "International and Public Affairs",
+    "degree": "Track Specialization and Electives",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "course",
+          "code": "IAPA 0300"
+        },
+        {
+          "kind": "course",
+          "code": "IAPA 0400"
+        },
+        {
+          "kind": "course",
+          "code": "IAPA 0900"
+        },
+        {
+          "kind": "course",
+          "code": "ECON 1000"
+        },
+        {
+          "kind": "course",
+          "code": "POLS 1020"
+        },
+        {
+          "kind": "course",
+          "code": "SOC 1490"
+        },
+        {
+          "kind": "course",
+          "code": "IAPA 1001"
+        },
+        {
+          "kind": "course",
+          "code": "IAPA 1002"
+        },
+        {
+          "kind": "course",
+          "code": "IAPA 1003"
+        },
+        {
+          "kind": "course",
+          "code": "IAPA 1500A"
+        },
+        {
+          "kind": "course",
+          "code": "SOC 1020"
+        },
+        {
+          "kind": "course",
+          "code": "ECON 1620"
+        },
+        {
+          "kind": "course",
+          "code": "IAPA 1502"
+        },
+        {
+          "kind": "course",
+          "code": "POLS 1600"
+        },
+        {
+          "kind": "course",
+          "code": "SOC 1100"
+        },
+        {
+          "kind": "course",
+          "code": "IAPA 1700P"
+        },
+        {
+          "kind": "course",
+          "code": "IAPA 1700R"
+        },
+        {
+          "kind": "course",
+          "code": "IAPA 1700S"
+        },
+        {
+          "kind": "course",
+          "code": "IAPA 1701M"
+        },
+        {
+          "kind": "course",
+          "code": "IAPA 1701N"
+        },
+        {
+          "kind": "course",
+          "code": "IAPA 1701V"
+        },
+        {
+          "kind": "course",
+          "code": "IAPA 1701W"
+        },
+        {
+          "kind": "course",
+          "code": "IAPA 1701X"
+        },
+        {
+          "kind": "course",
+          "code": "IAPA 1701Y"
+        },
+        {
+          "kind": "course",
+          "code": "IAPA 1701Z"
+        },
+        {
+          "kind": "course",
+          "code": "IAPA 1702D"
+        },
+        {
+          "kind": "course",
+          "code": "IAPA 1702H"
+        },
+        {
+          "kind": "course",
+          "code": "IAPA 1702I"
+        },
+        {
+          "kind": "course",
+          "code": "IAPA 1800D"
+        },
+        {
+          "kind": "course",
+          "code": "IAPA 1801D"
+        },
+        {
+          "kind": "course",
+          "code": "IAPA 1801F"
+        },
+        {
+          "kind": "course",
+          "code": "IAPA 1802M"
+        },
+        {
+          "kind": "course",
+          "code": "IAPA 1803"
+        },
+        {
+          "kind": "course",
+          "code": "IAPA 1804"
+        },
+        {
+          "kind": "course",
+          "code": "IAPA 1804A"
+        },
+        {
+          "kind": "course",
+          "code": "IAPA 1804D"
+        },
+        {
+          "kind": "course",
+          "code": "IAPA 1804M"
+        },
+        {
+          "kind": "course",
+          "code": "IAPA 1810"
+        },
+        {
+          "kind": "course",
+          "code": "IAPA 1811"
+        },
+        {
+          "kind": "course",
+          "code": "IAPA 1821P"
+        },
+        {
+          "kind": "course",
+          "code": "IAPA 1816A"
+        },
+        {
+          "kind": "course",
+          "code": "IAPA 1817A"
+        }
+      ]
+    },
+    "unparsed": [
+      "Gateway Course",
+      "Track Foundational",
+      "Track Electives (See tables below)",
+      "Qualitative Research Methods",
+      "Quantitative Research Methods",
+      "Junior Seminar",
+      "Senior Capstone"
+    ]
+  },
+  {
+    "slug": "iapa",
+    "name": "International and Public Affairs",
+    "degree": "Track Specialization and Electives",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "DEVELOPMENT TRACK",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "ANTH 1150"
+            },
+            {
+              "kind": "course",
+              "code": "ANTH 1301"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1500"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1560"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1554"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1267"
+            },
+            {
+              "kind": "course",
+              "code": "IAPA 1401"
+            },
+            {
+              "kind": "course",
+              "code": "IAPA 1402"
+            },
+            {
+              "kind": "course",
+              "code": "JUDS 1711"
+            },
+            {
+              "kind": "course",
+              "code": "HSP 1460"
+            },
+            {
+              "kind": "course",
+              "code": "POLS 1290"
+            },
+            {
+              "kind": "course",
+              "code": "POLS 1440"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1270"
+            },
+            {
+              "kind": "course",
+              "code": "URBN 1871G"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Five courses from the following (approval of track elective courses not on the pre-approved list is permitted only in extenuating circumstances):"
+    ]
+  },
+  {
+    "slug": "iapa",
+    "name": "International and Public Affairs",
+    "degree": "Development Professional Track",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "SECURITY TRACK ELECTIVES",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CSCI 1800"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1340"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1080"
+            },
+            {
+              "kind": "course",
+              "code": "IAPA 1201B"
+            },
+            {
+              "kind": "course",
+              "code": "IAPA 1203"
+            },
+            {
+              "kind": "course",
+              "code": "POLS 1225"
+            },
+            {
+              "kind": "course",
+              "code": "POLS 1500"
+            },
+            {
+              "kind": "course",
+              "code": "POLS 1822I"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1128"
+            },
+            {
+              "kind": "course",
+              "code": "UNIV 1001"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Five courses from the following (approval of track elective courses not on the pre-approved list is permitted only in extenuating circumstances):"
+    ]
+  },
+  {
+    "slug": "iapa",
+    "name": "International and Public Affairs",
+    "degree": "Security Professional Track",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "POLICY & GOVERNANCE TRACK ELECTIVES",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "AFRI 1170"
+            },
+            {
+              "kind": "course",
+              "code": "ANTH 1300"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1580"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1385"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1570"
+            },
+            {
+              "kind": "course",
+              "code": "IAPA 1201B"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1400"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1121"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1531"
+            },
+            {
+              "kind": "course",
+              "code": "HSP 1450"
+            },
+            {
+              "kind": "course",
+              "code": "HSP 1681"
+            },
+            {
+              "kind": "course",
+              "code": "POLS 1090"
+            },
+            {
+              "kind": "course",
+              "code": "POLS 1280"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1116"
+            },
+            {
+              "kind": "course",
+              "code": "URBN 1250"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Five courses from the following (approval of track elective courses not on the pre-approved list is permitted only in extenuating circumstances):"
+    ]
+  }
+]

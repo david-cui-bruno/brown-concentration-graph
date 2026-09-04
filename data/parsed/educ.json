@@ -1,0 +1,111 @@
+[
+  {
+    "slug": "educ",
+    "name": "Education Studies",
+    "degree": "Foundational Courses Required for Education Studies Concentration",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "course",
+          "code": "EDUC 0300"
+        },
+        {
+          "kind": "course",
+          "code": "EDUC 0750"
+        },
+        {
+          "kind": "course",
+          "code": "EDUC 1900"
+        }
+      ]
+    },
+    "unparsed": []
+  },
+  {
+    "slug": "educ",
+    "name": "Education Studies",
+    "degree": "Other Courses in Education Studies Concentration",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "4 Courses in Area of Emphasis (could include any 4 of the following)",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "EDUC 0515"
+            },
+            {
+              "kind": "course",
+              "code": "EDUC 0520"
+            },
+            {
+              "kind": "course",
+              "code": "EDUC 0530"
+            },
+            {
+              "kind": "course",
+              "code": "EDUC 0610"
+            },
+            {
+              "kind": "course",
+              "code": "EDUC 0620"
+            },
+            {
+              "kind": "course",
+              "code": "EDUC 0750"
+            },
+            {
+              "kind": "course",
+              "code": "EDUC 0800"
+            },
+            {
+              "kind": "course",
+              "code": "EDUC 0825"
+            },
+            {
+              "kind": "course",
+              "code": "EDUC 1190"
+            },
+            {
+              "kind": "course",
+              "code": "EDUC 1240"
+            },
+            {
+              "kind": "course",
+              "code": "EDUC 1320"
+            },
+            {
+              "kind": "course",
+              "code": "EDUC 1430"
+            },
+            {
+              "kind": "course",
+              "code": "EDUC 1475"
+            },
+            {
+              "kind": "course",
+              "code": "EDUC 1490"
+            },
+            {
+              "kind": "course",
+              "code": "EDUC 1660"
+            },
+            {
+              "kind": "course",
+              "code": "EDUC 1675"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": []
+  }
+]

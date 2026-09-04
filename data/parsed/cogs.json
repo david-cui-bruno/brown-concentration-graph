@@ -1,0 +1,371 @@
+[
+  {
+    "slug": "cogs",
+    "name": "Cognitive Science",
+    "degree": "AB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "course",
+          "code": "CPSY 0900"
+        },
+        {
+          "kind": "group",
+          "label": "__or__",
+          "type": "CHOOSE_N",
+          "n": 1,
+          "children": [
+            {
+              "kind": "course",
+              "code": "CPSY 1900"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1901"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Three Foundation Courses within CPSY:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CPSY 0010"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CPSY 0200"
+                },
+                {
+                  "kind": "course",
+                  "code": "CPSY 0220"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CPSY 0400"
+                },
+                {
+                  "kind": "course",
+                  "code": "CPSY 0450"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CPSY 0500"
+                },
+                {
+                  "kind": "course",
+                  "code": "CPSY 0550"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CPSY 0610"
+                },
+                {
+                  "kind": "course",
+                  "code": "CPSY 0700"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0800"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "One Foundation Course Outside of CPSY:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "LING 0100"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 0010"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 0010"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "One Foundation Course in Computation:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CPSY 0950"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1291"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1492"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1950"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CSCI 0111"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0150"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0170"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0190"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Or choose from a set of approved courses in PHIL, ANTH, or SOC",
+      "Or any introductory CSCI course with a programming component such as:",
+      "Four Approved Electives related to Cognitive Science, such as:",
+      "Students should take four courses from CPSY, PHIL, NEUR, SOC, ANTH, LING, or CSCI with at least one of these classes coming from CPSY at 1the 1000-level and at least two others at the 1000-level.",
+      "Capstone: Independent Study (CPSY 1970, CPSY 1980) or approved seminar"
+    ]
+  },
+  {
+    "slug": "cogs",
+    "name": "Cognitive Science",
+    "degree": "ScB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "course",
+          "code": "CPSY 0900"
+        },
+        {
+          "kind": "group",
+          "label": "__or__",
+          "type": "CHOOSE_N",
+          "n": 1,
+          "children": [
+            {
+              "kind": "course",
+              "code": "CPSY 1900"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1901"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Three Foundation Courses within CPSY:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CPSY 0010"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CPSY 0200"
+                },
+                {
+                  "kind": "course",
+                  "code": "CPSY 0220"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CPSY 0400"
+                },
+                {
+                  "kind": "course",
+                  "code": "CPSY 0450"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CPSY 0500"
+                },
+                {
+                  "kind": "course",
+                  "code": "CPSY 0550"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CPSY 0610"
+                },
+                {
+                  "kind": "course",
+                  "code": "CPSY 0700"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0800"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "One Foundation Course Outside of CPSY:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "LING 0100"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 0010"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 0010"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "One Foundation Course in Computation:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CPSY 0950"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1291"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1492"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1950"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CSCI 0111"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0150"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0170"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0190"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Or choose from a set of approved courses in PHIL, ANTH, or SOC",
+      "Or any introductory CSCI course with a programming component such as:",
+      "Four Approved Electives related to Cognitive Science",
+      "Students should take four courses from CPSY, PHIL, NEUR, SOC, ANTH, LING, or CSCI with at least one of these classes coming from CPSY at 1the 1000-level and at least two others at the 1000-level.",
+      "Five Additional STEM Courses, of which at least two (2) must be PCSY courses at the 1000-level (a lab course is strongly recommended). Courses in APMA, BIOL, CSCI, CHEM, CPSY, MATH, NEUR, or PHYS will be considered and must be applicable to a concentration in that departmen",
+      "Capstone: Independent Study (CPSY 1970, CPSY 1980) or approved seminar"
+    ]
+  }
+]

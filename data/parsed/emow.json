@@ -1,0 +1,197 @@
+[
+  {
+    "slug": "emow",
+    "name": "Early Modern World",
+    "degree": "Requirements",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "course",
+          "code": "HIAA 0062"
+        },
+        {
+          "kind": "course",
+          "code": "ENGL 0100C"
+        },
+        {
+          "kind": "course",
+          "code": "ENGL 0150D"
+        },
+        {
+          "kind": "course",
+          "code": "HIST 0286A"
+        },
+        {
+          "kind": "course",
+          "code": "ENGL 0310A"
+        },
+        {
+          "kind": "course",
+          "code": "ENGL 0310E"
+        },
+        {
+          "kind": "course",
+          "code": "HIAA 0550"
+        },
+        {
+          "kind": "course",
+          "code": "HIAA 0560"
+        },
+        {
+          "kind": "course",
+          "code": "HIAA 0630"
+        },
+        {
+          "kind": "course",
+          "code": "COLT 0710I"
+        },
+        {
+          "kind": "course",
+          "code": "FREN 0720A"
+        },
+        {
+          "kind": "course",
+          "code": "POBS 0910"
+        },
+        {
+          "kind": "course",
+          "code": "ITAL 0981"
+        },
+        {
+          "kind": "course",
+          "code": "FREN 1030A"
+        },
+        {
+          "kind": "course",
+          "code": "FREN 1030B"
+        },
+        {
+          "kind": "course",
+          "code": "FREN 1040B"
+        },
+        {
+          "kind": "course",
+          "code": "FREN 1040C"
+        },
+        {
+          "kind": "course",
+          "code": "FREN 1040D"
+        },
+        {
+          "kind": "course",
+          "code": "ENGL 1310A"
+        },
+        {
+          "kind": "course",
+          "code": "ENGL 1310H"
+        },
+        {
+          "kind": "course",
+          "code": "ENGL 1310J"
+        },
+        {
+          "kind": "course",
+          "code": "ENGL 1310O"
+        },
+        {
+          "kind": "course",
+          "code": "ENGL 1360K"
+        },
+        {
+          "kind": "course",
+          "code": "ENGL 1360P"
+        },
+        {
+          "kind": "course",
+          "code": "ENGL 1360S"
+        },
+        {
+          "kind": "course",
+          "code": "ENGL 1360Z"
+        },
+        {
+          "kind": "course",
+          "code": "COLT 1410P"
+        },
+        {
+          "kind": "course",
+          "code": "HIAA 1560A"
+        },
+        {
+          "kind": "course",
+          "code": "ITAL 1580"
+        },
+        {
+          "kind": "course",
+          "code": "HIAA 1600I"
+        },
+        {
+          "kind": "course",
+          "code": "JUDS 1751"
+        },
+        {
+          "kind": "course",
+          "code": "HIST 1825H"
+        },
+        {
+          "kind": "course",
+          "code": "ENGL 1950A"
+        },
+        {
+          "kind": "course",
+          "code": "HIST 1964A"
+        },
+        {
+          "kind": "course",
+          "code": "HIST 1974M"
+        },
+        {
+          "kind": "course",
+          "code": "EMOW 1980"
+        },
+        {
+          "kind": "course",
+          "code": "LATN 2000A"
+        },
+        {
+          "kind": "course",
+          "code": "FREN 2130E"
+        },
+        {
+          "kind": "course",
+          "code": "FREN 2130F"
+        },
+        {
+          "kind": "course",
+          "code": "HISP 2160G"
+        },
+        {
+          "kind": "course",
+          "code": "ENGL 2360O"
+        },
+        {
+          "kind": "course",
+          "code": "ENGL 2360P"
+        },
+        {
+          "kind": "course",
+          "code": "ENGL 2360S"
+        },
+        {
+          "kind": "course",
+          "code": "HISP 2520I"
+        },
+        {
+          "kind": "course",
+          "code": "ITAL 2550"
+        }
+      ]
+    },
+    "unparsed": [
+      "Under the supervision of the director of the program, students may choose courses from the following:"
+    ]
+  }
+]

@@ -1,0 +1,1760 @@
+[
+  {
+    "slug": "envs",
+    "name": "Environmental Sciences and Studies",
+    "degree": "AB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Core Requirements",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "ENVS 0110"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 0490"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Tools - pick one",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "ANTH 1201"
+            },
+            {
+              "kind": "course",
+              "code": "ANTH 1940"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 0160"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 0350"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 0355"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 0360"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 0365"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 0650"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 1650"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 1655"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 1930P"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0495"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0900"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0950"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 0111"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 0190"
+            },
+            {
+              "kind": "course",
+              "code": "DATA 0200"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1620"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 0250"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1250"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1320"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1330"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1340"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1400"
+            },
+            {
+              "kind": "course",
+              "code": "ENGL 1160P"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1107"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1911"
+            },
+            {
+              "kind": "course",
+              "code": "HMAN 1977P"
+            },
+            {
+              "kind": "course",
+              "code": "IAPA 1500A"
+            },
+            {
+              "kind": "course",
+              "code": "EPI 1855"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1020"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1100"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1117"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1340"
+            },
+            {
+              "kind": "course",
+              "code": "URBN 1100"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Foundations in Earth Sciences and Technology - pick one",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "EEPS 0070"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 0160M"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 0160W"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 0220"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 0240"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 0360"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 0830"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 0850"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1250"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1310"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1370"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1400"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1510"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1720"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 0790"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1742"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1723"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Ecology/Biological Sciences - pick one",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "BIOL 0210"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0380"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0420"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0430"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0940D"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1440"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1470"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1515"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1775"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Environmental Justice and Equity - pick one",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "AMST 0192T"
+            },
+            {
+              "kind": "course",
+              "code": "ANTH 1560"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 0705"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1232"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1247"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1554"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1601"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1909"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1081"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 0250"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Environmental Policy and Politics - pick one",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "ECON 1050"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 0715"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 0717"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 0718"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1555"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1574"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1580"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1601"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1615"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1805"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1823"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1925"
+            },
+            {
+              "kind": "course",
+              "code": "IAPA 1702K"
+            },
+            {
+              "kind": "course",
+              "code": "LACA 1504R"
+            },
+            {
+              "kind": "course",
+              "code": "POLS 1015"
+            },
+            {
+              "kind": "course",
+              "code": "POLS 1435"
+            },
+            {
+              "kind": "course",
+              "code": "POLS 1820G"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Environmental History and Humanities - pick one",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "AMST 1904K"
+            },
+            {
+              "kind": "course",
+              "code": "ANTH 0680"
+            },
+            {
+              "kind": "course",
+              "code": "ANTH 1555"
+            },
+            {
+              "kind": "course",
+              "code": "ANTH 1560"
+            },
+            {
+              "kind": "course",
+              "code": "ARCH 0680"
+            },
+            {
+              "kind": "course",
+              "code": "ARCH 1863"
+            },
+            {
+              "kind": "course",
+              "code": "CHIN 0914"
+            },
+            {
+              "kind": "course",
+              "code": "ENGL 1160P"
+            },
+            {
+              "kind": "course",
+              "code": "ENGL 1190U"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1554"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1825"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0270A"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0270A"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0270B"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1081"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1360"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1382"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1820B"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1825F"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1973Q"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1974D"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1976I"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1976J"
+            },
+            {
+              "kind": "course",
+              "code": "HMAN 1977O"
+            },
+            {
+              "kind": "course",
+              "code": "HMAN 1977P"
+            },
+            {
+              "kind": "course",
+              "code": "HMAN 1977S"
+            },
+            {
+              "kind": "course",
+              "code": "LACA 1504P"
+            },
+            {
+              "kind": "course",
+              "code": "RELS 0090B"
+            },
+            {
+              "kind": "course",
+              "code": "RELS 0260"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Courses focused on building qualitative or quantitative research tools",
+      "Courses focusing on earth, atmospheric, engineering or water sciences.",
+      "Courses focused on ecological or conservation biology",
+      "Courses focused on environmental issues through a justice and/or equity lens",
+      "Courses focused on the policy, politics and/or governance of environmental issues",
+      "Courses focused on the role of history, culture, and the arts in the environment",
+      "Electives provide increased environmental expertise and further enhance a student’s ability to customize a course of study. Acceptable electives include any ENVS courses, a class that's MAIN FOCUS is on the environment, and prerequisites for classes students take to fulfill requirements within their declared track.",
+      "The College expects that a capstone will be completed in semesters 7 or 8 - with the intention of providing an opportunity for students to integrate many aspects of their course of study, or area of focus. This requirement can be met with a two-semester thesis (ENVS 1970 & ENVS 1971), one-semester research project (ENVS 1970 or ENVS 1971), or an approved capstone course."
+    ]
+  },
+  {
+    "slug": "envs",
+    "name": "Environmental Sciences and Studies",
+    "degree": "ScB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "CORE REQUIREMENTS (2 courses total)",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "ENVS 0110"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 0490"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "TOOLS - Pick 1",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "ANTH 1201"
+            },
+            {
+              "kind": "course",
+              "code": "ANTH 1940"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 0160"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 0350"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 0355"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 0360"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 0365"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 0650"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 1650"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 1655"
+            },
+            {
+              "kind": "course",
+              "code": "APMA 1930P"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0495"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0900"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0950"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 0111"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 0190"
+            },
+            {
+              "kind": "course",
+              "code": "DATA 0200"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1620"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 0250"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1250"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1320"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1330"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1340"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1350"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1400"
+            },
+            {
+              "kind": "course",
+              "code": "ENGL 1160P"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1107"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1911"
+            },
+            {
+              "kind": "course",
+              "code": "HMAN 1977P"
+            },
+            {
+              "kind": "course",
+              "code": "IAPA 1500A"
+            },
+            {
+              "kind": "course",
+              "code": "EPI 1855"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1020"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1100"
+            },
+            {
+              "kind": "course",
+              "code": "URBN 1100"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Foundations in Earth Sciences and Technology - Pick 1",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "EEPS 0070"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 0160M"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 0160W"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 0220"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 0240"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 0360"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 0830"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 0850"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1250"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1310"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1370"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1400"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1510"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1720"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 0790"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1742"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1723"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Ecology/Biological Sciences - Pick 1",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "BIOL 0210"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0380"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0420"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0430"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0940D"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1440"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1470"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1515"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1775"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Environmental Justice and Equity - Pick 1",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "AMST 0192T"
+            },
+            {
+              "kind": "course",
+              "code": "ANTH 1560"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 0705"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1232"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1247"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1554"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1601"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1878"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1909"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1081"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Environmental Policy and Politics - Pick 1",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "ECON 1050"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 0715"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 0717"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 0718"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1555"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1574"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1580"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1601"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1615"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1805"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1823"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1925"
+            },
+            {
+              "kind": "course",
+              "code": "IAPA 1702K"
+            },
+            {
+              "kind": "course",
+              "code": "LACA 1504R"
+            },
+            {
+              "kind": "course",
+              "code": "POLS 1015"
+            },
+            {
+              "kind": "course",
+              "code": "POLS 1435"
+            },
+            {
+              "kind": "course",
+              "code": "POLS 1820G"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Environmental History and Humanities - Pick 1",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "AMST 1907K"
+            },
+            {
+              "kind": "course",
+              "code": "ANTH 0680"
+            },
+            {
+              "kind": "course",
+              "code": "ANTH 1555"
+            },
+            {
+              "kind": "course",
+              "code": "ANTH 1560"
+            },
+            {
+              "kind": "course",
+              "code": "ARCH 0680"
+            },
+            {
+              "kind": "course",
+              "code": "ARCH 1863"
+            },
+            {
+              "kind": "course",
+              "code": "CHIN 0914"
+            },
+            {
+              "kind": "course",
+              "code": "ENGL 1160P"
+            },
+            {
+              "kind": "course",
+              "code": "ENGL 1190U"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1554"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1825"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0270A"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0270B"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1081"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1360"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1382"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1820B"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1825F"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1973Q"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1974D"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1976I"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1976J"
+            },
+            {
+              "kind": "course",
+              "code": "HMAN 1977O"
+            },
+            {
+              "kind": "course",
+              "code": "HMAN 1977P"
+            },
+            {
+              "kind": "course",
+              "code": "HMAN 1977S"
+            },
+            {
+              "kind": "course",
+              "code": "LACA 1504P"
+            },
+            {
+              "kind": "course",
+              "code": "RELS 0090B"
+            },
+            {
+              "kind": "course",
+              "code": "RELS 0260"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Two required courses for the ENV degree that build core competency in natural and social sciences related to the environment.",
+      "Courses focused on building qualitative or quantitative research tools.",
+      "Courses focusing on earth, atmospheric, engineering or water sciences.",
+      "Courses focused on ecological or conservation biology.",
+      "Courses focused on environmental issues through a justice and/or equity lens.",
+      "Courses focused on the policy, politics and/or governance of environmental issues.",
+      "Courses focused on the role of history, culture, and the arts in the environment.",
+      "Electives provide increased environmental expertise and further enhance your ability to customize your course of study. Acceptable electives include any ENVS course, a class that's MAIN FOCUS is the environment, and prerequisites for classes you take to fulfill requirements within your declared track.",
+      "The College expects that a capstone will be completed in semesters 7 or 8 - with the intention of providing an opportunity for students to integrate many aspects of their course of study, or area of focus. This requirement can be met with a two-semester thesis (ENVS 1970 & ENVS 1971), one-semester research project (ENVS 1970 or ENVS 1971), or an approved capstone course."
+    ]
+  },
+  {
+    "slug": "envs",
+    "name": "Environmental Sciences and Studies",
+    "degree": "Tracks",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "TRACK 1 - Climate and Energy",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "APMA 0160"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 0111"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 0190"
+            },
+            {
+              "kind": "course",
+              "code": "CSCI 1951A"
+            },
+            {
+              "kind": "course",
+              "code": "CHEM 0330"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 0240"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 0250"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1340"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1370"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1400"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1720"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 0030"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 0032"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 0790"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 0510"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 0810"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 0030"
+            },
+            {
+              "kind": "course",
+              "code": "PHYS 0050"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 0790"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1745"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1931P"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1400"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1580"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 0360"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 0830"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 0850"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1400"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1430"
+            },
+            {
+              "kind": "course",
+              "code": "ENGN 1723"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 0465"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1247"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1340"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1574"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1601"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1925"
+            },
+            {
+              "kind": "course",
+              "code": "POLS 1435"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "This track is intended for students interested in climate change science, energy systems, and energy/climate change policy.",
+      "FOUNDATIONS - pick two",
+      "These courses serve as a foundation to understanding energy, climate systems, and data analysis.",
+      "ENERGY, ENVIRONMENTAL TECH, & INFRASTRUCTURE - pick one",
+      "CLIMATE - pick one",
+      "ENERGY & CLIMATE POLICY - pick one"
+    ]
+  },
+  {
+    "slug": "envs",
+    "name": "Environmental Sciences and Studies",
+    "degree": "Tracks",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "TRACK 2 - Conservation Science and Natural Systems",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "BIOL 0420"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1470"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0410"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0430"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0450"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0480"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 0940D"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1515"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1775"
+            },
+            {
+              "kind": "course",
+              "code": "ANTH 1560"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 0715"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 0717"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 0718"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1232"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1555"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1805"
+            },
+            {
+              "kind": "course",
+              "code": "LACA 1504R"
+            },
+            {
+              "kind": "course",
+              "code": "POLS 1820G"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "This track is intended for students interested in ecological and conservation sciences.",
+      "ECOLOGY",
+      "CONSERVATION",
+      "ORGANISMAL DIVERSITY, ECOLOGY & CONSERVATION TOPICS - pick two",
+      "POLITICS & HISTORY OF NATURAL SYSTEMS - pick one"
+    ]
+  },
+  {
+    "slug": "envs",
+    "name": "Environmental Sciences and Studies",
+    "degree": "Tracks",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "TRACK 3 – Environmental Justice and Health",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "AFRI 0090"
+            },
+            {
+              "kind": "course",
+              "code": "ETHN 1000"
+            },
+            {
+              "kind": "course",
+              "code": "GNSS 0120"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 0230"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1270"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 0705"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1232"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1247"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1554"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1601"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1081"
+            },
+            {
+              "kind": "course",
+              "code": "ANTH 1201"
+            },
+            {
+              "kind": "course",
+              "code": "EEPS 1320"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1107"
+            },
+            {
+              "kind": "course",
+              "code": "HSP 0310"
+            },
+            {
+              "kind": "course",
+              "code": "PHP 0320"
+            },
+            {
+              "kind": "course",
+              "code": "HSP 0330"
+            },
+            {
+              "kind": "course",
+              "code": "BSS 0400"
+            },
+            {
+              "kind": "course",
+              "code": "BSS 1650"
+            },
+            {
+              "kind": "course",
+              "code": "HSP 1681"
+            },
+            {
+              "kind": "course",
+              "code": "EPI 1855"
+            },
+            {
+              "kind": "course",
+              "code": "PHP 1920"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1020"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1100"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1117"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1340"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "ENVIRONMENTAL HEALTH - pick one",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "BIOL 1455"
+            },
+            {
+              "kind": "course",
+              "code": "BIOL 1820"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 0120"
+            },
+            {
+              "kind": "course",
+              "code": "PHP 0720"
+            },
+            {
+              "kind": "course",
+              "code": "PHP 1070"
+            },
+            {
+              "kind": "course",
+              "code": "BSS 1101"
+            },
+            {
+              "kind": "course",
+              "code": "EPI 1700"
+            },
+            {
+              "kind": "course",
+              "code": "EPI 1720"
+            },
+            {
+              "kind": "course",
+              "code": "EPI 1725"
+            },
+            {
+              "kind": "course",
+              "code": "EPI 1730"
+            },
+            {
+              "kind": "course",
+              "code": "PLME 0250"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "This track is intended for students interested in exploring environmental issues through a justice/equity lens.",
+      "RACE, CLASS, & GENDER INEQUALITY - pick one",
+      "Any class focused on race, class, or gender - these courses do not have an environmental theme.",
+      "ENVIRONMENTAL JUSTICE & EQUITY - Pick 2",
+      "These courses focus on environmental issues through a justice and/or equity lens.",
+      "FOUNDATIONS IN HEALTH & INEQUALITY - pick one",
+      "These courses offer a foundation or an additional tool to study environmental health and inequality.",
+      "These courses focus specifically on public health and the environment"
+    ]
+  },
+  {
+    "slug": "envs",
+    "name": "Environmental Sciences and Studies",
+    "degree": "Tracks",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "TRACK 4 - Sustainable Development & Governance",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "ENVS 0717"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1615"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1805"
+            },
+            {
+              "kind": "course",
+              "code": "IAPA 1001"
+            },
+            {
+              "kind": "course",
+              "code": "IAPA 1404"
+            },
+            {
+              "kind": "course",
+              "code": "POLS 0200"
+            },
+            {
+              "kind": "course",
+              "code": "POLS 0400"
+            },
+            {
+              "kind": "course",
+              "code": "POLS 1435"
+            },
+            {
+              "kind": "course",
+              "code": "POLS 1440"
+            },
+            {
+              "kind": "course",
+              "code": "POLS 1500"
+            },
+            {
+              "kind": "course",
+              "code": "SOC 1490"
+            },
+            {
+              "kind": "course",
+              "code": "AMST 1904K"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 0705"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1232"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1554"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1580"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1601"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1825"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1360"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1382"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1960J"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 1973Q"
+            },
+            {
+              "kind": "course",
+              "code": "RELS 0090B"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1050"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1110"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1340"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1345"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1355"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1410"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1500"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1530"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1560"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1050"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1110"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1340"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1355"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1410"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1500"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1530"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1560"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1207"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1545"
+            },
+            {
+              "kind": "course",
+              "code": "ENVS 1547"
+            },
+            {
+              "kind": "course",
+              "code": "HIST 0150A"
+            },
+            {
+              "kind": "course",
+              "code": "IAPA 1701Y"
+            },
+            {
+              "kind": "course",
+              "code": "PHIL 1561"
+            },
+            {
+              "kind": "course",
+              "code": "URBN 1251"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "This track is intended for students interested in the interplay between environmental governance and economics on the global stage, with an emphasis on the non-Western world.",
+      "GLOBAL GOVERNANCE & DEVELOPMENT - pick one",
+      "Courses focused on global governance or development (some are non environmental).",
+      "ENVIRONMENT, JUSTICE, & NON-WESTERN PERSPECTIVES - pick two",
+      "Any class focused on the Environment and the Global South and/or other non-Western perspectives.",
+      "ECONOMIC PERSPECTIVES - pick one",
+      "These courses are intermediate-level economic tools courses.",
+      "FINANCE & ECONOMIC PERSPECTIVES - pick one",
+      "These courses are either intermediate-level economic tools courses, courses focused on sustainable investing and finance, or the social science of economics systems."
+    ]
+  }
+]

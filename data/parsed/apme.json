@@ -1,0 +1,1488 @@
+[
+  {
+    "slug": "apme",
+    "name": "Applied Mathematics-Economics",
+    "degree": "Requirements for the Bachelor of Arts",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Prerequisites:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "MATH 0100"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "APMA 0260"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0180"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0200"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0350"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "MATH 0520"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 0260"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Applied Mathematics Requirements",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "APMA 0355"
+            },
+            {
+              "kind": "group",
+              "label": "Select one of the following:",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "APMA 0160"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 0200"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0111"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0150"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0170"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0190"
+                },
+                {
+                  "kind": "group",
+                  "label": "Select one of the following:",
+                  "type": "CHOOSE_N",
+                  "n": 1,
+                  "children": [
+                    {
+                      "kind": "group",
+                      "label": "__or__",
+                      "type": "CHOOSE_N",
+                      "n": 1,
+                      "children": [
+                        {
+                          "kind": "course",
+                          "code": "APMA 1200"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "APMA 1210"
+                        }
+                      ]
+                    },
+                    {
+                      "kind": "course",
+                      "code": "APMA 1655"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Economics Requirements:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "ECON 1130"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1210"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1630"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1170"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1225"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1255"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1470"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1490"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1545"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1560"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1640"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1660"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1670"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1680"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1750"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1770"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1805"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1820"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1860"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1870"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "One 1000-level course from the \"data methods\" group:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "ECON 1301"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1310"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1315"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1330"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1340"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1345"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1355"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1360"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1375"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1385"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1400"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1410"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1430"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1510"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1520"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1530"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1629"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1640"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1660"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1670"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1680"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1825"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1830"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "APMA 0365",
+      "One 1000-level or higher APMA course (except APMA1910, APMA1920, and research/independent study)",
+      "Two 1000-level courses from the \"mathematical-economics\" group:",
+      "One additional 1000-level economics course."
+    ]
+  },
+  {
+    "slug": "apme",
+    "name": "Applied Mathematics-Economics",
+    "degree": "Requirements for the Bachelor of Science",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Prerequisites:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "MATH 0100"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "MATH 0520"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 0260"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "APMA 0260"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0180"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0200"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0350"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Applied Mathematics Requirements",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "APMA 0355"
+            },
+            {
+              "kind": "group",
+              "label": "Select one of the following:",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "APMA 0160"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 0200"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0111"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0190"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0150"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0170"
+                },
+                {
+                  "kind": "group",
+                  "label": "Select one of the following:",
+                  "type": "CHOOSE_N",
+                  "n": 1,
+                  "children": [
+                    {
+                      "kind": "group",
+                      "label": "__or__",
+                      "type": "CHOOSE_N",
+                      "n": 1,
+                      "children": [
+                        {
+                          "kind": "course",
+                          "code": "APMA 1200"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "APMA 1210"
+                        }
+                      ]
+                    },
+                    {
+                      "kind": "course",
+                      "code": "APMA 1655"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Economics Requirements:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "ECON 1130"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1210"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1630"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1170"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1225"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1255"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1470"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1490"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1545"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1560"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1640"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1660"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1670"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1680"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1750"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1770"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1805"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1820"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1860"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1870"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "One 1000-level course from the \"data methods\" group:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "ECON 1301"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1310"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1315"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1330"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1340"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1345"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1355"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1360"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1375"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1385"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1400"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1410"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1430"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1510"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1520"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1530"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1629"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1640"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1660"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1670"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1680"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1825"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1830"
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "APMA 0365",
+      "Two 1000-level or higher APMA or MATH courses with at least one in APMA (except APMA1910, APMA1920, MATH1090, MATH1910 and research/independent study). At most one of APMA 1000, APMA 1001, MATH 1000, MATH 1001 and at most one of APMA 1650, APMA 1655, MATH 1210, MATH 1610 can be used for concentration credit",
+      "Three 1000-level courses from the \"mathematical-economics\" group:",
+      "Two additional 1000-level economics courses"
+    ]
+  },
+  {
+    "slug": "apme",
+    "name": "Applied Mathematics-Economics",
+    "degree": "AB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Prerequisites:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "MATH 0100"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "MATH 0520"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 0260"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "APMA 0260"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0180"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0200"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0350"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Applied Mathematics Requirements",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "APMA 0355"
+            },
+            {
+              "kind": "group",
+              "label": "Select one of the following:",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "APMA 0160"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 0200"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0111"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0150"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0170"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0190"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 1200"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 1655"
+                },
+                {
+                  "kind": "group",
+                  "label": "Select one of the following:",
+                  "type": "CHOOSE_N",
+                  "n": 1,
+                  "children": [
+                    {
+                      "kind": "course",
+                      "code": "APMA 1160"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "APMA 1180"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "APMA 1210"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "APMA 1330"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "APMA 1360"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "APMA 1660"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "APMA 1670"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "APMA 1680"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "APMA 1690"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "APMA 1710"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "APMA 1720"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "APMA 1740"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "APMA 1860"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "MATH 1010"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Economics Requirements:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "ECON 1130"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1210"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1630"
+            },
+            {
+              "kind": "group",
+              "label": "Select two 1000-level courses from the \"financial economics\" group:",
+              "type": "CHOOSE_N",
+              "n": 2,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "ECON 1710"
+                },
+                {
+                  "kind": "course",
+                  "code": "ECON 1720"
+                },
+                {
+                  "kind": "course",
+                  "code": "ECON 1730"
+                },
+                {
+                  "kind": "course",
+                  "code": "ECON 1750"
+                },
+                {
+                  "kind": "course",
+                  "code": "ECON 1760"
+                },
+                {
+                  "kind": "course",
+                  "code": "ECON 1770"
+                },
+                {
+                  "kind": "course",
+                  "code": "ECON 1780"
+                },
+                {
+                  "kind": "course",
+                  "code": "ECON 1830"
+                },
+                {
+                  "kind": "group",
+                  "label": "Select one 1000-level course from the \"mathematical economics\" group:",
+                  "type": "CHOOSE_N",
+                  "n": 1,
+                  "children": [
+                    {
+                      "kind": "course",
+                      "code": "ECON 1170"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1225"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1255"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1470"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1490"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1545"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1560"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1640"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1660"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1670"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1680"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1750"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1770"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1805"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1820"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1860"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1870"
+                    },
+                    {
+                      "kind": "group",
+                      "label": "Select one 1000-level course from the \"data methods\" group:",
+                      "type": "CHOOSE_N",
+                      "n": 1,
+                      "children": [
+                        {
+                          "kind": "course",
+                          "code": "ECON 1301"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "ECON 1310"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "ECON 1315"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "ECON 1330"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "ECON 1340"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "ECON 1345"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "ECON 1355"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "ECON 1360"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "ECON 1375"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "ECON 1385"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "ECON 1400"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "ECON 1410"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "ECON 1430"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "ECON 1510"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "ECON 1520"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "ECON 1530"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "ECON 1629"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "ECON 1640"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "ECON 1660"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "ECON 1670"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "ECON 1680"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "ECON 1825"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "ECON 1830"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "APMA 0365",
+      "APMA 193X, 194X Senior Seminar series, depending on topic"
+    ]
+  },
+  {
+    "slug": "apme",
+    "name": "Applied Mathematics-Economics",
+    "degree": "ScB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "group",
+          "label": "Prerequisites:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "MATH 0100"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "MATH 0520"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 0260"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "APMA 0260"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0180"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0200"
+                },
+                {
+                  "kind": "course",
+                  "code": "MATH 0350"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Applied Mathematics requirements:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "APMA 0355"
+            },
+            {
+              "kind": "group",
+              "label": "Select one of the following:",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "APMA 0160"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 0200"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0111"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0150"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0170"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0190"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 1200"
+                },
+                {
+                  "kind": "course",
+                  "code": "APMA 1655"
+                },
+                {
+                  "kind": "group",
+                  "label": "Select two of the following:",
+                  "type": "CHOOSE_N",
+                  "n": 2,
+                  "children": [
+                    {
+                      "kind": "course",
+                      "code": "APMA 1160"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "APMA 1180"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "APMA 1210"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "APMA 1330"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "APMA 1360"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "APMA 1660"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "APMA 1670"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "APMA 1680"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "APMA 1690"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "APMA 1710"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "APMA 1720"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "APMA 1740"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "APMA 1860"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "MATH 1010"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "Economics Requirements:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "ECON 1130"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1210"
+            },
+            {
+              "kind": "course",
+              "code": "ECON 1630"
+            },
+            {
+              "kind": "group",
+              "label": "Select three 1000-level courses from the \"financial economics\" group:",
+              "type": "CHOOSE_N",
+              "n": 3,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "ECON 1710"
+                },
+                {
+                  "kind": "course",
+                  "code": "ECON 1720"
+                },
+                {
+                  "kind": "course",
+                  "code": "ECON 1730"
+                },
+                {
+                  "kind": "course",
+                  "code": "ECON 1750"
+                },
+                {
+                  "kind": "course",
+                  "code": "ECON 1760"
+                },
+                {
+                  "kind": "course",
+                  "code": "ECON 1770"
+                },
+                {
+                  "kind": "course",
+                  "code": "ECON 1780"
+                },
+                {
+                  "kind": "course",
+                  "code": "ECON 1830"
+                },
+                {
+                  "kind": "group",
+                  "label": "Select two 1000-level courses from the \"mathematical economics\" group:",
+                  "type": "CHOOSE_N",
+                  "n": 2,
+                  "children": [
+                    {
+                      "kind": "course",
+                      "code": "ECON 1170"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1225"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1255"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1470"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1490"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1545"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1560"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1640"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1660"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1670"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1680"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1750"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1770"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1805"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1820"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1860"
+                    },
+                    {
+                      "kind": "course",
+                      "code": "ECON 1870"
+                    },
+                    {
+                      "kind": "group",
+                      "label": "Select one 1000-level course from the \"data methods\" group:",
+                      "type": "CHOOSE_N",
+                      "n": 1,
+                      "children": [
+                        {
+                          "kind": "course",
+                          "code": "ECON 1301"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "ECON 1310"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "ECON 1315"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "ECON 1330"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "ECON 1345"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "ECON 1340"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "ECON 1355"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "ECON 1360"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "ECON 1375"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "ECON 1385"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "ECON 1400"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "ECON 1410"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "ECON 1430"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "ECON 1510"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "ECON 1520"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "ECON 1530"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "ECON 1629"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "ECON 1640"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "ECON 1660"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "ECON 1670"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "ECON 1680"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "ECON 1825"
+                        },
+                        {
+                          "kind": "course",
+                          "code": "ECON 1830"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "APMA 0365",
+      "APMA 193X, 194X Senior Seminar series, depending on topic"
+    ]
+  }
+]

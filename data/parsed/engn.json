@@ -1,0 +1,109 @@
+[
+  {
+    "slug": "engn",
+    "name": "Engineering",
+    "degree": "AB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "course",
+          "code": "ENGN 0020"
+        },
+        {
+          "kind": "course",
+          "code": "ENGN 0090"
+        },
+        {
+          "kind": "course",
+          "code": "ENGN 0130"
+        },
+        {
+          "kind": "course",
+          "code": "ENGN 0350"
+        },
+        {
+          "kind": "course",
+          "code": "ENGN 0610"
+        },
+        {
+          "kind": "course",
+          "code": "ENGN 0620"
+        },
+        {
+          "kind": "course",
+          "code": "ENGN 0900"
+        },
+        {
+          "kind": "course",
+          "code": "ENGN 0930A"
+        },
+        {
+          "kind": "course",
+          "code": "ENGN 0930C"
+        },
+        {
+          "kind": "course",
+          "code": "ENGN 1010"
+        },
+        {
+          "kind": "course",
+          "code": "ENGN 1800"
+        },
+        {
+          "kind": "course",
+          "code": "ENGN 1820"
+        },
+        {
+          "kind": "course",
+          "code": "ENGN 1931Q"
+        },
+        {
+          "kind": "course",
+          "code": "ENGN 1931W"
+        },
+        {
+          "kind": "course",
+          "code": "ENGN 1932M"
+        },
+        {
+          "kind": "course",
+          "code": "ENGN 1932R"
+        },
+        {
+          "kind": "course",
+          "code": "ENGN 2110"
+        },
+        {
+          "kind": "course",
+          "code": "ENGN 2120"
+        },
+        {
+          "kind": "course",
+          "code": "ENGN 2130"
+        },
+        {
+          "kind": "course",
+          "code": "ENGN 2140"
+        },
+        {
+          "kind": "course",
+          "code": "ENGN 2150"
+        },
+        {
+          "kind": "course",
+          "code": "ENGN 2180"
+        },
+        {
+          "kind": "course",
+          "code": "ENGN 2160"
+        }
+      ]
+    },
+    "unparsed": [
+      "ENGN 0260"
+    ]
+  }
+]

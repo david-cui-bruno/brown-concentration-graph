@@ -1,0 +1,206 @@
+[
+  {
+    "slug": "ital",
+    "name": "Italian Studies",
+    "degree": "Concentration Requirements",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "course",
+          "code": "ITAL 0600"
+        },
+        {
+          "kind": "course",
+          "code": "ITAL 0750"
+        },
+        {
+          "kind": "course",
+          "code": "ITAL 0751"
+        },
+        {
+          "kind": "course",
+          "code": "ITAL 0950"
+        },
+        {
+          "kind": "course",
+          "code": "ITAL 0975"
+        },
+        {
+          "kind": "course",
+          "code": "ITAL 0981"
+        },
+        {
+          "kind": "course",
+          "code": "ITAL 1000B"
+        },
+        {
+          "kind": "course",
+          "code": "ITAL 1000D"
+        },
+        {
+          "kind": "course",
+          "code": "ITAL 1000E"
+        },
+        {
+          "kind": "course",
+          "code": "ITAL 1010"
+        },
+        {
+          "kind": "course",
+          "code": "ITAL 1029"
+        },
+        {
+          "kind": "course",
+          "code": "ITAL 1030A"
+        },
+        {
+          "kind": "course",
+          "code": "ITAL 1320"
+        },
+        {
+          "kind": "course",
+          "code": "ITAL 1340"
+        },
+        {
+          "kind": "course",
+          "code": "ITAL 1350A"
+        },
+        {
+          "kind": "course",
+          "code": "ITAL 1400B"
+        },
+        {
+          "kind": "course",
+          "code": "ITAL 1400D"
+        },
+        {
+          "kind": "course",
+          "code": "ITAL 1400F"
+        },
+        {
+          "kind": "course",
+          "code": "ITAL 1400H"
+        },
+        {
+          "kind": "course",
+          "code": "ITAL 1400M"
+        },
+        {
+          "kind": "course",
+          "code": "ITAL 1400P"
+        },
+        {
+          "kind": "course",
+          "code": "ITAL 1420"
+        },
+        {
+          "kind": "course",
+          "code": "ITAL 1550"
+        },
+        {
+          "kind": "course",
+          "code": "ITAL 1580"
+        },
+        {
+          "kind": "course",
+          "code": "ITAL 1590"
+        },
+        {
+          "kind": "course",
+          "code": "ITAL 1610"
+        },
+        {
+          "kind": "course",
+          "code": "ITAL 1620"
+        },
+        {
+          "kind": "course",
+          "code": "ITAL 1920"
+        },
+        {
+          "kind": "course",
+          "code": "ITAL 1990"
+        },
+        {
+          "kind": "course",
+          "code": "ITAL 2100"
+        },
+        {
+          "kind": "course",
+          "code": "ITAL 2190B"
+        },
+        {
+          "kind": "course",
+          "code": "ITAL 2190G"
+        },
+        {
+          "kind": "course",
+          "code": "ITAL 2220"
+        },
+        {
+          "kind": "course",
+          "code": "HIAA 0340"
+        },
+        {
+          "kind": "course",
+          "code": "HIAA 0550"
+        },
+        {
+          "kind": "course",
+          "code": "HIAA 0560"
+        },
+        {
+          "kind": "course",
+          "code": "HIAA 1200D"
+        },
+        {
+          "kind": "course",
+          "code": "HIAA 1301"
+        },
+        {
+          "kind": "course",
+          "code": "HIAA 1302"
+        },
+        {
+          "kind": "course",
+          "code": "HIAA 1303"
+        },
+        {
+          "kind": "course",
+          "code": "HIAA 1550B"
+        },
+        {
+          "kind": "course",
+          "code": "HIAA 1560A"
+        },
+        {
+          "kind": "course",
+          "code": "HIAA 1560C"
+        },
+        {
+          "kind": "course",
+          "code": "HIAA 1560D"
+        },
+        {
+          "kind": "course",
+          "code": "HIAA 1560F"
+        },
+        {
+          "kind": "course",
+          "code": "HIAA 1600C"
+        },
+        {
+          "kind": "course",
+          "code": "MUSC 0071"
+        }
+      ]
+    },
+    "unparsed": [
+      "ITALIAN STUDIES COURSES",
+      "COURSES IN OTHER DEPARTMENTS"
+    ]
+  }
+]

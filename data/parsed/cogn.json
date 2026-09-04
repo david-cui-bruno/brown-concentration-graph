@@ -1,0 +1,318 @@
+[
+  {
+    "slug": "cogn",
+    "name": "Cognitive Neuroscience",
+    "degree": "AB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "course",
+          "code": "CPSY 0900"
+        },
+        {
+          "kind": "course",
+          "code": "CPSY 1900"
+        },
+        {
+          "kind": "group",
+          "label": "Two Foundation Courses in Cognition from the following:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CPSY 0010"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0100"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CPSY 0200"
+                },
+                {
+                  "kind": "course",
+                  "code": "CPSY 0400"
+                },
+                {
+                  "kind": "course",
+                  "code": "CPSY 0450"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CPSY 0500"
+                },
+                {
+                  "kind": "course",
+                  "code": "CPSY 0550"
+                }
+              ]
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CPSY 0610"
+                },
+                {
+                  "kind": "course",
+                  "code": "CPSY 0700"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "One Foundation Course in Neuroscience from the following:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CPSY 0400"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0450"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 0010"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "One Foundation Course in Computation from the following:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CPSY 0950"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1291"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1492"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1950"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 0680"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CSCI 0111"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0150"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0170"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0190"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Or any introductory CSCI course with a programming component such as:",
+      "Electives are advanced courses that provide a deeper understanding of Cognitive Neuroscience and should be drawn from CPSY or NEUR, with at least three courses at the 1000 level. At least one elective must be from the NEUR department. Courses from other departments with relevance to Cognitive Neuroscience may be included with approval from the concentration advisor."
+    ]
+  },
+  {
+    "slug": "cogn",
+    "name": "Cognitive Neuroscience",
+    "degree": "ScB",
+    "root": {
+      "kind": "group",
+      "label": "root",
+      "type": "ALL",
+      "children": [
+        {
+          "kind": "course",
+          "code": "CPSY 0900"
+        },
+        {
+          "kind": "course",
+          "code": "CPSY 1900"
+        },
+        {
+          "kind": "group",
+          "label": "Two Foundation Courses in Cognition from the following:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CPSY 0010"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0100"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CPSY 0200"
+                },
+                {
+                  "kind": "course",
+                  "code": "CPSY 0400"
+                },
+                {
+                  "kind": "course",
+                  "code": "CPSY 0450"
+                }
+              ]
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0500"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0550"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CPSY 0610"
+                },
+                {
+                  "kind": "course",
+                  "code": "CPSY 0700"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "One Foundation Course in Neuroscience from the following:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CPSY 0400"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 0450"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 0010"
+            }
+          ]
+        },
+        {
+          "kind": "group",
+          "label": "One Foundation Course in Computation from the following:",
+          "type": "ALL",
+          "children": [
+            {
+              "kind": "course",
+              "code": "CPSY 0950"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1291"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1492"
+            },
+            {
+              "kind": "course",
+              "code": "CPSY 1950"
+            },
+            {
+              "kind": "course",
+              "code": "NEUR 0680"
+            },
+            {
+              "kind": "group",
+              "label": "__or__",
+              "type": "CHOOSE_N",
+              "n": 1,
+              "children": [
+                {
+                  "kind": "course",
+                  "code": "CSCI 0111"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0150"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0170"
+                },
+                {
+                  "kind": "course",
+                  "code": "CSCI 0190"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "unparsed": [
+      "Or any introductory CSCI course with a programming component such as:",
+      "Electives are advanced courses that provide a deeper understanding of Cognitive Neuroscience and should be drawn from CPSY or NEUR, with at least three courses at the 1000 level. At least one elective must be from the NEUR department. Courses from other departments with relevance to Cognitive Neuroscience may be included with approval from the concentration advisor.",
+      "Five additional STEM courses of which two (2) must be CPSY courses at the 1000-level from the Electives of Capstone offerings (a lab is strongly recommended). Courses from APMA, BIOL, CSCI, CHEM, CPSY, MATH, NEUR, or PHYS will be considered and must be applicable to a concentration in that department.",
+      "Capstone: Independent Study (CPSY 1970, CPSY 1980) or approved seminar"
+    ]
+  }
+]
