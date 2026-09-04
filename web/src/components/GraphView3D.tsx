@@ -215,7 +215,7 @@ export default function GraphView3D() {
       // Soft bloom so nodes glow like stars.
       try {
         const { UnrealBloomPass } = await import("three/examples/jsm/postprocessing/UnrealBloomPass.js");
-        const bloom = new UnrealBloomPass(undefined as any, 1.15, 0.7, 0.1);
+        const bloom = new UnrealBloomPass(undefined as any, 0.45, 0.5, 0.25);
         fg.postProcessingComposer().addPass(bloom);
       } catch (e) {
         console.warn("bloom unavailable", e);
@@ -298,10 +298,11 @@ export default function GraphView3D() {
             pointerEvents: "none",
             background: "rgba(8,9,24,.85)",
             border: "1px solid rgba(124,131,255,.35)",
-            borderRadius: 6,
-            padding: "4px 9px",
+            borderRadius: 9,
+            padding: "9px 16px",
             fontFamily: "system-ui",
-            fontSize: 11.5,
+            fontSize: 17,
+            fontWeight: 600,
             letterSpacing: 0.3,
             color: hovered.kind === "concentration" ? "#ffd479" : "#c9d2ea",
             zIndex: 40,

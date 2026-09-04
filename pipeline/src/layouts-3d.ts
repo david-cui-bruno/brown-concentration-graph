@@ -141,16 +141,16 @@ const simLinks = edges
 
 console.log("running 3D force simulation…");
 const sim = forceSimulation(simNodes, 3)
-  .force("charge", forceManyBody().strength(-16))
-  .force("link", forceLink(simLinks).id((d: any) => d.id).strength((l: any) => (l.w === 2 ? 0.6 : 0.1)).distance(20))
+  .force("charge", forceManyBody().strength(-20))
+  .force("link", forceLink(simLinks).id((d: any) => d.id).strength((l: any) => (l.w === 2 ? 0.55 : 0.09)).distance(24))
   .force("center", forceCenter(0, 0, 0))
-  .force("collide", forceCollide(5))
+  .force("collide", forceCollide(9).strength(0.9).iterations(2))
   .stop();
 for (let i = 0; i < 250; i++) {
   sim.tick();
   if (i % 50 === 0) console.log(`  tick ${i}/250`);
 }
-const SCALE = 0.92;
+const SCALE = 1.1;
 for (const sn of simNodes as any[]) {
   const n = byId.get(sn.id)! as any;
   n.force = { x: sn.x * SCALE, y: sn.y * SCALE, z: sn.z * SCALE };
