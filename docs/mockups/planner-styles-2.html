@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Planner Styles · Round 2</title>
+<style>
+  * { box-sizing: border-box; margin: 0; }
+  body { background: #17181c; font-family: system-ui, sans-serif; padding: 30px 4vw 90px; color: #ddd; }
+  .intro h1 { font-size: 21px; color: #fff; }
+  .intro p { color: #999; font-size: 13.5px; margin: 6px 0 34px; }
+  section { margin-bottom: 70px; }
+  .style-label { font-size: 13px; letter-spacing: 2px; text-transform: uppercase; color: #888; margin-bottom: 4px; }
+  .style-note { font-size: 13px; color: #aaa; margin-bottom: 16px; max-width: 640px; }
+  .frame { border-radius: 12px; overflow: hidden; box-shadow: 0 10px 40px rgba(0,0,0,.45); }
+
+  /* ============ 7. Y2K CHROME ============ */
+  .y2k { background: linear-gradient(160deg, #b8d8f5 0%, #dceafc 30%, #9fc3ec 100%); padding: 26px; font-family: Verdana, Tahoma, sans-serif; color: #123; }
+  .y2k .top { display: flex; align-items: center; gap: 12px; margin-bottom: 20px; }
+  .y2k h2 { font-size: 18px; font-weight: 700; font-style: italic; letter-spacing: -0.5px; margin-right: auto;
+    background: linear-gradient(180deg, #fff, #8db8e8 45%, #eef6ff 55%, #5a8cc9); -webkit-background-clip: text; background-clip: text; color: transparent;
+    text-shadow: 0 1px 0 rgba(255,255,255,.6); }
+  .y2k .auto { font-size: 11px; font-weight: 700; padding: 9px 18px; border-radius: 999px; cursor: pointer; color: #0a3a6b;
+    background: linear-gradient(180deg, #ffffff, #c5ddf6 45%, #9cc2ea 55%, #d9ebfd); border: 1px solid #6d9cc9;
+    box-shadow: inset 0 1px 0 #fff, 0 2px 6px rgba(40,80,140,.4); }
+  .y2k .board { display: flex; gap: 14px; }
+  .y2k .col { flex: 1; border-radius: 16px; padding: 12px; min-height: 300px;
+    background: linear-gradient(180deg, rgba(255,255,255,.85), rgba(220,236,252,.75));
+    border: 1px solid #8fb4dd; box-shadow: inset 0 1px 0 #fff, 0 4px 10px rgba(50,90,150,.25); }
+  .y2k .colhead { font-size: 10.5px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: #1a4d80;
+    background: linear-gradient(180deg, #eaf4ff, #bcd8f2); border: 1px solid #8fb4dd; border-radius: 999px; padding: 5px 12px; margin-bottom: 12px;
+    display: flex; justify-content: space-between; box-shadow: inset 0 1px 0 #fff; }
+  .y2k .card { border-radius: 12px; padding: 9px 12px; margin-bottom: 9px; position: relative;
+    background: linear-gradient(180deg, #ffffff, #e4effc); border: 1px solid #9dbede; box-shadow: inset 0 1px 0 #fff, 0 2px 4px rgba(50,90,150,.2); }
+  .y2k .card .code { font-size: 12.5px; font-weight: 700; color: #0a3a6b; }
+  .y2k .card .title { font-size: 10px; color: #48688c; margin-top: 2px; }
+  .y2k .card.ok::after { content: "✔"; position: absolute; top: 8px; right: 10px; color: #2d9e4f; font-size: 12px; }
+  .y2k .card.err { background: linear-gradient(180deg, #fff0f2, #fdd5dc); border-color: #d998a8; }
+  .y2k .card.err .msg { font-size: 9.5px; color: #b33; font-weight: 700; margin-top: 4px; }
+  .y2k .card.ghost { opacity: .66; border-style: dashed; }
+  .y2k .add { width: 100%; font-size: 10.5px; font-weight: 700; color: #35699c; padding: 7px; border-radius: 999px;
+    border: 1px dashed #8fb4dd; background: rgba(255,255,255,.5); cursor: pointer; }
+
+  /* ============ 8. EDITORIAL / TYPE-FIRST ============ */
+  .ed { background: #f7f4ee; padding: 40px 44px; font-family: Georgia, "Times New Roman", serif; color: #1b1b1b; }
+  .ed .kicker { font-family: system-ui, sans-serif; font-size: 11px; letter-spacing: 3px; text-transform: uppercase; color: #a33b1e; }
+  .ed h2 { font-size: 46px; font-weight: 400; letter-spacing: -1.5px; line-height: 1.02; margin: 8px 0 6px; }
+  .ed h2 em { font-style: italic; color: #a33b1e; }
+  .ed .stand { font-size: 14px; color: #555; max-width: 520px; margin-bottom: 26px; }
+  .ed .auto { font-family: system-ui, sans-serif; font-size: 11px; font-weight: 700; letter-spacing: 1.5px; text-transform: uppercase;
+    background: none; border: none; border-bottom: 2px solid #1b1b1b; padding: 2px 0; cursor: pointer; }
+  .ed .board { display: grid; grid-template-columns: repeat(4, 1fr); gap: 34px; margin-top: 28px; }
+  .ed .colhead { font-family: system-ui, sans-serif; font-size: 11px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase;
+    padding-bottom: 8px; border-bottom: 1px solid #1b1b1b; display: flex; justify-content: space-between; }
+  .ed .colhead .n { color: #999; }
+  .ed .card { padding: 14px 0 12px; border-bottom: 1px dotted #b9b2a4; }
+  .ed .card .code { font-family: system-ui, sans-serif; font-size: 12px; font-weight: 700; letter-spacing: .5px; }
+  .ed .card .title { font-size: 16px; font-style: italic; line-height: 1.25; margin-top: 3px; }
+  .ed .card .meta { font-family: system-ui, sans-serif; font-size: 10px; letter-spacing: 1px; text-transform: uppercase; color: #999; margin-top: 6px; }
+  .ed .card.err .title { color: #a33b1e; }
+  .ed .card.err .meta { color: #a33b1e; }
+  .ed .card.ghost .title, .ed .card.ghost .code { color: #b3ac9e; }
+  .ed .add { font-family: system-ui, sans-serif; font-size: 10.5px; letter-spacing: 1.5px; text-transform: uppercase; color: #a33b1e; padding: 12px 0; cursor: pointer; }
+
+  /* ============ 9. CLAYMORPHISM ============ */
+  .cl { background: #eef1ff; padding: 30px; font-family: "Nunito", "Avenir Next", system-ui, sans-serif; color: #3a3f63; }
+  .cl .top { display: flex; align-items: center; gap: 14px; margin-bottom: 24px; }
+  .cl h2 { font-size: 21px; font-weight: 800; color: #494f7d; margin-right: auto; }
+  .cl .auto { font-size: 13px; font-weight: 800; color: #fff; padding: 12px 22px; border: none; border-radius: 18px; cursor: pointer;
+    background: linear-gradient(145deg, #8f7bff, #6f5ae8);
+    box-shadow: inset -4px -6px 10px rgba(70,50,160,.45), inset 4px 6px 10px rgba(255,255,255,.35), 0 10px 20px rgba(110,90,230,.35); }
+  .cl .board { display: flex; gap: 18px; }
+  .cl .col { flex: 1; background: #f6f8ff; border-radius: 26px; padding: 16px; min-height: 300px;
+    box-shadow: inset -6px -8px 16px rgba(160,170,220,.35), inset 6px 8px 16px rgba(255,255,255,.9), 0 14px 30px rgba(140,150,210,.25); }
+  .cl .colhead { font-size: 13px; font-weight: 800; color: #6a71a3; margin-bottom: 12px; display: flex; justify-content: space-between; }
+  .cl .card { border-radius: 20px; padding: 12px 14px; margin-bottom: 12px; background: #fff; position: relative;
+    box-shadow: inset -3px -5px 8px rgba(170,180,230,.3), inset 3px 5px 8px rgba(255,255,255,.9), 0 8px 16px rgba(150,160,220,.28); }
+  .cl .card .code { font-size: 14px; font-weight: 800; color: #494f7d; }
+  .cl .card .title { font-size: 11px; color: #8b91b8; margin-top: 2px; }
+  .cl .card.ok::after { content: "✓"; position: absolute; top: 10px; right: 12px; width: 20px; height: 20px; border-radius: 50%;
+    background: linear-gradient(145deg, #6fe3b1, #43c68c); color: #fff; font-size: 12px; font-weight: 800; display: grid; place-items: center;
+    box-shadow: inset -2px -3px 5px rgba(30,140,90,.4), inset 2px 3px 5px rgba(255,255,255,.4); }
+  .cl .card.err { background: #fff4f6; }
+  .cl .card.err .msg { font-size: 10.5px; font-weight: 800; color: #e2708c; margin-top: 5px; }
+  .cl .card.ghost { opacity: .6; }
+  .cl .add { width: 100%; font-size: 12px; font-weight: 800; color: #8b91b8; padding: 10px; border: none; border-radius: 16px; cursor: pointer;
+    background: #eef1fc; box-shadow: inset 3px 4px 8px rgba(170,180,230,.35), inset -3px -4px 8px rgba(255,255,255,.9); }
+
+  /* ============ 10. DATA-DENSE UTILITARIAN ============ */
+  .dd { background: #fafafa; padding: 0; font-family: "SF Mono", ui-monospace, Menlo, monospace; color: #222; font-size: 12px; }
+  .dd .top { display: flex; align-items: center; padding: 10px 14px; border-bottom: 1px solid #ddd; background: #fff; gap: 14px; }
+  .dd h2 { font-size: 13px; font-weight: 700; font-family: system-ui, sans-serif; margin-right: auto; }
+  .dd .stat { color: #666; font-size: 11px; }
+  .dd .stat b { color: #0a7d38; }
+  .dd .stat b.bad { color: #c1121f; }
+  .dd .auto { font-family: system-ui, sans-serif; font-size: 11px; font-weight: 600; padding: 5px 12px; border: 1px solid #bbb; border-radius: 4px; background: #f4f4f4; cursor: pointer; }
+  .dd table { width: 100%; border-collapse: collapse; background: #fff; }
+  .dd th { text-align: left; font-family: system-ui, sans-serif; font-size: 10px; text-transform: uppercase; letter-spacing: .8px; color: #888;
+    padding: 7px 12px; border-bottom: 2px solid #ddd; background: #fcfcfc; position: sticky; }
+  .dd td { padding: 6px 12px; border-bottom: 1px solid #eee; vertical-align: top; }
+  .dd tr.sem td { background: #f0f3f7; font-weight: 700; font-family: system-ui, sans-serif; font-size: 11px; color: #345; }
+  .dd .st { display: inline-block; width: 14px; text-align: center; font-weight: 700; }
+  .dd .st.ok { color: #0a7d38; } .dd .st.err { color: #c1121f; } .dd .st.sug { color: #b58a00; }
+  .dd td.code { font-weight: 700; white-space: nowrap; }
+  .dd td.ttl { color: #555; font-family: system-ui, sans-serif; }
+  .dd td.req { color: #888; font-size: 11px; }
+  .dd tr.err-row { background: #fff5f5; }
+  .dd tr.ghost-row td { color: #aaa; font-style: italic; }
+  .dd .prereq-note { color: #c1121f; font-size: 10.5px; }
+
+  /* ============ 11. HAND-DRAWN / SCRAPBOOK ============ */
+  .hd { background: #fdf9ef; padding: 30px; font-family: "Bradley Hand", "Segoe Print", cursive; color: #3d3630;
+    background-image: radial-gradient(#e8e0cc 1px, transparent 1px); background-size: 22px 22px; }
+  .hd .top { display: flex; align-items: center; gap: 16px; margin-bottom: 24px; }
+  .hd h2 { font-size: 24px; margin-right: auto; transform: rotate(-1.2deg); }
+  .hd h2 .hl { background: linear-gradient(104deg, transparent .8rem, #ffe066 1rem, #ffe066 90%, transparent 95%); padding: 0 6px; }
+  .hd .auto { font-family: inherit; font-size: 14px; font-weight: 700; padding: 8px 18px; cursor: pointer; color: #3d3630;
+    background: #fff; border: 2.5px solid #3d3630; border-radius: 255px 15px 225px 15px / 15px 225px 15px 255px; transform: rotate(.8deg); }
+  .hd .board { display: flex; gap: 16px; }
+  .hd .col { flex: 1; background: rgba(255,255,255,.75); border: 2.5px solid #3d3630; padding: 12px; min-height: 300px;
+    border-radius: 15px 255px 15px 225px / 225px 15px 255px 15px; }
+  .hd .colhead { font-size: 15px; font-weight: 700; margin-bottom: 10px; border-bottom: 2.5px dashed #a89d8a; padding-bottom: 5px; transform: rotate(-.5deg); }
+  .hd .card { background: #fff; border: 2px solid #3d3630; padding: 8px 11px; margin-bottom: 10px; position: relative;
+    border-radius: 255px 15px 225px 15px / 15px 225px 15px 255px; }
+  .hd .card:nth-child(even) { transform: rotate(.7deg); }
+  .hd .card:nth-child(odd) { transform: rotate(-.6deg); }
+  .hd .card .code { font-size: 14px; font-weight: 700; }
+  .hd .card .title { font-size: 11px; color: #7a6f5e; }
+  .hd .card.ok::after { content: "✓"; position: absolute; top: 4px; right: 10px; color: #4a8f3f; font-size: 17px; }
+  .hd .card.err { border-color: #c25b4e; background: #fdf0ee; }
+  .hd .card.err .msg { font-size: 11px; color: #c25b4e; }
+  .hd .card.ghost { border-style: dashed; opacity: .7; }
+  .hd .card.ghost::before { content: "maybe?"; position: absolute; top: -10px; right: 8px; font-size: 10px; color: #8a94d6; transform: rotate(6deg); }
+  .hd .add { width: 100%; font-family: inherit; font-size: 12.5px; color: #8a7d66; background: none; border: 2px dashed #a89d8a; padding: 7px; cursor: pointer;
+    border-radius: 255px 15px 225px 15px / 15px 225px 15px 255px; }
+
+  /* ============ 12. RETRO MAC (SYSTEM 7) ============ */
+  .mc { background: #666; padding: 26px; font-family: "Chicago", "Charcoal", Geneva, system-ui, sans-serif; color: #000;
+    background-image: repeating-conic-gradient(#6a6a6a 0% 25%, #636363 0% 50%); background-size: 4px 4px; }
+  .mc .window { background: #ddd; border: 1.5px solid #000; box-shadow: 2px 2px 0 #000; }
+  .mc .titlebar { display: flex; align-items: center; background: repeating-linear-gradient(180deg, #fff 0 1.5px, #ddd 1.5px 3px);
+    border-bottom: 1.5px solid #000; padding: 4px 8px; gap: 8px; }
+  .mc .closebox { width: 11px; height: 11px; border: 1.5px solid #000; background: #ddd; }
+  .mc .titlebar .t { flex: 1; text-align: center; font-size: 13px; font-weight: 700; letter-spacing: .3px; }
+  .mc .menubar { display: flex; gap: 18px; font-size: 12px; padding: 5px 12px; background: #fff; border-bottom: 1.5px solid #000; }
+  .mc .menubar b { font-weight: 700; }
+  .mc .body { padding: 14px; background: #fff; }
+  .mc .toolbar { display: flex; gap: 8px; margin-bottom: 12px; }
+  .mc .btn { font-size: 12px; padding: 5px 14px; background: #fff; border: 1.5px solid #000; border-radius: 6px; cursor: pointer;
+    box-shadow: 0 2px 0 #000; }
+  .mc .btn.primary { border-width: 3px; font-weight: 700; }
+  .mc .board { display: flex; gap: 10px; }
+  .mc .col { flex: 1; border: 1.5px solid #000; min-height: 280px; background: #fff; }
+  .mc .colhead { font-size: 11.5px; font-weight: 700; padding: 5px 8px; border-bottom: 1.5px solid #000;
+    background: repeating-linear-gradient(180deg, #eee 0 1px, #ccc 1px 2px); display: flex; justify-content: space-between; }
+  .mc .card { padding: 7px 9px; border-bottom: 1px dotted #888; font-size: 12px; position: relative; }
+  .mc .card .code { font-weight: 700; font-size: 12.5px; }
+  .mc .card .title { font-size: 10.5px; color: #444; }
+  .mc .card.ok::before { content: "■"; position: absolute; right: 8px; top: 8px; font-size: 9px; }
+  .mc .card.err { background: repeating-linear-gradient(45deg, #fff 0 4px, #eee 4px 8px); }
+  .mc .card.err .msg { font-size: 10px; font-weight: 700; margin-top: 3px; }
+  .mc .card.ghost { color: #888; }
+  .mc .card.ghost .code { color: #666; font-weight: 400; }
+  .mc .add { font-size: 11px; padding: 6px 9px; color: #555; cursor: pointer; }
+  .mc .statusbar { border-top: 1.5px solid #000; padding: 4px 10px; font-size: 10.5px; background: #eee; display: flex; justify-content: space-between; }
+</style>
+</head>
+<body>
+  <div class="intro">
+    <h1>Semester planner · Round 2 — six more directions</h1>
+    <p>Based on current trend research: Y2K techno-gloss, editorial type-first, claymorphism, data-dense utilitarian, hand-drawn scrapbook, and retro OS skeuomorphism.</p>
+  </div>
+
+  <!-- 7 Y2K -->
+  <section>
+    <div class="style-label">7 · Y2K Chrome / Frutiger Aero</div>
+    <div class="style-note">Glossy pills, chrome gradients, aqua-blue optimism. iMac G3 energy — nostalgic tech that reads "fun tool," huge with the current college cohort.</div>
+    <div class="frame y2k">
+      <div class="top">
+        <h2>✦ FlightPlan 2000</h2>
+        <button class="auto">✧ AUTOPILOT ✧</button>
+      </div>
+      <div class="board">
+        <div class="col">
+          <div class="colhead"><span>Spring '26</span><span>3/4</span></div>
+          <div class="card ok"><div class="code">CSCI 0200</div><div class="title">Program Design & Data Structures</div></div>
+          <div class="card ok"><div class="code">MATH 0520</div><div class="title">Linear Algebra</div></div>
+          <button class="add">+ add course</button>
+        </div>
+        <div class="col">
+          <div class="colhead"><span>Fall '26</span><span>4/4</span></div>
+          <div class="card ok"><div class="code">CSCI 0300</div><div class="title">Computer Systems</div></div>
+          <div class="card err"><div class="code">CSCI 1470</div><div class="title">Deep Learning</div><div class="msg">⚠ needs CSCI 1410 first!</div></div>
+          <button class="add">+ add course</button>
+        </div>
+        <div class="col">
+          <div class="colhead"><span>Spring '27</span><span>2/4</span></div>
+          <div class="card ok"><div class="code">CSCI 1410</div><div class="title">Artificial Intelligence</div></div>
+          <button class="add">+ add course</button>
+        </div>
+        <div class="col">
+          <div class="colhead"><span>Fall '27</span><span>auto</span></div>
+          <div class="card ghost"><div class="code">CSCI 1660</div><div class="title">Systems Security</div></div>
+          <div class="card ghost"><div class="code">CSCI 1230</div><div class="title">Computer Graphics</div></div>
+          <button class="add">+ add course</button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 8 EDITORIAL -->
+  <section>
+    <div class="style-label">8 · Editorial / Type-First</div>
+    <div class="style-note">Magazine pacing: giant serif headline, italic course titles, dotted rules. The plan reads like a beautifully typeset syllabus. Zero chrome, all typography.</div>
+    <div class="frame ed">
+      <div class="kicker">The Concentration Review · Vol. CS ScB</div>
+      <h2>Four semesters,<br/><em>plotted with intent.</em></h2>
+      <div class="stand">One conflict remains in Fall '26. Autopilot proposes two electives for Fall '27. — <button class="auto">Run Autopilot</button></div>
+      <div class="board">
+        <div>
+          <div class="colhead"><span>Spring '26</span><span class="n">3 of 4</span></div>
+          <div class="card"><div class="code">CSCI 0200</div><div class="title">Program Design with Data Structures</div><div class="meta">Core — prereqs met</div></div>
+          <div class="card"><div class="code">MATH 0520</div><div class="title">Linear Algebra</div><div class="meta">Mathematics</div></div>
+          <div class="add">+ Add course</div>
+        </div>
+        <div>
+          <div class="colhead"><span>Fall '26</span><span class="n">4 of 4</span></div>
+          <div class="card"><div class="code">CSCI 0300</div><div class="title">Fundamentals of Computer Systems</div><div class="meta">Systems</div></div>
+          <div class="card err"><div class="code">CSCI 1470</div><div class="title">Deep Learning</div><div class="meta">Conflict — requires CSCI 1410, scheduled later</div></div>
+          <div class="add">+ Add course</div>
+        </div>
+        <div>
+          <div class="colhead"><span>Spring '27</span><span class="n">2 of 4</span></div>
+          <div class="card"><div class="code">CSCI 1410</div><div class="title">Artificial Intelligence</div><div class="meta">Elective</div></div>
+          <div class="add">+ Add course</div>
+        </div>
+        <div>
+          <div class="colhead"><span>Fall '27</span><span class="n">Proposed</span></div>
+          <div class="card ghost"><div class="code">CSCI 1660</div><div class="title">Computer Systems Security</div><div class="meta">Autopilot suggestion</div></div>
+          <div class="card ghost"><div class="code">CSCI 1230</div><div class="title">Introduction to Computer Graphics</div><div class="meta">Autopilot suggestion</div></div>
+          <div class="add">+ Add course</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 9 CLAYMORPHISM -->
+  <section>
+    <div class="style-label">9 · Claymorphism</div>
+    <div class="style-note">Squishy 3D clay: puffy cards, inner shadows, candy accents. Friendly and unintimidating — the Duolingo school of design.</div>
+    <div class="frame cl">
+      <div class="top">
+        <h2>🐻 My flight plan</h2>
+        <button class="auto">✨ Autopilot</button>
+      </div>
+      <div class="board">
+        <div class="col">
+          <div class="colhead"><span>Spring '26</span><span>3/4</span></div>
+          <div class="card ok"><div class="code">CSCI 0200</div><div class="title">Program Design & Data Structures</div></div>
+          <div class="card ok"><div class="code">MATH 0520</div><div class="title">Linear Algebra</div></div>
+          <button class="add">+ add course</button>
+        </div>
+        <div class="col">
+          <div class="colhead"><span>Fall '26</span><span>4/4</span></div>
+          <div class="card ok"><div class="code">CSCI 0300</div><div class="title">Computer Systems</div></div>
+          <div class="card err"><div class="code">CSCI 1470</div><div class="title">Deep Learning</div><div class="msg">needs CSCI 1410 first 🥺</div></div>
+          <button class="add">+ add course</button>
+        </div>
+        <div class="col">
+          <div class="colhead"><span>Spring '27</span><span>2/4</span></div>
+          <div class="card ok"><div class="code">CSCI 1410</div><div class="title">Artificial Intelligence</div></div>
+          <button class="add">+ add course</button>
+        </div>
+        <div class="col">
+          <div class="colhead"><span>Fall '27</span><span>auto ✨</span></div>
+          <div class="card ghost"><div class="code">CSCI 1660</div><div class="title">Systems Security</div></div>
+          <div class="card ghost"><div class="code">CSCI 1230</div><div class="title">Computer Graphics</div></div>
+          <button class="add">+ add course</button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 10 DATA-DENSE -->
+  <section>
+    <div class="style-label">10 · Data-Dense Utilitarian</div>
+    <div class="style-note">A degree audit as a power tool: one table, monospace codes, status glyphs, zero decoration. Bloomberg-terminal-meets-registrar. Fastest to scan of all twelve.</div>
+    <div class="frame dd">
+      <div class="top">
+        <h2>plan.csv — CS ScB · Spring 2028</h2>
+        <span class="stat">reqs <b>12/16</b></span>
+        <span class="stat">conflicts <b class="bad">1</b></span>
+        <span class="stat">credits 14/16</span>
+        <button class="auto">Autopilot</button>
+      </div>
+      <table>
+        <tr><th style="width:30px"></th><th style="width:110px">Code</th><th>Title</th><th style="width:210px">Requirement</th><th style="width:190px">Prereqs</th></tr>
+        <tr class="sem"><td colspan="5">SPRING 2026 — 3/4 courses</td></tr>
+        <tr><td><span class="st ok">✓</span></td><td class="code">CSCI 0200</td><td class="ttl">Program Design with Data Structures</td><td class="req">CS core</td><td class="req">0150 ✓</td></tr>
+        <tr><td><span class="st ok">✓</span></td><td class="code">MATH 0520</td><td class="ttl">Linear Algebra</td><td class="req">CS math</td><td class="req">—</td></tr>
+        <tr class="sem"><td colspan="5">FALL 2026 — 4/4 courses</td></tr>
+        <tr><td><span class="st ok">✓</span></td><td class="code">CSCI 0300</td><td class="ttl">Fundamentals of Computer Systems</td><td class="req">CS systems</td><td class="req">0200 ✓</td></tr>
+        <tr class="err-row"><td><span class="st err">✗</span></td><td class="code">CSCI 1470</td><td class="ttl">Deep Learning</td><td class="req">elective</td><td class="prereq-note">1410 scheduled 2027S — after this term</td></tr>
+        <tr class="sem"><td colspan="5">SPRING 2027 — 2/4 courses</td></tr>
+        <tr><td><span class="st ok">✓</span></td><td class="code">CSCI 1410</td><td class="ttl">Artificial Intelligence</td><td class="req">CS elective</td><td class="req">0200 ✓ · 0220 ✓</td></tr>
+        <tr class="sem"><td colspan="5">FALL 2027 — autopilot proposals</td></tr>
+        <tr class="ghost-row"><td><span class="st sug">?</span></td><td class="code">CSCI 1660</td><td class="ttl">Computer Systems Security</td><td class="req">CS elective</td><td class="req">0300 ✓</td></tr>
+        <tr class="ghost-row"><td><span class="st sug">?</span></td><td class="code">CSCI 1230</td><td class="ttl">Introduction to Computer Graphics</td><td class="req">CS elective</td><td class="req">0200 ✓</td></tr>
+      </table>
+    </div>
+  </section>
+
+  <!-- 11 HAND-DRAWN -->
+  <section>
+    <div class="style-label">11 · Hand-Drawn / Scrapbook</div>
+    <div class="style-note">Wobbly ink borders, highlighter marks, sticky-note energy on dotted notebook paper. Feels like planning with a friend, disarms the stress of degree planning.</div>
+    <div class="frame hd">
+      <div class="top">
+        <h2>my <span class="hl">four-year-ish</span> plan 🐻</h2>
+        <button class="auto">✎ fill it in for me</button>
+      </div>
+      <div class="board">
+        <div class="col">
+          <div class="colhead">spring '26</div>
+          <div class="card ok"><div class="code">CSCI 0200</div><div class="title">data structures!</div></div>
+          <div class="card ok"><div class="code">MATH 0520</div><div class="title">linear algebra</div></div>
+          <button class="add">+ scribble one in</button>
+        </div>
+        <div class="col">
+          <div class="colhead">fall '26</div>
+          <div class="card ok"><div class="code">CSCI 0300</div><div class="title">systems</div></div>
+          <div class="card err"><div class="code">CSCI 1470</div><div class="title">deep learning</div><div class="msg">oops — needs AI first!!</div></div>
+          <button class="add">+ scribble one in</button>
+        </div>
+        <div class="col">
+          <div class="colhead">spring '27</div>
+          <div class="card ok"><div class="code">CSCI 1410</div><div class="title">artificial intelligence</div></div>
+          <button class="add">+ scribble one in</button>
+        </div>
+        <div class="col">
+          <div class="colhead">fall '27</div>
+          <div class="card ghost"><div class="code">CSCI 1660</div><div class="title">security</div></div>
+          <div class="card ghost"><div class="code">CSCI 1230</div><div class="title">graphics</div></div>
+          <button class="add">+ scribble one in</button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 12 RETRO MAC -->
+  <section>
+    <div class="style-label">12 · Retro OS (System 7)</div>
+    <div class="style-note">Pinstripe title bars, 1-bit dithering, hard drop shadows. Historical skeuomorphism — the plan as a beloved 1993 desk accessory. Extremely shareable.</div>
+    <div class="frame mc">
+      <div class="window">
+        <div class="titlebar"><div class="closebox"></div><div class="t">Flight Plan — CS ScB</div><div class="closebox" style="visibility:hidden"></div></div>
+        <div class="menubar"><b></b><span>File</span><span>Edit</span><span>Courses</span><span>Autopilot</span><span>Special</span></div>
+        <div class="body">
+          <div class="toolbar">
+            <button class="btn primary">Autopilot…</button>
+            <button class="btn">Add Course…</button>
+            <button class="btn">Check Plan</button>
+          </div>
+          <div class="board">
+            <div class="col">
+              <div class="colhead"><span>Spring '26</span><span>3/4</span></div>
+              <div class="card ok"><div class="code">CSCI 0200</div><div class="title">Program Design w/ Data Structures</div></div>
+              <div class="card ok"><div class="code">MATH 0520</div><div class="title">Linear Algebra</div></div>
+              <div class="add">+ Add Course…</div>
+            </div>
+            <div class="col">
+              <div class="colhead"><span>Fall '26</span><span>4/4</span></div>
+              <div class="card ok"><div class="code">CSCI 0300</div><div class="title">Computer Systems</div></div>
+              <div class="card err"><div class="code">CSCI 1470</div><div class="title">Deep Learning</div><div class="msg">⚠ Requires CSCI 1410 (scheduled later)</div></div>
+              <div class="add">+ Add Course…</div>
+            </div>
+            <div class="col">
+              <div class="colhead"><span>Spring '27</span><span>2/4</span></div>
+              <div class="card ok"><div class="code">CSCI 1410</div><div class="title">Artificial Intelligence</div></div>
+              <div class="add">+ Add Course…</div>
+            </div>
+            <div class="col">
+              <div class="colhead"><span>Fall '27</span><span>auto</span></div>
+              <div class="card ghost"><div class="code">CSCI 1660</div><div class="title">Systems Security (suggested)</div></div>
+              <div class="card ghost"><div class="code">CSCI 1230</div><div class="title">Computer Graphics (suggested)</div></div>
+              <div class="add">+ Add Course…</div>
+            </div>
+          </div>
+        </div>
+        <div class="statusbar"><span>16 requirements · 12 satisfied · 1 conflict</span><span>4.2 MB in disk</span></div>
+      </div>
+    </div>
+  </section>
+</body>
+</html>
