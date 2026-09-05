@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Mockup · Cosmic Claymorphism Planner</title>
+<style>
+  * { box-sizing: border-box; margin: 0; }
+  body {
+    font-family: "Nunito", "Avenir Next", system-ui, sans-serif;
+    background: radial-gradient(ellipse at 62% 10%, #1b1440 0%, #12102e 40%, #0a0a20 72%, #050510 100%);
+    color: #d5dbe3; min-height: 100vh; padding: 26px 3vw 80px; position: relative; overflow-x: hidden;
+  }
+  /* faint starfield */
+  body::before {
+    content: ""; position: fixed; inset: 0; pointer-events: none; opacity: .5;
+    background-image:
+      radial-gradient(1px 1px at 12% 22%, #dde4f5 50%, transparent 51%),
+      radial-gradient(1.5px 1.5px at 71% 12%, #93a5e0 50%, transparent 51%),
+      radial-gradient(1px 1px at 42% 68%, #dde4f5 50%, transparent 51%),
+      radial-gradient(2px 2px at 87% 45%, #c490d8 50%, transparent 51%),
+      radial-gradient(1px 1px at 25% 87%, #dde4f5 50%, transparent 51%),
+      radial-gradient(1.5px 1.5px at 58% 34%, #f0e2bc 50%, transparent 51%),
+      radial-gradient(1px 1px at 92% 78%, #93a5e0 50%, transparent 51%),
+      radial-gradient(1px 1px at 8% 55%, #f0e2bc 50%, transparent 51%);
+    background-size: 900px 700px;
+  }
+
+  .top { display: flex; align-items: center; gap: 14px; margin-bottom: 26px; flex-wrap: wrap; position: relative; }
+  h1 { font-size: 21px; font-weight: 800; color: #eef2ff; margin-right: auto; }
+  .goal {
+    font-size: 12.5px; font-weight: 700; color: #b9c6e8; padding: 10px 18px; border-radius: 18px;
+    background: linear-gradient(145deg, #1e2044, #15172f);
+    box-shadow: inset 2px 3px 6px rgba(90,100,180,.25), inset -3px -4px 8px rgba(0,0,5,.6), 0 8px 18px rgba(0,0,10,.45);
+  }
+  .goal b { color: #ffd479; }
+  .btn {
+    font-family: inherit; font-size: 13px; font-weight: 800; border: none; cursor: pointer;
+    padding: 12px 22px; border-radius: 18px; color: #fff;
+  }
+  .btn.autopilot {
+    background: linear-gradient(145deg, #8f7bff, #6250d6);
+    box-shadow: inset -4px -6px 10px rgba(50,35,140,.55), inset 4px 6px 10px rgba(200,190,255,.35), 0 10px 24px rgba(110,90,230,.35);
+  }
+  .btn.autopilot:active { transform: translateY(2px); }
+  .btn.save {
+    color: #cdd8f5; background: linear-gradient(145deg, #23264d, #181a36);
+    box-shadow: inset -3px -5px 8px rgba(0,0,10,.55), inset 3px 5px 8px rgba(120,130,210,.22), 0 8px 18px rgba(0,0,10,.4);
+  }
+
+  .board { display: flex; gap: 18px; overflow-x: auto; padding: 6px 2px 20px; position: relative; }
+  .col {
+    min-width: 240px; max-width: 240px; border-radius: 28px; padding: 16px 14px;
+    background: linear-gradient(160deg, rgba(35,38,77,.85), rgba(21,23,47,.9));
+    box-shadow: inset 3px 5px 10px rgba(120,130,220,.14), inset -5px -7px 14px rgba(0,0,8,.55), 0 16px 34px rgba(0,0,12,.5);
+  }
+  .col.past { opacity: .58; }
+  .colhead { display: flex; justify-content: space-between; align-items: baseline; font-weight: 800; font-size: 13.5px; color: #cdd8f5; padding: 0 4px 12px; }
+  .colhead .n { font-size: 11px; color: #6a729d; font-weight: 700; }
+  .colhead .n.warn { color: #ff9dab; }
+  .colhead .n.auto { color: #c9a8ff; }
+
+  .card {
+    border-radius: 20px; padding: 12px 14px; margin-bottom: 12px; position: relative; cursor: grab;
+    background: linear-gradient(150deg, #262a55, #1a1c3a);
+    box-shadow: inset 2px 4px 7px rgba(140,150,235,.16), inset -3px -5px 9px rgba(0,0,8,.5), 0 9px 18px rgba(0,0,12,.42);
+    transition: transform .12s;
+  }
+  .card:hover { transform: translateY(-2px); }
+  .card .code { font-size: 14px; font-weight: 800; color: #eef2ff; }
+  .card .title { font-size: 11px; color: #8b93bd; margin-top: 2px; line-height: 1.35; }
+  .card .tags { display: flex; gap: 5px; margin-top: 8px; flex-wrap: wrap; }
+  .tag {
+    font-size: 9.5px; font-weight: 800; padding: 3px 9px; border-radius: 999px; color: #a9b4d8;
+    background: linear-gradient(145deg, #1c1f40, #14162e);
+    box-shadow: inset 1px 2px 3px rgba(130,140,220,.15), inset -1px -2px 3px rgba(0,0,8,.4);
+  }
+  .tag.conc { color: #ffd479; }
+  .tag.sug { color: #c9a8ff; }
+
+  /* taken: aurora teal puff check */
+  .card.ok::after {
+    content: "✓"; position: absolute; top: 10px; right: 12px; width: 22px; height: 22px; border-radius: 50%;
+    display: grid; place-items: center; font-size: 12px; font-weight: 800; color: #08281c;
+    background: linear-gradient(145deg, #6fe3c1, #3cbd97);
+    box-shadow: inset -2px -3px 5px rgba(10,90,65,.5), inset 2px 3px 5px rgba(210,255,240,.5), 0 4px 10px rgba(60,190,150,.35);
+  }
+  .card.taken { opacity: .72; }
+
+  /* conflict: rose clay */
+  .card.err {
+    background: linear-gradient(150deg, #46243a, #2c1626);
+    box-shadow: inset 2px 4px 7px rgba(255,140,170,.18), inset -3px -5px 9px rgba(10,0,5,.55), 0 9px 18px rgba(60,10,30,.5);
+  }
+  .card.err .msg { font-size: 10.5px; font-weight: 800; color: #ff9dab; margin-top: 6px; }
+
+  /* autopilot ghost: violet mist */
+  .card.ghost {
+    background: linear-gradient(150deg, rgba(60,50,110,.45), rgba(35,30,70,.4));
+    box-shadow: inset 2px 3px 6px rgba(160,140,255,.12), inset -2px -4px 7px rgba(0,0,10,.35);
+    border: 1.5px dashed rgba(160,140,255,.35);
+  }
+  .card.ghost .code { color: #c9b8ff; }
+  .card.ghost .actions { display: flex; gap: 6px; margin-top: 9px; }
+  .card.ghost .mini {
+    flex: 1; font-family: inherit; font-size: 10px; font-weight: 800; padding: 6px 0; border: none; border-radius: 12px; cursor: pointer;
+  }
+  .card.ghost .mini.yes { color: #08281c; background: linear-gradient(145deg, #6fe3c1, #3cbd97);
+    box-shadow: inset -2px -2px 4px rgba(10,90,65,.4), inset 2px 2px 4px rgba(220,255,245,.4); }
+  .card.ghost .mini.no { color: #a9b4d8; background: linear-gradient(145deg, #23264d, #181a36);
+    box-shadow: inset -2px -2px 4px rgba(0,0,10,.45), inset 2px 2px 4px rgba(130,140,220,.18); }
+
+  .add {
+    width: 100%; font-family: inherit; font-size: 12px; font-weight: 800; color: #7e88b5; padding: 11px 0;
+    border: none; border-radius: 16px; cursor: pointer;
+    background: linear-gradient(145deg, #171932, #1d2040);
+    box-shadow: inset 3px 4px 8px rgba(0,0,10,.5), inset -3px -4px 8px rgba(120,130,210,.14);
+  }
+  .add:hover { color: #a9b4d8; }
+
+  .grad {
+    margin-top: 4px; text-align: center; font-size: 11px; font-weight: 800; color: #6fe3c1; padding: 10px 6px; border-radius: 16px;
+    background: linear-gradient(145deg, rgba(30,70,58,.5), rgba(18,42,35,.5));
+    box-shadow: inset 2px 3px 6px rgba(111,227,193,.15), inset -2px -3px 6px rgba(0,10,5,.4);
+  }
+
+  .strip {
+    display: flex; align-items: center; gap: 14px; margin-top: 18px; padding: 14px 20px; border-radius: 22px;
+    background: linear-gradient(160deg, rgba(35,38,77,.7), rgba(21,23,47,.75));
+    box-shadow: inset 3px 4px 9px rgba(120,130,220,.12), inset -4px -6px 12px rgba(0,0,8,.5), 0 12px 26px rgba(0,0,12,.45);
+    font-size: 12.5px; color: #8b93bd; position: relative;
+  }
+  .strip b { color: #cdd8f5; }
+  .strip .bear { font-size: 20px; }
+</style>
+</head>
+<body>
+  <div class="top">
+    <h1>🐻 My flight plan</h1>
+    <div class="goal">Goal: <b>Computer Science ScB</b> by <b>Spring '28</b> · max 4/term ✎</div>
+    <button class="btn autopilot">✨ Autopilot</button>
+    <button class="btn save">Save</button>
+  </div>
+
+  <div class="board">
+    <div class="col past">
+      <div class="colhead"><span>Fall '25 · taken</span><span class="n">4</span></div>
+      <div class="card taken ok"><div class="code">CSCI 0150</div><div class="title">Intro to Object-Oriented Programming</div><div class="tags"><span class="tag conc">CS core</span></div></div>
+      <div class="card taken ok"><div class="code">MATH 0100</div><div class="title">Single Variable Calculus II</div><div class="tags"><span class="tag conc">prereq</span></div></div>
+      <div class="card taken ok"><div class="code">ENGL 0900</div><div class="title">Critical Reading and Writing</div><div class="tags"><span class="tag">elective</span></div></div>
+    </div>
+
+    <div class="col">
+      <div class="colhead"><span>Spring '26</span><span class="n">3 / 4</span></div>
+      <div class="card ok"><div class="code">CSCI 0200</div><div class="title">Program Design with Data Structures</div><div class="tags"><span class="tag conc">CS core</span><span class="tag">needs 0150 ✓</span></div></div>
+      <div class="card ok"><div class="code">MATH 0520</div><div class="title">Linear Algebra</div><div class="tags"><span class="tag conc">CS math</span></div></div>
+      <div class="card ok"><div class="code">CSCI 0220</div><div class="title">Discrete Structures & Probability</div><div class="tags"><span class="tag conc">CS math</span></div></div>
+      <button class="add">+ add course</button>
+    </div>
+
+    <div class="col">
+      <div class="colhead"><span>Fall '26</span><span class="n warn">5 / 4 ⚠</span></div>
+      <div class="card ok"><div class="code">CSCI 0300</div><div class="title">Fundamentals of Computer Systems</div><div class="tags"><span class="tag conc">systems</span></div></div>
+      <div class="card err"><div class="code">CSCI 1470</div><div class="title">Deep Learning</div><div class="msg">⚠ needs CSCI 1410 — scheduled after</div><div class="tags"><span class="tag">elective</span></div></div>
+      <div class="card ok"><div class="code">CSCI 0500</div><div class="title">Algorithms & Intractability</div><div class="tags"><span class="tag conc">foundations</span></div></div>
+      <div class="card ok"><div class="code">APMA 1650</div><div class="title">Statistical Inference I</div><div class="tags"><span class="tag">elective</span></div></div>
+      <button class="add">+ add course</button>
+    </div>
+
+    <div class="col">
+      <div class="colhead"><span>Spring '27</span><span class="n">2 / 4</span></div>
+      <div class="card ok"><div class="code">CSCI 1410</div><div class="title">Artificial Intelligence</div><div class="tags"><span class="tag conc">elective</span><span class="tag">needs 0200 ✓</span></div></div>
+      <div class="card ok"><div class="code">CSCI 0410</div><div class="title">Foundations of AI</div><div class="tags"><span class="tag conc">foundations</span></div></div>
+      <button class="add">+ add course</button>
+    </div>
+
+    <div class="col">
+      <div class="colhead"><span>Fall '27</span><span class="n auto">autopilot ✨</span></div>
+      <div class="card ghost"><div class="code">CSCI 1660</div><div class="title">Computer Systems Security</div><div class="tags"><span class="tag sug">suggested</span></div>
+        <div class="actions"><button class="mini yes">keep</button><button class="mini no">swap</button></div></div>
+      <div class="card ghost"><div class="code">CSCI 1230</div><div class="title">Introduction to Computer Graphics</div><div class="tags"><span class="tag sug">suggested</span></div>
+        <div class="actions"><button class="mini yes">keep</button><button class="mini no">swap</button></div></div>
+      <button class="add">+ add course</button>
+    </div>
+
+    <div class="col">
+      <div class="colhead"><span>Spring '28</span><span class="n auto">autopilot ✨</span></div>
+      <div class="card ghost"><div class="code">CSCI 1970</div><div class="title">Individual Independent Study</div><div class="tags"><span class="tag sug">capstone</span></div>
+        <div class="actions"><button class="mini yes">keep</button><button class="mini no">swap</button></div></div>
+      <button class="add">+ add course</button>
+      <div class="grad">🎓 CS ScB complete — 16/16</div>
+    </div>
+  </div>
+
+  <div class="strip">
+    <span class="bear">🐻</span>
+    <span><b>From the galaxy:</b> tap a star → <b>“+ add to plan”</b> drops it into your earliest valid semester. Squishy cards drag between terms; autopilot fills the rest.</span>
+  </div>
+</body>
+</html>
