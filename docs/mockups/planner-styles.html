@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Planner Style Variations</title>
+<style>
+  * { box-sizing: border-box; margin: 0; }
+  body { background: #17181c; font-family: system-ui, sans-serif; padding: 30px 4vw 90px; color: #ddd; }
+  .intro { margin-bottom: 34px; }
+  .intro h1 { font-size: 21px; color: #fff; }
+  .intro p { color: #999; font-size: 13.5px; margin-top: 6px; }
+  section { margin-bottom: 70px; }
+  .style-label { font-size: 13px; letter-spacing: 2px; text-transform: uppercase; color: #888; margin-bottom: 4px; }
+  .style-note { font-size: 13px; color: #aaa; margin-bottom: 16px; max-width: 640px; }
+  .frame { border-radius: 12px; overflow: hidden; box-shadow: 0 10px 40px rgba(0,0,0,.45); }
+
+  /* ============ 1. BAUHAUS ============ */
+  .bh { background: #f4f1ea; padding: 28px; font-family: "Futura", "Avenir Next", system-ui, sans-serif; color: #1a1a1a; }
+  .bh .top { display: flex; align-items: center; gap: 16px; margin-bottom: 24px; }
+  .bh h2 { font-size: 22px; font-weight: 800; text-transform: uppercase; letter-spacing: 1px; margin-right: auto; }
+  .bh h2 .dot { display: inline-block; width: 16px; height: 16px; border-radius: 50%; background: #d02f22; margin-right: 10px; }
+  .bh .goal { font-size: 12px; font-weight: 700; text-transform: uppercase; border: 3px solid #1a1a1a; padding: 8px 14px; }
+  .bh .goal b { color: #d02f22; }
+  .bh .auto { background: #f2b705; border: 3px solid #1a1a1a; padding: 8px 18px; font-weight: 800; font-size: 12px; text-transform: uppercase; cursor: pointer; box-shadow: 4px 4px 0 #1a1a1a; }
+  .bh .board { display: flex; gap: 0; border: 3px solid #1a1a1a; }
+  .bh .col { flex: 1; border-right: 3px solid #1a1a1a; min-height: 320px; }
+  .bh .col:last-child { border-right: none; }
+  .bh .colhead { padding: 10px 12px; border-bottom: 3px solid #1a1a1a; font-weight: 800; font-size: 12px; text-transform: uppercase; display: flex; justify-content: space-between; }
+  .bh .col:nth-child(1) .colhead { background: #1a1a1a; color: #f4f1ea; }
+  .bh .col:nth-child(2) .colhead { background: #d02f22; color: #f4f1ea; }
+  .bh .col:nth-child(3) .colhead { background: #f2b705; }
+  .bh .col:nth-child(4) .colhead { background: #1e5aa8; color: #f4f1ea; }
+  .bh .card { margin: 10px; padding: 10px 12px; border: 3px solid #1a1a1a; background: #fff; position: relative; }
+  .bh .card .code { font-weight: 800; font-size: 14px; }
+  .bh .card .title { font-size: 11px; margin-top: 3px; }
+  .bh .card.ok::after { content: "●"; color: #1e5aa8; position: absolute; top: 6px; right: 9px; font-size: 14px; }
+  .bh .card.err { border-color: #d02f22; background: #fbe6e4; }
+  .bh .card.err .msg { color: #d02f22; font-size: 10.5px; font-weight: 700; margin-top: 5px; text-transform: uppercase; }
+  .bh .card.ghost { border-style: dashed; background: #f4f1ea; }
+  .bh .card.ghost .code { color: #1e5aa8; }
+  .bh .add { margin: 10px; padding: 7px; text-align: center; border: 3px dashed #999; font-weight: 800; font-size: 11px; color: #777; cursor: pointer; text-transform: uppercase; }
+
+  /* ============ 2. SKEUOMORPHISM ============ */
+  .sk { background: linear-gradient(180deg, #dcd4c4, #cfc5b0); padding: 28px; font-family: "Marker Felt", "Comic Sans MS", cursive; color: #3b3428; }
+  .sk .top { display: flex; align-items: center; gap: 14px; margin-bottom: 22px; }
+  .sk h2 { font-family: Georgia, serif; font-size: 22px; font-weight: 700; color: #4a3d28; margin-right: auto; text-shadow: 0 1px 0 #fff8; }
+  .sk .auto {
+    font-family: Georgia, serif; font-size: 13px; font-weight: 700; padding: 10px 20px; cursor: pointer; color: #3b2f1c;
+    background: linear-gradient(180deg, #f7e8b5, #e0c268); border: 1px solid #a8894a; border-radius: 8px;
+    box-shadow: inset 0 1px 0 #fff9, 0 2px 4px rgba(0,0,0,.35);
+  }
+  .sk .board { display: flex; gap: 18px; background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80"><rect width="80" height="80" fill="%23845f38"/><path d="M0 0h80v2H0zM0 40h80v2H0z" fill="%23734f2c" opacity=".5"/></svg>'); padding: 18px; border-radius: 10px; box-shadow: inset 0 2px 12px rgba(0,0,0,.5); }
+  .sk .col { flex: 1; background: #f6efdb; border-radius: 4px; padding: 12px 10px; box-shadow: 0 3px 8px rgba(0,0,0,.4); min-height: 300px;
+    background-image: repeating-linear-gradient(180deg, transparent, transparent 26px, #d8cdb2 27px); }
+  .sk .colhead { font-family: Georgia, serif; font-weight: 700; font-size: 14px; text-align: center; border-bottom: 2px solid #b8a988; padding-bottom: 6px; margin-bottom: 10px; }
+  .sk .card { background: #fffbe8; border-radius: 2px; padding: 9px 11px; margin-bottom: 10px; transform: rotate(-.6deg);
+    box-shadow: 0 2px 5px rgba(0,0,0,.3); border-top: 14px solid rgba(190,210,235,.55); position: relative; }
+  .sk .card:nth-child(odd) { transform: rotate(.7deg); }
+  .sk .card .code { font-size: 14px; font-weight: 700; }
+  .sk .card .title { font-size: 11px; color: #6b5f48; }
+  .sk .card.ok::after { content: "✓"; position: absolute; top: -2px; right: 8px; color: #2c7a3d; font-size: 18px; }
+  .sk .card.err { background: #fdeeea; border-top-color: rgba(235,170,160,.7); }
+  .sk .card.err .msg { color: #a33326; font-size: 10.5px; margin-top: 4px; }
+  .sk .card.ghost { opacity: .62; border: 1px dashed #a89a75; border-top: 14px solid rgba(190,210,235,.3); }
+  .sk .add { text-align: center; font-size: 12px; color: #8a7a58; padding: 6px; border: 2px dashed #bbaa84; border-radius: 6px; cursor: pointer; background: #f2ebd4; }
+
+  /* ============ 3. SWISS / INTERNATIONAL ============ */
+  .sw { background: #ffffff; padding: 32px; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; color: #111; }
+  .sw .top { display: grid; grid-template-columns: 1fr auto auto; gap: 12px; align-items: baseline; border-bottom: 6px solid #111; padding-bottom: 14px; margin-bottom: 0; }
+  .sw h2 { font-size: 30px; font-weight: 700; letter-spacing: -1px; }
+  .sw .goal { font-size: 12px; color: #555; }
+  .sw .goal b { color: #e30613; }
+  .sw .auto { font-size: 12px; font-weight: 700; background: #111; color: #fff; padding: 9px 16px; border: none; cursor: pointer; }
+  .sw .board { display: grid; grid-template-columns: repeat(4, 1fr); }
+  .sw .col { border-right: 1px solid #ddd; padding: 16px 14px; min-height: 320px; }
+  .sw .col:last-child { border-right: none; }
+  .sw .colhead { font-size: 11px; font-weight: 700; letter-spacing: 1.5px; text-transform: uppercase; margin-bottom: 14px; display: flex; justify-content: space-between; color: #111; }
+  .sw .colhead .n { color: #999; font-weight: 400; }
+  .sw .card { padding: 10px 0; border-top: 1px solid #111; }
+  .sw .card .code { font-size: 14px; font-weight: 700; }
+  .sw .card .title { font-size: 11.5px; color: #555; margin-top: 2px; line-height: 1.4; }
+  .sw .card .meta { font-size: 10px; color: #999; margin-top: 4px; text-transform: uppercase; letter-spacing: .5px; }
+  .sw .card.ok .meta::before { content: "● "; color: #111; }
+  .sw .card.err { background: #ffecec; margin: 0 -14px; padding: 10px 14px; border-top: 1px solid #e30613; }
+  .sw .card.err .msg { color: #e30613; font-size: 10.5px; font-weight: 700; margin-top: 4px; }
+  .sw .card.ghost .code, .sw .card.ghost .title { color: #bbb; }
+  .sw .card.ghost .meta { color: #e30613; }
+  .sw .add { font-size: 11px; color: #999; padding: 10px 0; cursor: pointer; border-top: 1px dashed #ccc; }
+
+  /* ============ 4. NEO-BRUTALISM ============ */
+  .nb { background: #e8f9e3; padding: 28px; font-family: system-ui, sans-serif; color: #111; }
+  .nb .top { display: flex; gap: 12px; align-items: center; margin-bottom: 22px; flex-wrap: wrap; }
+  .nb h2 { font-size: 24px; font-weight: 900; margin-right: auto; }
+  .nb .goal { background: #fff; border: 3px solid #111; box-shadow: 5px 5px 0 #111; padding: 8px 14px; font-size: 12.5px; font-weight: 700; }
+  .nb .goal b { background: #ffe14d; padding: 1px 5px; }
+  .nb .auto { background: #a08cff; border: 3px solid #111; box-shadow: 5px 5px 0 #111; padding: 10px 18px; font-size: 13px; font-weight: 900; cursor: pointer; }
+  .nb .auto:active { transform: translate(3px,3px); box-shadow: 2px 2px 0 #111; }
+  .nb .board { display: flex; gap: 16px; }
+  .nb .col { flex: 1; background: #fff; border: 3px solid #111; box-shadow: 7px 7px 0 #111; padding: 12px; min-height: 320px; }
+  .nb .colhead { font-weight: 900; font-size: 13px; text-transform: uppercase; background: #ffe14d; border: 3px solid #111; padding: 6px 10px; margin-bottom: 12px; display: flex; justify-content: space-between; }
+  .nb .col:nth-child(3) .colhead { background: #ff7d7d; }
+  .nb .card { border: 3px solid #111; padding: 9px 11px; margin-bottom: 10px; background: #fff; box-shadow: 4px 4px 0 #111; }
+  .nb .card .code { font-weight: 900; font-size: 14px; }
+  .nb .card .title { font-size: 11px; margin-top: 2px; }
+  .nb .card .tag { display: inline-block; margin-top: 6px; font-size: 10px; font-weight: 700; border: 2px solid #111; padding: 1px 6px; background: #baf7d0; }
+  .nb .card.err { background: #ffd6d6; }
+  .nb .card.err .tag { background: #ff7d7d; }
+  .nb .card.err .msg { font-size: 10.5px; font-weight: 900; color: #c11; margin-top: 5px; }
+  .nb .card.ghost { background: #f3efff; border-style: dashed; box-shadow: none; }
+  .nb .card.ghost .tag { background: #d9ccff; }
+  .nb .add { width: 100%; border: 3px dashed #111; background: none; font-weight: 900; font-size: 12px; padding: 8px; cursor: pointer; }
+
+  /* ============ 5. TERMINAL / HACKER ============ */
+  .tm { background: #0c0f0c; padding: 28px; font-family: "SF Mono", "Fira Code", Menlo, monospace; color: #b8e0b8; }
+  .tm .top { margin-bottom: 18px; font-size: 13px; }
+  .tm .prompt { color: #6bd66b; }
+  .tm .dim { color: #4a6b4a; }
+  .tm h2 { font-size: 15px; color: #d7ffd7; font-weight: 700; display: inline; }
+  .tm .board { display: flex; gap: 14px; }
+  .tm .col { flex: 1; border: 1px solid #2c4a2c; border-radius: 4px; min-height: 300px; }
+  .tm .colhead { font-size: 11.5px; padding: 7px 10px; border-bottom: 1px solid #2c4a2c; color: #6bd66b; background: #101710; display: flex; justify-content: space-between; }
+  .tm .card { padding: 8px 10px; border-bottom: 1px dashed #1d301d; font-size: 12px; }
+  .tm .card .code { color: #d7ffd7; font-weight: 700; }
+  .tm .card .code::before { content: "▪ "; color: #6bd66b; }
+  .tm .card.ok .code::before { content: "✓ "; color: #6bd66b; }
+  .tm .card .title { color: #5f8a5f; font-size: 10.5px; padding-left: 14px; }
+  .tm .card.err .code::before { content: "✗ "; color: #ff6b6b; }
+  .tm .card.err .code { color: #ffb3b3; }
+  .tm .card.err .msg { color: #ff6b6b; font-size: 10px; padding-left: 14px; }
+  .tm .card.ghost { opacity: .55; }
+  .tm .card.ghost .code::before { content: "? "; color: #e0d36b; }
+  .tm .add { padding: 8px 10px; font-size: 11px; color: #4a6b4a; cursor: pointer; }
+  .tm .add::before { content: "$ "; }
+  .tm .cursor { display: inline-block; width: 7px; height: 13px; background: #6bd66b; animation: blink 1s steps(1) infinite; vertical-align: -2px; }
+  @keyframes blink { 50% { opacity: 0; } }
+
+  /* ============ 6. GLASSMORPHISM AURORA ============ */
+  .gl { position: relative; padding: 28px; font-family: system-ui, sans-serif; color: #eef2ff; overflow: hidden;
+    background: linear-gradient(135deg, #1a1040 0%, #0e2a52 45%, #0d3d3a 100%); }
+  .gl::before, .gl::after { content: ""; position: absolute; border-radius: 50%; filter: blur(70px); opacity: .5; }
+  .gl::before { width: 420px; height: 420px; background: #7c4dff; top: -120px; left: 12%; }
+  .gl::after { width: 380px; height: 380px; background: #00d4a0; bottom: -140px; right: 8%; }
+  .gl .inner { position: relative; z-index: 1; }
+  .gl .top { display: flex; gap: 12px; align-items: center; margin-bottom: 22px; }
+  .gl h2 { font-size: 20px; font-weight: 650; margin-right: auto; }
+  .gl .auto { padding: 10px 18px; font-size: 13px; font-weight: 600; color: #fff; cursor: pointer;
+    background: rgba(255,255,255,.14); border: 1px solid rgba(255,255,255,.3); border-radius: 12px; backdrop-filter: blur(8px); }
+  .gl .board { display: flex; gap: 14px; }
+  .gl .col { flex: 1; background: rgba(255,255,255,.08); border: 1px solid rgba(255,255,255,.18); border-radius: 18px;
+    backdrop-filter: blur(14px); padding: 14px; min-height: 300px; }
+  .gl .colhead { font-size: 12px; font-weight: 650; letter-spacing: .8px; text-transform: uppercase; color: #cdd8f5; margin-bottom: 12px; display: flex; justify-content: space-between; }
+  .gl .card { background: rgba(255,255,255,.1); border: 1px solid rgba(255,255,255,.16); border-radius: 12px; padding: 10px 12px; margin-bottom: 10px; }
+  .gl .card .code { font-weight: 700; font-size: 13.5px; }
+  .gl .card .title { font-size: 11px; color: #b9c6e8; margin-top: 2px; }
+  .gl .card.ok { border-left: 3px solid #43e5b3; }
+  .gl .card.err { border-left: 3px solid #ff7d9c; background: rgba(255,125,156,.12); }
+  .gl .card.err .msg { color: #ffb3c4; font-size: 10.5px; margin-top: 4px; }
+  .gl .card.ghost { border-style: dashed; opacity: .65; }
+  .gl .add { width: 100%; padding: 8px; font-size: 12px; color: #9fb0d8; background: none; border: 1px dashed rgba(255,255,255,.3); border-radius: 10px; cursor: pointer; }
+</style>
+</head>
+<body>
+  <div class="intro">
+    <h1>Semester planner · 6 style directions</h1>
+    <p>Same content in every frame: 4 semesters, valid/invalid prereq states, autopilot ghost suggestions. Pick a lane (or mix: one style's structure, another's accents).</p>
+  </div>
+
+  <!-- 1 BAUHAUS -->
+  <section>
+    <div class="style-label">1 · Bauhaus</div>
+    <div class="style-note">Primary colors, hard geometry, zero decoration. Function as form — feels like a printed degree chart from the Dessau print shop.</div>
+    <div class="frame bh">
+      <div class="top">
+        <h2><span class="dot"></span>Flight Plan</h2>
+        <div class="goal">CS ScB → <b>Spring '28</b></div>
+        <button class="auto">Autopilot</button>
+      </div>
+      <div class="board">
+        <div class="col">
+          <div class="colhead"><span>Spring '26</span><span>3/4</span></div>
+          <div class="card ok"><div class="code">CSCI 0200</div><div class="title">Program Design with Data Structures</div></div>
+          <div class="card ok"><div class="code">MATH 0520</div><div class="title">Linear Algebra</div></div>
+          <div class="add">+ Course</div>
+        </div>
+        <div class="col">
+          <div class="colhead"><span>Fall '26</span><span>4/4</span></div>
+          <div class="card ok"><div class="code">CSCI 0300</div><div class="title">Fundamentals of Computer Systems</div></div>
+          <div class="card err"><div class="code">CSCI 1470</div><div class="title">Deep Learning</div><div class="msg">Needs CSCI 1410 first</div></div>
+          <div class="add">+ Course</div>
+        </div>
+        <div class="col">
+          <div class="colhead"><span>Spring '27</span><span>2/4</span></div>
+          <div class="card ok"><div class="code">CSCI 1410</div><div class="title">Artificial Intelligence</div></div>
+          <div class="add">+ Course</div>
+        </div>
+        <div class="col">
+          <div class="colhead"><span>Fall '27</span><span>auto</span></div>
+          <div class="card ghost"><div class="code">CSCI 1660</div><div class="title">Computer Systems Security</div></div>
+          <div class="card ghost"><div class="code">CSCI 1230</div><div class="title">Computer Graphics</div></div>
+          <div class="add">+ Course</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 2 SKEUOMORPHISM -->
+  <section>
+    <div class="style-label">2 · Skeuomorphism</div>
+    <div class="style-note">A corkboard-and-index-cards metaphor: lined paper columns, taped cards, handwriting. Warm and tactile — planning as a desk ritual.</div>
+    <div class="frame sk">
+      <div class="top">
+        <h2>📌 My Course Board</h2>
+        <button class="auto">✨ Fill it in for me</button>
+      </div>
+      <div class="board">
+        <div class="col">
+          <div class="colhead">Spring '26</div>
+          <div class="card ok"><div class="code">CSCI 0200</div><div class="title">Data Structures</div></div>
+          <div class="card ok"><div class="code">MATH 0520</div><div class="title">Linear Algebra</div></div>
+          <div class="add">+ pin a course</div>
+        </div>
+        <div class="col">
+          <div class="colhead">Fall '26</div>
+          <div class="card ok"><div class="code">CSCI 0300</div><div class="title">Computer Systems</div></div>
+          <div class="card err"><div class="code">CSCI 1470</div><div class="title">Deep Learning</div><div class="msg">needs AI first! move it →</div></div>
+          <div class="add">+ pin a course</div>
+        </div>
+        <div class="col">
+          <div class="colhead">Spring '27</div>
+          <div class="card ok"><div class="code">CSCI 1410</div><div class="title">Artificial Intelligence</div></div>
+          <div class="add">+ pin a course</div>
+        </div>
+        <div class="col">
+          <div class="colhead">Fall '27</div>
+          <div class="card ghost"><div class="code">CSCI 1660</div><div class="title">Security (suggested)</div></div>
+          <div class="add">+ pin a course</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 3 SWISS -->
+  <section>
+    <div class="style-label">3 · Swiss / International Typographic</div>
+    <div class="style-note">Helvetica, a strict grid, one red accent. No boxes around anything that doesn't need one. The "Vignelli subway map" of planners.</div>
+    <div class="frame sw">
+      <div class="top">
+        <h2>Plan</h2>
+        <div class="goal">Computer Science ScB — <b>Spring 2028</b></div>
+        <button class="auto">Autopilot</button>
+      </div>
+      <div class="board">
+        <div class="col">
+          <div class="colhead"><span>Spring 26</span><span class="n">3/4</span></div>
+          <div class="card ok"><div class="code">CSCI 0200</div><div class="title">Program Design with Data Structures and Algorithms</div><div class="meta">Core · prereqs met</div></div>
+          <div class="card ok"><div class="code">MATH 0520</div><div class="title">Linear Algebra</div><div class="meta">Math req</div></div>
+          <div class="add">+ Add</div>
+        </div>
+        <div class="col">
+          <div class="colhead"><span>Fall 26</span><span class="n">4/4</span></div>
+          <div class="card ok"><div class="code">CSCI 0300</div><div class="title">Fundamentals of Computer Systems</div><div class="meta">Systems</div></div>
+          <div class="card err"><div class="code">CSCI 1470</div><div class="title">Deep Learning</div><div class="msg">Prerequisite CSCI 1410 is scheduled later</div></div>
+          <div class="add">+ Add</div>
+        </div>
+        <div class="col">
+          <div class="colhead"><span>Spring 27</span><span class="n">2/4</span></div>
+          <div class="card ok"><div class="code">CSCI 1410</div><div class="title">Artificial Intelligence</div><div class="meta">Elective</div></div>
+          <div class="add">+ Add</div>
+        </div>
+        <div class="col">
+          <div class="colhead"><span>Fall 27</span><span class="n">Auto</span></div>
+          <div class="card ghost"><div class="code">CSCI 1660</div><div class="title">Computer Systems Security</div><div class="meta">Suggested</div></div>
+          <div class="card ghost"><div class="code">CSCI 1230</div><div class="title">Introduction to Computer Graphics</div><div class="meta">Suggested</div></div>
+          <div class="add">+ Add</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 4 NEO-BRUTALISM -->
+  <section>
+    <div class="style-label">4 · Neo-brutalism</div>
+    <div class="style-note">Thick borders, hard offset shadows, loud stickers. The Gen-Z Figma-poster look — energetic, meme-able, screenshots well.</div>
+    <div class="frame nb">
+      <div class="top">
+        <h2>FLIGHT PLAN 🐻</h2>
+        <div class="goal">CS ScB by <b>SPRING '28</b></div>
+        <button class="auto">✨ AUTOPILOT</button>
+      </div>
+      <div class="board">
+        <div class="col">
+          <div class="colhead"><span>SPR '26</span><span>3/4</span></div>
+          <div class="card"><div class="code">CSCI 0200</div><div class="title">Data Structures & Algorithms</div><span class="tag">CORE ✓</span></div>
+          <div class="card"><div class="code">MATH 0520</div><div class="title">Linear Algebra</div><span class="tag">MATH ✓</span></div>
+          <button class="add">+ ADD</button>
+        </div>
+        <div class="col">
+          <div class="colhead"><span>FALL '26</span><span>4/4</span></div>
+          <div class="card"><div class="code">CSCI 0300</div><div class="title">Computer Systems</div><span class="tag">SYSTEMS ✓</span></div>
+          <div class="card err"><div class="code">CSCI 1470</div><div class="title">Deep Learning</div><span class="tag">BLOCKED</span><div class="msg">NEEDS CSCI 1410 FIRST!!</div></div>
+          <button class="add">+ ADD</button>
+        </div>
+        <div class="col">
+          <div class="colhead"><span>SPR '27</span><span>⚠ 2/4</span></div>
+          <div class="card"><div class="code">CSCI 1410</div><div class="title">Artificial Intelligence</div><span class="tag">ELECTIVE ✓</span></div>
+          <button class="add">+ ADD</button>
+        </div>
+        <div class="col">
+          <div class="colhead"><span>FALL '27</span><span>AUTO</span></div>
+          <div class="card ghost"><div class="code">CSCI 1660</div><div class="title">Security</div><span class="tag">SUGGESTED</span></div>
+          <div class="card ghost"><div class="code">CSCI 1230</div><div class="title">Graphics</div><span class="tag">SUGGESTED</span></div>
+          <button class="add">+ ADD</button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 5 TERMINAL -->
+  <section>
+    <div class="style-label">5 · Terminal / Hacker</div>
+    <div class="style-note">Monospace, green phosphor, statuses as glyphs (✓ ✗ ?). Peak CS-student energy; niche but beloved by the target demographic.</div>
+    <div class="frame tm">
+      <div class="top">
+        <span class="prompt">bruno@brown</span><span class="dim">:~$</span> <h2>plan --goal cs-scb --by 2028S</h2> <span class="cursor"></span><br/>
+        <span class="dim"># 12/16 requirements satisfiable · 1 conflict detected</span>
+      </div>
+      <div class="board">
+        <div class="col">
+          <div class="colhead"><span>2026S</span><span>3/4</span></div>
+          <div class="card ok"><div class="code">CSCI 0200</div><div class="title">program design w/ data structures</div></div>
+          <div class="card ok"><div class="code">MATH 0520</div><div class="title">linear algebra</div></div>
+          <div class="add">add course</div>
+        </div>
+        <div class="col">
+          <div class="colhead"><span>2026F</span><span>4/4</span></div>
+          <div class="card ok"><div class="code">CSCI 0300</div><div class="title">fundamentals of computer systems</div></div>
+          <div class="card err"><div class="code">CSCI 1470</div><div class="title">deep learning</div><div class="msg">E: dep CSCI-1410 scheduled later (2027S)</div></div>
+          <div class="add">add course</div>
+        </div>
+        <div class="col">
+          <div class="colhead"><span>2027S</span><span>2/4</span></div>
+          <div class="card ok"><div class="code">CSCI 1410</div><div class="title">artificial intelligence</div></div>
+          <div class="add">add course</div>
+        </div>
+        <div class="col">
+          <div class="colhead"><span>2027F</span><span>auto</span></div>
+          <div class="card ghost"><div class="code">CSCI 1660</div><div class="title">computer systems security</div></div>
+          <div class="card ghost"><div class="code">CSCI 1230</div><div class="title">intro to computer graphics</div></div>
+          <div class="add">add course</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 6 GLASSMORPHISM -->
+  <section>
+    <div class="style-label">6 · Glassmorphism Aurora</div>
+    <div class="style-note">Frosted panels over aurora gradients. Closest cousin to the current galaxy aesthetic — the site would feel like one continuous universe.</div>
+    <div class="frame gl">
+      <div class="inner">
+        <div class="top">
+          <h2>🐻 Flight plan</h2>
+          <button class="auto">✨ Autopilot</button>
+        </div>
+        <div class="board">
+          <div class="col">
+            <div class="colhead"><span>Spring '26</span><span>3/4</span></div>
+            <div class="card ok"><div class="code">CSCI 0200</div><div class="title">Program Design with Data Structures</div></div>
+            <div class="card ok"><div class="code">MATH 0520</div><div class="title">Linear Algebra</div></div>
+            <button class="add">+ add course</button>
+          </div>
+          <div class="col">
+            <div class="colhead"><span>Fall '26</span><span>4/4</span></div>
+            <div class="card ok"><div class="code">CSCI 0300</div><div class="title">Fundamentals of Computer Systems</div></div>
+            <div class="card err"><div class="code">CSCI 1470</div><div class="title">Deep Learning</div><div class="msg">needs CSCI 1410 — scheduled after</div></div>
+            <button class="add">+ add course</button>
+          </div>
+          <div class="col">
+            <div class="colhead"><span>Spring '27</span><span>2/4</span></div>
+            <div class="card ok"><div class="code">CSCI 1410</div><div class="title">Artificial Intelligence</div></div>
+            <button class="add">+ add course</button>
+          </div>
+          <div class="col">
+            <div class="colhead"><span>Fall '27</span><span>auto ✨</span></div>
+            <div class="card ghost"><div class="code">CSCI 1660</div><div class="title">Computer Systems Security</div></div>
+            <div class="card ghost"><div class="code">CSCI 1230</div><div class="title">Intro to Computer Graphics</div></div>
+            <button class="add">+ add course</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</body>
+</html>
