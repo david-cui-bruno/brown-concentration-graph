@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Mockup · Semester Planner</title>
+<style>
+  * { box-sizing: border-box; margin: 0; }
+  body {
+    font-family: system-ui, sans-serif;
+    background: radial-gradient(ellipse at 62% 10%, #120e2b 0%, #0a0a20 40%, #050510 72%, #010208 100%);
+    color: #d5dbe3;
+    min-height: 100vh;
+    padding: 24px;
+  }
+  .topbar { display: flex; align-items: center; gap: 14px; margin-bottom: 22px; flex-wrap: wrap; }
+  .topbar h1 { font-size: 19px; color: #e8ecf5; margin-right: auto; }
+  .pill {
+    padding: 8px 16px; border-radius: 9px; border: 1px solid #2b2d52;
+    background: rgba(13,14,32,.92); color: #9aa4b2; font-size: 13px; cursor: pointer;
+  }
+  .pill.primary { background: #2b5c9e; color: #fff; border-color: #2b5c9e; font-weight: 600; }
+  .pill.autopilot {
+    background: linear-gradient(90deg, #4f2d8e, #2b5c9e); color: #fff; border: none; font-weight: 600;
+  }
+  .goal {
+    display: flex; gap: 8px; align-items: center; font-size: 13px; color: #8a93a3;
+    background: rgba(13,14,32,.92); border: 1px solid #2b2d52; border-radius: 9px; padding: 7px 14px;
+  }
+  .goal b { color: #e8c47a; }
+  .board { display: flex; gap: 14px; overflow-x: auto; padding-bottom: 18px; }
+  .col {
+    min-width: 235px; max-width: 235px; background: rgba(13,14,32,.85);
+    border: 1px solid #232448; border-radius: 14px; padding: 12px;
+  }
+  .col.past { opacity: .65; }
+  .col h3 { font-size: 13px; text-transform: uppercase; letter-spacing: .6px; color: #7b8494; display: flex; justify-content: space-between; }
+  .col h3 .load { color: #545b74; font-weight: 400; }
+  .col h3 .load.warn { color: #e08a8a; }
+  .card {
+    margin-top: 9px; background: #14162f; border: 1px solid #2b2d52; border-radius: 10px;
+    padding: 10px 12px; cursor: grab; position: relative;
+  }
+  .card:hover { border-color: #39496b; }
+  .card .code { font-weight: 700; font-size: 13.5px; color: #e8ecf5; }
+  .card .title { font-size: 11.5px; color: #8a93a3; margin-top: 2px; line-height: 1.35; }
+  .card .tags { display: flex; gap: 5px; margin-top: 7px; flex-wrap: wrap; }
+  .tag { font-size: 10px; padding: 2px 7px; border-radius: 5px; background: #1a1c3a; color: #9aa4b2; }
+  .tag.conc { color: #e8c47a; }
+  .card.ok { border-left: 3px solid #6fe3c1; }
+  .card.taken { border-left: 3px solid #6fe3c1; opacity: .75; }
+  .card.err { border-left: 3px solid #ff8f8f; border-color: #6b2f3a; }
+  .err-msg { font-size: 10.5px; color: #ff9d9d; margin-top: 6px; }
+  .ok-dot { position: absolute; top: 10px; right: 10px; font-size: 11px; }
+  .add {
+    margin-top: 9px; width: 100%; padding: 8px 0; border-radius: 10px; font-size: 13px;
+    border: 1px dashed #2b2d52; background: none; color: #545b74; cursor: pointer;
+  }
+  .add:hover { color: #8fb4e8; border-color: #39496b; }
+  .ghost { border-style: dashed; opacity: .55; background: #101228; }
+  .ghost .code { color: #8fb4e8; }
+  .footer-note { font-size: 11.5px; color: #545b74; margin-top: 10px; }
+  .galaxy-strip {
+    margin-top: 26px; border: 1px solid #232448; border-radius: 14px;
+    background: rgba(13,14,32,.85); padding: 14px 18px; display: flex; align-items: center; gap: 16px;
+  }
+  .galaxy-strip .stars { font-size: 22px; letter-spacing: 6px; }
+  .galaxy-strip .txt { font-size: 12.5px; color: #8a93a3; line-height: 1.5; }
+  .galaxy-strip .txt b { color: #d5dbe3; }
+</style>
+</head>
+<body>
+  <div class="topbar">
+    <h1>🐻 My flight plan</h1>
+    <div class="goal">Goal: <b>Computer Science ScB</b> by <b>Spring '28</b> · max 4/term <span style="cursor:pointer">✎</span></div>
+    <button class="pill autopilot">✨ Autopilot: fill remaining</button>
+    <button class="pill">Clear plan</button>
+    <button class="pill primary">Save</button>
+  </div>
+
+  <div class="board">
+    <div class="col past">
+      <h3>Fall '25 · taken <span class="load">4 courses</span></h3>
+      <div class="card taken"><span class="ok-dot">✓</span>
+        <div class="code">CSCI 0150</div><div class="title">Intro to Object-Oriented Programming</div>
+        <div class="tags"><span class="tag conc">CS ScB core</span></div>
+      </div>
+      <div class="card taken"><span class="ok-dot">✓</span>
+        <div class="code">MATH 0100</div><div class="title">Single Variable Calculus II</div>
+        <div class="tags"><span class="tag conc">CS ScB prereq</span></div>
+      </div>
+      <div class="card taken"><span class="ok-dot">✓</span>
+        <div class="code">ENGL 0900</div><div class="title">Critical Reading and Writing</div>
+        <div class="tags"><span class="tag">elective</span></div>
+      </div>
+    </div>
+
+    <div class="col">
+      <h3>Spring '26 <span class="load">3 / 4</span></h3>
+      <div class="card ok"><span class="ok-dot">✓</span>
+        <div class="code">CSCI 0200</div><div class="title">Program Design with Data Structures</div>
+        <div class="tags"><span class="tag conc">CS ScB core</span><span class="tag">needs 0150 ✓</span></div>
+      </div>
+      <div class="card ok"><span class="ok-dot">✓</span>
+        <div class="code">MATH 0520</div><div class="title">Linear Algebra</div>
+        <div class="tags"><span class="tag conc">CS ScB math</span></div>
+      </div>
+      <div class="card ok"><span class="ok-dot">✓</span>
+        <div class="code">CSCI 0220</div><div class="title">Discrete Structures and Probability</div>
+        <div class="tags"><span class="tag conc">CS ScB math</span></div>
+      </div>
+      <button class="add">+ add course</button>
+    </div>
+
+    <div class="col">
+      <h3>Fall '26 <span class="load warn">5 / 4 ⚠</span></h3>
+      <div class="card ok"><span class="ok-dot">✓</span>
+        <div class="code">CSCI 0300</div><div class="title">Fundamentals of Computer Systems</div>
+        <div class="tags"><span class="tag conc">CS ScB systems</span><span class="tag">needs 0200 ✓</span></div>
+      </div>
+      <div class="card err">
+        <div class="code">CSCI 1470</div><div class="title">Deep Learning</div>
+        <div class="err-msg">⚠ needs CSCI 1410 — scheduled after (Spring '27)</div>
+        <div class="tags"><span class="tag">elective</span></div>
+      </div>
+      <div class="card ok"><span class="ok-dot">✓</span>
+        <div class="code">CSCI 0500</div><div class="title">Data Structures, Algorithms & Intractability</div>
+        <div class="tags"><span class="tag conc">CS ScB foundations</span></div>
+      </div>
+      <div class="card ok"><span class="ok-dot">✓</span>
+        <div class="code">APMA 1650</div><div class="title">Statistical Inference I</div>
+        <div class="tags"><span class="tag">elective</span></div>
+      </div>
+      <div class="card ok"><span class="ok-dot">✓</span>
+        <div class="code">HIST 0150</div><div class="title">History of Capitalism</div>
+        <div class="tags"><span class="tag">elective</span></div>
+      </div>
+      <button class="add">+ add course</button>
+    </div>
+
+    <div class="col">
+      <h3>Spring '27 <span class="load">2 / 4</span></h3>
+      <div class="card ok"><span class="ok-dot">✓</span>
+        <div class="code">CSCI 1410</div><div class="title">Artificial Intelligence</div>
+        <div class="tags"><span class="tag conc">CS ScB elective</span><span class="tag">needs 0200 ✓ · 0220 ✓</span></div>
+      </div>
+      <div class="card ok"><span class="ok-dot">✓</span>
+        <div class="code">CSCI 0410</div><div class="title">Foundations of AI</div>
+        <div class="tags"><span class="tag conc">CS ScB foundations</span></div>
+      </div>
+      <button class="add">+ add course</button>
+    </div>
+
+    <div class="col">
+      <h3>Fall '27 <span class="load">autopilot ✨</span></h3>
+      <div class="card ghost">
+        <div class="code">CSCI 1660</div><div class="title">Computer Systems Security</div>
+        <div class="tags"><span class="tag conc">CS ScB elective</span><span class="tag">suggested</span></div>
+      </div>
+      <div class="card ghost">
+        <div class="code">CSCI 1230</div><div class="title">Introduction to Computer Graphics</div>
+        <div class="tags"><span class="tag conc">CS ScB elective</span><span class="tag">suggested</span></div>
+      </div>
+      <button class="add">+ add course</button>
+    </div>
+
+    <div class="col">
+      <h3>Spring '28 <span class="load">autopilot ✨</span></h3>
+      <div class="card ghost">
+        <div class="code">CSCI 1970</div><div class="title">Individual Independent Study</div>
+        <div class="tags"><span class="tag conc">CS ScB capstone</span><span class="tag">suggested</span></div>
+      </div>
+      <button class="add">+ add course</button>
+      <div class="footer-note">🎓 CS ScB complete: 16/16 requirements</div>
+    </div>
+  </div>
+
+  <div class="galaxy-strip">
+    <div class="stars">🐻 ✦ ·˚ ✦</div>
+    <div class="txt">
+      <b>From the galaxy:</b> clicking a star shows an <b>“+ Add to plan”</b> button — it drops the course into
+      your earliest valid semester here. The galaxy is for exploring; this board is where the plan takes shape.
+      Ghost cards are <b>autopilot suggestions</b> — accept, swap, or drag them anywhere.
+    </div>
+  </div>
+</body>
+</html>
