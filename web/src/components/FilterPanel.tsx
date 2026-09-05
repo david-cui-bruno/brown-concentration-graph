@@ -62,7 +62,7 @@ export function FilterPanel({
   };
 
   return (
-    <div style={card}>
+    <div className="panel-filter" style={card}>
       <div
         onClick={() => setOpen(!open)}
         style={{ padding: "10px 14px", cursor: "pointer", display: "flex", justifyContent: "space-between", fontWeight: 600 }}

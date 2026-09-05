@@ -31,6 +31,7 @@ export function TakenPanel({ graph, plan }: { graph: Graph; plan: PlanState }) {
 
   return (
     <div
+      className="panel-taken"
       style={{
         position: "absolute",
         bottom: 32,

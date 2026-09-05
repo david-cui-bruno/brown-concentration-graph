@@ -52,7 +52,7 @@ export function SearchBox({
   }, [q, index]);
 
   return (
-    <div style={box}>
+    <div className="panel-search" style={box}>
       <input
         value={q}
         onChange={(e) => setQ(e.target.value)}

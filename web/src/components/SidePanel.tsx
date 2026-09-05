@@ -88,6 +88,7 @@ export function SidePanel({
 
   return (
     <div
+      className="panel-side"
       style={{
         position: "absolute",
         top: 12,

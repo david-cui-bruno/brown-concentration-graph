@@ -40,3 +40,33 @@ a {
     color-scheme: dark;
   }
 }
+
+/* ---- mobile layout ---- */
+@media (max-width: 640px) {
+  .panel-search {
+    width: calc(100vw - 24px) !important;
+  }
+  .layout-toggle {
+    top: 62px !important;
+    right: 12px !important;
+  }
+  .panel-filter {
+    top: 62px !important;
+    left: 12px !important;
+    width: auto !important;
+    max-width: calc(100vw - 130px);
+  }
+  .panel-side {
+    top: auto !important;
+    bottom: 0 !important;
+    right: 0 !important;
+    left: 0 !important;
+    width: 100vw !important;
+    max-height: 62vh !important;
+    border-radius: 16px 16px 0 0 !important;
+  }
+  .panel-taken {
+    bottom: 12px !important;
+    width: calc(100vw - 24px) !important;
+  }
+}

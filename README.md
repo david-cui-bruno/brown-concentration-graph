@@ -1,52 +1,78 @@
-# Brown Concentration Graph
+# Brown Course Constellations
 
-Interactive map of Brown University undergraduate concentrations, their
-requirement structures, and official course prerequisites.
+An interactive 3D galaxy of Brown University's undergraduate curriculum: every
+course is a star, prerequisites form constellation lines, and concentrations
+anchor the clusters that feed them.
+
+**Live**: <https://brown-concentration-graph.vercel.app>
+
+![Brown Course Constellations](docs/screenshot.png)
 
 **Unofficial student project.** Always confirm requirements against the
 [Brown Bulletin](https://bulletin.brown.edu) and your concentration advisor.
 
-## What it shows
+## Features
 
-- ~2,000 courses and 168 concentration requirement tables from the 2026-27 bulletin
-- Official prerequisites from [Courses@Brown](https://cab.brown.edu) (registration restrictions)
-- Search any course: its prereq chain, what it unlocks, which concentrations it counts toward
-- Click a concentration: isolate its requirement tree
-- "My courses": mark courses taken, see what's unlocked and per-concentration progress
+- **3D galaxy map** (react-force-graph-3d + three.js): 2,186 courses in
+  cosmic-palette department clusters, with a 4-layer starfield and bloom glow.
+  Two layouts: **Galaxy** (pure force, default) and **Orbit** (courses circle
+  the concentrations they feed; height = prerequisite depth).
+- **Click any star**: full course description, official prerequisite text,
+  live seat-demand bar, what it unlocks, and which of the 168 concentration
+  tracks it counts toward.
+- **Focus mode**: selecting a course or concentration collapses the sky to its
+  prerequisite constellation / requirement tree with animated chain particles.
+- **Telescope filters**: department, course level, unconnected stars.
+- **My star chart**: mark courses taken or planned. Guests get localStorage;
+  signing in with a **Brown Google account** syncs plans to Postgres (and
+  migrates any local data).
+- **Dashboard** (`/me`): per-concentration progress bars (taken vs. planned),
+  plus every course your completed classes unlock.
 
-## Structure
+## Architecture
 
-- `pipeline/` — TypeScript scrapers and graph builder
-  - `scrape-index.ts` → `data/concentrations.json`
-  - `scrape-all.ts` → `data/parsed/*.json` (requirement trees) + review flags
-  - `scrape-prereqs.ts` → `data/prereq-text.json` (CAB, via headless browser)
-  - `export-json.ts` → `web/public/graph.json` (with ForceAtlas2 layout baked in)
-  - `load-neo4j.ts` → optional Neo4j AuraDB load (see `.env.example`)
-- `web/` — Next.js + Sigma.js site, fully static, no runtime DB
-- `docs/superpowers/` — design spec and implementation plan
-
-## Rebuilding the data
-
-```bash
-cd pipeline
-npx tsx src/scrape-index.ts
-npx tsx src/scrape-all.ts
-npx tsx src/scrape-prereqs.ts   # ~25 min, cached and resumable
-npx tsx src/export-json.ts
+```
+pipeline/   TypeScript scrapers + graph builder (runs locally / CI)
+  scrape-index.ts     bulletin concentration list
+  scrape-all.ts       requirement tables -> ALL / CHOOSE_N / SERIES trees
+  scrape-prereqs.ts   official prereq text from Courses@Brown (headless)
+  scrape-details.ts   descriptions + seat capacity/availability
+  export-json.ts      graph assembly, sanity checks, palette
+  layouts-3d.ts       precomputed galaxy (d3-force-3d) + orbit layouts
+  load-neo4j.ts       optional Neo4j AuraDB load (Cypher exploration)
+web/        Next.js app on Vercel
+  static graph.json (no runtime DB for the map)
+  Auth.js v5: Google sign-in restricted to @brown.edu
+  Neon serverless Postgres: users + plan_courses
 ```
 
-## Known caveats
+## Data sources & caveats
 
-- Only **official** prerequisites are modeled. Recommended prep is excluded by design.
-- AP/IB score alternatives and permission-based requirements can't be edges;
-  those texts are flagged in `data/review/` and shown verbatim in the UI.
-- Courses not offered since ~2023 have no CAB entry and show no prereqs.
-- Prose-heavy concentration pages (e.g. Music) have partial coverage; unparsed
-  rows are listed in `data/review/needs-review.json`.
+- Concentration requirements: [Brown Bulletin](https://bulletin.brown.edu)
+  (2026-27), 88 concentrations / 168 degree tracks parsed from CourseLeaf
+  tables. Unparseable prose rows are flagged in `data/review/`, never guessed.
+- Prerequisites: **official only**, from Courses@Brown registration
+  restrictions. AP/IB score alternatives and instructor-permission clauses are
+  shown verbatim but not modeled as edges.
+- Courses not offered since ~2023 have no CAB entry (no description/seats).
+- Seat data is a snapshot of the most recent offered term.
 
-## Tests
+## Development
 
 ```bash
+# data refresh (order matters; ~40 min total, cached + resumable)
+cd pipeline
+npx tsx src/scrape-index.ts && npx tsx src/scrape-all.ts
+npx tsx src/scrape-prereqs.ts && npx tsx src/scrape-details.ts
+npx tsx src/export-json.ts && npx tsx src/layouts-3d.ts
+
+# web
+cd web
+cp .env.example .env.local   # DATABASE_URL, AUTH_GOOGLE_ID/SECRET, AUTH_SECRET
+node scripts/migrate.mjs     # one-time schema
+npm run dev
+
+# tests
 cd pipeline && npx vitest run   # parsers, graph assembly
-cd web && npx vitest run        # graph lib, unlock logic
+cd web && npx vitest run        # graph lib, unlock/progress logic
 ```

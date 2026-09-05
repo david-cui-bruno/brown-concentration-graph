@@ -19,6 +19,7 @@ import { SearchBox } from "./SearchBox";
 import { SidePanel } from "./SidePanel";
 import { TakenPanel } from "./TakenPanel";
 import { FilterPanel, type Filters, DEFAULT_FILTERS } from "./FilterPanel";
+import { Onboarding } from "./Onboarding";
 
 const ForceGraph3D = dynamic(() => import("./FG3D"), { ssr: false });
 
@@ -326,8 +327,9 @@ export default function GraphView3D() {
           {hovered.label}
         </div>
       )}
+      <Onboarding />
       <SearchBox graph={graph} onSelect={handleSelect} dark />
-      <div style={{ position: "absolute", top: 12, right: selected ? 372 : 12, display: "flex", gap: 6, zIndex: 20, fontFamily: "system-ui", fontSize: 12 }}>
+      <div className="layout-toggle" style={{ position: "absolute", top: 12, right: selected ? 372 : 12, display: "flex", gap: 6, zIndex: 20, fontFamily: "system-ui", fontSize: 12 }}>
         {(["orbit", "force"] as const).map((l) => (
           <button
             key={l}
