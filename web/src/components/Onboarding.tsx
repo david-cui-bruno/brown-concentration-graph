@@ -43,12 +43,12 @@ export function Onboarding() {
           boxShadow: "0 20px 60px rgba(0,0,0,.5)",
         }}
       >
-        <h2 style={{ margin: 0, fontSize: 19 }}>Welcome to the Brown course galaxy ✨</h2>
+        <h2 style={{ margin: 0, fontSize: 19 }}>The Brown course galaxy 🐻</h2>
         <div style={{ marginTop: 14, fontSize: 14, lineHeight: 1.7, color: "#aeb6c2" }}>
-          <div>🌀 <b style={{ color: "#d5dbe3" }}>Drag</b> to orbit · <b style={{ color: "#d5dbe3" }}>scroll</b> to zoom</div>
-          <div>⭐ <b style={{ color: "#d5dbe3" }}>Click a star</b> for its description, prereqs, and seat demand</div>
-          <div>🪐 <b style={{ color: "#d5dbe3" }}>Click a gold star</b> to isolate a concentration&apos;s requirements</div>
-          <div>📝 Mark courses <b style={{ color: "#6fe3c1" }}>taken</b> or <b style={{ color: "#e8c47a" }}>planned</b> — sign in with Brown Google to sync</div>
+          <div>🐻 <b style={{ color: "#d5dbe3" }}>Drag</b> to orbit, <b style={{ color: "#d5dbe3" }}>scroll</b> to zoom</div>
+          <div>🐻 <b style={{ color: "#d5dbe3" }}>Click a star</b>: course info + prereqs</div>
+          <div>🐻 <b style={{ color: "#d5dbe3" }}>Gold stars</b>: concentrations</div>
+          <div>🐻 Mark <b style={{ color: "#6fe3c1" }}>taken</b> / <b style={{ color: "#e8c47a" }}>planned</b>, sign in to sync</div>
         </div>
         <button
           onClick={dismiss}

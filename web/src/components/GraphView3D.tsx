@@ -216,10 +216,58 @@ export default function GraphView3D() {
         const mat = new THREE.PointsMaterial({ color, size, transparent: true, opacity, sizeAttenuation: true, depthWrite: false });
         return new THREE.Points(geo, mat);
       };
-      scene.add(makeStars(3200, 4200, 2.2, 0xdde4f5, 0.8));
-      scene.add(makeStars(2000, 3200, 1.3, 0x93a5e0, 0.6));
-      scene.add(makeStars(300, 2400, 3.4, 0xf0e2bc, 0.65));
-      scene.add(makeStars(160, 2000, 2.8, 0xc490d8, 0.5));
+      // Ambient depth stars.
+      scene.add(makeStars(1600, 4200, 2.0, 0xdde4f5, 0.65));
+      scene.add(makeStars(1000, 3200, 1.2, 0x93a5e0, 0.5));
+      scene.add(makeStars(140, 2000, 2.6, 0xc490d8, 0.4));
+      // Bruno: a bear-head constellation watching over the galaxy.
+      const makeBear = () => {
+        const inCircle = (x: number, y: number, cx: number, cy: number, r: number) =>
+          (x - cx) ** 2 + (y - cy) ** 2 <= r * r;
+        const inBear = (x: number, y: number) => {
+          const body =
+            inCircle(x, y, 0, 0, 1.0) || // head
+            inCircle(x, y, -0.78, 0.82, 0.42) || // left ear
+            inCircle(x, y, 0.78, 0.82, 0.42); // right ear
+          if (!body) return false;
+          // holes: eyes, inner ears, nose
+          if (inCircle(x, y, -0.38, 0.18, 0.13)) return false;
+          if (inCircle(x, y, 0.38, 0.18, 0.13)) return false;
+          if (inCircle(x, y, -0.78, 0.85, 0.18)) return false;
+          if (inCircle(x, y, 0.78, 0.85, 0.18)) return false;
+          if (inCircle(x, y, 0, -0.32, 0.2)) return false;
+          return true;
+        };
+        const N = 2600;
+        const pos = new Float32Array(N * 3);
+        let i = 0;
+        while (i < N) {
+          const x = (Math.random() - 0.5) * 3.2;
+          const y = (Math.random() - 0.5) * 3.0 + 0.2;
+          if (!inBear(x, y)) continue;
+          const SCALE = 620;
+          pos[i * 3] = x * SCALE;
+          pos[i * 3 + 1] = y * SCALE;
+          pos[i * 3 + 2] = (Math.random() - 0.5) * 90; // slight depth
+          i++;
+        }
+        const geo = new THREE.BufferGeometry();
+        geo.setAttribute("position", new THREE.BufferAttribute(pos, 3));
+        const mat = new THREE.PointsMaterial({
+          color: 0xf0dcb4,
+          size: 2.6,
+          transparent: true,
+          opacity: 0.75,
+          sizeAttenuation: true,
+          depthWrite: false,
+        });
+        const bear = new THREE.Points(geo, mat);
+        // High above the galaxy's far side, face-on to the default camera.
+        bear.position.set(-620, 900, -620);
+        bear.lookAt(980, 1150, 980);
+        return bear;
+      };
+      scene.add(makeBear());
       // Soft bloom so nodes glow like stars.
       try {
         const { UnrealBloomPass } = await import("three/examples/jsm/postprocessing/UnrealBloomPass.js");
